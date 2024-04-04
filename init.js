@@ -10,7 +10,7 @@ const path = require('path');
 // ------------------------------------------------------------------------------------------- 以下内容需要自己替换
 const subSiteAuthor = 'Nova';
 const subSiteKeywords = `` + ','; // 关键字，多个关键字用逗号分隔
-const indexNowKey = 'ec9c9516ea82433086d979e16e1960e0'; // 替换为你的API密钥
+const indexNowKey = '65d93b0f9037462a9e31c1b83c4bed42'; // 替换为你的API密钥
 
 
 
