@@ -1,7 +1,7 @@
 ---
 title: Why does the pokemon go battle league not available On Samsung Galaxy S23 Ultra | Dr.fone
-date: 2024-04-12T02:51:02.607Z
-updated: 2024-04-13T02:51:02.607Z
+date: 2024-04-30T05:46:55.508Z
+updated: 2024-05-01T05:46:55.508Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -375,3 +375,4 @@ Now when you know how to make new friends in Pokemon Go, you can easily expand y
 <li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-nokia-c12-prowithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Nokia C12 Prowith/without a PC</u></a></li>
 <li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-vivo-s17-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Vivo S17 by Name | Dr.fone</u></a></li>
 </ul></div>
+

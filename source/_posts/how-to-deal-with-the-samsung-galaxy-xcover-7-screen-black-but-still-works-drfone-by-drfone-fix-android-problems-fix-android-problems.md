@@ -495,3 +495,4 @@ Samsung Galaxy XCover 7 Screen unresponsiveness can be a frustrating issue to de
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+

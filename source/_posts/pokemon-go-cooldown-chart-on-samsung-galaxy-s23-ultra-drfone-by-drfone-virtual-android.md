@@ -1,7 +1,7 @@
 ---
 title: Pokémon Go Cooldown Chart On Samsung Galaxy S23 Ultra | Dr.fone
-date: 2024-04-12T02:51:02.778Z
-updated: 2024-04-13T02:51:02.778Z
+date: 2024-04-30T05:46:55.509Z
+updated: 2024-05-01T05:46:55.509Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -665,3 +665,4 @@ Unlike most other location-faking apps, Dr.Fone - Virtual Location works without
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-reno-10-pro-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Reno 10 Pro 5G</u></a></li>
 <li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-note-30-vip-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Note 30 VIP fingerprint</u></a></li>
 </ul></div>
+

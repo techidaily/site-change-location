@@ -1,7 +1,7 @@
 ---
 title: How to get the dragon scale and evolution-enabled pokemon On Samsung Galaxy S23+? | Dr.fone
-date: 2024-04-12T02:50:44.844Z
-updated: 2024-04-13T02:50:44.844Z
+date: 2024-04-30T05:46:55.296Z
+updated: 2024-05-01T05:46:55.296Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -394,3 +394,4 @@ Playing Pokémon GO from the comfort of your home is what one wants, especially 
 <li><a href="https://ios-unlock.techidaily.com/locked-out-of-apple-iphone-12-pro-5-ways-to-get-into-a-locked-apple-iphone-12-pro-by-drfone-ios/"><u>Locked Out of Apple iPhone 12 Pro? 5 Ways to get into a Locked Apple iPhone 12 Pro</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-to-track-oppo-a78-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Oppo A78 by Phone Number | Dr.fone</u></a></li>
 </ul></div>
+

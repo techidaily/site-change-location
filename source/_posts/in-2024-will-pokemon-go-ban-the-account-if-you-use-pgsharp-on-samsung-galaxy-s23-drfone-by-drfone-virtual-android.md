@@ -1,7 +1,7 @@
 ---
 title: In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Samsung Galaxy S23 | Dr.fone
-date: 2024-04-12T02:50:35.480Z
-updated: 2024-04-13T02:50:35.480Z
+date: 2024-04-30T05:46:55.209Z
+updated: 2024-05-01T05:46:55.209Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -414,3 +414,4 @@ That’s a wrap, everyone! Now that you know about the Pokémon Go 100 IV maps t
 <li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-12-mini-passcode-screen-by-drfone-ios/"><u>How to Unlock iPhone 12 mini Passcode Screen?</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-itel-a60-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Itel A60</u></a></li>
 </ul></div>
+

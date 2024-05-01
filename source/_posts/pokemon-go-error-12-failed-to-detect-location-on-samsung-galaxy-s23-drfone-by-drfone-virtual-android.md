@@ -1,7 +1,7 @@
 ---
 title: Pokemon Go Error 12 Failed to Detect Location On Samsung Galaxy S23? | Dr.fone
-date: 2024-04-12T02:50:30.025Z
-updated: 2024-04-13T02:50:30.025Z
+date: 2024-04-30T05:46:55.129Z
+updated: 2024-05-01T05:46:55.129Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -456,3 +456,4 @@ Now that you know **how to hatch eggs in Pokemon Go without walking** in 9 diffe
 <li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-realme-c67-4g-screen-mirroring-app-drfone-by-drfone-android/" ><u>Overview of the Best Realme C67 4G Screen Mirroring App | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-poco-x6-pro-by-drfone-android/" ><u>How To Fix OEM Unlock Missing on Poco X6 Pro?</u></a></li>
 </ul></div>
+
