@@ -1,7 +1,7 @@
 ---
 title: Detailed guide of ispoofer for pogo installation On Samsung Galaxy A05s | Dr.fone
-date: 2024-04-30T05:53:35.289Z
-updated: 2024-05-01T05:53:35.289Z
+date: 2024-05-19T22:05:45.533Z
+updated: 2024-05-20T22:05:45.533Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -382,4 +382,5 @@ Now when you know how to make new friends in Pokemon Go, you can easily expand y
 <li><a href="https://bypass-frp.techidaily.com/top-5-tecno-camon-30-pro-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Tecno Camon 30 Pro 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/mastering-nikon-footage-a-step-by-step-video-editing-guide/"><u>Mastering Nikon Footage A Step-by-Step Video Editing Guide</u></a></li>
 </ul></div>
+
 

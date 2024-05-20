@@ -1,7 +1,7 @@
 ---
 title: Pokémon Go Cooldown Chart On Samsung Galaxy A25 5G | Dr.fone
-date: 2024-04-30T05:54:02.301Z
-updated: 2024-05-01T05:54:02.301Z
+date: 2024-05-19T22:05:47.694Z
+updated: 2024-05-20T22:05:47.694Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -352,4 +352,5 @@ Being a first timer, you may find it very complicated to fake your gps location.
 <li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-vivo-y27s-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Vivo Y27s via a USB Cable | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-iphone-11-pro-online-without-jailbreak-by-drfone-ios/"><u>How to Unlock SIM Card on iPhone 11 Pro online without jailbreak</u></a></li>
 </ul></div>
+
 

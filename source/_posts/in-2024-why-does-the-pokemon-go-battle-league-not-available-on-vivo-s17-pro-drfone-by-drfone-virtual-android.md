@@ -1,7 +1,7 @@
 ---
 title: In 2024, Why does the pokemon go battle league not available On Vivo S17 Pro | Dr.fone
-date: 2024-04-30T06:05:19.716Z
-updated: 2024-05-01T06:05:19.716Z
+date: 2024-05-19T22:06:31.459Z
+updated: 2024-05-20T22:06:31.459Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -383,4 +383,5 @@ When you need to, you can teleport your device to an area where Dratini is popul
 <li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-on-your-apple-iphone-12-pro-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled On your Apple iPhone 12 Pro? How to Fix</u></a></li>
 <li><a href="https://techidaily.com/how-to-reset-a-realme-v30t-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Realme V30T Phone That Is Locked | Dr.fone</u></a></li>
 </ul></div>
+
 

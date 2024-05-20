@@ -1,7 +1,7 @@
 ---
 title: Why does the pokemon go battle league not available On Samsung Galaxy S23 Tactical Edition | Dr.fone
-date: 2024-04-30T05:49:21.973Z
-updated: 2024-05-01T05:49:21.973Z
+date: 2024-05-19T22:05:29.289Z
+updated: 2024-05-20T22:05:29.289Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -420,4 +420,5 @@ The location will be locked by the program and your iPhone will also show the sa
 <li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-samsung-galaxy-a15-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Samsung Galaxy A15 5G to iPad Easily | Dr.fone</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-best-celebrity-voice-generator-tools-you-cannot-miss/"><u>New In 2024, Best Celebrity Voice Generator Tools You Cannot Miss</u></a></li>
 </ul></div>
+
 

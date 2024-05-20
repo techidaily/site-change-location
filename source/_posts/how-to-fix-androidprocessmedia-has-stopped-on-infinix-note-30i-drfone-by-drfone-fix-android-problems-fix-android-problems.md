@@ -500,3 +500,4 @@ To deal with an unresponsive screen, users can try restarting the Infinix Note 3
      data-full-width-responsive="true"></ins>
 
 
+

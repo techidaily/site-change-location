@@ -496,3 +496,4 @@ Lastly, you can still refer to Itel A70 for repairs. It remains the primary solu
      data-full-width-responsive="true"></ins>
 
 
+

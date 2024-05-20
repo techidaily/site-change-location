@@ -1,7 +1,7 @@
 ---
 title: In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Vivo Y100 | Dr.fone
-date: 2024-04-30T05:58:30.498Z
-updated: 2024-05-01T05:58:30.498Z
+date: 2024-05-19T22:06:04.992Z
+updated: 2024-05-20T22:06:04.992Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -501,4 +501,5 @@ That’s a wrap, everyone! Now that you know about the Pokémon Go 100 IV maps t
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-motorola-moto-g34-5g-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Motorola Moto G34 5G</u></a></li>
 <li><a href="https://howto.techidaily.com/authentication-error-occurred-on-oppo-f23-5g-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Oppo F23 5G? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
 </ul></div>
+
 

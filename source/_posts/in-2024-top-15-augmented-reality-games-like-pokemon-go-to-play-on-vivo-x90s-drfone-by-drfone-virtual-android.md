@@ -1,7 +1,7 @@
 ---
 title: In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Vivo X90S | Dr.fone
-date: 2024-04-30T06:06:17.678Z
-updated: 2024-05-01T06:06:17.678Z
+date: 2024-05-19T22:06:35.062Z
+updated: 2024-05-20T22:06:35.062Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -467,4 +467,5 @@ Specific Pokémon in Pokémon GO now call for rare evolution items such as a ste
 <li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Xiaomi Redmi Note 12 Pro 4G? | Dr.fone</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-top-10-free-video-translators-to-mitigate-translation-risks/"><u>Updated In 2024, Top 10 Free Video Translators to Mitigate Translation Risks</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Will Pokémon Go Ban the Account if You Use PGSharp On Vivo Y02T | Dr.fone
-date: 2024-04-30T06:03:49.786Z
-updated: 2024-05-01T06:03:49.786Z
+date: 2024-05-19T22:06:25.520Z
+updated: 2024-05-20T22:06:25.520Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -441,4 +441,5 @@ Pokemon PvP ranking may not be the ultimate priority of most Pokemon Go players 
 <li><a href="https://android-unlock.techidaily.com/in-2024-unlock-samsung-galaxy-s23-ultra-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Samsung Galaxy S23 Ultra Phone Password Without Factory Reset Full Guide Here</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-2022-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>In 2024, How To Unlock iPhone SE (2022) Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to use Pokemon Go Joystick on Vivo X Flip? | Dr.fone
-date: 2024-04-30T06:02:11.295Z
-updated: 2024-05-01T06:02:11.295Z
+date: 2024-05-19T22:06:19.108Z
+updated: 2024-05-20T22:06:19.108Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -426,4 +426,5 @@ Go-tcha Evolve is an application that allows you to set animations and vibration
 <li><a href="https://android-unlock.techidaily.com/a-complete-guide-to-oem-unlocking-on-lava-blaze-pro-5g-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Lava Blaze Pro 5G</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-what-is-an-ai-editor/"><u>New In 2024, What Is an AI Editor?</u></a></li>
 </ul></div>
+
 

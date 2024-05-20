@@ -1,7 +1,7 @@
 ---
 title: Reasons why Pokémon GPS does not Work On Samsung Galaxy S23 Tactical Edition? | Dr.fone
-date: 2024-04-30T05:49:23.332Z
-updated: 2024-05-01T05:49:23.332Z
+date: 2024-05-19T22:05:29.361Z
+updated: 2024-05-20T22:05:29.361Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -412,4 +412,5 @@ Getting Rare Candy in Pokemon Go Fire Red is a difficult task. These cadies are 
 <li><a href="https://android-location-track.techidaily.com/top-9-xiaomi-redmi-note-13-pro-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Xiaomi Redmi Note 13 Pro 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-easily-hard-reset-my-motorola-moto-g84-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Motorola Moto G84 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

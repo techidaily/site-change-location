@@ -1,7 +1,7 @@
 ---
 title: Detailed guide of ispoofer for pogo installation On Vivo Y36 | Dr.fone
-date: 2024-04-30T06:05:28.946Z
-updated: 2024-05-01T06:05:28.946Z
+date: 2024-05-19T22:06:32.072Z
+updated: 2024-05-20T22:06:32.072Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -398,4 +398,5 @@ Alternatively, Pokemon trainers can use GPS-spoofing apps like Wondershare Dr.Fo
 <li><a href="https://ai-video-apps.techidaily.com/new-in-2024-s-best-android-video-editors-a-mix-of-free-and-paid-options/"><u>New In 2024, S Best Android Video Editors A Mix of Free and Paid Options</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-y100-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo Y100 to Samsung Phone | Dr.fone</u></a></li>
 </ul></div>
+
 

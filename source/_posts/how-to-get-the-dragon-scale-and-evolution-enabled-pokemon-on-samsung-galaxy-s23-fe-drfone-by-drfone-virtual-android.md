@@ -1,7 +1,7 @@
 ---
 title: How to get the dragon scale and evolution-enabled pokemon On Samsung Galaxy S23 FE? | Dr.fone
-date: 2024-04-30T05:52:48.731Z
-updated: 2024-05-01T05:52:48.731Z
+date: 2024-05-19T22:05:42.642Z
+updated: 2024-05-20T22:05:42.642Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -471,4 +471,5 @@ When you need to, you can teleport your device to an area where Dratini is popul
 <li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-ll-about-gif-keyboard-that-you-want-to-know/"><u>Updated In 2024, Ll About GIF Keyboard That You Want to Know</u></a></li>
 <li><a href="https://techidaily.com/factory-reset-apple-iphone-se-2022-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset Apple iPhone SE (2022) | Dr.fone</u></a></li>
 </ul></div>
+
 

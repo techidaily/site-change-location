@@ -1,7 +1,7 @@
 ---
 title: Pokémon Go Cooldown Chart On Vivo Y78 5G | Dr.fone
-date: 2024-04-30T06:03:01.357Z
-updated: 2024-05-01T06:03:01.357Z
+date: 2024-05-19T22:06:22.389Z
+updated: 2024-05-20T22:06:22.389Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -409,4 +409,5 @@ Now when you know how to make new friends in Pokemon Go, you can easily expand y
 <li><a href="https://techidaily.com/three-solutions-to-hard-reset-poco-m6-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Poco M6 5G? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/samsung-galaxy-m34-5g-video-recovery-recover-deleted-videos-from-samsung-galaxy-m34-5g-by-fonelab-android-recover-video/"><u>Samsung Galaxy M34 5G Video Recovery - Recover Deleted Videos from Samsung Galaxy M34 5G</u></a></li>
 </ul></div>
+
 

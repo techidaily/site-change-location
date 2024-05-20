@@ -1,7 +1,7 @@
 ---
 title: Full Guide to Catch 100 IV Pokémon Using a Map On Vivo Y36 | Dr.fone
-date: 2024-04-30T06:05:31.802Z
-updated: 2024-05-01T06:05:31.802Z
+date: 2024-05-19T22:06:32.242Z
+updated: 2024-05-20T22:06:32.242Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -428,4 +428,5 @@ There you go! By following these tips, you would be able to come up with a winni
 <li><a href="https://pokemon-go-android.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-realme-11-pro-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Realme 11 Pro | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-motorola-moto-g13-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Motorola Moto G13 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
 </ul></div>
+
 

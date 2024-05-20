@@ -1,7 +1,7 @@
 ---
 title: In 2024, Planning to Use a Pokemon Go Joystick on Samsung Galaxy S23 Tactical Edition? | Dr.fone
-date: 2024-04-30T05:49:29.442Z
-updated: 2024-05-01T05:49:29.442Z
+date: 2024-05-19T22:05:29.749Z
+updated: 2024-05-20T22:05:29.749Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -513,4 +513,5 @@ These are all the games that are similar to Pokémon Go and something that you c
 <li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-samsung-galaxy-s23-fe-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Samsung Galaxy S23 FE | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-oppo-a59-5g-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Oppo A59 5G on Mac?</u></a></li>
 </ul></div>
+
 

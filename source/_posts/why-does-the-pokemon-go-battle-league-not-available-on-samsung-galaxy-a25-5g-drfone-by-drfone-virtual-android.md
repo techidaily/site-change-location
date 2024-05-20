@@ -1,7 +1,7 @@
 ---
 title: Why does the pokemon go battle league not available On Samsung Galaxy A25 5G | Dr.fone
-date: 2024-04-30T05:54:02.084Z
-updated: 2024-05-01T05:54:02.084Z
+date: 2024-05-19T22:05:47.681Z
+updated: 2024-05-20T22:05:47.681Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -430,4 +430,5 @@ The location will be locked by the program and your iPhone will also show the sa
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-realme-gt-5-240w-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Realme GT 5 (240W)? | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-on-iphone-12-pro-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password On iPhone 12 Pro</u></a></li>
 </ul></div>
+
 

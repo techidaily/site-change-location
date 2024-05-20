@@ -1,7 +1,7 @@
 ---
 title: How to Fix Pokemon Go Route Not Working On Vivo Y36? | Dr.fone
-date: 2024-04-30T06:05:35.027Z
-updated: 2024-05-01T06:05:35.027Z
+date: 2024-05-19T22:06:32.478Z
+updated: 2024-05-20T22:06:32.478Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -326,4 +326,5 @@ There you go! By following these tips, you would be able to come up with a winni
 <li><a href="https://fix-guide.techidaily.com/realme-gt-5-pro-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme GT 5 Pro Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-nokia-c210-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Nokia C210 Device</u></a></li>
 </ul></div>
+
 

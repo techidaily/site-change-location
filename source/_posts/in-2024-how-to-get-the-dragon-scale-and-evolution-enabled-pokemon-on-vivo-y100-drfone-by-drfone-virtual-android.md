@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to get the dragon scale and evolution-enabled pokemon On Vivo Y100? | Dr.fone
-date: 2024-04-30T05:58:31.123Z
-updated: 2024-05-01T05:58:31.123Z
+date: 2024-05-19T22:06:05.034Z
+updated: 2024-05-20T22:06:05.034Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -365,4 +365,5 @@ Pokémon Go continues to amaze trainers and fans of the franchise, and is becomi
 <li><a href="https://pokemon-go-android.techidaily.com/where-is-the-best-place-to-catch-dratini-on-poco-x6-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Poco X6 | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-realme-narzo-60-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

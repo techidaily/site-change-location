@@ -1,7 +1,7 @@
 ---
 title: Pokémon Go Cooldown Chart On Vivo V27e | Dr.fone
-date: 2024-04-30T06:00:01.222Z
-updated: 2024-05-01T06:00:01.222Z
+date: 2024-05-19T22:06:10.715Z
+updated: 2024-05-20T22:06:10.715Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -499,4 +499,5 @@ That’s a wrap, everyone! I’m sure that after reading this post, you would be
 <li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Honor X50i? | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Poco F5 Pro 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

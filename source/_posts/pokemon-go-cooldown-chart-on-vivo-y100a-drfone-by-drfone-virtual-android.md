@@ -1,7 +1,7 @@
 ---
 title: Pokémon Go Cooldown Chart On Vivo Y100A | Dr.fone
-date: 2024-04-30T06:01:19.883Z
-updated: 2024-05-01T06:01:19.883Z
+date: 2024-05-19T22:06:15.718Z
+updated: 2024-05-20T22:06:15.718Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -446,4 +446,5 @@ The journey to completing your Pokedex may not be a short one as there are hundr
 <li><a href="https://phone-solutions.techidaily.com/does-htc-u23-support-mov-videos-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does HTC U23 support MOV videos ?</u></a></li>
 <li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-itel-p55-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Itel P55? Here is How | Dr.fone</u></a></li>
 </ul></div>
+
 

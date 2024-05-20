@@ -1,7 +1,7 @@
 ---
 title: How to get the dragon scale and evolution-enabled pokemon On Vivo Y36? | Dr.fone
-date: 2024-04-30T06:05:32.658Z
-updated: 2024-05-01T06:05:32.658Z
+date: 2024-05-19T22:06:32.294Z
+updated: 2024-05-20T22:06:32.294Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -363,4 +363,5 @@ Some YouTube channels teach you how to use drones to cheat in Pokémon Go. A goo
 <li><a href="https://blog-min.techidaily.com/how-to-remove-remote-management-from-iphone-se-2022-by-drfone-ios-unlock-ios-unlock/"><u>How to Remove remote management from iPhone SE (2022)?</u></a></li>
 <li><a href="https://ai-topics.techidaily.com/updated-what-is-an-ai-video-editor-in-2024/"><u>Updated What Is an AI Video Editor, In 2024</u></a></li>
 </ul></div>
+
 

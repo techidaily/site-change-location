@@ -1,7 +1,7 @@
 ---
 title: How to get the dragon scale and evolution-enabled pokemon On Vivo S17? | Dr.fone
-date: 2024-04-30T06:04:16.187Z
-updated: 2024-05-01T06:04:16.187Z
+date: 2024-05-19T22:06:27.287Z
+updated: 2024-05-20T22:06:27.287Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -332,4 +332,5 @@ Sinnoh Stone, a rare evolution item, is one of the Perks of Pokemon Go letting y
 <li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Xiaomi Civi 3 Disney 100th Anniversary Edition? | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-oppo-find-x7-ultra-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Oppo Find X7 Ultra Phone Using PC | Dr.fone</u></a></li>
 </ul></div>
+
 

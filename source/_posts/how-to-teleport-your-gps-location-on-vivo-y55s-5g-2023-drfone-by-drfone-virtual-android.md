@@ -548,3 +548,4 @@ There you have it, these are the tricks that you can do on your own to fix any i
 <li><a href="https://techidaily.com/how-to-easily-hard-reset-my-tecno-spark-20c-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Tecno Spark 20C | Dr.fone</u></a></li>
 </ul></div>
 
+

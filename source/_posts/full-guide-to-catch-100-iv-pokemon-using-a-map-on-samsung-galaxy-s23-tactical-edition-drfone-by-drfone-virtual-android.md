@@ -1,7 +1,7 @@
 ---
 title: Full Guide to Catch 100 IV Pokémon Using a Map On Samsung Galaxy S23 Tactical Edition | Dr.fone
-date: 2024-04-30T05:49:21.412Z
-updated: 2024-05-01T05:49:21.412Z
+date: 2024-05-19T22:05:29.269Z
+updated: 2024-05-20T22:05:29.269Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -510,4 +510,5 @@ Unlike most other location-faking apps, Dr.Fone - Virtual Location works without
 <li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-realme-c67-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Realme C67 4G | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-realme-12-5g-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Realme 12 5G Activity | Dr.fone</u></a></li>
 </ul></div>
+
 

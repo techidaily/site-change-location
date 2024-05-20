@@ -1,7 +1,7 @@
 ---
 title: In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Vivo Y36 | Dr.fone
-date: 2024-04-30T06:05:51.233Z
-updated: 2024-05-01T06:05:51.233Z
+date: 2024-05-19T22:06:33.457Z
+updated: 2024-05-20T22:06:33.457Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -491,4 +491,5 @@ In conclusion, the pursuit of capturing a **Snorlax Pokémon sleeping** in Poké
 <li><a href="https://howto.techidaily.com/tecno-pop-7-pro-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Pop 7 Pro Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-itel-a70-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve  deleted photos on Itel A70</u></a></li>
 </ul></div>
+
 

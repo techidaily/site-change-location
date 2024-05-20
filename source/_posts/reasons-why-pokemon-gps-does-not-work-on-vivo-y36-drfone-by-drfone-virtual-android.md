@@ -1,7 +1,7 @@
 ---
 title: Reasons why Pokémon GPS does not Work On Vivo Y36? | Dr.fone
-date: 2024-04-30T06:05:33.291Z
-updated: 2024-05-01T06:05:33.291Z
+date: 2024-05-19T22:06:32.337Z
+updated: 2024-05-20T22:06:32.337Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -441,4 +441,5 @@ Now that you know **how to hatch eggs in Pokemon Go without walking** in 9 diffe
 <li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-samsung-galaxy-a15-4g-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Samsung Galaxy A15 4G?</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-realme-12plus-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Realme 12+ 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
 </ul></div>
+
 

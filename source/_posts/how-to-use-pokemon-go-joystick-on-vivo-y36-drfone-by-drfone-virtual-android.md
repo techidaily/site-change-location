@@ -1,7 +1,7 @@
 ---
 title: How to use Pokemon Go Joystick on Vivo Y36? | Dr.fone
-date: 2024-04-30T06:05:33.915Z
-updated: 2024-05-01T06:05:33.915Z
+date: 2024-05-19T22:06:32.389Z
+updated: 2024-05-20T22:06:32.389Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -366,4 +366,5 @@ Specific Pokémon in Pokémon GO now call for rare evolution items such as a ste
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-zte-nubia-z60-ultra-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock ZTE Nubia Z60 Ultra PIN Code/Pattern Lock/Password</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-the-iphone-15-pro-max-sim-lock-4-easy-methods-by-drfone-ios/"><u>How To Unlock The iPhone 15 Pro Max SIM Lock 4 Easy Methods</u></a></li>
 </ul></div>
+
 

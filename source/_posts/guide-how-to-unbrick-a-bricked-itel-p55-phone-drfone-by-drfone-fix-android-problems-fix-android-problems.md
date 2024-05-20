@@ -442,3 +442,4 @@ To deal with an unresponsive screen, users can try restarting the Itel P55 devic
      data-full-width-responsive="true"></ins>
 
 
+

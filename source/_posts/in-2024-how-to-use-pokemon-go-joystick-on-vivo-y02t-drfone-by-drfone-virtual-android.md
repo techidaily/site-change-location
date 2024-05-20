@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to use Pokemon Go Joystick on Vivo Y02T? | Dr.fone
-date: 2024-04-30T06:04:05.049Z
-updated: 2024-05-01T06:04:05.049Z
+date: 2024-05-19T22:06:26.586Z
+updated: 2024-05-20T22:06:26.586Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -451,4 +451,5 @@ The location will be locked by the program and your iPhone will also show the sa
 <li><a href="https://techidaily.com/things-you-dont-know-about-motorola-moto-g14-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Motorola Moto G14 Reset Code | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Motorola Edge+ (2023) | Dr.fone</u></a></li>
 </ul></div>
+
 

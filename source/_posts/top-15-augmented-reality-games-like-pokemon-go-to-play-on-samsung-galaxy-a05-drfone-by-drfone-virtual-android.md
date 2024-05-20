@@ -1,7 +1,7 @@
 ---
 title: Top 15 Augmented Reality Games Like Pokémon GO To Play On Samsung Galaxy A05 | Dr.fone
-date: 2024-04-30T05:53:20.285Z
-updated: 2024-05-01T05:53:20.285Z
+date: 2024-05-19T22:05:44.537Z
+updated: 2024-05-20T22:05:44.537Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -439,4 +439,5 @@ Sinnoh Stone, a rare evolution item, is one of the Perks of Pokemon Go letting y
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-itel-a60s-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Itel A60s Phone that is Locked?</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-realme-12plus-5g-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Realme 12+ 5G PC | Dr.fone</u></a></li>
 </ul></div>
+
 

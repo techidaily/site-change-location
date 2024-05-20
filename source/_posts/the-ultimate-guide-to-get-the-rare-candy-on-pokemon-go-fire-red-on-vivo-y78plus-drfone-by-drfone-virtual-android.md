@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Vivo Y78+ | Dr.fone
-date: 2024-04-30T06:02:35.310Z
-updated: 2024-05-01T06:02:35.310Z
+date: 2024-05-19T22:06:20.501Z
+updated: 2024-05-20T22:06:20.501Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -411,4 +411,5 @@ There you go! I’m sure that after reading this post, you would be able to know
 <li><a href="https://howto.techidaily.com/what-to-do-if-your-realme-11-proplus-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Realme 11 Pro+ Auto Does Not Work | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-13-pro-max-drfone-by-drfone-ios/"><u>How to Unlock iPhone 13 Pro Max? | Dr.fone</u></a></li>
 </ul></div>
+
 

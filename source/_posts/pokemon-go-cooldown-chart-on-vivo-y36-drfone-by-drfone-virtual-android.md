@@ -1,7 +1,7 @@
 ---
 title: Pokémon Go Cooldown Chart On Vivo Y36 | Dr.fone
-date: 2024-04-30T06:05:32.446Z
-updated: 2024-05-01T06:05:32.446Z
+date: 2024-05-19T22:06:32.282Z
+updated: 2024-05-20T22:06:32.282Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -374,4 +374,5 @@ Pokemon Go players must try the Routes and explore this feature. It’s indeed a
 <li><a href="https://ios-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-iphone-14-plus-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For iPhone 14 Plus</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-se-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone SE</u></a></li>
 </ul></div>
+
 

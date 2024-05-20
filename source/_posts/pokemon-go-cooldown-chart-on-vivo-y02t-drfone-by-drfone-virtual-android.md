@@ -1,7 +1,7 @@
 ---
 title: Pokémon Go Cooldown Chart On Vivo Y02T | Dr.fone
-date: 2024-04-30T06:03:50.315Z
-updated: 2024-05-01T06:03:50.315Z
+date: 2024-05-19T22:06:25.545Z
+updated: 2024-05-20T22:06:25.545Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -392,4 +392,5 @@ That’s a wrap, everyone! I’m sure that after reading this post, you would be
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-unlock-your-iphone-11-pro-learn-all-4-methods-drfone-by-drfone-ios/"><u>In 2024, How Do You Unlock your iPhone 11 Pro? Learn All 4 Methods | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-does-nokia-g22-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Nokia G22 Have Find My Friends? | Dr.fone</u></a></li>
 </ul></div>
+
 

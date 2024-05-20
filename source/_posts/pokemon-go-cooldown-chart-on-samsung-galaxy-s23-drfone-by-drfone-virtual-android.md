@@ -1,7 +1,7 @@
 ---
 title: Pokémon Go Cooldown Chart On Samsung Galaxy S23 | Dr.fone
-date: 2024-04-30T05:46:55.125Z
-updated: 2024-05-01T05:46:55.125Z
+date: 2024-05-19T22:05:11.281Z
+updated: 2024-05-20T22:05:11.281Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -435,4 +435,5 @@ When you need to, you can teleport your device to an area where Dratini is popul
 <li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-honor-magic-5-drfone-by-drfone-reset-android-reset-android/" ><u>The Easiest Methods to Hard Reset Honor Magic 5 | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-motorola-moto-g84-5g-device-by-drfone-android/" ><u>The 6 Best SIM Unlock Services That Actually Work On Your Motorola Moto G84 5G Device</u></a></li>
 </ul></div>
+
 

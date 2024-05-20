@@ -1,7 +1,7 @@
 ---
 title: How to get the dragon scale and evolution-enabled pokemon On Vivo S17e? | Dr.fone
-date: 2024-04-30T06:03:25.168Z
-updated: 2024-05-01T06:03:25.168Z
+date: 2024-05-19T22:06:23.945Z
+updated: 2024-05-20T22:06:23.945Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -456,4 +456,5 @@ I hope that after following this guide, you would be able to know more about the
 <li><a href="https://ai-editing-video.techidaily.com/how-to-start-a-video-editing-career/"><u>How to Start a Video Editing Career</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Oppo Find X6 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

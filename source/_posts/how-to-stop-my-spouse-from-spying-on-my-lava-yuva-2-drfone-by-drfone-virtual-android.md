@@ -626,3 +626,4 @@ Life360 has released a major update for Android and iPhone users, fixing the sho
 <li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-tecno-spark-20-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Tecno Spark 20 | Dr.fone</u></a></li>
 </ul></div>
 
+

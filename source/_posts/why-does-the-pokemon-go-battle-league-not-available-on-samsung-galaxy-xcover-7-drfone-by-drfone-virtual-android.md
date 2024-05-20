@@ -1,7 +1,7 @@
 ---
 title: Why does the pokemon go battle league not available On Samsung Galaxy XCover 7 | Dr.fone
-date: 2024-04-30T05:56:35.263Z
-updated: 2024-05-01T05:56:35.263Z
+date: 2024-05-19T22:05:57.571Z
+updated: 2024-05-20T22:05:57.571Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -386,4 +386,5 @@ Getting Rare Candy in Pokemon Go Fire Red is a difficult task. These cadies are 
 <li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-nokia-c12-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Nokia C12 Pro | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/hard-reset-honor-x50i-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Honor X50i in 3 Efficient Ways | Dr.fone</u></a></li>
 </ul></div>
+
 

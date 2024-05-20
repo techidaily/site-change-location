@@ -1,7 +1,7 @@
 ---
 title: Pokémon Go Cooldown Chart On Vivo Y56 5G | Dr.fone
-date: 2024-04-30T05:58:43.427Z
-updated: 2024-05-01T05:58:43.427Z
+date: 2024-05-19T22:06:05.835Z
+updated: 2024-05-20T22:06:05.835Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -467,4 +467,5 @@ The location will be locked by the program and your iPhone will also show the sa
 <li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Infinix Zero 30 5G? | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-motorola-edge-40-pro-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Motorola Edge 40 Pro Phone? Unlock It Now</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Top 15 Augmented Reality Games Like Pokémon GO To Play On Vivo Y78+ | Dr.fone
-date: 2024-04-30T06:02:42.571Z
-updated: 2024-05-01T06:02:42.571Z
+date: 2024-05-19T22:06:20.925Z
+updated: 2024-05-20T22:06:20.925Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -481,4 +481,5 @@ There you go! After reading this post, I’m sure that you would be able to know
 <li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-applying-and-creating-gif-background-on-your-devices-and-presentations-is-not-hard-read-below-to-learn-how-to-apply-a-gif-background-on-all-/"><u>Updated In 2024, Applying and Creating Gif Background on Your Devices and Presentations Is Not Hard. Read Below to Learn How to Apply a GIF Background on All Devices</u></a></li>
 <li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-honor-90-pro-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Honor 90 Pro in 3 Ways | Dr.fone</u></a></li>
 </ul></div>
+
 

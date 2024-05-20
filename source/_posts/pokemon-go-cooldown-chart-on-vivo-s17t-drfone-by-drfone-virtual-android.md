@@ -1,7 +1,7 @@
 ---
 title: Pokémon Go Cooldown Chart On Vivo S17t | Dr.fone
-date: 2024-04-30T06:04:41.280Z
-updated: 2024-05-01T06:04:41.280Z
+date: 2024-05-19T22:06:28.859Z
+updated: 2024-05-20T22:06:28.859Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -410,4 +410,5 @@ When you need to, you can teleport your device to an area where Dratini is popul
 <li><a href="https://activate-lock.techidaily.com/4-things-you-must-know-about-apple-iphone-6s-activation-lock-by-drfone-ios/"><u>4 Things You Must Know About Apple iPhone 6s Activation Lock</u></a></li>
 <li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-redmi-note-12-proplus-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Redmi Note 12 Pro+ 5G</u></a></li>
 </ul></div>
+
 

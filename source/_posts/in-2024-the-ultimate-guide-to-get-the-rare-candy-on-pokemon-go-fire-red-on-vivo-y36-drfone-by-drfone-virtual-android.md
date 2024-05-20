@@ -1,7 +1,7 @@
 ---
 title: In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Vivo Y36 | Dr.fone
-date: 2024-04-30T06:05:43.991Z
-updated: 2024-05-01T06:05:43.991Z
+date: 2024-05-19T22:06:33.044Z
+updated: 2024-05-20T22:06:33.044Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -401,4 +401,5 @@ There you go! After getting to know about these Pokemon Go regional maps for Pac
 <li><a href="https://techidaily.com/how-to-reset-xiaomi-redmi-13c-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Xiaomi Redmi 13C Without the Home Button | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/how-to-create-quiz-videos-detailed-guide/"><u>How To Create Quiz Videos Detailed Guide</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How Do You Get Sun Stone Evolutions in Pokémon For Samsung Galaxy S23 Tactical Edition? | Dr.fone
-date: 2024-04-30T05:49:17.608Z
-updated: 2024-05-01T05:49:17.608Z
+date: 2024-05-19T22:05:29.047Z
+updated: 2024-05-20T22:05:29.047Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -466,4 +466,5 @@ I hope that after following this guide, you would be able to know more about the
 <li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-motorola-moto-g13-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Motorola Moto G13 FRP Without Computer</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-a14-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy A14 5G Phones with/without a PC</u></a></li>
 </ul></div>
+
 

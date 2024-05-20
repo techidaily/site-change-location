@@ -1,7 +1,7 @@
 ---
 title: How Do You Get Sun Stone Evolutions in Pokémon For Vivo Y78+? | Dr.fone
-date: 2024-04-30T06:02:31.737Z
-updated: 2024-05-01T06:02:31.737Z
+date: 2024-05-19T22:06:20.312Z
+updated: 2024-05-20T22:06:20.312Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -567,4 +567,5 @@ These are all the games that are similar to Pokémon Go and something that you c
 <li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oppo-reno-10-proplus-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Oppo Reno 10 Pro+ 5G Devices | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-google-pixel-8-pro-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Google Pixel 8 Pro is off? | Dr.fone</u></a></li>
 </ul></div>
+
 

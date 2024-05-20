@@ -1,7 +1,7 @@
 ---
 title: Will Pokémon Go Ban the Account if You Use PGSharp On Vivo Y100 | Dr.fone
-date: 2024-04-30T05:58:17.251Z
-updated: 2024-05-01T05:58:17.251Z
+date: 2024-05-19T22:06:04.183Z
+updated: 2024-05-20T22:06:04.183Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -346,4 +346,5 @@ If you're experiencing GPS issues while playing Pokemon GO, consider using Dr. F
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-on-your-apple-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID on Your Apple iPhone 14 Pro Max?</u></a></li>
 <li><a href="https://techidaily.com/undeleted-lost-videos-from-xiaomi-mix-fold-3-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Xiaomi Mix Fold 3</u></a></li>
 </ul></div>
+
 

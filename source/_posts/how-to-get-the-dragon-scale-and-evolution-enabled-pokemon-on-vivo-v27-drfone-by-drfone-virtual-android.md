@@ -1,7 +1,7 @@
 ---
 title: How to get the dragon scale and evolution-enabled pokemon On Vivo V27? | Dr.fone
-date: 2024-04-30T05:59:09.757Z
-updated: 2024-05-01T05:59:09.757Z
+date: 2024-05-19T22:06:07.601Z
+updated: 2024-05-20T22:06:07.601Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -363,4 +363,5 @@ Now, spoof Pokémon Go without ban with the help of PGSharp on android devices. 
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-6-passcode-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 6 Passcode without Computer?</u></a></li>
 <li><a href="https://techidaily.com/full-guide-to-hard-reset-your-vivo-y17s-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Vivo Y17s | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -541,3 +541,4 @@ That's why having a tool like [Dr.Fone - Virtual Location](https://tools.techida
 <li><a href="https://ai-video-editing.techidaily.com/do-you-intend-to-include-motion-blur-on-your-video-using-video-star-this-article-explains-how-to-use-motion-blur-on-video-star-with-exquisite-control/"><u>Do You Intend to Include Motion Blur on Your Video Using Video Star? This Article Explains How to Use Motion Blur on Video Star with Exquisite Control</u></a></li>
 </ul></div>
 
+

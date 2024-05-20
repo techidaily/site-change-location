@@ -1,7 +1,7 @@
 ---
 title: How to use Pokemon Go Joystick on Vivo Y100? | Dr.fone
-date: 2024-04-30T05:58:19.414Z
-updated: 2024-05-01T05:58:19.414Z
+date: 2024-05-19T22:06:04.315Z
+updated: 2024-05-20T22:06:04.315Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -405,4 +405,5 @@ Go-tcha Evolve is an application that allows you to set animations and vibration
 <li><a href="https://techidaily.com/your-complete-guide-to-reset-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Nubia Z50S Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 

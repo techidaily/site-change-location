@@ -1,7 +1,7 @@
 ---
 title: Why is iPogo not working On Vivo Y36? Fixed | Dr.fone
-date: 2024-04-30T06:05:28.526Z
-updated: 2024-05-01T06:05:28.526Z
+date: 2024-05-19T22:06:32.037Z
+updated: 2024-05-20T22:06:32.037Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -473,4 +473,5 @@ Alternatively, Pokemon trainers can use GPS-spoofing apps like Wondershare Dr.Fo
 <li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-vivo-y100-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP from Vivo Y100 5G?</u></a></li>
 <li><a href="https://techidaily.com/how-to-reset-nokia-c32-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Nokia C32 Without the Home Button | Dr.fone</u></a></li>
 </ul></div>
+
 

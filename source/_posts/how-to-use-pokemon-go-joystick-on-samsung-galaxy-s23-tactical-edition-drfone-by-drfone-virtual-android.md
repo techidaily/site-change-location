@@ -1,7 +1,7 @@
 ---
 title: How to use Pokemon Go Joystick on Samsung Galaxy S23 Tactical Edition? | Dr.fone
-date: 2024-04-30T05:49:23.980Z
-updated: 2024-05-01T05:49:23.980Z
+date: 2024-05-19T22:05:29.396Z
+updated: 2024-05-20T22:05:29.396Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -412,4 +412,5 @@ And now you are good to have one of the strongest Pokemon on your team when figh
 <li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-14-pro-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 14 Pro Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
 <li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-samsung-galaxy-s24-ultra-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Samsung Galaxy S24 Ultra? Here is How | Dr.fone</u></a></li>
 </ul></div>
+
 

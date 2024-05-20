@@ -1,7 +1,7 @@
 ---
 title: Full Guide to Catch 100 IV Pokémon Using a Map On Vivo X Fold 2 | Dr.fone
-date: 2024-04-30T06:01:44.480Z
-updated: 2024-05-01T06:01:44.480Z
+date: 2024-05-19T22:06:17.368Z
+updated: 2024-05-20T22:06:17.368Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -465,4 +465,5 @@ If you’re searching for ways to collect these items as quickly as possible and
 <li><a href="https://iphone-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-15-plus-drfone-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone 15 Plus | Dr.fone</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-what-is-an-ai-video-maker/"><u>New 2024 Approved What Is an AI Video Maker?</u></a></li>
 </ul></div>
+
 

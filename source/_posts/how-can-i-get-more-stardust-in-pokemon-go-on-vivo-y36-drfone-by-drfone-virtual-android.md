@@ -1,7 +1,7 @@
 ---
 title: How can I get more stardust in pokemon go On Vivo Y36? | Dr.fone
-date: 2024-04-30T06:05:37.811Z
-updated: 2024-05-01T06:05:37.811Z
+date: 2024-05-19T22:06:32.657Z
+updated: 2024-05-20T22:06:32.657Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -518,4 +518,5 @@ These are all the games that are similar to Pokémon Go and something that you c
 <li><a href="https://android-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Oppo Reno 10 Pro+ 5G? | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-jailbreak-icloud-locked-apple-iphone-15-pro-by-drfone-ios/"><u>In 2024, How to jailbreak iCloud locked Apple iPhone 15 Pro</u></a></li>
 </ul></div>
+
 

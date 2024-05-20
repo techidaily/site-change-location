@@ -1,7 +1,7 @@
 ---
 title: How to get the dragon scale and evolution-enabled pokemon On Samsung Galaxy S23 Tactical Edition? | Dr.fone
-date: 2024-04-30T05:49:22.523Z
-updated: 2024-05-01T05:49:22.523Z
+date: 2024-05-19T22:05:29.314Z
+updated: 2024-05-20T22:05:29.314Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -352,4 +352,5 @@ That’s how you can change GPS location on an iPhone/iPad using Dr.Fone - Virtu
 <li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Realme GT 5 | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-itel-p55-5g-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Itel P55 5G Wont Charge | Dr.fone</u></a></li>
 </ul></div>
+
 

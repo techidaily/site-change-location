@@ -511,3 +511,4 @@ To deal with an unresponsive screen, users can try restarting the Infinix Smart 
      data-full-width-responsive="true"></ins>
 
 
+

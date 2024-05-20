@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to get the dragon scale and evolution-enabled pokemon On Vivo X90S? | Dr.fone
-date: 2024-04-30T06:06:11.828Z
-updated: 2024-05-01T06:06:11.828Z
+date: 2024-05-19T22:06:34.698Z
+updated: 2024-05-20T22:06:34.698Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -346,4 +346,5 @@ The location will be locked by the program and your iPhone will also show the sa
 <li><a href="https://howto.techidaily.com/bricked-your-poco-f5-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Poco F5 5G? Heres A Full Solution | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>How to Fake Snapchat Location without Jailbreak On Apple iPhone SE | Dr.fone</u></a></li>
 </ul></div>
+
 

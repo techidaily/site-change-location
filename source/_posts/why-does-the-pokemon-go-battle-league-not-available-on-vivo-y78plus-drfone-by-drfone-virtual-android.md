@@ -1,7 +1,7 @@
 ---
 title: Why does the pokemon go battle league not available On Vivo Y78+ | Dr.fone
-date: 2024-04-30T06:02:36.155Z
-updated: 2024-05-01T06:02:36.155Z
+date: 2024-05-19T22:06:20.551Z
+updated: 2024-05-20T22:06:20.551Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -387,4 +387,5 @@ We hope that this article has been informative, about Dr Fone Virtual Location a
 <li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-asus-rog-phone-7-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Asus ROG Phone 7? Here is How | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/unlocking-apple-iphone-6-plus-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>Unlocking Apple iPhone 6 Plus Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
 </ul></div>
+
 

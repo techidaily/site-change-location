@@ -363,3 +363,4 @@ To sum up this article, it can be said that issues like ****Motorola Defy 2 not 
      data-full-width-responsive="true"></ins>
 
 
+

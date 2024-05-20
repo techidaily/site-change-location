@@ -1,7 +1,7 @@
 ---
 title: How to get the dragon scale and evolution-enabled pokemon On Vivo S17t? | Dr.fone
-date: 2024-04-30T06:04:41.493Z
-updated: 2024-05-01T06:04:41.493Z
+date: 2024-05-19T22:06:28.871Z
+updated: 2024-05-20T22:06:28.871Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -398,4 +398,5 @@ The location will be locked by the program and your iPhone will also show the sa
 <li><a href="https://ai-video-editing.techidaily.com/new-in-2024-use-path-blur-in-photoshop-to-create-motion-effect/"><u>New In 2024, Use Path Blur In Photoshop To Create Motion Effect</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-nokia-c12-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Nokia C12? | Dr.fone</u></a></li>
 </ul></div>
+
 

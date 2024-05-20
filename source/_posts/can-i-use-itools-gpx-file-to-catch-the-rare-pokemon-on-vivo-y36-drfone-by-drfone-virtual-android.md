@@ -1,7 +1,7 @@
 ---
 title: Can I use iTools gpx file to catch the rare Pokemon On Vivo Y36 | Dr.fone
-date: 2024-04-30T06:05:28.315Z
-updated: 2024-05-01T06:05:28.315Z
+date: 2024-05-19T22:06:32.027Z
+updated: 2024-05-20T22:06:32.027Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -385,4 +385,5 @@ That’s a wrap, everyone! Now that you know about the Pokémon Go 100 IV maps t
 <li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-vivo-g2-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Vivo G2 for Streaming | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Tecno Spark 20? | Dr.fone</u></a></li>
 </ul></div>
+
 

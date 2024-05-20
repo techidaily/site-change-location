@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Vivo X Flip | Dr.fone
-date: 2024-04-30T06:02:08.626Z
-updated: 2024-05-01T06:02:08.626Z
+date: 2024-05-19T22:06:18.930Z
+updated: 2024-05-20T22:06:18.930Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -363,4 +363,5 @@ The Dr. Fone Virtual location is the best and the most advanced program that can
 <li><a href="https://review-topics.techidaily.com/infinix-hot-40i-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Infinix Hot 40i support - Forgotten screen lock.</u></a></li>
 <li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-samsung-galaxy-a05-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Samsung Galaxy A05 Bricked Devices | Dr.fone</u></a></li>
 </ul></div>
+
 

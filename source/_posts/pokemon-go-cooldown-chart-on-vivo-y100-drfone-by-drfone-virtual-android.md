@@ -1,7 +1,7 @@
 ---
 title: Pokémon Go Cooldown Chart On Vivo Y100 | Dr.fone
-date: 2024-04-30T05:58:17.728Z
-updated: 2024-05-01T05:58:17.728Z
+date: 2024-05-19T22:06:04.208Z
+updated: 2024-05-20T22:06:04.208Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -492,4 +492,5 @@ Specific Pokémon in Pokémon GO now call for rare evolution items such as a ste
 <li><a href="https://ai-vdieo-software.techidaily.com/loop-it-best-free-gif-makers-for-endless-animation/"><u>Loop It! Best Free GIF Makers for Endless Animation</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/new-premiere-pro-best-slow-motion-effects-to-use/"><u>New Premiere Pro Best Slow Motion Effects To Use</u></a></li>
 </ul></div>
+
 

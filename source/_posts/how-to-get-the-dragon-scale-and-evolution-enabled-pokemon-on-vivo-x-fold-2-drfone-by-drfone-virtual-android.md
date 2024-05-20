@@ -1,7 +1,7 @@
 ---
 title: How to get the dragon scale and evolution-enabled pokemon On Vivo X Fold 2? | Dr.fone
-date: 2024-04-30T06:01:45.341Z
-updated: 2024-05-01T06:01:45.341Z
+date: 2024-05-19T22:06:17.421Z
+updated: 2024-05-20T22:06:17.421Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -328,4 +328,5 @@ That’s a wrap, everyone! I’m sure that after reading this post, you would be
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Vivo Y17s | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-recover-data-from-apple-iphone-12-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Data from Apple iPhone 12? | Dr.fone</u></a></li>
 </ul></div>
+
 

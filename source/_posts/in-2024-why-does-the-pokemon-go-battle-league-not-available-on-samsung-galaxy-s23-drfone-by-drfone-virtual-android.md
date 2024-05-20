@@ -1,7 +1,7 @@
 ---
 title: In 2024, Why does the pokemon go battle league not available On Samsung Galaxy S23 | Dr.fone
-date: 2024-04-30T05:46:55.210Z
-updated: 2024-05-01T05:46:55.210Z
+date: 2024-05-19T22:05:12.040Z
+updated: 2024-05-20T22:05:12.040Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -399,4 +399,5 @@ Now when you know how to make new friends in Pokemon Go, you can easily expand y
 <li><a href="https://howto.techidaily.com/why-does-my-vivo-y78plus-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Vivo Y78+ Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-realme-11-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Realme 11 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

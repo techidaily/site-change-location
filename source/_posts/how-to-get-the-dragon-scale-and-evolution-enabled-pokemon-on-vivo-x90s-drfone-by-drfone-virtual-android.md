@@ -1,7 +1,7 @@
 ---
 title: How to get the dragon scale and evolution-enabled pokemon On Vivo X90S? | Dr.fone
-date: 2024-04-30T06:05:58.127Z
-updated: 2024-05-01T06:05:58.127Z
+date: 2024-05-19T22:06:33.892Z
+updated: 2024-05-20T22:06:33.892Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -430,4 +430,5 @@ And now you are good to have one of the strongest Pokemon on your team when figh
 <li><a href="https://animation-videos.techidaily.com/updated-in-2024-10-top-memorable-japanese-cat-cartoons/"><u>Updated In 2024, 10 Top Memorable Japanese Cat Cartoons</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-smart-8-plus-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Infinix Smart 8 Plus PIN Code/Pattern Lock/Password</u></a></li>
 </ul></div>
+
 

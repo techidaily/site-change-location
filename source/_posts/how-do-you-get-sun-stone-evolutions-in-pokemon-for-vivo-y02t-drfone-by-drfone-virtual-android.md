@@ -1,7 +1,7 @@
 ---
 title: How Do You Get Sun Stone Evolutions in Pokémon For Vivo Y02T? | Dr.fone
-date: 2024-04-30T06:03:45.433Z
-updated: 2024-05-01T06:03:45.433Z
+date: 2024-05-19T22:06:25.283Z
+updated: 2024-05-20T22:06:25.283Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -429,4 +429,5 @@ Some YouTube channels teach you how to use drones to cheat in Pokémon Go. A goo
 <li><a href="https://location-social.techidaily.com/does-samsung-galaxy-s23-tactical-edition-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Samsung Galaxy S23 Tactical Edition Have Find My Friends? | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-infinix-note-30-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Infinix Note 30 Device</u></a></li>
 </ul></div>
+
 

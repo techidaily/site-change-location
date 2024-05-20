@@ -1,7 +1,7 @@
 ---
 title: How to use Pokemon Go Joystick on Vivo X90S? | Dr.fone
-date: 2024-04-30T06:05:59.622Z
-updated: 2024-05-01T06:05:59.622Z
+date: 2024-05-19T22:06:33.995Z
+updated: 2024-05-20T22:06:33.995Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -385,4 +385,5 @@ I hope that after following this guide, you would be able to know more about the
 <li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-honor-x50-gt-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Honor X50 GT to PC? | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-pro-without-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13 Pro Without Passcode? | Dr.fone</u></a></li>
 </ul></div>
+
 

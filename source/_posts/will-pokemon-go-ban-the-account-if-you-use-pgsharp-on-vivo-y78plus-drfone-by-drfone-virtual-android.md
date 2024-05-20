@@ -1,7 +1,7 @@
 ---
 title: Will Pokémon Go Ban the Account if You Use PGSharp On Vivo Y78+ | Dr.fone
-date: 2024-04-30T06:02:35.940Z
-updated: 2024-05-01T06:02:35.940Z
+date: 2024-05-19T22:06:20.540Z
+updated: 2024-05-20T22:06:20.540Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -408,4 +408,5 @@ Well, the article did give us a lot of idea about stardust trade cost and how to
 <li><a href="https://ai-voice-clone.techidaily.com/in-2024-what-is-an-ai-video-maker/"><u>In 2024, What Is an AI Video Maker?</u></a></li>
 <li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-apple-iphone-6-plus-by-phone-number-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track Apple iPhone 6 Plus by Phone Number | Dr.fone</u></a></li>
 </ul></div>
+
 

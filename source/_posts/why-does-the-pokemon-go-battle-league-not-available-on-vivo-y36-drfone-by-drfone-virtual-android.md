@@ -1,7 +1,7 @@
 ---
 title: Why does the pokemon go battle league not available On Vivo Y36 | Dr.fone
-date: 2024-04-30T06:05:32.233Z
-updated: 2024-05-01T06:05:32.233Z
+date: 2024-05-19T22:06:32.269Z
+updated: 2024-05-20T22:06:32.269Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -465,4 +465,5 @@ In conclusion, PvP battles are of great importance to enjoying the true perks of
 <li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>Does find my friends work on Apple iPhone 14 Pro | Dr.fone</u></a></li>
 <li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

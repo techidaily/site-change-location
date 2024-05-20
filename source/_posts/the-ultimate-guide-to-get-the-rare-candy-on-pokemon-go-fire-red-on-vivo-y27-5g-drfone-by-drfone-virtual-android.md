@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Vivo Y27 5G | Dr.fone
-date: 2024-04-30T06:06:23.273Z
-updated: 2024-05-01T06:06:23.273Z
+date: 2024-05-19T22:06:35.403Z
+updated: 2024-05-20T22:06:35.403Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -465,4 +465,5 @@ Specific Pokémon in Pokémon GO now call for rare evolution items such as a ste
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-smart-8-pro-phone-without-password-by-drfone-android/"><u>How To Unlock Infinix Smart 8 Pro Phone Without Password?</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-contacts-from-apple-iphone-8-plus-to-iphone-quickly-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Contacts from Apple iPhone 8 Plus to iPhone Quickly | Dr.fone</u></a></li>
 </ul></div>
+
 

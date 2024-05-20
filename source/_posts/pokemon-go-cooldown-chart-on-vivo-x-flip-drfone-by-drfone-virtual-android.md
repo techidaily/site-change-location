@@ -1,7 +1,7 @@
 ---
 title: Pokémon Go Cooldown Chart On Vivo X Flip | Dr.fone
-date: 2024-04-30T06:02:09.750Z
-updated: 2024-05-01T06:02:09.750Z
+date: 2024-05-19T22:06:19.001Z
+updated: 2024-05-20T22:06:19.001Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -500,4 +500,5 @@ Getting Rare Candy in Pokemon Go Fire Red is a difficult task. These cadies are 
 <li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Sony Xperia 1 V | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-editing-videos-on-mac-os-x-yosemite-a-comprehensive-tutorial/"><u>New 2024 Approved Editing Videos on Mac OS X Yosemite A Comprehensive Tutorial</u></a></li>
 </ul></div>
+
 

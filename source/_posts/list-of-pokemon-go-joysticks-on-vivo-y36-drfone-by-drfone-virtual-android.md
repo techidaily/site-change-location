@@ -1,7 +1,7 @@
 ---
 title: List of Pokémon Go Joysticks On Vivo Y36 | Dr.fone
-date: 2024-04-30T06:05:33.707Z
-updated: 2024-05-01T06:05:33.707Z
+date: 2024-05-19T22:06:32.366Z
+updated: 2024-05-20T22:06:32.366Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -427,4 +427,5 @@ Well, the article did give us a lot of idea about stardust trade cost and how to
 <li><a href="https://techidaily.com/how-to-factory-reset-oppo-a38-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo A38 in 5 Easy Ways | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-11-pro-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 11 Pro To Other iPhone 15 Pro devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

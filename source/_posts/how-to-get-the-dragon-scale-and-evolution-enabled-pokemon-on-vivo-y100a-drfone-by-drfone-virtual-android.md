@@ -1,7 +1,7 @@
 ---
 title: How to get the dragon scale and evolution-enabled pokemon On Vivo Y100A? | Dr.fone
-date: 2024-04-30T06:01:20.103Z
-updated: 2024-05-01T06:01:20.103Z
+date: 2024-05-19T22:06:15.730Z
+updated: 2024-05-20T22:06:15.730Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -406,4 +406,5 @@ When you need to, you can teleport your device to an area where Dratini is popul
 <li><a href="https://apple-account.techidaily.com/removing-device-from-apple-id-for-your-apple-iphone-8-plus-by-drfone-ios/"><u>Removing Device From Apple ID For your Apple iPhone 8 Plus</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/2024-approved-unleash-your-creativity-10-best-cartoon-animation-apps-for-mobile/"><u>2024 Approved Unleash Your Creativity 10 Best Cartoon Animation Apps for Mobile</u></a></li>
 </ul></div>
+
 

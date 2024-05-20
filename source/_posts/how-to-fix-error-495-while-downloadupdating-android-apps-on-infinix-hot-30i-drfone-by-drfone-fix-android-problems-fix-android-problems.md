@@ -478,3 +478,4 @@ Lastly, you can still refer to Infinix Hot 30i for repairs. It remains the prima
      data-full-width-responsive="true"></ins>
 
 
+

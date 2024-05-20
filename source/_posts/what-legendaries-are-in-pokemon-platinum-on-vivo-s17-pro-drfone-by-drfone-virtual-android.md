@@ -1,7 +1,7 @@
 ---
 title: What Legendaries Are In Pokemon Platinum On Vivo S17 Pro? | Dr.fone
-date: 2024-04-30T06:05:10.374Z
-updated: 2024-05-01T06:05:10.374Z
+date: 2024-05-19T22:06:30.737Z
+updated: 2024-05-20T22:06:30.737Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -461,4 +461,5 @@ Getting Pokémon Emerald Master Ball cheat codes is important if you want to cat
 <li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-from-apple-iphone-7-plus-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled From Apple iPhone 7 Plus? 7 Mehtods You Cant-Miss</u></a></li>
 <li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-honor-magic-5-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Honor Magic 5 Lite | Dr.fone</u></a></li>
 </ul></div>
+
 
