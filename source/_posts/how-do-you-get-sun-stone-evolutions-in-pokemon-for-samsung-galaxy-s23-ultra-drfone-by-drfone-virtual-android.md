@@ -1,7 +1,7 @@
 ---
 title: How Do You Get Sun Stone Evolutions in Pokémon For Samsung Galaxy S23 Ultra? | Dr.fone
-date: 2024-05-19T22:05:14.169Z
-updated: 2024-05-20T22:05:14.169Z
+date: 2024-06-18T08:18:38.497Z
+updated: 2024-06-19T08:18:38.497Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -10,7 +10,7 @@ categories:
 description: This article describes How Do You Get Sun Stone Evolutions in Pokémon For Samsung Galaxy S23 Ultra?
 excerpt: This article describes How Do You Get Sun Stone Evolutions in Pokémon For Samsung Galaxy S23 Ultra?
 keywords: Pokémon Go Without Walking,Pokemon Go for Galaxy S23 Ultra,Pokemon Go Without Walking,Pokemon Go Joystick for Galaxy S23 Ultra,Pokemon Go Joystick Without Walking,Pokémon Go for Galaxy S23 Ultra
-thumbnail: https://www.lifewire.com/thmb/NVfSH4Rjse-W0WAejPd1W9V_3ag=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1253176532-e5ce8e507433489f87c8b37818c13a01.jpg
+thumbnail: https://thmb.techidaily.com/bf32c159170edbc355c721b22ee8ee6c67dda36feed408fdb0ec7f3ca8b4ddc2.jpg
 ---
 
 ## How Do You Get Sun Stone Evolutions in Pokémon For Samsung Galaxy S23 Ultra?

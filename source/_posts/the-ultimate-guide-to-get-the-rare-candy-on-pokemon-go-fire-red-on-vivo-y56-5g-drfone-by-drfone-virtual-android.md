@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Vivo Y56 5G | Dr.fone
-date: 2024-05-19T22:06:05.756Z
-updated: 2024-05-20T22:06:05.756Z
+date: 2024-06-18T08:16:38.206Z
+updated: 2024-06-19T08:16:38.206Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -10,7 +10,7 @@ categories:
 description: This article describes The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Vivo Y56 5G
 excerpt: This article describes The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Vivo Y56 5G
 keywords: Pokémon Go Without Walking,Pokemon Go Joystick Without Walking,Pokemon Go Without Walking,Pokémon Go for Y56 5G,Pokemon Go Joystick for Y56 5G,Pokemon Go for Y56 5G
-thumbnail: https://www.lifewire.com/thmb/4ql928fMUKkO_EPWrgDkfeEcVtE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/family-hanging-out-watching-videos-online-1166432791-309c6f7ac8cb4cc99875db5a77fd6f35.jpg
+thumbnail: https://thmb.techidaily.com/d208efb0315dc3e80b4d5a8f4b751d30ee62ca28dd2151c249d15e615be6f528.jpg
 ---
 
 ## The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Vivo Y56 5G

@@ -1,7 +1,7 @@
 ---
 title: How to Stop Life360 from Tracking You On Huawei P60? | Dr.fone
-date: 2024-04-07T02:12:02.280Z
-updated: 2024-04-08T02:12:02.280Z
+date: 2024-06-18T08:16:44.308Z
+updated: 2024-06-19T08:16:44.308Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Stop Life360 from Tracking You On Huawei P60?
 excerpt: This article describes How to Stop Life360 from Tracking You On Huawei P60?
 keywords: change gps location on android,change location on android,fake location on android,fake location on P60,fake gps location on android,change location on P60
-thumbnail: https://www.lifewire.com/thmb/EVPMwUvvJxpJdiKeU4q7SREScME=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mothersday_NataliaCampbell_Getty-5a4baef6c7822d00371e56cd.jpg
+thumbnail: https://thmb.techidaily.com/c367633b9f9ef727c06fd08d3dd4d78a496570d920b7ae31f5d249d448106c6d.jpg
 ---
 
 ## How to Stop Life360 from Tracking You On Huawei P60?
@@ -77,7 +77,7 @@ Here are the few steps that you will need to follow to use Dr.Fone. Take a look!
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -324,7 +324,7 @@ The application holds a wide range of uses and characteristics, so it is conside
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 

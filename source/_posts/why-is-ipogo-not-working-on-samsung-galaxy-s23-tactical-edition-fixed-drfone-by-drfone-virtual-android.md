@@ -1,7 +1,7 @@
 ---
 title: Why is iPogo not working On Samsung Galaxy S23 Tactical Edition? Fixed | Dr.fone
-date: 2024-05-19T22:05:29.081Z
-updated: 2024-05-20T22:05:29.081Z
+date: 2024-06-18T08:19:21.460Z
+updated: 2024-06-19T08:19:21.460Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -10,7 +10,7 @@ categories:
 description: This article describes Why is iPogo not working On Samsung Galaxy S23 Tactical Edition? Fixed
 excerpt: This article describes Why is iPogo not working On Samsung Galaxy S23 Tactical Edition? Fixed
 keywords: Pokemon Go Joystick Without Walking,Pokemon Go Without Walking,Pokémon Go for Galaxy S23 Tactical Edition,Pokémon Go Without Walking,Pokemon Go for Galaxy S23 Tactical Edition,Pokemon Go Joystick for Galaxy S23 Tactical Edition
-thumbnail: https://www.lifewire.com/thmb/Kjjyyc_72u15QvgACgVI3pdI338=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_the-best-lgbt-movies-on-netflix-right-now-june-2022-5069913-8dbc370e568349c8a347c650353f17b1.jpg
+thumbnail: https://thmb.techidaily.com/6d644818f4603c573461e1572ce0a1a0270aa91bb3cb0a406132a63c5b84e5a5.jpg
 ---
 
 ## Why is iPogo not working On Samsung Galaxy S23 Tactical Edition? Fixed

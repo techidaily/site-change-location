@@ -1,7 +1,7 @@
 ---
 title: How to get the dragon scale and evolution-enabled pokemon On Vivo Y55s 5G (2023)? | Dr.fone
-date: 2024-05-19T22:06:02.638Z
-updated: 2024-05-20T22:06:02.638Z
+date: 2024-06-18T08:18:21.190Z
+updated: 2024-06-19T08:18:21.190Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to get the dragon scale and evolution-enabled pokemon On Vivo Y55s 5G (2023)?
 excerpt: This article describes How to get the dragon scale and evolution-enabled pokemon On Vivo Y55s 5G (2023)?
 keywords: Pokémon Go for Y55s 5G (2023),Pokémon Go Without Walking,Pokemon Go for Y55s 5G (2023),Pokemon Go Without Walking,Pokemon Go Joystick Without Walking,Pokemon Go Joystick for Y55s 5G (2023)
-thumbnail: https://www.lifewire.com/thmb/vIq8aJ1XOE0Q97nXhFUuoQCZpKI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/youtube-s-free-streaming-movies-and-tv-shows-1357439-ddbc3cf482e24a539c67009c07310ae1.png
+thumbnail: https://thmb.techidaily.com/be42a9800526c31b5bfdef3ed18cce59bd7b3192524b647f6f87b51df7e044d8.png
 ---
 
 ## How to get the dragon scale and evolution-enabled pokemon On Vivo Y55s 5G (2023)?

@@ -1,7 +1,7 @@
 ---
 title: Pokemon Go Error 12 Failed to Detect Location On Vivo Y02T? | Dr.fone
-date: 2024-05-19T22:06:25.577Z
-updated: 2024-05-20T22:06:25.577Z
+date: 2024-06-18T08:18:13.990Z
+updated: 2024-06-19T08:18:13.990Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -10,7 +10,7 @@ categories:
 description: This article describes Pokemon Go Error 12 Failed to Detect Location On Vivo Y02T?
 excerpt: This article describes Pokemon Go Error 12 Failed to Detect Location On Vivo Y02T?
 keywords: Pokémon Go for Y02T,Pokemon Go Without Walking,Pokemon Go for Y02T,Pokémon Go Without Walking,Pokemon Go Joystick Without Walking,Pokemon Go Joystick for Y02T
-thumbnail: https://www.lifewire.com/thmb/bOmeScOWFc7_QUmHNXKw7Hqwkm0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/bestfirestickapps-5bcba08546e0fb005177a983-0591296fac8241ccb8497f9f29901acd.jpg
+thumbnail: https://thmb.techidaily.com/4ac54b51c1cafa3a284440c31d27701c82afd968d6a73268fe3b019a529c7811.jpg
 ---
 
 ## Pokemon Go Error 12 Failed to Detect Location On Vivo Y02T?

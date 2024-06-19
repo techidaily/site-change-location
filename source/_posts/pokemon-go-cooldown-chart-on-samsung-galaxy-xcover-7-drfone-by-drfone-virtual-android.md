@@ -1,7 +1,7 @@
 ---
 title: Pokémon Go Cooldown Chart On Samsung Galaxy XCover 7 | Dr.fone
-date: 2024-05-19T22:05:57.584Z
-updated: 2024-05-20T22:05:57.584Z
+date: 2024-06-18T08:16:52.236Z
+updated: 2024-06-19T08:16:52.236Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -10,7 +10,7 @@ categories:
 description: This article describes Pokémon Go Cooldown Chart On Samsung Galaxy XCover 7
 excerpt: This article describes Pokémon Go Cooldown Chart On Samsung Galaxy XCover 7
 keywords: Pokémon Go Without Walking,Pokemon Go Joystick Without Walking,Pokemon Go for Galaxy XCover 7,Pokemon Go Without Walking,Pokemon Go Joystick for Galaxy XCover 7,Pokémon Go for Galaxy XCover 7
-thumbnail: https://www.lifewire.com/thmb/ir-tdkJhetInDNhHCkfbZa8f19M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Flack-6b3c3167132c467db22bae39689c44ef.jpg
+thumbnail: https://thmb.techidaily.com/918ad49eae4bb09e7bbe637c097999923379261d114b5800bdb87d98b552aa6d.jpg
 ---
 
 ## Pokémon Go Cooldown Chart On Samsung Galaxy XCover 7

@@ -1,7 +1,7 @@
 ---
 title: Pokémon Go Cooldown Chart On Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone
-date: 2024-05-19T22:05:30.920Z
-updated: 2024-05-20T22:05:30.920Z
+date: 2024-06-18T08:17:05.442Z
+updated: 2024-06-19T08:17:05.442Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -10,7 +10,7 @@ categories:
 description: This article describes Pokémon Go Cooldown Chart On Samsung Galaxy XCover 6 Pro Tactical Edition
 excerpt: This article describes Pokémon Go Cooldown Chart On Samsung Galaxy XCover 6 Pro Tactical Edition
 keywords: Pokemon Go Without Walking,Pokemon Go for Galaxy XCover 6 Pro Tactical Edition,Pokémon Go Without Walking,Pokemon Go Joystick Without Walking,Pokemon Go Joystick for Galaxy XCover 6 Pro Tactical Edition,Pokémon Go for Galaxy XCover 6 Pro Tactical Edition
-thumbnail: https://www.lifewire.com/thmb/medNi2-ezQAi4chkGlIzs91_k0o=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Watch-Ultra-2-23e8ec3e4ee04c6e98c9d654a35f59ec.jpg
+thumbnail: https://thmb.techidaily.com/ced37c54f6280b48c4cccd59bb3d4e6e75cf48a369ed52226c792a6ec4885ea2.jpg
 ---
 
 ## Pokémon Go Cooldown Chart On Samsung Galaxy XCover 6 Pro Tactical Edition

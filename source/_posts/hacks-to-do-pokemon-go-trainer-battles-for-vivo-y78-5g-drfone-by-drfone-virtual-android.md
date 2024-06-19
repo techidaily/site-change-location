@@ -1,7 +1,7 @@
 ---
 title: Hacks to do pokemon go trainer battles For Vivo Y78 5G | Dr.fone
-date: 2024-05-19T22:06:22.780Z
-updated: 2024-05-20T22:06:22.780Z
+date: 2024-06-18T08:17:19.310Z
+updated: 2024-06-19T08:17:19.310Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -10,7 +10,7 @@ categories:
 description: This article describes Hacks to do pokemon go trainer battles For Vivo Y78 5G
 excerpt: This article describes Hacks to do pokemon go trainer battles For Vivo Y78 5G
 keywords: Pokémon Go for Y78 5G,Pokemon Go Joystick for Y78 5G,Pokemon Go Joystick Without Walking,Pokemon Go Without Walking,Pokemon Go for Y78 5G,Pokémon Go Without Walking
-thumbnail: https://www.lifewire.com/thmb/vPFd-AMhh9AKItKjaheXQPgowy4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SDC18_Keynote_OneUI-5be8d33f46e0fb002d108acf.jpg
+thumbnail: https://thmb.techidaily.com/8b7337516e3ab4c7de40944c48ebe243474ab75d4e4c1c2d693991f9d3085553.jpg
 ---
 
 ## Hacks to do pokemon go trainer battles For Vivo Y78 5G

@@ -1,7 +1,7 @@
 ---
 title: Planning to Use a Pokemon Go Joystick on Samsung Galaxy S23 Tactical Edition? | Dr.fone
-date: 2024-05-19T22:05:28.978Z
-updated: 2024-05-20T22:05:28.978Z
+date: 2024-06-18T08:19:21.416Z
+updated: 2024-06-19T08:19:21.416Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -10,7 +10,7 @@ categories:
 description: This article describes Planning to Use a Pokemon Go Joystick on Samsung Galaxy S23 Tactical Edition?
 excerpt: This article describes Planning to Use a Pokemon Go Joystick on Samsung Galaxy S23 Tactical Edition?
 keywords: Pokemon Go Joystick Without Walking,Pokemon Go Joystick for Galaxy S23 Tactical Edition,Pokémon Go Without Walking,Pokemon Go Without Walking,Pokemon Go for Galaxy S23 Tactical Edition,Pokémon Go for Galaxy S23 Tactical Edition
-thumbnail: https://www.lifewire.com/thmb/tclvUc96-Ait5kPqxaZfBNJHuEo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-choose-your-ideal-phonecase-ca91460721b143b0b0ae61b5baf11b3c.jpg
+thumbnail: https://thmb.techidaily.com/017337439b4f792b0246468061b8e1aa8f8f36d01cdf2619fb3c06685fc0972f.jpg
 ---
 
 ## Planning to Use a Pokemon Go Joystick on Samsung Galaxy S23 Tactical Edition?

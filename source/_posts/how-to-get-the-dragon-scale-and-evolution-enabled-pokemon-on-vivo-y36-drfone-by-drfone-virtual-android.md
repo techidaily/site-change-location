@@ -1,7 +1,7 @@
 ---
 title: How to get the dragon scale and evolution-enabled pokemon On Vivo Y36? | Dr.fone
-date: 2024-05-19T22:06:32.294Z
-updated: 2024-05-20T22:06:32.294Z
+date: 2024-06-18T08:16:54.210Z
+updated: 2024-06-19T08:16:54.210Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to get the dragon scale and evolution-enabled pokemon On Vivo Y36?
 excerpt: This article describes How to get the dragon scale and evolution-enabled pokemon On Vivo Y36?
 keywords: Pokemon Go Joystick for Y36,Pokémon Go for Y36,Pokémon Go Without Walking,Pokemon Go Joystick Without Walking,Pokemon Go Without Walking,Pokemon Go for Y36
-thumbnail: https://www.lifewire.com/thmb/vwXY4ZVwcerLrMyrYuIV0bJij5Y=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/google-logo-dbc6703838ab40ffac436f7f360b79f7.png
+thumbnail: https://thmb.techidaily.com/c225407e5eb523ea35626965d7952f3e8eff461a435028604a3c634507f598f5.png
 ---
 
 ## How to get the dragon scale and evolution-enabled pokemon On Vivo Y36?
@@ -159,7 +159,7 @@ Apart from the above-listed tips, you can also use a **100 IV Pokémon Go map** 
 
 Here are some of these reliable 100 IV Pokémon Go trackers that you can use.
 
-### 1\. [The Silph Road](https://drfone.wondershare.com/virtual-location/pokemon-go-silph-road-shut-down.html)
+### 1\. The Silph Road
 
 The Silph Road is the most extensive crowd-sourced resource for Pokémon Go that you can easily use on any device. Just visit its website and use the inbuilt filters to access its 100 IV Pokémon Go tracker. It will display the estimated IV for the Pokémon so that you can decide if it is worth the effort or not. Besides being a Pokémon Go 100 IV map, you can also use it to look for nests, raids, gyms, etc.
 
@@ -211,7 +211,7 @@ Using a 100 IV Pokémon Go map, you can easily know their spawning locations and
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 Catch 100 IV Pokémon without moving!
 

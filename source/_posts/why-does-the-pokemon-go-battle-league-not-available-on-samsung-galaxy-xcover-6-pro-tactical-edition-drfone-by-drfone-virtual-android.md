@@ -1,7 +1,7 @@
 ---
 title: Why does the pokemon go battle league not available On Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone
-date: 2024-05-19T22:05:30.907Z
-updated: 2024-05-20T22:05:30.907Z
+date: 2024-06-18T08:17:56.816Z
+updated: 2024-06-19T08:17:56.816Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -10,7 +10,7 @@ categories:
 description: This article describes Why does the pokemon go battle league not available On Samsung Galaxy XCover 6 Pro Tactical Edition
 excerpt: This article describes Why does the pokemon go battle league not available On Samsung Galaxy XCover 6 Pro Tactical Edition
 keywords: Pokemon Go Without Walking,Pokémon Go for Galaxy XCover 6 Pro Tactical Edition,Pokemon Go for Galaxy XCover 6 Pro Tactical Edition,Pokemon Go Joystick for Galaxy XCover 6 Pro Tactical Edition,Pokémon Go Without Walking,Pokemon Go Joystick Without Walking
-thumbnail: https://www.lifewire.com/thmb/-bcmaokZfvwTgJE1q3LjnihDbBY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-678913139-58a4ece73df78c345bcd781b.jpg
+thumbnail: https://thmb.techidaily.com/7f8f4d19272d4759318cbc88d919ca0c7c48f620077177c71b194a7d51d8ecab.jpg
 ---
 
 ## Why does the pokemon go battle league not available On Samsung Galaxy XCover 6 Pro Tactical Edition

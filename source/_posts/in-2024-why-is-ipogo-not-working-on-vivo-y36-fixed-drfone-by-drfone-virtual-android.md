@@ -1,7 +1,7 @@
 ---
 title: In 2024, Why is iPogo not working On Vivo Y36? Fixed | Dr.fone
-date: 2024-05-19T22:06:32.848Z
-updated: 2024-05-20T22:06:32.848Z
+date: 2024-06-18T08:18:15.018Z
+updated: 2024-06-19T08:18:15.018Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -10,7 +10,7 @@ categories:
 description: This article describes Why is iPogo not working On Vivo Y36? Fixed
 excerpt: This article describes Why is iPogo not working On Vivo Y36? Fixed
 keywords: Pokémon Go Without Walking,Pokémon Go for Y36,Pokemon Go Without Walking,Pokemon Go Joystick for Y36,Pokemon Go Joystick Without Walking,Pokemon Go for Y36
-thumbnail: https://www.lifewire.com/thmb/rmV5FQdusxtcDMfMN-dk_OtLxwI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MorningShow-aed160f9cfd448cc8034b23bb3073314.jpg
+thumbnail: https://thmb.techidaily.com/59a195ec28420319fea5f3f07d0383273230910a4a9660ef6c59333c64bce5cd.jpg
 ---
 
 ## Why is iPogo not working On Vivo Y36? Fixed

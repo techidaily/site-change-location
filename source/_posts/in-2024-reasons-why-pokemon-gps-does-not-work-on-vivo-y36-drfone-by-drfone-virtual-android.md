@@ -1,7 +1,7 @@
 ---
 title: In 2024, Reasons why Pokémon GPS does not Work On Vivo Y36? | Dr.fone
-date: 2024-05-19T22:06:33.144Z
-updated: 2024-05-20T22:06:33.144Z
+date: 2024-06-18T08:17:51.681Z
+updated: 2024-06-19T08:17:51.681Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -10,7 +10,7 @@ categories:
 description: This article describes Reasons why Pokémon GPS does not Work On Vivo Y36?
 excerpt: This article describes Reasons why Pokémon GPS does not Work On Vivo Y36?
 keywords: Pokémon Go Without Walking,Pokemon Go Without Walking,Pokemon Go Joystick Without Walking,Pokemon Go for Y36,Pokemon Go Joystick for Y36,Pokémon Go for Y36
-thumbnail: https://www.lifewire.com/thmb/-m_9JJb4F4y8I0dYVcJrZSeVFcs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Unlockedphone_mikkelwilliam_Getty_Eplus-bd0f806b392b4069ab6618d3b520f5b7.jpg
+thumbnail: https://thmb.techidaily.com/7ac9924553405319fc34adce73b50933080c4e0b7ab947e877cf6636c606146d.jpg
 ---
 
 ## Reasons why Pokémon GPS does not Work On Vivo Y36?

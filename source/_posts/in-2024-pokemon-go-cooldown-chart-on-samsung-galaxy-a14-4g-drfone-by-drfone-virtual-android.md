@@ -1,7 +1,7 @@
 ---
 title: In 2024, Pokémon Go Cooldown Chart On Samsung Galaxy A14 4G | Dr.fone
-date: 2024-05-19T22:05:17.072Z
-updated: 2024-05-20T22:05:17.072Z
+date: 2024-06-18T08:19:15.555Z
+updated: 2024-06-19T08:19:15.555Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -10,7 +10,7 @@ categories:
 description: This article describes Pokémon Go Cooldown Chart On Samsung Galaxy A14 4G
 excerpt: This article describes Pokémon Go Cooldown Chart On Samsung Galaxy A14 4G
 keywords: Pokemon Go Joystick for Galaxy A14 4G,Pokémon Go Without Walking,Pokémon Go for Galaxy A14 4G,Pokemon Go Joystick Without Walking,Pokemon Go Without Walking,Pokemon Go for Galaxy A14 4G
-thumbnail: https://www.lifewire.com/thmb/FO5DJQJt8EUiF4veEftl-goajY8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-151812569-ff7311e1de18461da9f8698205953384.jpg
+thumbnail: https://thmb.techidaily.com/1e90b427765970b2a66b4df52c7b1587d47d7c547c6bb5f5df0fa9181f11e1b7.jpg
 ---
 
 ## Pokémon Go Cooldown Chart On Samsung Galaxy A14 4G

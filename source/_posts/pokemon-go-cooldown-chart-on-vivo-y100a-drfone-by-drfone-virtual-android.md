@@ -1,7 +1,7 @@
 ---
 title: Pokémon Go Cooldown Chart On Vivo Y100A | Dr.fone
-date: 2024-05-19T22:06:15.718Z
-updated: 2024-05-20T22:06:15.718Z
+date: 2024-06-18T08:17:58.799Z
+updated: 2024-06-19T08:17:58.799Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -10,7 +10,7 @@ categories:
 description: This article describes Pokémon Go Cooldown Chart On Vivo Y100A
 excerpt: This article describes Pokémon Go Cooldown Chart On Vivo Y100A
 keywords: Pokémon Go Without Walking,Pokémon Go for Y100A,Pokemon Go for Y100A,Pokemon Go Joystick for Y100A,Pokemon Go Joystick Without Walking,Pokemon Go Without Walking
-thumbnail: https://www.lifewire.com/thmb/v4AbqnTlju8lMmkS1DJOcvntGsY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-839864362-59c51d1daf5d3a0010919ae9.jpg
+thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4ff28b2032ed8b7104437026.jpg
 ---
 
 ## Pokémon Go Cooldown Chart On Vivo Y100A

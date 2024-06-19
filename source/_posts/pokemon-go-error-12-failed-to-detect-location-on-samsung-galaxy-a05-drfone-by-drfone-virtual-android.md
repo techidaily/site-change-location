@@ -1,7 +1,7 @@
 ---
 title: Pokemon Go Error 12 Failed to Detect Location On Samsung Galaxy A05? | Dr.fone
-date: 2024-05-19T22:05:44.258Z
-updated: 2024-05-20T22:05:44.258Z
+date: 2024-06-18T08:18:34.629Z
+updated: 2024-06-19T08:18:34.629Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -10,7 +10,7 @@ categories:
 description: This article describes Pokemon Go Error 12 Failed to Detect Location On Samsung Galaxy A05?
 excerpt: This article describes Pokemon Go Error 12 Failed to Detect Location On Samsung Galaxy A05?
 keywords: Pokemon Go Joystick for Galaxy A05,Pokemon Go Without Walking,Pokémon Go Without Walking,Pokémon Go for Galaxy A05,Pokemon Go Joystick Without Walking,Pokemon Go for Galaxy A05
-thumbnail: https://www.lifewire.com/thmb/cLzdzaXCHQmL2C9Qufq6ZiO1gSQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-642250032-010d3026f565420eac9ac098bced6278.jpg
+thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b59cc59254c5cb25869dff46a.jpg
 ---
 
 ## Pokemon Go Error 12 Failed to Detect Location On Samsung Galaxy A05?

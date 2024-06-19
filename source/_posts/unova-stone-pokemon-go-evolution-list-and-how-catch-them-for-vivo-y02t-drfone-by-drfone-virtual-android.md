@@ -1,7 +1,7 @@
 ---
 title: Unova Stone Pokémon Go Evolution List and How Catch Them For Vivo Y02T | Dr.fone
-date: 2024-05-19T22:06:25.961Z
-updated: 2024-05-20T22:06:25.961Z
+date: 2024-06-18T08:16:57.098Z
+updated: 2024-06-19T08:16:57.098Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -10,7 +10,7 @@ categories:
 description: This article describes Unova Stone Pokémon Go Evolution List and How Catch Them For Vivo Y02T
 excerpt: This article describes Unova Stone Pokémon Go Evolution List and How Catch Them For Vivo Y02T
 keywords: Pokemon Go Without Walking,Pokemon Go Joystick for Y02T,Pokémon Go for Y02T,Pokemon Go Joystick Without Walking,Pokémon Go Without Walking,Pokemon Go for Y02T
-thumbnail: https://www.lifewire.com/thmb/-m_9JJb4F4y8I0dYVcJrZSeVFcs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Unlockedphone_mikkelwilliam_Getty_Eplus-bd0f806b392b4069ab6618d3b520f5b7.jpg
+thumbnail: https://thmb.techidaily.com/7ac9924553405319fc34adce73b50933080c4e0b7ab947e877cf6636c606146d.jpg
 ---
 
 ## Unova Stone Pokémon Go Evolution List and How Catch Them For Vivo Y02T

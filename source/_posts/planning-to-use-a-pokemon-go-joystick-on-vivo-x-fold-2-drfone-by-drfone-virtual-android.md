@@ -1,7 +1,7 @@
 ---
 title: Planning to Use a Pokemon Go Joystick on Vivo X Fold 2? | Dr.fone
-date: 2024-05-19T22:06:17.085Z
-updated: 2024-05-20T22:06:17.085Z
+date: 2024-06-18T08:17:26.304Z
+updated: 2024-06-19T08:17:26.304Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -10,7 +10,7 @@ categories:
 description: This article describes Planning to Use a Pokemon Go Joystick on Vivo X Fold 2?
 excerpt: This article describes Planning to Use a Pokemon Go Joystick on Vivo X Fold 2?
 keywords: Pokemon Go Without Walking,Pokemon Go Joystick for X Fold 2,Pokemon Go Joystick Without Walking,Pokémon Go Without Walking,Pokémon Go for X Fold 2,Pokemon Go for X Fold 2
-thumbnail: https://www.lifewire.com/thmb/NOc5RCOPURestyDsC5sxK7KzGY8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-971165690-1e0af1d9299f4fdba1225c2d20c739f2.jpg
+thumbnail: https://thmb.techidaily.com/c572e526911ff13873cfea2690ee252e9ff11a89ced90101624b46320eed1514.jpg
 ---
 
 ## Planning to Use a Pokemon Go Joystick on Vivo X Fold 2?
