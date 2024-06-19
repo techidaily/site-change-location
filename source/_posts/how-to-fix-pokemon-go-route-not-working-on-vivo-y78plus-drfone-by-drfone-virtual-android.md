@@ -1,7 +1,7 @@
 ---
 title: How to Fix Pokemon Go Route Not Working On Vivo Y78+? | Dr.fone
-date: 2024-05-19T22:06:20.744Z
-updated: 2024-05-20T22:06:20.744Z
+date: 2024-06-09T07:46:09.687Z
+updated: 2024-06-10T07:46:09.687Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Fix Pokemon Go Route Not Working On Vivo Y78+?
 excerpt: This article describes How to Fix Pokemon Go Route Not Working On Vivo Y78+?
 keywords: Pokémon Go Without Walking,Pokémon Go for Y78+,Pokemon Go Joystick for Y78+,Pokemon Go Without Walking,Pokemon Go for Y78+,Pokemon Go Joystick Without Walking
-thumbnail: https://www.lifewire.com/thmb/Dl9yEfjLblLLqaUBxpcE0bOUpF4=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_2654847-5b99b903c9e77c005077d0d8.jpg
+thumbnail: https://thmb.techidaily.com/e1e53d68e6a8bd97bb49ce774576b58cc661b7caf15fc6fdb1157408db40b882.jpg
 ---
 
 ## How to Fix Pokemon Go Route Not Working On Vivo Y78+?

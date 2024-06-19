@@ -1,7 +1,7 @@
 ---
 title: Pokemon Go Error 12 Failed to Detect Location On Vivo S17t? | Dr.fone
-date: 2024-05-19T22:06:28.891Z
-updated: 2024-05-20T22:06:28.891Z
+date: 2024-06-09T07:47:06.610Z
+updated: 2024-06-10T07:47:06.610Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -10,7 +10,7 @@ categories:
 description: This article describes Pokemon Go Error 12 Failed to Detect Location On Vivo S17t?
 excerpt: This article describes Pokemon Go Error 12 Failed to Detect Location On Vivo S17t?
 keywords: Pokemon Go Without Walking,Pokemon Go Joystick Without Walking,Pokemon Go for S17t,Pokemon Go Joystick for S17t,Pokémon Go for S17t,Pokémon Go Without Walking
-thumbnail: https://www.lifewire.com/thmb/vyzcJX9d4xPRDFBKmvNTGXpael0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-944229620-9cff560054804b72a431e9492c7445b4.jpg
+thumbnail: https://thmb.techidaily.com/e271cbb6eb6a65ff2648f6dddd1fc0c078a843660eba98a715724fa951b431ee.jpg
 ---
 
 ## Pokemon Go Error 12 Failed to Detect Location On Vivo S17t?

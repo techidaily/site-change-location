@@ -1,7 +1,7 @@
 ---
 title: How To Teleport Your GPS Location On Vivo Y36i? | Dr.fone
-date: 2024-04-12T02:52:43.182Z
-updated: 2024-04-13T02:52:43.182Z
+date: 2024-06-09T07:47:44.536Z
+updated: 2024-06-10T07:47:44.536Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Teleport Your GPS Location On Vivo Y36i?
 excerpt: This article describes How To Teleport Your GPS Location On Vivo Y36i?
 keywords: change gps location on android,fake gps location on android,change location on Y36i,fake location on Y36i,change location on android,fake location on android
-thumbnail: https://www.lifewire.com/thmb/cg-pvlQ-M_jrTyGYcdlhXW_MCvc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/inside-impero-cinema--central-region--asmara--eritrea----1174900385-f49e10d112a6451c89a8310bdb0ecc4e.jpg
+thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242da2e6ee8d5c9aeccc24af52d.jpg
 ---
 
 ## How To Teleport Your GPS Location On Vivo Y36i?

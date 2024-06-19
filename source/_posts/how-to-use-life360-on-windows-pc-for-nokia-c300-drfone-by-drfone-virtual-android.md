@@ -1,7 +1,7 @@
 ---
 title: How to Use Life360 on Windows PC For Nokia C300? | Dr.fone
-date: 2024-04-30T06:07:26.080Z
-updated: 2024-05-01T06:07:26.080Z
+date: 2024-06-09T07:47:05.611Z
+updated: 2024-06-10T07:47:05.611Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Use Life360 on Windows PC For Nokia C300?
 excerpt: This article describes How to Use Life360 on Windows PC For Nokia C300?
 keywords: change location on C300,fake location on android,change location on android,fake gps location on android,change gps location on android,fake location on C300
-thumbnail: https://www.lifewire.com/thmb/Y6Usxgxc9PdsrK9dH2LfUO8QJRY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-849896688-6d69f22bcf0a4ff092f444abe6e1c19f.jpg
+thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd2abed16461ddf6c80bb2da9.jpg
 ---
 
 ## How to Use Life360 on Windows PC For Nokia C300?

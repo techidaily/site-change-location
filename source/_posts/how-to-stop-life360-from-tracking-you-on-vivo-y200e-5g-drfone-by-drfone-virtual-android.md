@@ -1,7 +1,7 @@
 ---
 title: How to Stop Life360 from Tracking You On Vivo Y200e 5G? | Dr.fone
-date: 2024-04-07T02:12:02.633Z
-updated: 2024-04-08T02:12:02.633Z
+date: 2024-06-09T07:46:10.625Z
+updated: 2024-06-10T07:46:10.625Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Stop Life360 from Tracking You On Vivo Y200e 5G?
 excerpt: This article describes How to Stop Life360 from Tracking You On Vivo Y200e 5G?
 keywords: fake location on Y200e 5G,change gps location on android,change location on android,change location on Y200e 5G,fake gps location on android,fake location on android
-thumbnail: https://www.lifewire.com/thmb/8693hBAeE81sk6n359fo6i01-Hc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1168002788-1bccccf67a1f4988bd355c09748383ab.jpg
+thumbnail: https://thmb.techidaily.com/8ab6ea565c08148258cccefd3c4e69bde02c4b3dbfe57b65bd55e5629cfc57b6.jpg
 ---
 
 ## How to Stop Life360 from Tracking You On Vivo Y200e 5G?

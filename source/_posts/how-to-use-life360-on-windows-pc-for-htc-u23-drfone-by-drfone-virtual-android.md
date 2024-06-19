@@ -1,7 +1,7 @@
 ---
 title: How to Use Life360 on Windows PC For HTC U23? | Dr.fone
-date: 2024-04-12T02:52:56.495Z
-updated: 2024-04-13T02:52:56.495Z
+date: 2024-06-09T07:46:25.486Z
+updated: 2024-06-10T07:46:25.486Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Use Life360 on Windows PC For HTC U23?
 excerpt: This article describes How to Use Life360 on Windows PC For HTC U23?
 keywords: change location on U23,fake gps location on android,fake location on android,change gps location on android,fake location on U23,change location on android
-thumbnail: https://www.lifewire.com/thmb/DkM9pHd1hq5V02UbKX94h0TfJkQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/duetinslides-fd2c11f1a91a4d7388cc25f2f4719cca.jpg
+thumbnail: https://thmb.techidaily.com/c097990fd37784ce6293a6224fb832fd4d9a7841c40f79ad9e48ab602a74cd56.jpg
 ---
 
 ## How to Use Life360 on Windows PC For HTC U23?

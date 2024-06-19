@@ -1,7 +1,7 @@
 ---
 title: Hacks to do pokemon go trainer battles For Samsung Galaxy Z Flip 5 | Dr.fone
-date: 2024-05-19T22:05:37.992Z
-updated: 2024-05-20T22:05:37.992Z
+date: 2024-06-09T07:47:12.306Z
+updated: 2024-06-10T07:47:12.306Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -10,7 +10,7 @@ categories:
 description: This article describes Hacks to do pokemon go trainer battles For Samsung Galaxy Z Flip 5
 excerpt: This article describes Hacks to do pokemon go trainer battles For Samsung Galaxy Z Flip 5
 keywords: Pokemon Go Joystick Without Walking,Pokemon Go Joystick for Galaxy Z Flip 5,Pokemon Go Without Walking,Pokémon Go for Galaxy Z Flip 5,Pokemon Go for Galaxy Z Flip 5,Pokémon Go Without Walking
-thumbnail: https://www.lifewire.com/thmb/4ql928fMUKkO_EPWrgDkfeEcVtE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/family-hanging-out-watching-videos-online-1166432791-309c6f7ac8cb4cc99875db5a77fd6f35.jpg
+thumbnail: https://thmb.techidaily.com/d208efb0315dc3e80b4d5a8f4b751d30ee62ca28dd2151c249d15e615be6f528.jpg
 ---
 
 ## Hacks to do pokemon go trainer battles For Samsung Galaxy Z Flip 5

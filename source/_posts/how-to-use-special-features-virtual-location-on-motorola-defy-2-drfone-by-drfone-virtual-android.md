@@ -1,7 +1,7 @@
 ---
 title: How To Use Special Features - Virtual Location On Motorola Defy 2? | Dr.fone
-date: 2024-05-19T22:07:20.954Z
-updated: 2024-05-20T22:07:20.954Z
+date: 2024-06-09T07:47:06.742Z
+updated: 2024-06-10T07:47:06.742Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Use Special Features - Virtual Location On Motorola Defy 2?
 excerpt: This article describes How To Use Special Features - Virtual Location On Motorola Defy 2?
 keywords: change location on Defy 2,fake gps location on android,change location on android,fake location on Defy 2,change gps location on android,fake location on android
-thumbnail: https://www.lifewire.com/thmb/RWcl_Joktvj_rmr9ViWUZrsB7e4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/homepod-hero-5a79bc226bf06900378a7e1a.jpg
+thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f898253edd18111f294ce2b839027.jpg
 ---
 
 ## How To Use Special Features  - Virtual Location On Motorola Defy 2?

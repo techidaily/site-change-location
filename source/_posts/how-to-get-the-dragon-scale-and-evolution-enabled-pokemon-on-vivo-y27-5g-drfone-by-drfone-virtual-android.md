@@ -1,7 +1,7 @@
 ---
 title: How to get the dragon scale and evolution-enabled pokemon On Vivo Y27 5G? | Dr.fone
-date: 2024-05-19T22:06:35.486Z
-updated: 2024-05-20T22:06:35.486Z
+date: 2024-06-09T07:46:04.538Z
+updated: 2024-06-10T07:46:04.538Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to get the dragon scale and evolution-enabled pokemon On Vivo Y27 5G?
 excerpt: This article describes How to get the dragon scale and evolution-enabled pokemon On Vivo Y27 5G?
 keywords: Pokémon Go Without Walking,Pokémon Go for Y27 5G,Pokemon Go Joystick for Y27 5G,Pokemon Go for Y27 5G,Pokemon Go Joystick Without Walking,Pokemon Go Without Walking
-thumbnail: https://www.lifewire.com/thmb/FO5DJQJt8EUiF4veEftl-goajY8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-151812569-ff7311e1de18461da9f8698205953384.jpg
+thumbnail: https://thmb.techidaily.com/1e90b427765970b2a66b4df52c7b1587d47d7c547c6bb5f5df0fa9181f11e1b7.jpg
 ---
 
 ## How to get the dragon scale and evolution-enabled pokemon On Vivo Y27 5G?

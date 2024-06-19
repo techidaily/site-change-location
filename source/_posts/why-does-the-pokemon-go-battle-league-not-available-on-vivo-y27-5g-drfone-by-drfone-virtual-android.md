@@ -1,7 +1,7 @@
 ---
 title: Why does the pokemon go battle league not available On Vivo Y27 5G | Dr.fone
-date: 2024-05-19T22:06:35.461Z
-updated: 2024-05-20T22:06:35.461Z
+date: 2024-06-09T07:46:34.691Z
+updated: 2024-06-10T07:46:34.691Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -10,7 +10,7 @@ categories:
 description: This article describes Why does the pokemon go battle league not available On Vivo Y27 5G
 excerpt: This article describes Why does the pokemon go battle league not available On Vivo Y27 5G
 keywords: Pokemon Go Joystick for Y27 5G,Pokémon Go for Y27 5G,Pokémon Go Without Walking,Pokemon Go Without Walking,Pokemon Go Joystick Without Walking,Pokemon Go for Y27 5G
-thumbnail: https://www.lifewire.com/thmb/5tD-_gpIrKxGqi4E54Dp4SLyqMY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/On-Line-Job-Search-aa2565e859bd43a2aa34dfa1537dbd50.jpg
+thumbnail: https://thmb.techidaily.com/51dee520b6548ad713de001f9d872ff359ce7157fc9657d20a61cd8374fcc9ae.jpg
 ---
 
 ## Why does the pokemon go battle league not available On Vivo Y27 5G

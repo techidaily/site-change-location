@@ -1,7 +1,7 @@
 ---
 title: How To Use Special Features - Virtual Location On Vivo Y02T? | Dr.fone
-date: 2024-05-19T22:07:57.711Z
-updated: 2024-05-20T22:07:57.711Z
+date: 2024-06-09T07:45:53.414Z
+updated: 2024-06-10T07:45:53.414Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Use Special Features - Virtual Location On Vivo Y02T?
 excerpt: This article describes How To Use Special Features - Virtual Location On Vivo Y02T?
 keywords: fake location on Y02T,fake location on android,change location on android,change gps location on android,fake gps location on android,change location on Y02T
-thumbnail: https://www.lifewire.com/thmb/z0FcObDyImu70neTKRlkwzqQTeM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-17-best-graphic-design-software-2024-1dd6c15b34124b25b65e4b096e4e6ba4.jpg
+thumbnail: https://thmb.techidaily.com/d24334e679d3e178a2e8d9f5b333fac2b20b9134a044e30e2240a2331d8bec84.jpg
 ---
 
 ## How To Use Special Features  - Virtual Location On Vivo Y02T?

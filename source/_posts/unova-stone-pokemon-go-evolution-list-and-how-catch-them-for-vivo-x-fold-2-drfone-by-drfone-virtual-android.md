@@ -1,7 +1,7 @@
 ---
 title: Unova Stone Pokémon Go Evolution List and How Catch Them For Vivo X Fold 2 | Dr.fone
-date: 2024-05-19T22:06:17.826Z
-updated: 2024-05-20T22:06:17.826Z
+date: 2024-06-09T07:47:06.690Z
+updated: 2024-06-10T07:47:06.690Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -10,7 +10,7 @@ categories:
 description: This article describes Unova Stone Pokémon Go Evolution List and How Catch Them For Vivo X Fold 2
 excerpt: This article describes Unova Stone Pokémon Go Evolution List and How Catch Them For Vivo X Fold 2
 keywords: Pokemon Go for X Fold 2,Pokemon Go Joystick for X Fold 2,Pokémon Go for X Fold 2,Pokémon Go Without Walking,Pokemon Go Without Walking,Pokemon Go Joystick Without Walking
-thumbnail: https://www.lifewire.com/thmb/he26hNDyU2vpo9vDwma05qKk-R8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/espnplus-6d79c347f2df42d7a38cdb0ba9a2472b.jpg
+thumbnail: https://thmb.techidaily.com/1296bc6cf3d8ba602cee83fbaf9d9aae0f41d750526e3d62954932be609de318.jpg
 ---
 
 ## Unova Stone Pokémon Go Evolution List and How Catch Them For Vivo X Fold 2

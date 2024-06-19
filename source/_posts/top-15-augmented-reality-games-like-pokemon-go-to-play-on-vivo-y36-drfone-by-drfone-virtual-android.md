@@ -1,7 +1,7 @@
 ---
 title: Top 15 Augmented Reality Games Like Pokémon GO To Play On Vivo Y36 | Dr.fone
-date: 2024-05-19T22:06:32.675Z
-updated: 2024-05-20T22:06:32.675Z
+date: 2024-06-09T07:47:17.809Z
+updated: 2024-06-10T07:47:17.809Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -10,7 +10,7 @@ categories:
 description: This article describes Top 15 Augmented Reality Games Like Pokémon GO To Play On Vivo Y36
 excerpt: This article describes Top 15 Augmented Reality Games Like Pokémon GO To Play On Vivo Y36
 keywords: Pokemon Go for Y36,Pokémon Go for Y36,Pokemon Go Joystick for Y36,Pokemon Go Joystick Without Walking,Pokemon Go Without Walking,Pokémon Go Without Walking
-thumbnail: https://www.lifewire.com/thmb/RHk5CzUskZEHtVQS5Kba30nHhvY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-kindle-unlimited-worth-it-fda01dceb923406a8524c64d2b72693e.jpg
+thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc218886423e579644f1092e23638fe5.jpg
 ---
 
 ## Top 15 Augmented Reality Games Like Pokémon GO To Play On Vivo Y36

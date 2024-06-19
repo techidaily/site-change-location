@@ -1,7 +1,7 @@
 ---
 title: How to Use Life360 on Windows PC For Poco C65? | Dr.fone
-date: 2024-04-30T06:07:35.724Z
-updated: 2024-05-01T06:07:35.724Z
+date: 2024-06-09T07:45:37.297Z
+updated: 2024-06-10T07:45:37.297Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Use Life360 on Windows PC For Poco C65?
 excerpt: This article describes How to Use Life360 on Windows PC For Poco C65?
 keywords: change location on C65,change location on android,fake location on C65,fake location on android,fake gps location on android,change gps location on android
-thumbnail: https://www.lifewire.com/thmb/4ql928fMUKkO_EPWrgDkfeEcVtE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/family-hanging-out-watching-videos-online-1166432791-309c6f7ac8cb4cc99875db5a77fd6f35.jpg
+thumbnail: https://thmb.techidaily.com/d208efb0315dc3e80b4d5a8f4b751d30ee62ca28dd2151c249d15e615be6f528.jpg
 ---
 
 ## How to Use Life360 on Windows PC For Poco C65?

@@ -1,7 +1,7 @@
 ---
 title: How to Stop Life360 from Tracking You On Nubia Red Magic 9 Pro? | Dr.fone
-date: 2024-04-07T02:12:02.431Z
-updated: 2024-04-08T02:12:02.431Z
+date: 2024-06-09T07:45:55.237Z
+updated: 2024-06-10T07:45:55.237Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Stop Life360 from Tracking You On Nubia Red Magic 9 Pro?
 excerpt: This article describes How to Stop Life360 from Tracking You On Nubia Red Magic 9 Pro?
 keywords: change location on Red Magic 9 Pro,fake location on Red Magic 9 Pro,change gps location on android,fake location on android,change location on android,fake gps location on android
-thumbnail: https://www.lifewire.com/thmb/GmtX4Dz-IqWNOXpwPIQPNtbYXbk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-174294003-57c6ee043df78cc16eeab260.jpg
+thumbnail: https://thmb.techidaily.com/8357b168f14ad6299dbc663fee70693f53617c625c6e0b9ad212abd473aa163b.jpg
 ---
 
 ## How to Stop Life360 from Tracking You On Nubia Red Magic 9 Pro?

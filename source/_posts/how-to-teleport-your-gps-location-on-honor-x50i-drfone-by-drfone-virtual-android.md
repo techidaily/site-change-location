@@ -1,7 +1,7 @@
 ---
 title: How To Teleport Your GPS Location On Honor X50i? | Dr.fone
-date: 2024-04-12T02:52:11.214Z
-updated: 2024-04-13T02:52:11.214Z
+date: 2024-06-09T07:48:20.921Z
+updated: 2024-06-10T07:48:20.921Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Teleport Your GPS Location On Honor X50i?
 excerpt: This article describes How To Teleport Your GPS Location On Honor X50i?
 keywords: fake location on X50i,fake gps location on android,change location on android,fake location on android,change location on X50i,change gps location on android
-thumbnail: https://www.lifewire.com/thmb/A1hfnW-9b0eVXXkLwD_6ei9mr2I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AE-lock-572ece975f9b58c34c0a2492.jpg
+thumbnail: https://thmb.techidaily.com/e086106512b2e9d753e081998408f58f33739fa1f0e7070951ebc50a7e45bfdb.jpg
 ---
 
 ## How To Teleport Your GPS Location On Honor X50i?

@@ -1,7 +1,7 @@
 ---
 title: How to Fix Pokemon Go Route Not Working On Samsung Galaxy Z Fold 5? | Dr.fone
-date: 2024-05-19T22:05:39.435Z
-updated: 2024-05-20T22:05:39.435Z
+date: 2024-06-09T07:45:53.451Z
+updated: 2024-06-10T07:45:53.451Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Fix Pokemon Go Route Not Working On Samsung Galaxy Z Fold 5?
 excerpt: This article describes How to Fix Pokemon Go Route Not Working On Samsung Galaxy Z Fold 5?
 keywords: Pokémon Go for Galaxy Z Fold 5,Pokemon Go Joystick Without Walking,Pokémon Go Without Walking,Pokemon Go Without Walking,Pokemon Go Joystick for Galaxy Z Fold 5,Pokemon Go for Galaxy Z Fold 5
-thumbnail: https://www.lifewire.com/thmb/85rwStNr21lvFIjCfmY8ErdogYI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/wimbledonlivestream-c22d5eefbf8f40e9b25ba4cab1734ece.jpg
+thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c12bd8c02f2b01f747786c25.jpg
 ---
 
 ## How to Fix Pokemon Go Route Not Working On Samsung Galaxy Z Fold 5?

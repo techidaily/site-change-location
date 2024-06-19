@@ -1,7 +1,7 @@
 ---
 title: Planning to Use a Pokemon Go Joystick on Samsung Galaxy S23 Ultra? | Dr.fone
-date: 2024-05-19T22:05:14.109Z
-updated: 2024-05-20T22:05:14.109Z
+date: 2024-06-09T07:47:10.407Z
+updated: 2024-06-10T07:47:10.407Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -10,7 +10,7 @@ categories:
 description: This article describes Planning to Use a Pokemon Go Joystick on Samsung Galaxy S23 Ultra?
 excerpt: This article describes Planning to Use a Pokemon Go Joystick on Samsung Galaxy S23 Ultra?
 keywords: Pokemon Go for Galaxy S23 Ultra,Pokemon Go Without Walking,Pokémon Go Without Walking,Pokemon Go Joystick Without Walking,Pokemon Go Joystick for Galaxy S23 Ultra,Pokémon Go for Galaxy S23 Ultra
-thumbnail: https://www.lifewire.com/thmb/0zAfKCPSLtJGJZ4s7ICQ5FGmSzY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Verified-badge-on-phone-658ecad4f9104dae97a969bfa2f74eb3.jpg
+thumbnail: https://thmb.techidaily.com/bedeaab43df1b8b5afd8fae799c1b0ff2cb5a9adc8ca952932303c5e2c53ba39.jpg
 ---
 
 ## Planning to Use a Pokemon Go Joystick on Samsung Galaxy S23 Ultra?

@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Vivo Y78+ | Dr.fone
-date: 2024-05-19T22:06:20.501Z
-updated: 2024-05-20T22:06:20.501Z
+date: 2024-06-09T07:47:24.189Z
+updated: 2024-06-10T07:47:24.189Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -10,7 +10,7 @@ categories:
 description: This article describes The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Vivo Y78+
 excerpt: This article describes The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Vivo Y78+
 keywords: Pokémon Go Without Walking,Pokémon Go for Y78+,Pokemon Go Without Walking,Pokemon Go Joystick for Y78+,Pokemon Go for Y78+,Pokemon Go Joystick Without Walking
-thumbnail: https://www.lifewire.com/thmb/ptfhak0BFgk1HbWMQnlfEezMM8Q=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/kentuckyderby-5c7ed5d646e0fb00011bf3da.jpg
+thumbnail: https://thmb.techidaily.com/11a5b5bdf5c605b4fbfac8e2beadd347faae794edca9da0873a40e49d2c700e6.jpg
 ---
 
 ## The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Vivo Y78+

@@ -1,7 +1,7 @@
 ---
 title: Pokemon Go Error 12 Failed to Detect Location On Samsung Galaxy M14 5G? | Dr.fone
-date: 2024-05-19T22:05:19.472Z
-updated: 2024-05-20T22:05:19.472Z
+date: 2024-06-09T07:46:19.801Z
+updated: 2024-06-10T07:46:19.801Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -10,7 +10,7 @@ categories:
 description: This article describes Pokemon Go Error 12 Failed to Detect Location On Samsung Galaxy M14 5G?
 excerpt: This article describes Pokemon Go Error 12 Failed to Detect Location On Samsung Galaxy M14 5G?
 keywords: Pokémon Go for Galaxy M14 5G,Pokemon Go Joystick for Galaxy M14 5G,Pokémon Go Without Walking,Pokemon Go Joystick Without Walking,Pokemon Go Without Walking,Pokemon Go for Galaxy M14 5G
-thumbnail: https://www.lifewire.com/thmb/BzSvFjNWXiwqImdtAjFSSOWv3r4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/audio-books-56a324b93df78cf7727c00f5.jpg
+thumbnail: https://thmb.techidaily.com/f75585e4daf78953dd0ce1cfd0b26209fab1e9c588003fe7de564148a8e3e23c.jpg
 ---
 
 ## Pokemon Go Error 12 Failed to Detect Location On Samsung Galaxy M14 5G?

@@ -1,7 +1,7 @@
 ---
 title: How To Use Special Features - Virtual Location On Asus ROG Phone 8 Pro? | Dr.fone
-date: 2024-05-19T22:07:04.329Z
-updated: 2024-05-20T22:07:04.329Z
+date: 2024-06-09T07:46:10.726Z
+updated: 2024-06-10T07:46:10.726Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Use Special Features - Virtual Location On Asus ROG Phone 8 Pro?
 excerpt: This article describes How To Use Special Features - Virtual Location On Asus ROG Phone 8 Pro?
 keywords: change location on ROG Phone 8 Pro,fake gps location on android,change location on android,fake location on android,change gps location on android,fake location on ROG Phone 8 Pro
-thumbnail: https://www.lifewire.com/thmb/DkM9pHd1hq5V02UbKX94h0TfJkQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/duetinslides-fd2c11f1a91a4d7388cc25f2f4719cca.jpg
+thumbnail: https://thmb.techidaily.com/c097990fd37784ce6293a6224fb832fd4d9a7841c40f79ad9e48ab602a74cd56.jpg
 ---
 
 ## How To Use Special Features  - Virtual Location On Asus ROG Phone 8 Pro?

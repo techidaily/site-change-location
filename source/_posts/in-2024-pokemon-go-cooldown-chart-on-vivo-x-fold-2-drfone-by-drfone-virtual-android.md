@@ -1,7 +1,7 @@
 ---
 title: In 2024, Pokémon Go Cooldown Chart On Vivo X Fold 2 | Dr.fone
-date: 2024-05-19T22:06:18.198Z
-updated: 2024-05-20T22:06:18.198Z
+date: 2024-06-09T07:45:31.594Z
+updated: 2024-06-10T07:45:31.594Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -10,7 +10,7 @@ categories:
 description: This article describes Pokémon Go Cooldown Chart On Vivo X Fold 2
 excerpt: This article describes Pokémon Go Cooldown Chart On Vivo X Fold 2
 keywords: Pokémon Go Without Walking,Pokemon Go Joystick Without Walking,Pokémon Go for X Fold 2,Pokemon Go Joystick for X Fold 2,Pokemon Go Without Walking,Pokemon Go for X Fold 2
-thumbnail: https://www.lifewire.com/thmb/Ieqo8YRlMCtlE-OyiprzvT0zaaY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1139232374-700d343900854115ad26acf3f1dd80b3.jpg
+thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba8907f6c40cdafb2c11a8f5a83.jpg
 ---
 
 ## Pokémon Go Cooldown Chart On Vivo X Fold 2

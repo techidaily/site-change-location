@@ -1,7 +1,7 @@
 ---
 title: In 2024, Detailed guide of ispoofer for pogo installation On Vivo X Fold 2 | Dr.fone
-date: 2024-05-19T22:06:17.966Z
-updated: 2024-05-20T22:06:17.966Z
+date: 2024-06-09T07:46:08.573Z
+updated: 2024-06-10T07:46:08.573Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -10,7 +10,7 @@ categories:
 description: This article describes Detailed guide of ispoofer for pogo installation On Vivo X Fold 2
 excerpt: This article describes Detailed guide of ispoofer for pogo installation On Vivo X Fold 2
 keywords: Pokemon Go Joystick for X Fold 2,Pokémon Go for X Fold 2,Pokemon Go Joystick Without Walking,Pokemon Go for X Fold 2,Pokemon Go Without Walking,Pokémon Go Without Walking
-thumbnail: https://www.lifewire.com/thmb/ir-tdkJhetInDNhHCkfbZa8f19M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Flack-6b3c3167132c467db22bae39689c44ef.jpg
+thumbnail: https://thmb.techidaily.com/918ad49eae4bb09e7bbe637c097999923379261d114b5800bdb87d98b552aa6d.jpg
 ---
 
 ## Detailed guide of ispoofer for pogo installation On Vivo X Fold 2

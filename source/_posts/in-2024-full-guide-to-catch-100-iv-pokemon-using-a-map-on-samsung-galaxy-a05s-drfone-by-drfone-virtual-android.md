@@ -1,7 +1,7 @@
 ---
 title: In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Samsung Galaxy A05s | Dr.fone
-date: 2024-05-19T22:05:46.874Z
-updated: 2024-05-20T22:05:46.874Z
+date: 2024-06-09T07:45:35.294Z
+updated: 2024-06-10T07:45:35.294Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -10,7 +10,7 @@ categories:
 description: This article describes Full Guide to Catch 100 IV Pokémon Using a Map On Samsung Galaxy A05s
 excerpt: This article describes Full Guide to Catch 100 IV Pokémon Using a Map On Samsung Galaxy A05s
 keywords: Pokémon Go for Galaxy A05s,Pokemon Go Joystick for Galaxy A05s,Pokemon Go Joystick Without Walking,Pokemon Go for Galaxy A05s,Pokémon Go Without Walking,Pokemon Go Without Walking
-thumbnail: https://www.lifewire.com/thmb/EPDzjUiegMEW3vQpFQEPlf_7s2U=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1135364530-dec5678c0c2c427ba18ae21452ff6326.jpg
+thumbnail: https://thmb.techidaily.com/8b5881e327b9c1ba2eb90535b5e52b8fb37d29efd85f95b1f8c43ff4375091ae.jpg
 ---
 
 ## Full Guide to Catch 100 IV Pokémon Using a Map On Samsung Galaxy A05s

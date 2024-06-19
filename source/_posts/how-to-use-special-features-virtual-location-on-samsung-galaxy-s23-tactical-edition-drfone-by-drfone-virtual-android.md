@@ -1,7 +1,7 @@
 ---
 title: How To Use Special Features - Virtual Location On Samsung Galaxy S23 Tactical Edition? | Dr.fone
-date: 2024-05-19T22:07:46.698Z
-updated: 2024-05-20T22:07:46.698Z
+date: 2024-06-09T07:47:49.685Z
+updated: 2024-06-10T07:47:49.685Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Use Special Features - Virtual Location On Samsung Galaxy S23 Tactical Edition?
 excerpt: This article describes How To Use Special Features - Virtual Location On Samsung Galaxy S23 Tactical Edition?
 keywords: change location on android,fake location on android,change gps location on android,change location on Galaxy S23 Tactical Edition,fake gps location on android,fake location on Galaxy S23 Tactical Edition
-thumbnail: https://www.lifewire.com/thmb/cnbU86cA88gNmLB_6vGsp1ZnxFM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/asian-woman-talking-into-microphone-722208887-5b2a989730371300373a0447.jpg
+thumbnail: https://thmb.techidaily.com/078ec5c6b19df307c3d053f03815c7d21ecece8ed3226ebe1d118a70909568e6.jpg
 ---
 
 ## How To Use Special Features  - Virtual Location On Samsung Galaxy S23 Tactical Edition?

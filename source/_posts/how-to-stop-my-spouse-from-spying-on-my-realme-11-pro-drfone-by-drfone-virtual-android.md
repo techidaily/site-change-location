@@ -1,7 +1,7 @@
 ---
 title: How to Stop My Spouse from Spying on My Realme 11 Pro | Dr.fone
-date: 2024-04-09T02:52:01.933Z
-updated: 2024-04-10T02:52:01.933Z
+date: 2024-06-09T07:47:39.218Z
+updated: 2024-06-10T07:47:39.218Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Stop My Spouse from Spying on My Realme 11 Pro
 excerpt: This article describes How to Stop My Spouse from Spying on My Realme 11 Pro
 keywords: fake location on android,fake gps location on android,change gps location on android,fake location on 11 Pro,change location on android,change location on 11 Pro
-thumbnail: https://www.lifewire.com/thmb/iwoCmi7AdF2SQEdJBdU3jN_mTWY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-136612668-5c640cc5c9e77c00010a4ff4.jpg
+thumbnail: https://thmb.techidaily.com/fd49bc993ce8510e13bd3ece8f5853b9890f1d550e51d2b3c30dcfc01a7a61b2.jpg
 ---
 
 ## How to Stop My Spouse from Spying on My Realme 11 Pro
