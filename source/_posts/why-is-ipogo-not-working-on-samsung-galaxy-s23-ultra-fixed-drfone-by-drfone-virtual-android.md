@@ -1,7 +1,7 @@
 ---
 title: Why is iPogo not working On Samsung Galaxy S23 Ultra? Fixed | Dr.fone
-date: 2024-05-19T22:05:14.195Z
-updated: 2024-05-20T22:05:14.195Z
+date: 2024-06-26T01:31:17.271Z
+updated: 2024-06-27T01:31:17.271Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -10,7 +10,7 @@ categories:
 description: This article describes Why is iPogo not working On Samsung Galaxy S23 Ultra? Fixed
 excerpt: This article describes Why is iPogo not working On Samsung Galaxy S23 Ultra? Fixed
 keywords: Pokémon Go for Galaxy S23 Ultra,Pokemon Go Without Walking,Pokemon Go Joystick Without Walking,Pokémon Go Without Walking,Pokemon Go for Galaxy S23 Ultra,Pokemon Go Joystick for Galaxy S23 Ultra
-thumbnail: https://www.lifewire.com/thmb/U4MhHoz9AdQJe4tEoeV-ONBuCas=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sony-ps5-d3975e63d2ff47e6ac4e81768b79801c.jpg
+thumbnail: https://thmb.techidaily.com/0aeedb6f0e08290ddfa4945f77d0426cb986cac7f0c8ef179d1c62c13237705d.jpg
 ---
 
 ## Why is iPogo not working On Samsung Galaxy S23 Ultra? Fixed

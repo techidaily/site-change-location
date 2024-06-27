@@ -1,7 +1,7 @@
 ---
 title: How to get the dragon scale and evolution-enabled pokemon On Vivo Y36? | Dr.fone
-date: 2024-06-18T08:16:54.210Z
-updated: 2024-06-19T08:16:54.210Z
+date: 2024-06-26T01:31:37.729Z
+updated: 2024-06-27T01:31:37.729Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -26,9 +26,7 @@ Following are the additional evolution items observed in Pokémon Go:
 - Sinnoh Stone
 - Sun Stone
 - Unova Stone
-- Upgrade
-
-![pokemon go](https://images.wondershare.com/drfone/2020/pokemon-go.jpg)
+- Upgrade ![pokemon go](https://images.wondershare.com/drfone/2020/pokemon-go.jpg)
 
 ## Part 1：What Pokémon can I evolve with a dragon scale on Pokémon Go?
 
@@ -123,9 +121,7 @@ You can check the true percentages of your characters’ IVs in the gaming app i
 
 Further, you can also click on the arrows on the left and right to see the stats of the next Pokémon.
 
-### 2.2 Know Pokémon IV using search filters
-
-![know pokemon iv](https://images.wondershare.com/drfone/2023/virtuallocation/Pokemon-Go-100-IV-Map-2.jpg)
+### 2.2 Know Pokémon IV using search filters ![know pokemon iv](https://images.wondershare.com/drfone/2023/virtuallocation/Pokemon-Go-100-IV-Map-2.jpg)
 
 Pokémon Go app has a search feature that you can use to know the exact IV of Pokémon. To do this, tap the search icon present at the top of your Pokémon menu. Now in the search bar, type the name of any Pokémon, say type “shiny”. This will show all the shiny mons with different star ratings.
 
@@ -203,7 +199,7 @@ This map also has a helpful despawn counter, which tells the players about the d
 
 This map is for Android devices. However, it is not available on the Play Store, so you need to install it from a third-party source.
 
-_You may be interested in: [8 Best Alternatives of PokeCrew: Find Pokemons on an online map and see the distance to them.](https://drfone.wondershare.com/pokemon-map/pokecrew-map.html)_
+_You may be interested in: [8 Best Alternatives of PokeCrew: Find Pokemons on an online map and see the distance to them.](https://drfone.wondershare.com/pokemon-map/pokecrew-map.html) _
 
 ## Part 5: An Expert Tip to Catch 100 IV Pokémon Sitting at Home?
 

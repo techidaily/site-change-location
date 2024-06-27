@@ -1,7 +1,7 @@
 ---
 title: In 2024, Hacks to do pokemon go trainer battles For Vivo Y36 | Dr.fone
-date: 2024-05-19T22:06:33.464Z
-updated: 2024-05-20T22:06:33.464Z
+date: 2024-06-26T01:31:13.523Z
+updated: 2024-06-27T01:31:13.523Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -10,7 +10,7 @@ categories:
 description: This article describes Hacks to do pokemon go trainer battles For Vivo Y36
 excerpt: This article describes Hacks to do pokemon go trainer battles For Vivo Y36
 keywords: Pokemon Go Joystick for Y36,Pokemon Go for Y36,Pokémon Go for Y36,Pokemon Go Without Walking,Pokémon Go Without Walking,Pokemon Go Joystick Without Walking
-thumbnail: https://www.lifewire.com/thmb/URpxAt_UNeiJBr0hk-AFwm2D8lg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-change-your-tiktok-username-and-profile-picture-048cd3c3b4854846ab46f920e862332f.jpg
+thumbnail: https://thmb.techidaily.com/bab43c6ebbd68c7b02aa8931b44c8b3c5cf156c7a7bd1aa24fbe3ea34de877b1.jpg
 ---
 
 ## Hacks to do pokemon go trainer battles For Vivo Y36
@@ -186,9 +186,7 @@ Reportedly, you are required to have the mobile version of Home connected to you
 
 - Start Pokémon Go.
 - Click the PokeBall icon on the map at the bottom.
-- Advance to ‘Settings’ and scroll downwards and click Pokémon Home
-
-![pokemon settings](https://drfone.wondershare.com/2020/pokemon-settings.jpg)
+- Advance to ‘Settings’ and scroll downwards and click Pokémon Home ![pokemon settings](https://drfone.wondershare.com/2020/pokemon-settings.jpg)
 
 - Click ‘Sign In’ in your Nintendo Account. A pop up will appear asking for permission to sign in to 'nintendo.com,' pressing “Continue” will redirect to the website to log in.
 
@@ -210,9 +208,7 @@ On execution of the above instructions, follow the directions below to move a Po
 
 ![click on send pokemon](https://drfone.wondershare.com/2020/click-on-send-pokemon.jpg)
 
-- Press Continue
-
-![press continue button](https://drfone.wondershare.com/2020/press-continue-button.jpg)
+- Press Continue ![press continue button](https://drfone.wondershare.com/2020/press-continue-button.jpg)
 
 - Select the Pokémon you want to relocate
 - Click ‘Next’
