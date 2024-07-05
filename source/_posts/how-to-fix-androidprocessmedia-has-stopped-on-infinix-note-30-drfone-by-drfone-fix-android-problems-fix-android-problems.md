@@ -1,7 +1,7 @@
 ---
 title: How to Fix Android.Process.Media Has Stopped on Infinix Note 30 | Dr.fone
-date: 2024-03-20 10:52:55
-updated: 2024-03-21 19:24:41
+date: 2024-07-04T01:10:19.944Z
+updated: 2024-07-05T01:10:19.944Z
 tags: 
   - problems
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Fix Android.Process.Media Has Stopped on Infinix Note 30
 excerpt: This article describes How to Fix Android.Process.Media Has Stopped on Infinix Note 30
 keywords: fix android problems,Infinix Note 30 android troubleshooting,Infinix Note 30 android support,android solutions,Infinix Note 30 android guide,Infinix Note 30 android tips,android issues,Infinix Note 30 android help,Infinix Note 30 android repair,android support,android tips,Infinix Note 30 android fix
-thumbnail: https://www.lifewire.com/thmb/44IYkFUfRU4h-daoi0uxZYAKRhI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Lifewire_Windows_Update_2624595-9da08302ecc44539b8f0fa484a81227e.jpg
+thumbnail: https://thmb.techidaily.com/cdd8eafd008cf95809620f415b6d0453d80ccae0c32a9023581f934b16334c5a.jpg
 ---
 
 ## How to Fix Android.Process.Media Has Stopped on Infinix Note 30
@@ -34,7 +34,7 @@ It is always a good idea to back up your data especially before embarking on any
 
 
 
-### [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/)
+### Wondershare Dr.Fone
 
 Flexibly Back up and Restore Android Data
 
@@ -65,7 +65,7 @@ When your device is displayed on the window of the program, click "Back Up Now "
 
 ![Android. Process. Media - select data types](https://images.wondershare.com/drfone/guide/android-backup-and-restore-5.png)
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 ## Part 3. How to Fix "Android. Process. Media" Error
 
@@ -125,7 +125,7 @@ This Should clear the error message for good.
 
 
 
-### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
+### Dr.Fone - System Repair (Android)
 
 Fix Android process media has stopped issue in one click
 
@@ -168,7 +168,7 @@ It may take a while, so you could have a cup of coffee to wait for the repair pr
 
 ![android.process.media stopping fixed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 ### Method 7: Factory Reset your device
 
@@ -180,7 +180,7 @@ If the problem persists after trying the above steps, it could be related to spe
 
 It is our hope that when faced with this fairly common error, you will not panic. This is a fairly mild issue that can easily be fixed as we have seen above.
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 
 
@@ -198,7 +198,7 @@ Here, we are going to mention four common methods that you can try to resolve th
 
 When it comes to the home button not working Infinix Note 30 problem, the most common reason is the unknown system issues. In such a scenario, the best solution is using Dr.Fone - System Repair (Android) software to repair your Android system to normal in one click. This tool is powerful enough to resolve various Android issues within a few minutes.
 
-### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
+### Dr.Fone - System Repair (Android)
 
 Android repair tool to fix home button not working on Android
 
@@ -380,7 +380,7 @@ The Android blue screen of death issue is not a difficult problem to deal with a
 
 
 
-### [Dr.Fone - Data Recovery (Android)](https://drfone.wondershare.com/android-data-recovery.html)
+### Dr.Fone - Data Recovery (Android)
 
 World's 1st data retrieval software for broken Android devices.
 
@@ -425,7 +425,7 @@ Follow the steps given below to extract data when you experience an Android scre
 
 The process may take up to a few minutes and once it's done all your files will be extracted and stored on your PC. You can now move on to troubleshooting the problem without the fear of losing all your important data.
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 ## Part 2: One click to fix the Android blue screen of death
 
@@ -435,7 +435,7 @@ This software effectively fixes Android screen of death issue along with app cra
 
 
 
-### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
+### Dr.Fone - System Repair (Android)
 
 Easy and effective solution to fix the **Android blue screen of death**！
 
@@ -447,7 +447,7 @@ Easy and effective solution to fix the **Android blue screen of death**！
 
 **4,750,154** people have downloaded it
 
-**Note:** _[Backing up your device](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) is significant before you carry out the Android repair process. The process of fixing the **Android blue screen of death** issue may erase data from your Infinix Note 30. So backing up your Android seems a viable option._
+**Note:** _ [Backing up your device](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) is significant before you carry out the Android repair process. The process of fixing the **Android blue screen of death** issue may erase data from your Infinix Note 30. So backing up your Android seems a viable option._
 
 **Phase 1: Connecting your Android after preparing it**
 
@@ -483,7 +483,7 @@ Step 3: Dr.Fone - System Repair (Android) would verify the firmware post-downloa
 
 ![android system repaired](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 ## Part 3: Force Restart Your Infinix Note 30
 
@@ -525,7 +525,7 @@ Software problems can manifest the Android equivalent of a blue screen of death.
 
 **Step:** Open the Settings app on your Infinix Note 30 by locating and launching it. Proceed by scrolling through the options and selecting "Software Update." In the ensuing screen, choose "Download and Install" to start a search for any available updates.
 
-![update the android os ](https://images.wondershare.com/drfone/article/2023/08/fix-android-blue-screen-of-death-3.jpg)
+![update the android os](https://images.wondershare.com/drfone/article/2023/08/fix-android-blue-screen-of-death-3.jpg)
 
 ## Part 8: How to fix the Android blue screen of death by factory reset?
 
@@ -551,7 +551,7 @@ Have you tried all the methods, and your Infinix Note 30 is still stuck on the b
 
 The Android screen of death, especially the **Android blue screen of death**, is not a very pleasant sight and could worry you. The good news is that this problem can be fixed by you sitting at home without any technical assistance. Follow the simple and easy tips given above to reboot your device and use the Dr.Fone - Data Recovery (Damaged Device) tool to rescue your data in the most efficient and effective way, then use Dr.Fone - System Repair (Android) to repair your Infinix Note 30.
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 
 <ins class="adsbygoogle"
@@ -568,3 +568,24 @@ The Android screen of death, especially the **Android blue screen of death**, is
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Lava Yuva 3 Pro? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Lava Yuva 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Xiaomi Redmi Note 12T Pro? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Samsung Galaxy A05s? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/all-you-need-to-know-about-mega-greninja-for-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Vivo X100 Pro | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Vivo V27 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-navigating-the-world-of-9gag-memes-made-easy/"><u>In 2024, Navigating the World of 9GAG Memes Made Easy</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-guide-to-effortless-acquisition-of-exquisite-royalty-free-images/"><u>In 2024, The Guide to Effortless Acquisition of Exquisite Royalty-Free Images</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/azoom-for-your-videos-top-10-choices-to-watch-out-for/"><u>Azoom for Your Videos  Top 10 Choices to Watch Out For</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-brighten-your-iphones-nighttime-recordings/"><u>[New] Brighten Your iPhone's Nighttime Recordings</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-expertise-in-expunging-stickers-from-videos/"><u>The Ultimate Expertise in Expunging Stickers From Videos</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-lava-blaze-2-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Lava Blaze 2 to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/c-span-video-streaming-without-a-paid-subscription/"><u>C-Span Video Streaming Without a Paid Subscription</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-elite-selection-best-budget-friendly-video-call-software/"><u>In 2024, Elite Selection  Best Budget-Friendly Video Call Software</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-best-applications-that-can-help-apply-the-best-vhs-camera-effect/"><u>New In 2024, Best Applications That Can Help Apply The Best VHS Camera Effect</u></a></li>
+</ul></div>

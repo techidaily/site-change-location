@@ -1,7 +1,7 @@
 ---
 title: What Pokémon Evolve with A Dawn Stone For Vivo X90S? | Dr.fone
-date: 2024-05-19T22:06:33.577Z
-updated: 2024-05-20T22:06:33.577Z
+date: 2024-07-04T01:11:05.299Z
+updated: 2024-07-05T01:11:05.299Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -10,7 +10,7 @@ categories:
 description: This article describes What Pokémon Evolve with A Dawn Stone For Vivo X90S?
 excerpt: This article describes What Pokémon Evolve with A Dawn Stone For Vivo X90S?
 keywords: Pokemon Go for X90S,Pokémon Go Without Walking,Pokemon Go Joystick for X90S,Pokemon Go Joystick Without Walking,Pokémon Go for X90S,Pokemon Go Without Walking
-thumbnail: https://www.lifewire.com/thmb/EfVcCvt847EIyGogkSGXl-6NCV8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1139785112-76d1d0f975934233883a19f33b8cd813.jpg
+thumbnail: https://thmb.techidaily.com/9f62d3731a8382b4f3dd399792beace27de12660de659b232891d22eb2e884d9.jpg
 ---
 
 ## What Pokémon Evolve with A Dawn Stone For Vivo X90S?

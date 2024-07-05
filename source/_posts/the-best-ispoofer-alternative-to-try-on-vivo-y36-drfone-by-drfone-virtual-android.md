@@ -1,7 +1,7 @@
 ---
 title: The Best iSpoofer Alternative to Try On Vivo Y36 | Dr.fone
-date: 2024-05-19T22:06:32.093Z
-updated: 2024-05-20T22:06:32.093Z
+date: 2024-07-04T01:10:51.167Z
+updated: 2024-07-05T01:10:51.167Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -10,7 +10,7 @@ categories:
 description: This article describes The Best iSpoofer Alternative to Try On Vivo Y36
 excerpt: This article describes The Best iSpoofer Alternative to Try On Vivo Y36
 keywords: Pokemon Go Joystick Without Walking,Pokemon Go Joystick for Y36,Pokémon Go Without Walking,Pokemon Go Without Walking,Pokemon Go for Y36,Pokémon Go for Y36
-thumbnail: https://www.lifewire.com/thmb/EAqZr-HjkZo5i0jwoEEUqZxRCpc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1437209125-b47ae60035f248e2b01b781f50f919c1.jpg
+thumbnail: https://thmb.techidaily.com/6190a0016cd0db6cebefe5acaadd207d01333c2584c8d35c887e62fae8bb62c7.jpg
 ---
 
 ## The Best iSpoofer Alternative to Try On Vivo Y36

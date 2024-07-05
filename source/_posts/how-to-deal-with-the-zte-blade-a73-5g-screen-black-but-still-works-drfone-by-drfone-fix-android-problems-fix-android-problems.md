@@ -1,7 +1,7 @@
 ---
 title: How To Deal With the ZTE Blade A73 5G Screen Black But Still Works? | Dr.fone
-date: 2024-06-09T07:46:12.576Z
-updated: 2024-06-10T07:46:12.576Z
+date: 2024-07-04T01:11:14.505Z
+updated: 2024-07-05T01:11:14.505Z
 tags: 
   - problems
 categories:
@@ -191,7 +191,7 @@ Here’s how to fix your phone screen with Dr.Fone – System Repair on iOS/Andr
 
 ![drfone system repair process complete](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **4,262,204** people have downloaded it
 

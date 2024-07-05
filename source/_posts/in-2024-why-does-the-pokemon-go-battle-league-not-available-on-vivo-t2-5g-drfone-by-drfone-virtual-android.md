@@ -1,7 +1,7 @@
 ---
 title: In 2024, Why does the pokemon go battle league not available On Vivo T2 5G | Dr.fone
-date: 2024-05-19T22:06:13.331Z
-updated: 2024-05-20T22:06:13.331Z
+date: 2024-07-04T01:13:12.121Z
+updated: 2024-07-05T01:13:12.121Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -10,7 +10,7 @@ categories:
 description: This article describes Why does the pokemon go battle league not available On Vivo T2 5G
 excerpt: This article describes Why does the pokemon go battle league not available On Vivo T2 5G
 keywords: Pokemon Go Joystick for T2 5G,Pokémon Go for T2 5G,Pokemon Go for T2 5G,Pokemon Go Without Walking,Pokemon Go Joystick Without Walking,Pokémon Go Without Walking
-thumbnail: https://www.lifewire.com/thmb/hTKYwh0v7qXo9k56663KdHBIHZ4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-fix-a-critical-process-dies-windows-11-error-952a1ad6325f455aaef36516fb3f7120.jpg
+thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa481cdc60b824492075830e06.jpg
 ---
 
 ## Why does the pokemon go battle league not available On Vivo T2 5G

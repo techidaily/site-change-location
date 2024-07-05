@@ -1,7 +1,7 @@
 ---
 title: In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Vivo S18e | Dr.fone
-date: 2024-03-24 16:21:54
-updated: 2024-03-27 18:47:34
+date: 2024-07-04T01:10:57.296Z
+updated: 2024-07-05T01:10:57.296Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -10,7 +10,7 @@ categories:
 description: This article describes Top 15 Augmented Reality Games Like Pokémon GO To Play On Vivo S18e
 excerpt: This article describes Top 15 Augmented Reality Games Like Pokémon GO To Play On Vivo S18e
 keywords: Pokémon Go Without Walking,Pokemon Go for S18e,Pokemon Go Without Walking,Pokémon Go for S18e,Pokemon Go Joystick for S18e,Pokemon Go Joystick Without Walking
-thumbnail: https://www.lifewire.com/thmb/5tD-_gpIrKxGqi4E54Dp4SLyqMY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/On-Line-Job-Search-aa2565e859bd43a2aa34dfa1537dbd50.jpg
+thumbnail: https://thmb.techidaily.com/51dee520b6548ad713de001f9d872ff359ce7157fc9657d20a61cd8374fcc9ae.jpg
 ---
 
 ## Top 15 Augmented Reality Games Like Pokémon GO To Play On Vivo S18e
@@ -65,8 +65,8 @@ If you like zombie movies, this game is the right one to download. “The Walkin
 
 ![the walking dead: our world](https://images.wondershare.com/drfone/article/2022/06/top-ar-games-like-pokemon-go-1.jpg)
 
-- _App Download for Android: [Link](https://play.google.com/store/apps/details?id=com.nextgames.android.ourworld&hl=en&gl=US)_
-- _App Download for iOS: [Link](https://apps.apple.com/us/app/the-walking-dead-our-world/id1328359160)_
+- _App Download for Android: [Link](https://play.google.com/store/apps/details?id=com.nextgames.android.ourworld&hl=en&gl=US) _
+- _App Download for iOS: [Link](https://apps.apple.com/us/app/the-walking-dead-our-world/id1328359160) _
 
 ### 14\. Dragon Quest Walk
 
@@ -74,7 +74,7 @@ Dragon Quest Walk is a game for those people who love watching or reading about 
 
 ![dragon quest walk](https://images.wondershare.com/drfone/article/2022/06/top-ar-games-like-pokemon-go-2.jpg)
 
-- _App Download for Android: [Link](https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.dqwalkj&hl=en&gl=US)_
+- _App Download for Android: [Link](https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.dqwalkj&hl=en&gl=US) _
 
 ### 13\. Pokémon Sword And Shield
 
@@ -82,7 +82,7 @@ After Pokémon Go’s popularity, they created another game with a different sto
 
 ![pokémon sword and shield](https://images.wondershare.com/drfone/article/2022/06/top-ar-games-like-pokemon-go-3.jpg)
 
-- _Official Website: [Link](https://swordshield.pokemon.com/en-us/)_
+- _Official Website: [Link](https://swordshield.pokemon.com/en-us/) _
 
 ### 12\. Jurassic World Alive
 
@@ -90,8 +90,8 @@ If you have watched and loved watching the Jurassic Park movies and just love di
 
 ![jurassic world alive](https://images.wondershare.com/drfone/article/2022/06/top-ar-games-like-pokemon-go-4.jpg)
 
-- _App Download for Android: [Link](https://play.google.com/store/apps/details?id=com.ludia.jw2&hl=en&gl=US)_
-- _App Download for iOS: [Link](https://apps.apple.com/us/app/jurassic-world-alive/id1231085864)_
+- _App Download for Android: [Link](https://play.google.com/store/apps/details?id=com.ludia.jw2&hl=en&gl=US) _
+- _App Download for iOS: [Link](https://apps.apple.com/us/app/jurassic-world-alive/id1231085864) _
 
 ### 11\. Ghost Busters World
 
@@ -99,7 +99,7 @@ Ghost Busters World is a game that was created and inspired by the Ghost Busters
 
 ![ghost busters world](https://images.wondershare.com/drfone/article/2022/06/top-ar-games-like-pokemon-go-5.jpg)
 
-- _App Download for Android: [Link](https://ghostbusters-world.en.softonic.com/android)_
+- _App Download for Android: [Link](https://ghostbusters-world.en.softonic.com/android) _
 
 ### 10\. Geocaching
 
@@ -107,8 +107,8 @@ If you love searching and hunting for treasure, then Geocaching is the perfect g
 
 ![geocaching](https://images.wondershare.com/drfone/article/2022/06/top-ar-games-like-pokemon-go-6.jpg)
 
-- _App Download for Android: [Link](https://play.google.com/store/apps/details?id=com.groundspeak.geocaching.intro&hl=en&gl=US)_
-- _App Download for iOS: [Link](https://apps.apple.com/us/app/geocaching/id329541503)_
+- _App Download for Android: [Link](https://play.google.com/store/apps/details?id=com.groundspeak.geocaching.intro&hl=en&gl=US) _
+- _App Download for iOS: [Link](https://apps.apple.com/us/app/geocaching/id329541503) _
 
 ### 9\. Zombies, Run
 
@@ -116,8 +116,8 @@ For those players who are into running or are physically fit, you playing the ga
 
 ![zombies, run](https://images.wondershare.com/drfone/article/2022/06/top-ar-games-like-pokemon-go-7.jpg)
 
-- _App Download for Android: [Link](https://play.google.com/store/apps/details?id=com.sixtostart.zombiesrunclient&hl=en)_
-- _App Download for iOS: [Link](https://apps.apple.com/us/app/zombies-run/id503519713)_
+- _App Download for Android: [Link](https://play.google.com/store/apps/details?id=com.sixtostart.zombiesrunclient&hl=en) _
+- _App Download for iOS: [Link](https://apps.apple.com/us/app/zombies-run/id503519713) _
 
 ### 8\. Orna
 
@@ -125,8 +125,8 @@ Orna is a role-playing game where you battle different creatures, explore dungeo
 
 ![orna](https://images.wondershare.com/drfone/article/2022/06/top-ar-games-like-pokemon-go-8.jpg)
 
-- _App Download for Android: [Link](https://play.google.com/store/apps/details?id=playorna.com.orna&hl=en&gl=US)_
-- _App Download for iOS: [Link](https://apps.apple.com/th/app/orna-turn-based-gps-rpg/id1451775309?l=th)_
+- _App Download for Android: [Link](https://play.google.com/store/apps/details?id=playorna.com.orna&hl=en&gl=US) _
+- _App Download for iOS: [Link](https://apps.apple.com/th/app/orna-turn-based-gps-rpg/id1451775309?l=th) _
 
 ### 7\. Sharks in the Park
 
@@ -134,7 +134,7 @@ If you love anything underwater, then Sharks in the Park is the game that you sh
 
 ![sharks in the park](https://images.wondershare.com/drfone/article/2022/06/top-ar-games-like-pokemon-go-9.jpg)
 
-- _App Download for Android: [Link](https://sharks-in-the-park.en.softonic.com/android)_
+- _App Download for Android: [Link](https://sharks-in-the-park.en.softonic.com/android) _
 
 ### 6\. The Witcher: Monster Slayer
 
@@ -142,8 +142,8 @@ The Witcher: Monster Slayer is a game that will be a big hit for gamers who like
 
 ![the witcher: monster slayer](https://images.wondershare.com/drfone/article/2022/06/top-ar-games-like-pokemon-go-15.jpg)
 
-- _App Download for Android: [Link](https://play.google.com/store/apps/details?id=com.spokko.witchermonsterslayer&hl=en&gl=US)_
-- _App Download for iOS: [Link](https://apps.apple.com/th/app/the-witcher-monster-slayer/id1509704647)_
+- _App Download for Android: [Link](https://play.google.com/store/apps/details?id=com.spokko.witchermonsterslayer&hl=en&gl=US) _
+- _App Download for iOS: [Link](https://apps.apple.com/th/app/the-witcher-monster-slayer/id1509704647) _
 
 ### 5\. The Walk
 
@@ -151,7 +151,7 @@ If you love going for walks, then The Walk is the game that you should try to el
 
 ![the walk](https://images.wondershare.com/drfone/article/2022/06/top-ar-games-like-pokemon-go-10.jpg)
 
-- _App Download for Android: [Link](https://play.google.com/store/apps/details?id=com.sixtostart.thewalk2&hl=en&gl=US)_
+- _App Download for Android: [Link](https://play.google.com/store/apps/details?id=com.sixtostart.thewalk2&hl=en&gl=US) _
 
 ### _4\. Minecraft Earth_
 
@@ -159,7 +159,7 @@ If you have played Minecraft or just have the knack for creating worlds, then yo
 
 ![minecraft earth](https://images.wondershare.com/drfone/article/2022/06/top-ar-games-like-pokemon-go-11.jpg)
 
-- _App Download for Android: [Link](https://play.google.com/store/apps/details?id=com.mojang.minecraftearth&hl=en&gl=AE)_
+- _App Download for Android: [Link](https://play.google.com/store/apps/details?id=com.mojang.minecraftearth&hl=en&gl=AE) _
 
 ### 3\. Pikmin Bloom
 
@@ -167,8 +167,8 @@ If you love creating and designing, you can try Pikmin Bloom game. This game all
 
 ![pikmin bloom](https://images.wondershare.com/drfone/article/2022/06/top-ar-games-like-pokemon-go-12.jpg)
 
-- _App Download for Android: [Link](https://play.google.com/store/apps/details?id=com.nianticlabs.pikmin&hl=en&gl=US)_
-- _App Download for iOS: [Link](https://apps.apple.com/us/app/pikmin-bloom/id1556357398)_
+- _App Download for Android: [Link](https://play.google.com/store/apps/details?id=com.nianticlabs.pikmin&hl=en&gl=US) _
+- _App Download for iOS: [Link](https://apps.apple.com/us/app/pikmin-bloom/id1556357398) _
 
 ### 2\. Harry Potter: Wizards Unite
 
@@ -176,7 +176,7 @@ If you grew up watching Harry Potter and would love to be a wizard, you should d
 
 ![harry potter: wizards unite](https://images.wondershare.com/drfone/article/2022/06/top-ar-games-like-pokemon-go-13.jpg)
 
-- _App Download for Android: [Link](https://play.google.com/store/apps/details?id=com.nianticlabs.hpwu.prod&hl=en&gl=RU)_
+- _App Download for Android: [Link](https://play.google.com/store/apps/details?id=com.nianticlabs.hpwu.prod&hl=en&gl=RU) _
 
 ### 1\. Ingress Prime
 
@@ -184,8 +184,8 @@ Ingress Prime is best suited for players who like the concept of playing Pokémo
 
 ![ingress prime](https://images.wondershare.com/drfone/article/2022/06/top-ar-games-like-pokemon-go-14.jpg)
 
-- _App Download for Android: [Link](https://play.google.com/store/apps/details?id=com.nianticproject.ingress&hl=en&gl=US)_
-- _App Downloads for iOS: [Link](https://apps.apple.com/us/app/ingress-prime/id576505181)_
+- _App Download for Android: [Link](https://play.google.com/store/apps/details?id=com.nianticproject.ingress&hl=en&gl=US) _
+- _App Downloads for iOS: [Link](https://apps.apple.com/us/app/ingress-prime/id576505181) _
 
 ## Conclusion
 
@@ -201,7 +201,7 @@ A Pokémon Go joystick lets you visit more places or teleport to any place world
 
 ![find the lists of the best Joysticks for Pokemon](https://images.wondershare.com/drfone/pokemon-lists.jpg)
 
-## 1\. [Dr.Fone – Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+## 1\. Dr.Fone – Virtual Location
 
 iOS users need to enjoy playing Pokémon Go like anybody else. The location-based setting of the app makes it hard to play, especially when you have collected all Pokémon’s near you. However, with Pokémon go spoofing iOS 2020, Dr.Fone has combined the joystick with a virtual area tool to spoof your location. Here are some of the features of the AnyGo from Dr.Fone.
 
@@ -294,7 +294,7 @@ Cons
 
 ## 5\. Fake GPS Location – Routes and Joystick
 
-![Fake any route you wish to with this app. ](https://images.wondershare.com/drfone/fake-gps-routes-and-joysticks.jpg)
+![Fake any route you wish to with this app.](https://images.wondershare.com/drfone/fake-gps-routes-and-joysticks.jpg)
 
 Another useful Pokémon Go GPS spoof app to make your augmented reality game have a better experience. Evvezone developed the GPS spoof joystick app, and it is available for both mobile systems, either android or iOS versions. The app has multiple features helpful in making your experience with Pokémon Go thrilling while seated at home.
 
@@ -375,14 +375,14 @@ Trading in Pokemon go is quite complex. This is because the needed Stardust poin
 - Ultra Friends: 8
 - Best friend: 4
 
-**Shiny or legendary ( caught by you)**
+**Shiny or legendary (caught by you)**
 
 - Good Friend: 20,000
 - Great Friend: 16,000
 - Ultra Friend: 1,600
 - Best Friend: 800
 
-**Shiny or Legendary ( not caught by you)**
+**Shiny or Legendary (not caught by you)**
 
 - Good Friend: 1,000,000
 - Great Friend: 800,000
@@ -425,7 +425,7 @@ Investing more and more time on the game will lead you to catching more pokemons
 
 ## Conclusion
 
-Well, the article did give us a lot of idea about stardust trade cost and how to increase Stardust trade points in Pokemon go. We dwelled more into major facts about the game and learned a lot about it. We also explored what is drfone-Virtual location ( iOS) and how it can help you to teleport from one place to another! Using the app will help you a lot in improving the game and wouldn't require you to do much! All you've to do is teleport from one place to another, catch more and more pokemons and get more stardust! As a player, it shall improve your stats by a huge margin!
+Well, the article did give us a lot of idea about stardust trade cost and how to increase Stardust trade points in Pokemon go. We dwelled more into major facts about the game and learned a lot about it. We also explored what is drfone-Virtual location (iOS) and how it can help you to teleport from one place to another! Using the app will help you a lot in improving the game and wouldn't require you to do much! All you've to do is teleport from one place to another, catch more and more pokemons and get more stardust! As a player, it shall improve your stats by a huge margin!
 
 
 <ins class="adsbygoogle"
@@ -442,3 +442,22 @@ Well, the article did give us a lot of idea about stardust trade cost and how to
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://change-location.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Vivo Y27 4G? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-infinix-hot-30-5g-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Infinix Hot 30 5G? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Vivo V30? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-poco-c65-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Poco C65? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>How to Use Life360 on Windows PC For Apple iPhone 13? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Samsung Galaxy S24 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Samsung Galaxy S24? | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-top-ranked-gaming-recorder-tools/"><u>2024 Approved  Top-Ranked Gaming Recorder Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-motionmaster-win8-edition/"><u>[Updated] MotionMaster Win8 Edition</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-xiaomi-redmi-note-12-5g-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Xiaomi Redmi Note 12 5G?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-cutting-through-the-noise-optimal-thumbnail-sizes/"><u>[Updated] In 2024, Cutting Through the Noise  Optimal Thumbnail Sizes</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-v30-pro-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo V30 Pro Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-put-a-stay-to-unsolicited-youtube-trails/"><u>[Updated] 2024 Approved  Put a Stay to Unsolicited YouTube Trails</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-streaming-made-easy-mac-methodology-for-recording-netflix/"><u>[New] Streaming Made Easy  Mac Methodology for Recording Netflix</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabled-iphone-8-how-to-unlock-a-disabled-iphone-8-by-drfone-ios/"><u>In 2024, Disabled iPhone 8 How to Unlock a Disabled iPhone 8?</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: CatchEmAll Celebrate National Pokémon Day with Virtual Location On Vivo Y100 | Dr.fone
-date: 2024-05-19T22:06:04.057Z
-updated: 2024-05-20T22:06:04.057Z
+date: 2024-07-04T01:13:16.507Z
+updated: 2024-07-05T01:13:16.507Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -10,7 +10,7 @@ categories:
 description: This article describes CatchEmAll Celebrate National Pokémon Day with Virtual Location On Vivo Y100
 excerpt: This article describes CatchEmAll Celebrate National Pokémon Day with Virtual Location On Vivo Y100
 keywords: Pokémon Go Without Walking,Pokemon Go Joystick for Y100,Pokemon Go Without Walking,Pokémon Go for Y100,Pokemon Go Joystick Without Walking,Pokemon Go for Y100
-thumbnail: https://www.lifewire.com/thmb/fZAyW_q2RrCH4bIuVh-tO15AFts=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/patch-tuesday-2625783-d6bcf232b3c64fc5958037ad31299bd9.png
+thumbnail: https://thmb.techidaily.com/3322edcb2b3700ce4baa5c0677a8f300e23dbf74c5228f8bd6ca0d33294791ed.png
 ---
 
 ## CatchEmAll Celebrate National Pokémon Day with Virtual Location On Vivo Y100

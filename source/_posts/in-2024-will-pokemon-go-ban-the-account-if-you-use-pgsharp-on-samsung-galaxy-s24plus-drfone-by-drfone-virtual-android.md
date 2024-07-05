@@ -1,7 +1,7 @@
 ---
 title: In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Samsung Galaxy S24+ | Dr.fone
-date: 2024-05-19T22:05:54.924Z
-updated: 2024-05-20T22:05:54.924Z
+date: 2024-07-04T01:12:34.978Z
+updated: 2024-07-05T01:12:34.978Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -10,7 +10,7 @@ categories:
 description: This article describes Will Pokémon Go Ban the Account if You Use PGSharp On Samsung Galaxy S24+
 excerpt: This article describes Will Pokémon Go Ban the Account if You Use PGSharp On Samsung Galaxy S24+
 keywords: Pokemon Go Joystick for Galaxy S24+,Pokémon Go Without Walking,Pokemon Go Without Walking,Pokémon Go for Galaxy S24+,Pokemon Go Joystick Without Walking,Pokemon Go for Galaxy S24+
-thumbnail: https://www.lifewire.com/thmb/LMVFwXh09U0pTH87SpUAPwMzqjE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Instagram_Login-5c004ff2c9e77c000104174d.png
+thumbnail: https://thmb.techidaily.com/76af2589a0e801a6b3434a05625504e9a24382860270c85ff4fd48c9e5e5afe1.png
 ---
 
 ## Will Pokémon Go Ban the Account if You Use PGSharp On Samsung Galaxy S24+

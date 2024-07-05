@@ -1,7 +1,7 @@
 ---
 title: How to get the dragon scale and evolution-enabled pokemon On Samsung Galaxy S23 Ultra? | Dr.fone
-date: 2024-05-19T22:05:14.436Z
-updated: 2024-05-20T22:05:14.436Z
+date: 2024-07-04T01:11:00.639Z
+updated: 2024-07-05T01:11:00.639Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to get the dragon scale and evolution-enabled pokemon On Samsung Galaxy S23 Ultra?
 excerpt: This article describes How to get the dragon scale and evolution-enabled pokemon On Samsung Galaxy S23 Ultra?
 keywords: Pokemon Go for Galaxy S23 Ultra,Pokemon Go Joystick for Galaxy S23 Ultra,Pokémon Go for Galaxy S23 Ultra,Pokemon Go Joystick Without Walking,Pokemon Go Without Walking,Pokémon Go Without Walking
-thumbnail: https://www.lifewire.com/thmb/bBM9LsJLxfsckFRQQI91FGiTONA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-fix-it-when-reddit-apps-arent-working-f4c8fe50a9ff4c90a28e6a056b427208.jpg
+thumbnail: https://thmb.techidaily.com/e9e9b7ca60047014bff6bb18f8c482a86a228fe45f3ba370acbb24c0cc43ac69.jpg
 ---
 
 ## How to get the dragon scale and evolution-enabled pokemon On Samsung Galaxy S23 Ultra?

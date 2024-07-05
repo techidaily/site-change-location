@@ -1,7 +1,7 @@
 ---
 title: How to get the dragon scale and evolution-enabled pokemon On Vivo S17 Pro? | Dr.fone
-date: 2024-05-19T22:06:30.505Z
-updated: 2024-05-20T22:06:30.505Z
+date: 2024-07-04T01:10:52.234Z
+updated: 2024-07-05T01:10:52.234Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to get the dragon scale and evolution-enabled pokemon On Vivo S17 Pro?
 excerpt: This article describes How to get the dragon scale and evolution-enabled pokemon On Vivo S17 Pro?
 keywords: Pokémon Go Without Walking,Pokemon Go Joystick Without Walking,Pokémon Go for S17 Pro,Pokemon Go for S17 Pro,Pokemon Go Joystick for S17 Pro,Pokemon Go Without Walking
-thumbnail: https://www.lifewire.com/thmb/rmV5FQdusxtcDMfMN-dk_OtLxwI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MorningShow-aed160f9cfd448cc8034b23bb3073314.jpg
+thumbnail: https://thmb.techidaily.com/59a195ec28420319fea5f3f07d0383273230910a4a9660ef6c59333c64bce5cd.jpg
 ---
 
 ## How to get the dragon scale and evolution-enabled pokemon On Vivo S17 Pro?

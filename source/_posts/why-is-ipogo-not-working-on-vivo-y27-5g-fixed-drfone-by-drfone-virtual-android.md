@@ -1,7 +1,7 @@
 ---
 title: Why is iPogo not working On Vivo Y27 5G? Fixed | Dr.fone
-date: 2024-05-19T22:06:35.237Z
-updated: 2024-05-20T22:06:35.237Z
+date: 2024-07-04T01:10:14.623Z
+updated: 2024-07-05T01:10:14.623Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -10,7 +10,7 @@ categories:
 description: This article describes Why is iPogo not working On Vivo Y27 5G? Fixed
 excerpt: This article describes Why is iPogo not working On Vivo Y27 5G? Fixed
 keywords: Pokemon Go Joystick for Y27 5G,Pokémon Go for Y27 5G,Pokemon Go Joystick Without Walking,Pokemon Go Without Walking,Pokemon Go for Y27 5G,Pokémon Go Without Walking
-thumbnail: https://www.lifewire.com/thmb/gkHTDPF5tRElmHvxvKCu-VDPyhI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/should-you-buy-an-apple-tv-5248431-f35331ef36b749b9895a2c1e3705cf22.jpg
+thumbnail: https://thmb.techidaily.com/65300c988d41879c46efcdc0b8a7f4ebdd53e06feae865a9a356c9f8b695aec3.jpg
 ---
 
 ## Why is iPogo not working On Vivo Y27 5G? Fixed

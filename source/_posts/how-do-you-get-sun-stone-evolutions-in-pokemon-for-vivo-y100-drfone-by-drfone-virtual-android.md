@@ -1,7 +1,7 @@
 ---
 title: How Do You Get Sun Stone Evolutions in Pokémon For Vivo Y100? | Dr.fone
-date: 2024-05-19T22:06:03.929Z
-updated: 2024-05-20T22:06:03.929Z
+date: 2024-07-04T01:12:56.450Z
+updated: 2024-07-05T01:12:56.450Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -10,7 +10,7 @@ categories:
 description: This article describes How Do You Get Sun Stone Evolutions in Pokémon For Vivo Y100?
 excerpt: This article describes How Do You Get Sun Stone Evolutions in Pokémon For Vivo Y100?
 keywords: Pokémon Go Without Walking,Pokemon Go for Y100,Pokémon Go for Y100,Pokemon Go Joystick for Y100,Pokemon Go Joystick Without Walking,Pokemon Go Without Walking
-thumbnail: https://www.lifewire.com/thmb/tJAkAFLn8PgYLDdSxKT4QReLsyg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/macOS-Sonoma-Banner-fe4ffda2caaf4040b81ae0b66f2d6dc0.jpg
+thumbnail: https://thmb.techidaily.com/a6603b4c8e64882a75258ea91034b33184d3edc319264524a7b728bfe67ef7f7.jpg
 ---
 
 ## How Do You Get Sun Stone Evolutions in Pokémon For Vivo Y100?

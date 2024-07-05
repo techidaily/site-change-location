@@ -1,7 +1,7 @@
 ---
 title: How can I get more stardust in pokemon go On Vivo Y100? | Dr.fone
-date: 2024-05-19T22:06:04.558Z
-updated: 2024-05-20T22:06:04.558Z
+date: 2024-07-04T01:11:43.836Z
+updated: 2024-07-05T01:11:43.836Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -10,7 +10,7 @@ categories:
 description: This article describes How can I get more stardust in pokemon go On Vivo Y100?
 excerpt: This article describes How can I get more stardust in pokemon go On Vivo Y100?
 keywords: Pokémon Go for Y100,Pokemon Go Joystick Without Walking,Pokémon Go Without Walking,Pokemon Go for Y100,Pokemon Go Without Walking,Pokemon Go Joystick for Y100
-thumbnail: https://www.lifewire.com/thmb/ifJDA6ScbZuUR7Omss65zhVMxok=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-155159821-8881bead1d894a0b95bca3c3e288ff54.jpg
+thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6244e3ee7a3676c38fda1900.jpg
 ---
 
 ## How can I get more stardust in pokemon go On Vivo Y100?

@@ -1,7 +1,7 @@
 ---
 title: What Pokémon Evolve with A Dawn Stone For Vivo Y36? | Dr.fone
-date: 2024-05-19T22:06:31.987Z
-updated: 2024-05-20T22:06:31.987Z
+date: 2024-07-04T01:11:20.775Z
+updated: 2024-07-05T01:11:20.775Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -10,7 +10,7 @@ categories:
 description: This article describes What Pokémon Evolve with A Dawn Stone For Vivo Y36?
 excerpt: This article describes What Pokémon Evolve with A Dawn Stone For Vivo Y36?
 keywords: Pokémon Go Without Walking,Pokemon Go for Y36,Pokémon Go for Y36,Pokemon Go Without Walking,Pokemon Go Joystick for Y36,Pokemon Go Joystick Without Walking
-thumbnail: https://www.lifewire.com/thmb/ZDnyMd5y1TI-4l8Th58f2C_oJzA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/F8conferencelogo-7ec4475dc6624114aea076c2611df199.jpg
+thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb0b1ed4fef37387dcca189b5.jpg
 ---
 
 ## What Pokémon Evolve with A Dawn Stone For Vivo Y36?
