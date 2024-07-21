@@ -1,7 +1,7 @@
 ---
 title: Preparation to Beat Giovani in Pokemon Go For Vivo X Flip | Dr.fone
-date: 2024-05-19T22:06:18.631Z
-updated: 2024-05-20T22:06:18.631Z
+date: 2024-07-19T19:59:50.367Z
+updated: 2024-07-20T19:59:50.367Z
 tags: 
   - virtual location change
   - pokemon-go
@@ -10,7 +10,7 @@ categories:
 description: This article describes Preparation to Beat Giovani in Pokemon Go For Vivo X Flip
 excerpt: This article describes Preparation to Beat Giovani in Pokemon Go For Vivo X Flip
 keywords: Pokemon Go for X Flip,Pokémon Go for X Flip,Pokémon Go Without Walking,Pokemon Go Without Walking,Pokemon Go Joystick for X Flip,Pokemon Go Joystick Without Walking
-thumbnail: https://www.lifewire.com/thmb/x0mFXdBc-1Q_2JlWzJG0rvyCFFg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dormroomentfeatured-5b5e9dd3c9e77c004f28632e.jpg
+thumbnail: https://thmb.techidaily.com/0bfbb82ab5214d9df42dfb4686963b4575f40401ca2b8aa427adfd091e8a1d2a.jpg
 ---
 
 ## Preparation to Beat Giovani in Pokemon Go For Vivo X Flip
@@ -23,6 +23,14 @@ Giovani is the grand commander of the Team Go Rocket crime syndicate. The big bo
 
 Locating Giovani’s hideout is never a walk in the park as you need to complete some daunting tasks. A detailed explanation of each task is given below:
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. A Troubling Situation Task
 
 This four-step storyline Special Research task introduces players to the Team Go Rocket Invasion and Shadow Pokemon feature in the Pokemon Go game. Players leverage the task to learn how to stop the Team Go Rocket crime syndicate by reclaiming PokeStop and then purifying Shadow Pokemon.
@@ -55,16 +63,25 @@ For this step, you’ve got nothing to do. All three objectives have been automa
 
 **Rewards:** One Fast TM, One Charged TM, and 3 Rare Candies
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Giovani Special Research Task
 
 ![giovani special research](https://images.wondershare.com/drfone/2020/giovani-special-research.jpg)
 
 After completing the quest above, Giovani Special Research or Looming in the Shadows is the next and final quest you have to complete to face Giovani. It's a six-step Special Research that introduces the Team Go Rocket Grunts and Leaders: Cliff, Arlo, and Sierra.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![a troubling situation task](https://images.wondershare.com/drfone/2020/a-troubling-situation-task.jpg)
 
 On completing one research step, you will be given a reward called the Super Rocket Radar. Like the Rocket Radar, the Super Rocket Radar can be equipped and unequipped from your Bag. This reward doesn't only show Giovani’s hideout, it also shows some of his Grunts hideouts.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2. What does the Pokemon Go Giovani Counter Contain?
 
 Giovani remains the toughest beast amongst all the Team Go Rocket Leaders. When you find him in the game, be prepared to face his wrath. To defeat him, you need a powerful team.
@@ -113,6 +130,9 @@ Guide to Use Dr.fone Virtual Location to Get Stronger Pokemon in Giovanni Pokemo
 
 **Step 2:** The interface above will appear on your screen. With the aid of a lightning cable, connect your iPhone to a PC, then click on the Virtual Location icon. A new interface will pop up as shown in the image below
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drfone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Click on Get Started to change your location.
@@ -131,6 +151,9 @@ And now you are good to have one of the strongest Pokemon on your team when figh
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How does the stardust trade cost In pokemon go On Vivo X Flip?
 
 Pokemon go has been around for a while now and has arisen as one of the most talked-about games in the gaming community. The fact that it is a location-based game and needs you to move around while playing the game makes it further interesting. Trading in Pokemon go is one of the most talked-about features. Today, we will help you explore more about stardust trade costs and how can you easily perform trades! Hang on as we dwell deeper into Pokemon go and trade stardust costs.
@@ -152,6 +175,10 @@ However, Pokemon go also has levels of friendship and you can trade pokemon of d
 
 The levels of your friendship with a player on Pokemon go increase with the increase in the number of days you stay friends with them. Within a month of friendship, you can become best friends with a player on Pokemon go! You also need stardust points on Pokemon go. So what is stardust trade cost? Before you trade any pokemon you must spend stardust coins. Not having enough stardust trade coins will not allow the trade of pokemon to happen. Hence, you must have enough stardust trade costs.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Part 2: How much stardust do you need in pokemon trading costs?
 
 Trading in Pokemon go is quite complex. This is because the needed Stardust points will be different in every case and will depend on several factors. Factors such as whether you already half got that Pokemon in your pokedesk or not, the friendship level of you and your friend who are interested in trading, or whether the Pokemon is rare or common. Given below are the Stardust trade costs for each Pokemon.
@@ -197,20 +224,35 @@ Teleport to anywhere in the world
 
 **Step 3:** A new window would now pop up where you can see your current location. If you are unable to see your current location, then click on "center on" icon at the bottom. Doing so will lead you to show your location on the map.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![map screen](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
 **Step 4:** Now click on "Teleport mode" using the button on the top right corner of the window. Enter the place you want your location to be set to and then click on "Go". Once done the click on "Move Here". Well, that's it! We're done with changing our location to the desired location!
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![enter location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Exchange the gift with friends to level up a friendship
 
 Pokemon go also allows you to send gifts to your game friends and receive gifts from your game friends. Well, this can help both of you grow and progress in the game and can be a helpful trick to increase Stardust!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ### 3\. Play the game as much as you can
 
 Investing more and more time on the game will lead you to catching more pokemons which will, in turn, lead to getting more stardust! Hence play it regularly with continuity!
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 Well, the article did give us a lot of idea about stardust trade cost and how to increase Stardust trade points in Pokemon go. We dwelled more into major facts about the game and learned a lot about it. We also explored what is drfone-Virtual location ( iOS) and how it can help you to teleport from one place to another! Using the app will help you a lot in improving the game and wouldn't require you to do much! All you've to do is teleport from one place to another, catch more and more pokemons and get more stardust! As a player, it shall improve your stats by a huge margin!
@@ -271,10 +313,16 @@ If you have an Android device, you can use tons of fake GPS apps to spoof your l
 
 **Step 3.** That's it! Once Fake GPS Go has the needed access, you can just launch the application and manually change your location. Afterward, launch Pokemon Go to access your new location.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![launch Pokemon Go](https://images.wondershare.com/drfone/article/2019/09/android-pokemon-go-spoofing-6.jpg)
 
 If you want, you can even close Fake GPS Go so that Pokemon Go won't detect its presence. Don't worry – it will keep running in the background until you would manually launch it and stop the location spoof feature.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3.3 Use Fake GPS Free
 
 This is another fake GPS app that is available for free and can easily be used on your Android. The app is pretty lightweight and won't access a lot of device usage as well. Even though the app has released a new version lately, some users have complained of getting a Niantic strike by using it. Therefore, you can use this Pokemon Go spoofing app Android at your own risk.
@@ -283,14 +331,23 @@ This is another fake GPS app that is available for free and can easily be used o
 
 **Step 2.** Once the app is installed, go to Settings > Developer Options and tap on the mock location app feature to grant Fake GPS free the needed access.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![grant Fake GPS access](https://images.wondershare.com/drfone/article/2019/09/android-pokemon-go-spoofing-7.jpg)
 
 **Step 3.** Afterward, launch the Fake GPS Free application on your device and look for any desired location. You can also manually zoom in or out the map to mark your new location.
 
 **Step 4.** Once the location is spoofed, you will get the relevant notification. Close the GPS app now and launch Pokemon Go instead to access the new location on the gaming app.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Close the GPS app](https://images.wondershare.com/drfone/article/2019/09/android-pokemon-go-spoofing-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### The final words
 
 There you go! After following this guide, you would be able to [spoof Pokemon Go](https://www.virtuallocation.com/pokemon-go/) on Android in three different ways. For your convenience, we have also included the risks of using any Pokemon Go spoofer for Android as well. As you can see, a VPN would be your best spoofing app for Pokemon Go Android due to its added security features. Though, you can also use Fake GPS Go app to do Pokemon Go spoofing on Android. Go ahead and give these solutions a try and feel free to share your tips about Pokemon Go spoofing in the comments as well!
@@ -314,3 +371,38 @@ There you go! After following this guide, you would be able to [spoof Pokemon Go
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-unleash-creativity-premier-vimeo-editors-deliver-for-2024/"><u>[New] Unleash Creativity  Premier Vimeo Editors Deliver for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-10-best-instagram-tools-to-manage-post-and-increase-followers/"><u>[Updated] 2024 Approved  10 Best Instagram Tools to Manage Post and Increase Followers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-affordable-recorders-roundup-best-games-software/"><u>[Updated] In 2024, Affordable Recorders' Roundup  Best Games Software</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-15-creative-strategies-for-free-capture-of-online-workshops/"><u>2024 Approved  15 Creative Strategies for Free Capture of Online Workshops</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-narzo-60-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/giggle-engineer-apocalyptic-comic-relief-for-2024/"><u>Giggle Engineer  Apocalyptic Comic Relief for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-oppo-reno-9a-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Oppo Reno 9A to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-motorola-moto-g-5g-2023-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Motorola Moto G 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Oppo Find X6 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-instant-snapback-tips/"><u>In 2024, Instant Snapback Tips</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-maximize-impact-with-these-11-economical-youtube-naming-tools/"><u>In 2024, Maximize Impact with These 11 Economical YouTube Naming Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-showdown-xsplits-efficacy-versus-obs/"><u>In 2024, The Ultimate Showdown  XSplit's Efficacy Versus OBS</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/top-20-instagram-video-exporters-online-windows-mac-edition-for-2024/"><u>Top 20 Instagram Video Exporters  Online, Windows, Mac Edition for 2024</u></a></li>
+</ul></div>
