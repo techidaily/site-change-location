@@ -1,7 +1,7 @@
 ---
 title: How to Stop Life360 from Tracking You On Xiaomi Redmi Note 12 Pro 4G? | Dr.fone
-date: 2024-07-19T23:17:58.032Z
-updated: 2024-07-20T23:17:58.032Z
+date: 2024-09-07T05:41:23.627Z
+updated: 2024-09-08T05:41:23.627Z
 tags: 
   - virtual location chang
   - location changer
@@ -22,6 +22,18 @@ This is the era of smartphones, and most of the people in the world own a smartp
 
 This is where spoofing Life360 comes handy. No matter whether you own an iPhone or Android, you can spoof Life360 with the right tricks and tools. In this article, we will discuss the different ways to stop Life360 from tracking you. But, before that, let's take a look at what is Life360.
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What is Life360?
 
 Life360 is basically a tracking app that you can use to share your location with friends or to track your teenager. Also, with this app, you can also do chit-chatting with your friends and family members via the in-app chat feature.
@@ -32,11 +44,14 @@ But as we said before, it is quite uncomfortable to know that someone is trackin
 
 ## Part 1: Turn Off Location on Life360
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![turn off location on life360](https://images.wondershare.com/drfone/virtual-loaction/Stop-Life360-From-Tracking-You-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 You can turn off the location to stop the Life360 tracking feature. But, with this, keep the background app refresh off. Follow the following steps to turn off the location on life360.
 
 - Open the Life360 on your phone and go to 'Settings' in the lower right corner
@@ -46,6 +61,12 @@ You can turn off the location to stop the Life360 tracking feature. But, with th
 
 **Note:** If you ever press the Check In button, it will update your location in Life360 even if it is turned off. Further, if you press the Help Alert button, this will also turn on the location-sharing feature.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Fake Location Apps to Spoofing Life360
 
 The best way to stop Life360 from tracking you is to use fake GPS apps on Android and iOS. There are many fake location apps that you can install in your device to spoof Life360 without any risk to your device.
@@ -54,11 +75,14 @@ The best way to stop Life360 from tracking you is to use fake GPS apps on Androi
 
 To spoof GPS on the iPhone is tricky, and it requires reliable as well as safest tools like [Dr.Fone – Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/).
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![how to spoof life360](https://images.wondershare.com/drfone/virtual-loaction/Stop-Life360-From-Tracking-You-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/FfhgWxnARqo" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 This tool is specially designed for iOS users that help to spoof location without causing any risk to your data. The best thing is that it is very easy to use and easy to install, as well. Also, in Dr.Fone – Virtual Location (iOS), you can teleport anywhere and can customize your speed. With just one click, you are able to spoof Life360 and other location-based apps.
@@ -69,16 +93,25 @@ Here are the few steps that you will need to follow to use Dr.Fone. Take a look!
 
 ![download dr.fone from official site](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 - After this, install it and launch it. Now connect your iOS device to the system with the USB cable and click on the "get started" button.
 
 ![click on get started button](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 - Now you will see a map interface with your current location.
 - On the map, you can select teleport mode from the top right corner and can search for the desired location.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![select teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
 - After a search for the desired location, click on the "move here" button.
@@ -87,7 +120,10 @@ Here are the few steps that you will need to follow to use Dr.Fone. Take a look!
 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
@@ -118,33 +154,36 @@ Now, follow the following steps to install any fake GPS on Android.
 - Under enable developer option go to allow mock location app and select the app you installed from the list
 - Now open the app, and fill your desired location on the map. It is simple to spoof Life360 on Android
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: Use a Burner Phone for Life360 Fake Location
 
 The burner is a phone on which you can install Life360 and can put it in one place while going out with another phone. It is a great trick to stop Life360 from tracking you. The only thing is that you should need to have two phones.
 
 For the burner, you can use any device with Google play store or App store, and it can be an old phone as well.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 Life360 is a very helpful app for parents and friends group, but still, it becomes irritating sometime to know that people are tracking you. Therefore, you can use tricks to hide your current location from Life360. There are many ways that you can apply Life360 fake location, but if you own iPhone, it needs a reliable tool. [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) (iOS) is best to spoof Life360 without putting your device's security at risk. Try it once!
 
 
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Fix My Xiaomi Redmi Note 12 Pro 4G Location Is Wrong
 
 GPS navigation has changed a lot of the things that we do on a day-to-day basis. It has alleviated all the concerns that you would usually have before going to do an errand, visiting a new location, or going on a road trip with your friends. Instead of planning your route a few days in advance, you can find the safest route with just a few taps on your phone, giving you more time to focus on other things.
 
 While using your phone to track your current location, you might have noticed that it is not showing you the correct location. It will confuse you but it does happen from time to time, and there will be fixes that you can do get to track properly. There are also multiple factors that you will need to consider when you encounter an issue where your phone has shown you a completely different location compared to where you are. We will talk about those possible issues and how you can fix them and get them to work properly again.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Why is My Location Wrong on My Xiaomi Redmi Note 12 Pro 4G?
 
 As we have mentioned earlier, there are multiple reasons why your location is not being tracked accurately by your phone. We understand how crucial to ensure that the location is accurate, especially if you are using this to send someone something or if you plan to go somewhere.
@@ -153,25 +192,64 @@ As we have mentioned earlier, there are multiple reasons why your location is no
 
 The most basic common reason as to why your current location is wrong is that you could have disabled the GPS or location services on your phone.
 
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### _Reason #2:_ Internet connectivity on your mobile is unstable
 
 Another common issue as to why your location is wrong on your phone is that your mobile's connectivity is unstable. This could be due to your mobile provider, or the location that you currently are in might not have any stable internet connection and is causing your location to be wrong.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### _Reason #3:_ Your mobile phone might not be updated
 
 Another reason your phone has the incorrect location would be that your phone is updated to the latest software update. The software update will usually include fixes to the old software update's bugs.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### _Reason #4:_ The “Location Services” might not be enabled for the application
 
 If you have not enabled the application to use the GPS, then it will not show you the correct location. Make sure to check whether this application can access the “Location Services” by following the steps below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 2: How to Fix Xiaomi Redmi Note 12 Pro 4G Location Accuracy Issue?
 
 Now that you know the possible causes of why you have an incorrect location, we will not share with you the fixes that you can do to get a more accurate location when you use your phone.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### _Option #1:_ Enable the “Location Services” on your phone
 
 To fix the wrong location issue, you will need to check that your “Location Services” are turned on. You can enable the “Location Services” by following the steps below.
@@ -179,6 +257,12 @@ To fix the wrong location issue, you will need to check that your “Location Se
 - **_Step 1:_** Go to “Settings” and choose “Privacy”.
 - **_Step 2:_** After, you can look for “Location Services” and enable it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### _Option #2:_ Update your iOS to the latest update
 
 It is important to regularly update your phone with the recent software updates to prevent any inaccurate locations on your phone.
@@ -186,9 +270,6 @@ It is important to regularly update your phone with the recent software updates 
 - **_Step 1:_** Go to “Settings” and look for “General”.
 - **_Step 2:_** Look for “Software Update”, from there you will see whether you have the latest iOS. If your phone is not updated, then you can go ahead and update it.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### _Option #3:_ If you are using another application, make sure that the application is updated as well
 
 Similar to your iOS, the application needs to also be updated, so double-check if the application needs to be updated as well. You can do this by going to the App Store and checking if the application needs to be updated and if it does, do update the app and you can retry tracking your location after.
@@ -204,9 +285,6 @@ Double-check if the location services are turned on on your phone so it will sho
 
 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 1-Click Location Changer for both iOS and Android
@@ -227,17 +305,32 @@ If you have exhausted all of the tips that we have shared above and still the lo
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 - **_Step 2:_** You can then connect your phone to your computer and click on “Get Started”.
 
 ![virtual-location](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 - **_Step 3:_** You will then be redirected to your current location on the new page.
 - **_Step 4:_** If you want to change your location, you will need to turn on the “Teleportation” mode by clicking on the first icon and typing the location that you want then click on the “Go” icon.
 - _**Step 5:**_ Click on “Move Here” and your current location will show up as the location that you typed on Your Xiaomi Redmi Note 12 Pro 4G.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![virtual-location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 **You can watch the video below to fix your Xiaomi Redmi Note 12 Pro 4G location with Wondershare Dr.Fone**
@@ -246,24 +339,24 @@ If you have exhausted all of the tips that we have shared above and still the lo
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Conclusion
 
 There are the things that you can do when you have an incorrect location on your phone. If you ever encounter any issues with inaccurate locations in your Xiaomi Redmi Note 12 Pro 4G, you can try all of the tips and fixes that we have shared in this article. You can also send a fake or spoof location to your friends in case you cannot get the incorrect location fixed immediately by using our product, **“[Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) ”,** one of the most safest and reliable tools for fake locations. You can ensure the privacy and safety of your location and your phone.
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What is Fake GPS Location Pro and Is It Good On Xiaomi Redmi Note 12 Pro 4G?
 
 The use of location spoofing services has increased over time ever since the Internet has been gaining popularity in every user's life. Many intuitive applications and platforms have been introduced in the market; however, they've been accompanied by multiple restrictions. One such restriction involves issues with the location, which is to be targeted with a location spoofing tool.
 
 In this article, we will work on an impressive location spoofer for Android devices, [**Fake GPS Location Pro**](https://play.google.com/store/apps/details?id=com.just4funtools.fakegpslocationprofessional&hl=en&gl=US)**.** Our overview will provide the relevant details to help you change your device's location.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fake gps pro featured image](https://images.wondershare.com/drfone/article/2023/01/fake-gps-location-pro-review-and-alternative-1.jpg)
 
 ## Part 1: Overview of Fake GPS Location Pro
@@ -277,7 +370,10 @@ The tool turns out to be an excellent option for location-based apps and games, 
 ![fake gps pro overview](https://images.wondershare.com/drfone/article/2023/01/fake-gps-location-pro-review-and-alternative-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Key Features of Fake GPS Location Pro
 
@@ -307,24 +403,36 @@ With an overview of the location spoofing application, let's learn more about us
 
 ![select the about phone option](https://images.wondershare.com/drfone/article/2023/01/fake-gps-location-pro-review-and-alternative-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 2:** As you propagate to the next screen, look for the "Build number" option. You must tap 7 times on it to make yourselves a developer.
 
 ![enable the developer feature](https://images.wondershare.com/drfone/article/2023/01/fake-gps-location-pro-review-and-alternative-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 3:** Revert to the main "Settings" screen and find the "Developer options." As you are directed to the next screen, locate the "Mock location app" option and choose the "**Fake GPS Location Professional**" app from the pop-up to spoof the location.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![select the mock location app](https://images.wondershare.com/drfone/article/2023/01/fake-gps-location-pro-review-and-alternative-5.jpg)
 
 **Step 4:** Open the application and tap the "Search" bar to type in the location. You can also manually move the pointer to the location where you want to spoof. Tap on the "Play" button to fake your location with ease.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fake your android location](https://images.wondershare.com/drfone/article/2023/01/fake-gps-location-pro-review-and-alternative-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: User Reviews for Fake GPS Location Pro
 
 Are you still confused about the performance of this location spoofer app? We have provided some user reviews below to help you out:
@@ -355,9 +463,6 @@ It has been discussed before that the **Fake GPS Location Pro APK** does not com
 
 Dr.Fone - Virtual Location is one of the perfect tools to provide location spoofing services under quick configurations. It accompanies iOS and Android users in operating location-based apps with ease. With different features such as multi-stop route and joystick control, Dr.Fone - Virtual Location turns out as the best tool available for use.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Prominent Features to Mark About Dr.Fone - Virtual Location
 
 We have outlined some essential features to help you know more about the tool's operation:
@@ -369,9 +474,6 @@ We have outlined some essential features to help you know more about the tool's 
 
 
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Steps to Spoof Your Location Using Dr.Fone - Virtual Location
 
 Following this, let's move into the details of how to use Dr.Fone - Virtual Location for changing location on smartphones:
@@ -380,11 +482,14 @@ Following this, let's move into the details of how to use Dr.Fone - Virtual Loca
 
 Start by downloading and installing the latest version of Dr.Fone on your computer. Proceed to the "Virtual Location" option to initiate the tool. You must connect your smartphone to the computer and continue by clicking on "Get Started."
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![select the virtual location tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 2: Start the Teleport Mode**
 
 Next, tap on the "Teleport Mode" button to start changing your location. You can find the button on the top-right section of the screen.
@@ -395,32 +500,44 @@ Next, tap on the "Teleport Mode" button to start changing your location. You can
 
 As you select the mode, proceed to type the location where you wish to spoof on the "Search" bar on the left side of the screen. Once you search for the location, the map redirects to the particular position. You must click the "Move Here" button to spoof your location.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![hit the move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 6: FAQs About Fake GPS Location Pro
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 1.Is the Fake GPS Location Pro App Safe?
 
 The application is generally safe as it is available on the Play Store. You can download and use it for changing location; however, you still need to be careful as it might be possible to sabotage the service. You might get caught spoofing location, which can be problematic.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2.Is the Fake GPS Location Pro App Free?
 
 No, **Fake GPS Location Professional** is not a free application to use. Although you can use its services for free, ads will accompany you. You will have to pay $1.99/month for the application to remove them.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3.How to Download the Fake GPS Location Pro App?
 
 You can download the Fake GPS Location Professional application from the Play Store. You are not required to go across any other platform to download the tool.
@@ -452,3 +569,43 @@ The article has helped provide you with a detailed guide about **Fake GPS Locati
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-delicate-decrease-techniques-for-fl-studio-audio-levels/"><u>[New] 2024 Approved Delicate Decrease Techniques for FL Studio Audio Levels</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-elite-silent-input-transcription-suites/"><u>[New] 2024 Approved Elite Silent Input Transcription Suites</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-the-role-of-free-exchange-in-discovery/"><u>[New] The Role of Free Exchange in Discovery</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-optimizing-tweets-a-guide-to-full-hd-video-experience-for-2024/"><u>[Updated] Optimizing Tweets A Guide to Full HD Video Experience for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-streamlining-audio-exploration-how-to-add-apple-podcasts-to-your-device/"><u>[Updated] Streamlining Audio Exploration How to Add Apple Podcasts to Your Device</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-understanding-livestream-technology-explained/"><u>2024 Approved Understanding Livestream Technology Explained</u></a></li>
+<li><a href="https://change-location.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/additional-tips-about-sinnoh-stone-for-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ting-video-view-count-top-hashtag-trends-guide/"><u>Elevating Video View Count Top Hashtag Trends Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-oppo-a59-5g-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Oppo A59 5G Phone | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-vivo-y100-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Vivo Y100? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Vivo S17t? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-poco-c55-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Poco C55 Quickly? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-samsung-galaxy-a14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-oppo-reno-10-pro-5g-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Oppo Reno 10 Pro 5G</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Honor 90 GT? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-oneplus-11r-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On ZTE Axon 40 Lite? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Infinix Smart 8 HD? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-vivo-y78t-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Vivo Y78t? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Vivo X100? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Vivo Y27s | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Tecno Spark 10C? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Samsung Galaxy A15 5G? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-vivo-s17t-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-guide-to-downloading-and-updating-konica-minolta-driver-software/"><u>Quick Guide to Downloading and Updating Konica Minolta Driver Software</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-syncing-your-chromecast-remote-with-streaming-devices/"><u>Ultimate Guide to Syncing Your Chromecast Remote with Streaming Devices</u></a></li>
+<li><a href="https://change-location.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Samsung Galaxy F34 5G? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/why-is-ipogo-not-working-on-vivo-x-fold-2-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Vivo X Fold 2? Fixed | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/zd-soft-an-in-depth-guide-to-capture-record-and-edit-videos-for-2024/"><u>ZD Soft An In-Depth Guide to Capture, Record & Edit Videos for 2024</u></a></li>
+</ul></div>
