@@ -1,7 +1,7 @@
 ---
 title: In 2024, 4 Methods to Turn off Life 360 On Infinix Smart 8 without Anyone Knowing | Dr.fone
-date: 2024-09-15T17:34:53.743Z
-updated: 2024-09-19T16:37:59.206Z
+date: 2024-09-21T16:01:06.104Z
+updated: 2024-09-27T16:00:51.253Z
 tags: 
   - virtual location chang
   - location changer
@@ -58,6 +58,13 @@ There is the possibility of limiting the details about your location to others i
 
 ![pause location sharing](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. **Turn off Your Infinix Smart 8’s Airplane Mode**
 
 Another option you have to stop sharing location on Life360 is by switching on Airplane mode. You can do this on your Android and iOS devices. Once you enable Airplane mode, you’ll see a white flag on your last saved location.
@@ -71,6 +78,13 @@ Another option you have to stop sharing location on Life360 is by switching on A
 ![turn on airplane mode on android](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-7.png)
 
 These steps will help you turn off location sharing on Life360. However, the downside of using Airplane mode is that it prevents you from accessing the internet. In addition, with the Airplane mode turned on, you can’t make or receive phone calls, either. Therefore, we don’t recommend this as your top choice when learning to turn off Life 360.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. **Disable GPS Service on Your Device**
 
@@ -98,16 +112,10 @@ You’re not left out of this option; below are the steps to disable GPS service
 ![turn off gps location services on android](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-9.png)
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: **Best Ways to Fake Location on Life360 without Anyone Knowing-Virtual location \[iOS/Android Supported\]**
@@ -158,14 +166,14 @@ Automatically, your location will change to the chosen place on the map and your
 
 <iframe width="100%" height="450" type="text/html" src="https://www.youtube.com/embed/xQa-_8RTg5U" frameborder="0"></iframe>
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 4: FAQ About Turn off Location on Life360
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. **Are there any risks to turning off GPS location?**
 
@@ -279,6 +287,13 @@ There is no doubt that Find My Friends is an excellent application for location 
 
 ![find my friends location not available](https://images.wondershare.com/drfone/article/2023/05/find-my-friends-location-not-available.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1: What Does "Location Not Available" Mean on Find My Friends?
 
 When the "Location Not Available" message appears on Find My Friends, it means that you have disabled location sharing or have turned off your device's location services. This message can also appear if your device is in an area with poor network coverage or if your device is turned off. In some cases, the message can indicate that you have logged out of your iCloud account or that there is an issue with the iCloud server.
@@ -294,13 +309,6 @@ Not! This message does not necessarily mean that you have blocked yourself or th
 "Location Not Available" means that the Infinix Smart 8 device is not currently sharing its location with the Find My app. This can happen if the Infinix Smart 8 device is in Airplane mode or if the user has turned off location sharing for the Find My app. It can also happen if there is a temporary issue with the iCloud servers.
 
 In summary, "No Location Found" means the app could not locate the Infinix Smart 8 device, while "Location Not Available" means that the Infinix Smart 8 device is not currently sharing its location.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: Possible Reasons For Find My Friends Location Infinix Smart 8  Not Available
 
@@ -389,15 +397,22 @@ To use Dr.Fone - Virtual Location, here are the steps you need to follow:
 
 ![detect actual location](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3:** Now go to the search box and type the location you want to switch to. Once the location gets detected, click on the "Move Here" option, and the location of your Infinix Smart 8  or Android phone will change to the one you specified.
 
 ![move to virtual location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 As you can see, when you have Dr.Fone - Virtual Location software, you can share any location with just one click. And it would seem that your Find My Friends app is working fine.
@@ -435,10 +450,10 @@ Yes, you can take steps to prevent someone from tracking your phone's location. 
 Taking these precautions can help safeguard your phone's location and enhance your privacy. It's important to stay vigilant and be aware of the privacy settings and permissions on your device.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
@@ -469,5 +484,26 @@ Hopefully, now you know "why is find my friends not working" and several ways to
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-channel-branding-101-brainstorm-techniques/"><u>[New] 2024 Approved Channel Branding 101 Brainstorm Techniques</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-discover-10-instagram-accounts-mixing-humor-with-emotion/"><u>[New] 2024 Approved Discover 10 Instagram Accounts Mixing Humor with Emotion</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-revel-in-every-box-with-these-strategies/"><u>[Updated] In 2024, Revel in Every Box with These Strategies</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-invisible-broadcasts-anonymous-instagram-live-tips/"><u>[Updated] Invisible Broadcasts Anonymous Instagram Live Tips</u></a></li>
+<li><a href="https://fox-links.techidaily.com/ace-applications-transforming-videos-for-tweet/"><u>Ace Applications Transforming Videos for Tweet</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-your-mic-ultimate-troubleshooting-guide-for-non-responsive-microphones/"><u>Fix Your Mic: Ultimate Troubleshooting Guide for Non-Responsive Microphones</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-oneplus-ace-2-pro-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on OnePlus Ace 2 Pro? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-xiaomi-14-pro-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Xiaomi 14 Pro? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Samsung Galaxy S23 FE? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-nokia-c32-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Nokia C32? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-motorola-edge-40-neo-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-free-best-video-editing-software-for-32-bit-windows-for-2024/"><u>New FREE Best Video Editing Software for 32-Bit Windows for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-tecno-phantom-v-flip-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Tecno Phantom V Flip</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-honor-x50-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Honor X50 with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+</ul></div>
 

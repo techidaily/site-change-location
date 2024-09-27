@@ -1,7 +1,7 @@
 ---
 title: In 2024, 4 Methods to Turn off Life 360 On Apple iPhone XS without Anyone Knowing | Dr.fone
-date: 2024-09-15T16:46:21.930Z
-updated: 2024-09-19T16:00:51.798Z
+date: 2024-09-20T16:00:37.260Z
+updated: 2024-09-27T16:01:24.832Z
 tags: 
   - virtual location chang
   - location changer
@@ -72,13 +72,6 @@ Another option you have to stop sharing location on Life360 is by switching on A
 
 These steps will help you turn off location sharing on Life360. However, the downside of using Airplane mode is that it prevents you from accessing the internet. In addition, with the Airplane mode turned on, you can’t make or receive phone calls, either. Therefore, we don’t recommend this as your top choice when learning to turn off Life 360.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. **Disable GPS Service on Your Device**
 
 Another top method of turning off Life360 is disabling the GPS service on your device. It is an effective option, and you can carry it out on your iOS and Android devices. Below, we’ll break down the steps of doing this on your Android and iOS devices.
@@ -109,13 +102,6 @@ You’re not left out of this option; below are the steps to disable GPS service
 Although Life360 can be helpful in emergencies or security issues, it can also prove quite problematic. If you want some privacy or don’t trust members of your circle, you might want to learn how to turn off Life 360. The problem with turning off the Life360 location is that members of your circle might notice, which would inevitably cause some conflict.
 
 Fortunately, you have another effective option, and that is by faking your GPS location using a location spoofer. You can display the location you want while keeping your true location safe on Life360. Dr. Fone –Virtual location is an excellent tool for faking your location.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
@@ -168,6 +154,13 @@ Yes, there are some dangers associated with turning off location on Life360. No 
 ### 2\. **Can Life360 track my location when I switch My Apple iPhone XS off?**
 
 When your phone is off, your GPS location is automatically disabled. Therefore Life360 won’t be able to track your location; it will only display your last logged location.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. **Does Life360 tell my circle when I turn off the location?**
 
@@ -233,6 +226,13 @@ Once it is done, go to its Settings > Developer Options and turn on the option t
 
 ![set a mock location](https://www.virtuallocation.com/images/vpna/vpna-fake-gps-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Step 2: Make VPNa Fake GPS as the default mock location app**
 
 Now, you can just go to the Play Store and download the VPNa Fake GPS Location app on your device. After the app is installed, you can just go to its Developer Options again and set it as a default mock location app.
@@ -249,6 +249,20 @@ Later, you can move the pin around and drop it anywhere you like. Tap on the Sta
 
 ![choose anywhere you like](https://www.virtuallocation.com/images/vpna/vpna-fake-gps-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: Bonus Tip: How to Spoof an iPhone Location without Jailbreak
 
 While Android users can take the assistance of VPNa Fake GPS, iOS users often find it hard to change their device location. Well, in this case, you can consider [Dr.Fone - Virtual Location(iOS)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) . It is a user-friendly application that can spoof your Apple iPhone XS location to any other place by entering its address or exact coordinates. Besides that, you can also simulate the movement of your device between different spots.
@@ -261,11 +275,25 @@ At first, you can just connect your Apple iPhone XS to your computer and launch 
 
 ![vpna dr.fone-virtual location](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 2: Look for a location to spoof
 
 The application will automatically detect your device's location and would display it. To change it, click on the Teleport Mode icon from the top, and enter the address/coordinates of the place in the search bar.
 
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 3: Change your Apple iPhone XS's location
 
@@ -367,16 +395,16 @@ It is also possible to **fake browser location** on Chrome using the Google Chro
 
 ![choose the developer tools](https://images.wondershare.com/drfone/article/2022/12/how-to-hide-or-fake-your-location-in-google-chrome-browser-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2:** A window will open on the right side with all the developing tools you can use in Chrome. Click on the three-dots icon located near "Console" in the bottom left corner of the window. Choose "Sensors" from the pop-up menu.
 
 ![select the sensors option](https://images.wondershare.com/drfone/article/2022/12/how-to-hide-or-fake-your-location-in-google-chrome-browser-12.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 3:** Access the newly selected "Sensor" option, and here you can change the browser's location by either selecting a Google's pre-set location or adding your desired location manually. Once the location is selected or added, your browser's location will change.
 
@@ -387,19 +415,6 @@ It is also possible to **fake browser location** on Chrome using the Google Chro
 - The interface of the Google Chrome DevTools can be very confusing and overwhelming for non-technical users.
 - Apart from pre-added locations, it can be hard to add a specific location as your fake location.
 
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 3. Fake Your Location Using Chrome Extension
 
 Many **fake location Chrome extensions** are available on Google Chrome which can be used to alter your location on Chrome. You can find these extensions on Google Chrome Web Store and add them directly to your browser. Below we have explained the steps for using such an extension "[Location Guard](https://chrome.google.com/webstore/detail/location-guard/cfohepagpmnodfdmjliccbbigdkfcgia?hl=en)" to fake your location on Google Chrome:
@@ -407,13 +422,6 @@ Many **fake location Chrome extensions** are available on Google Chrome which ca
 **Step 1:** Open the "Location Guard" on Chrome Web Store and click "Add to Chrome" to add it to your browser. Once the "Location Guard" extension is added, open it and press "Options."
 
 ![install the location guard extension](https://images.wondershare.com/drfone/article/2022/12/how-to-hide-or-fake-your-location-in-google-chrome-browser-14.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 2:** In the options, you can choose different options like Privacy Levels, Protection Area, and Time for Location Cache. It is recommended you choose a higher level for more protection.
 
@@ -427,6 +435,13 @@ Many **fake location Chrome extensions** are available on Google Chrome which ca
 
 - Location Guard doesn't protect your IP address. It means some websites can still detect your real location using the IP address.
 - The app is not updated for quite a while, that's why the map of the fixed location feature is quite restricted.
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 4. Spoof Your IP Using a VPN Server
 
@@ -477,5 +492,16 @@ That's why having a tool like [Dr.Fone - Virtual Location](https://tools.techida
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-realizing-your-audio-based-ppt-with-easy-s2t-tools/"><u>[New] Realizing Your Audio-Based PPT with Easy S2T Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-pinnacle-of-media-excellence-top-phones-videos/"><u>[Updated] The Pinnacle of Media Excellence Top Phones Videos</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/5-free-iphone-and-ipod-touch-texting-apps/"><u>5 Free iPhone & iPod Touch Texting Apps</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cyberpunk-2077-update-overcome-previous-lag-and-frame-rate-hiccups/"><u>Cyberpunk 2077 Update: Overcome Previous Lag and Frame Rate Hiccups</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-lava-blaze-pro-5g-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Lava Blaze Pro 5G Phone | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/mastering-instagrams-qanda-sticker-usage-for-2024/"><u>Mastering Instagram's Q&A Sticker Usage for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Samsung Galaxy S21 FE 5G (2023)? | Dr.fone</u></a></li>
+</ul></div>
 

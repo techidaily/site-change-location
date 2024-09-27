@@ -1,7 +1,7 @@
 ---
 title: In 2024, 4 Methods to Turn off Life 360 On Infinix Hot 40 without Anyone Knowing | Dr.fone
-date: 2024-09-14T16:06:40.621Z
-updated: 2024-09-19T16:26:00.771Z
+date: 2024-09-25T16:03:22.795Z
+updated: 2024-09-27T16:02:17.220Z
 tags: 
   - virtual location chang
   - location changer
@@ -41,6 +41,13 @@ Some of the available Life360 features include notifying you when a member of yo
 
 There are times when you want to turn Life360 off without it showing so that people don’t know your present location. But, if you have no idea how to go about it, you’re in luck. This section covers the best methods to stop sharing your location with friends and family on Life360.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. **Turn Off Your Circle’s Location on Life360**
 
 There is the possibility of limiting the details about your location to others in your circle. One way to turn Life360 without anyone knowing is by choosing a circle and disconnecting from them. The steps below break down the entire process.
@@ -58,6 +65,13 @@ There is the possibility of limiting the details about your location to others i
 
 ![pause location sharing](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. **Turn off Your Infinix Hot 40’s Airplane Mode**
 
 Another option you have to stop sharing location on Life360 is by switching on Airplane mode. You can do this on your Android and iOS devices. Once you enable Airplane mode, you’ll see a white flag on your last saved location.
@@ -71,13 +85,6 @@ Another option you have to stop sharing location on Life360 is by switching on A
 ![turn on airplane mode on android](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-7.png)
 
 These steps will help you turn off location sharing on Life360. However, the downside of using Airplane mode is that it prevents you from accessing the internet. In addition, with the Airplane mode turned on, you can’t make or receive phone calls, either. Therefore, we don’t recommend this as your top choice when learning to turn off Life 360.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. **Disable GPS Service on Your Device**
 
@@ -109,6 +116,13 @@ You’re not left out of this option; below are the steps to disable GPS service
 Although Life360 can be helpful in emergencies or security issues, it can also prove quite problematic. If you want some privacy or don’t trust members of your circle, you might want to learn how to turn off Life 360. The problem with turning off the Life360 location is that members of your circle might notice, which would inevitably cause some conflict.
 
 Fortunately, you have another effective option, and that is by faking your GPS location using a location spoofer. You can display the location you want while keeping your true location safe on Life360. Dr. Fone –Virtual location is an excellent tool for faking your location.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
@@ -191,13 +205,6 @@ The sole purpose of mock location apps or software is to help users spoof/ mock 
 One of the most frequent and completely understandable concern and question on people’s minds when they talk about location spoofing is whether is it safe to mock location whether it can be detected and what the consequences are.
 
 Answer: Location spoofing is safe and will go undetected as long as it is done sensibly and with the right mock location app on your iPhone and Android. You have nothing to worry about as long as you do not be particularly obvious about location mocking. This means that you should take care not to be hopping like a bunny from here and there in minutes.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part III: Top Mock Location Apps for iPhone
 
@@ -338,6 +345,13 @@ Your device will start simulating movement as per your set parameters and the ma
 
 ![drfone virtual location spoofer](https://images.wondershare.com/drfone/guide/virtual-location-10.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part VI: Tips To Avoid Detection
 
 Using a method that has been detected once, such as iSpoofer, is one way to land in trouble. How to go undetected when spoofing locations? Use these tips.
@@ -367,13 +381,6 @@ When location sharing is enabled in the Infinix Hot 40 device, the map will show
 You can find yourself confused if you are using iOS 13 and looking for Find My Friends app. You may not be able to find it on your device running on iOS 13. To your information, Apple has decided to combine the Find My iPhone and Find My Friends app into one. And they have named it as “Find My”. This new named app has everything what Find My Friends and Find My iPhone has. When you’ll open it, you will find the “People” tab on the bottom. Using this, you can get your friends as you used to get before.
 
 ![Find My Friends on iOS 13](https://images.wondershare.com/drfone/article/2019/09/find-my-friends-ios-13.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: What Are the Against Voices of the Find My Friends App?
 
@@ -409,13 +416,6 @@ Now, take your iPhone and keep it connected with the system. After this is done,
 
 ![connect iphone to pc](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3: Look for Location**
 
 After following the second step, all you need is to look for your actual location. To make this happen, click on the “Center On” icon given at lower right of screen.
@@ -428,6 +428,13 @@ In this step, you should activate the teleport mode. This will be done by clicki
 
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 5: Fake Find My Friends Location**
 
 Now, the program will get your location and click on “Move Here” that comes in the next dialog box. The location will be changed now. You can see that in your iPhone and its location-based app.
@@ -435,10 +442,10 @@ Now, the program will get your location and click on “Move Here” that comes 
 ![Fake location on Find My Friends](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3.2 Use a burner iPhone to fake location in Find My Friends
@@ -462,6 +469,13 @@ If you have done jailbreaking, you can have FMFNotifier. Jailbreaking will be wo
 - One of the amazing things about this app to fake Find My Friends location is it sends you the notification each time when someone want to track your location. Whenever your friend attempts to ping your location, it will notify you as “Someone has requested your location through Find My Friends app”. And this is the moment where you can fake your location on Find My Friends. You can right away set a fake location when you know someone requires your location.
 
 ![FMFNotifier notification](https://images.wondershare.com/drfone/article/2019/09/fmfnotifier-notification.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - Secondly, you can do configurations from the Settings app easily. Like, you can customize the text of the notification. Besides, the app allows you to set and save several false locations preset.
 
@@ -496,6 +510,13 @@ You will get the notification no matter your screen is locked or not. A notifica
 - Have a look on the location request logs i.e. each time when the location is pinged
 
 ![antitracker settings](https://images.wondershare.com/drfone/article/2019/09/antitracker-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4: How to Fake Find My Friends location on Android
 
@@ -535,5 +556,26 @@ When you install it rightly, this is how to do a little twisting to set it up wi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-conquer-ez-grabber-in-minutes-download-and-setup-made-simple/"><u>[Updated] In 2024, Conquer EZ Grabber in Minutes Download & Setup Made Simple</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-unmasking-the-significance-of-snapchat-emojis-for-2024/"><u>[Updated] Unmasking the Significance of Snapchat Emojis for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-cinematic-chronology-best-video-cameras-for-detailed-speed-recording/"><u>2024 Approved Cinematic Chronology Best Video Cameras for Detailed Speed Recording</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-iphone-nightscape-techniques-unlocked/"><u>2024 Approved IPhone Nightscape Techniques Unlocked</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-setup-tutorial-obtaining-and-installing-drivers-for-xbox-360-controllers/"><u>Easy Setup Tutorial: Obtaining and Installing Drivers for Xbox 360 Controllers</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-poco-c65-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Poco C65? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-vivo-s18-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Vivo S18? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-poco-c65-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Poco C65? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For OnePlus Nord CE 3 5G? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Oppo Reno 8T? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-apple-iphone-11-pro-max-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>In 2024, How to Bypass Apple iPhone 11 Pro Max Passcode Easily Video Inside | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Vivo Y56 5G? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-transform-your-mp4-files-a-step-by-step-video-editing-tutorial-for-mac-and-windows-for-2024/"><u>New Transform Your MP4 Files A Step-by-Step Video Editing Tutorial for Mac and Windows for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/pioneering-podcast-production-writing-and-examples-guide/"><u>Pioneering Podcast Production Writing & Examples Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/top-4-proven-tactics-for-exceptional-loop-videos-on-ig/"><u>Top 4 Proven Tactics for Exceptional Loop Videos on IG</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-new-potentials-with-chatgpt-vision-a-guide-to-8-unique-methods/"><u>Unlocking New Potentials with ChatGPT Vision - A Guide to 8 Unique Methods</u></a></li>
+<li><a href="https://change-location.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Xiaomi Redmi Note 12 5G? | Dr.fone</u></a></li>
+</ul></div>
 
