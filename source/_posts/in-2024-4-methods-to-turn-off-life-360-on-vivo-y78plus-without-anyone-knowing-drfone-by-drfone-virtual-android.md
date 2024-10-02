@@ -1,7 +1,7 @@
 ---
 title: In 2024, 4 Methods to Turn off Life 360 On Vivo Y78+ without Anyone Knowing | Dr.fone
-date: 2024-09-20T16:14:52.970Z
-updated: 2024-09-27T16:06:06.197Z
+date: 2024-09-25T21:14:09.943Z
+updated: 2024-10-02T16:12:56.272Z
 tags: 
   - virtual location chang
   - location changer
@@ -58,6 +58,13 @@ There is the possibility of limiting the details about your location to others i
 
 ![pause location sharing](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. **Turn off Your Vivo Y78+’s Airplane Mode**
 
 Another option you have to stop sharing location on Life360 is by switching on Airplane mode. You can do this on your Android and iOS devices. Once you enable Airplane mode, you’ll see a white flag on your last saved location.
@@ -96,13 +103,6 @@ You’re not left out of this option; below are the steps to disable GPS service
 - If you want to disable GPS services on your Vivo Y78+, turn off location tracking for apps.
 
 ![turn off gps location services on android](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-9.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: **Best Ways to Fake Location on Life360 without Anyone Knowing-Virtual location \[iOS/Android Supported\]**
 
@@ -147,10 +147,10 @@ Below, we’ve broken down the process for you; keep reading to learn how to fak
 ![tap on move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Automatically, your location will change to the chosen place on the map and your mobile device.
@@ -158,10 +158,10 @@ Automatically, your location will change to the chosen place on the map and your
 ![location on your phone](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <iframe width="100%" height="450" type="text/html" src="https://www.youtube.com/embed/xQa-_8RTg5U" frameborder="0"></iframe>
@@ -190,13 +190,6 @@ Find My Friends is an app developed for Android and iOS devices. You can say it 
 
 It is helpful if you are having a hang out plan with your friends. And if you friend is on the way, he or she can share their location. Or it is a great way to catch if someone is lying about their location.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1: About Find My Friends app
 
 When location sharing is enabled in the Vivo Y78+ device, the map will show the current locations. The [Find My Friends app](https://www.virtuallocation.com/find-my-friends/) also has an inbuilt chat option where you can contact your friend and interact about with them. It also automatically informs you when your friend reaches at the target location, leave a location etc. You can customize and configure the alerts as per your choice.
@@ -209,6 +202,13 @@ You can find yourself confused if you are using iOS 13 and looking for Find My F
 
 ![Find My Friends on iOS 13](https://images.wondershare.com/drfone/article/2019/09/find-my-friends-ios-13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: What Are the Against Voices of the Find My Friends App?
 
 Look at some of the things we feel not beneficial about Find My Friends.
@@ -220,13 +220,6 @@ Look at some of the things we feel not beneficial about Find My Friends.
 - Not to forget, hackers are everywhere and the app is prone to get accessed by any of them.
 
 In such cases, the need of hiding or faking Find My Friends location rises. This is because we are sharing some ways to fake location on Find My Friends on your iOS and Android.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: 4 Solutions to Fake Find My Friends Location on iOS
 
@@ -250,6 +243,13 @@ Now, take your iPhone and keep it connected with the system. After this is done,
 
 ![connect iphone to pc](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3: Look for Location**
 
 After following the second step, all you need is to look for your actual location. To make this happen, click on the “Center On” icon given at lower right of screen.
@@ -261,19 +261,6 @@ After following the second step, all you need is to look for your actual locatio
 In this step, you should activate the teleport mode. This will be done by clicking the third icon in the upper right of the screen. You can now input the place you want to teleport.
 
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
-
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 5: Fake Find My Friends Location**
 
@@ -303,6 +290,13 @@ If you have done jailbreaking, you can have FMFNotifier. Jailbreaking will be wo
 
 ![FMFNotifier notification](https://images.wondershare.com/drfone/article/2019/09/fmfnotifier-notification.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - Secondly, you can do configurations from the Settings app easily. Like, you can customize the text of the notification. Besides, the app allows you to set and save several false locations preset.
 
 **Guide on How to Use FMFNotifier**
@@ -323,6 +317,13 @@ You will get the notification no matter your screen is locked or not. A notifica
 
 ![find tracks using the antitracker](https://images.wondershare.com/drfone/article/2019/09/antitracker-notification.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Guide on How to Use AntiTracker**
 
 **Step 1:** It is available free on Cydia’s Bigboss repo to download. S, go to CYdia and look for AntiTracker.
@@ -336,6 +337,13 @@ You will get the notification no matter your screen is locked or not. A notifica
 - Have a look on the location request logs i.e. each time when the location is pinged
 
 ![antitracker settings](https://images.wondershare.com/drfone/article/2019/09/antitracker-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4: How to Fake Find My Friends location on Android
 
@@ -370,13 +378,6 @@ Nothing is more important than your mobile device when it comes to your security
 Whether you're looking to sync photos, videos, contacts, messages, and locations with your mobile devices and computers or simply set up your home cameras to automatically send you alerts, Life360 is designed to be the most powerful mobile phone service provider you've ever seen.
 
 It's the most secure and easiest-to-use service, but it's not the cheapest. So, let's know what Life360 is and how Life360 work.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1: What Is Life360?
 
@@ -450,13 +451,6 @@ Downloading Dr.Fone - Virtual Location (for iOS or Android) is the first thing t
 
 ![access virtual location feature](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 1:** After going through all of the available choices, choose "Virtual Location," and then connect your iPhone or Android phone to your computer. Select "Get Started" from the drop-down menu.
 
 ![tap on get started button](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
@@ -529,24 +523,17 @@ Life360 is a useful application that helps you keep tabs on your loved ones. You
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-unveiling-the-top-methods-of-video-and-screenshots-for-2024/"><u>[New] Unveiling the Top Methods of Video & Screenshots for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-game-masters-top-ten-female-gaming-influencers/"><u>[Updated] In 2024, Game Masters Top Ten Female Gaming Influencers</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-lenovos-4-top-recording-methods-made-simple/"><u>[Updated] Lenovo's 4 Top Recording Methods Made Simple</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-mastering-social-media-splitscreen-a-facebook-guide/"><u>2024 Approved Mastering Social Media Splitscreen A Facebook Guide</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-tiktok-and-twittersphere-crossover-the-viral-vids/"><u>2024 Approved TikTok and Twittersphere Crossover The Viral Vids</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/5-solutions-for-zte-axon-40-lite-unlock-without-password-by-drfone-android/"><u>5 Solutions For ZTE Axon 40 Lite Unlock Without Password</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/achieving-auditory-perfection-zooming-up-your-sound-quality-for-2024/"><u>Achieving Auditory Perfection Zooming Up Your Sound Quality for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Samsung Galaxy S23 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-oppo-a1x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Oppo A1x 5G? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Samsung Galaxy A25 5G? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-go-joystick-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Vivo Y78+ (T1) Edition? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/how-to-use-whiteboard-in-zoom-meeting-for-2024/"><u>How to Use Whiteboard in Zoom Meeting for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Vivo S17 Pro | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Samsung Galaxy M54 5G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-why-is-ipogo-not-working-on-vivo-v29-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Vivo V29? Fixed | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/jpeg-jpg-online-movavi/"><u>JPEG 파일을 무료로 JPG로 바꾸는 Online 도구 - Movavi</u></a></li>
-<li><a href="https://change-location.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Samsung Galaxy A15 5G | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/warzone-graphics-bug-solutions-and-tips-for-stop-the-screen-glitch/"><u>Warzone Graphics Bug: Solutions & Tips for Stop the Screen Glitch</u></a></li>
-<li><a href="https://change-location.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Vivo Y100 5G? | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-economical-aether-fileshare-for-bulk-digital-storing/"><u>[Updated] 2024 Approved Economical Aether Fileshare for Bulk Digital Storing</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-tactics-to-expose-youtubes-well-guarded-videotapes-for-2024/"><u>[Updated] Tactics to Expose YouTube's Well-Guarded Videotapes for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/diversify-referrals-tactics-for-effective-youtube-backlinks-for-2024/"><u>Diversify Referrals Tactics for Effective YouTube Backlinks for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/easily-resolve-apex-legends-not-starting-up-step-by-step-guide/"><u>Easily Resolve Apex Legends Not Starting Up - Step-by-Step Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-motorola-moto-e13-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Motorola Moto E13 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-vivo-y100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-the-activation-lock-on-your-ipad-and-apple-iphone-se-without-apple-account-by-drfone-ios/"><u>How to Remove the Activation Lock On your iPad and Apple iPhone SE without Apple Account</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Motorola Edge 2023? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Vivo Y78+ (T1) Edition? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-xiaomi-14-ultra-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Xiaomi 14 Ultra Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-refurbished-apple-iphone-15-everything-you-need-to-know-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Refurbished Apple iPhone 15 Everything You Need to Know | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-secrets-encased-exploring-e-commerce-realms-of-mystery-boxes/"><u>In 2024, Secrets Encased Exploring E-Commerce Realms of Mystery Boxes</u></a></li>
 </ul></div>
 

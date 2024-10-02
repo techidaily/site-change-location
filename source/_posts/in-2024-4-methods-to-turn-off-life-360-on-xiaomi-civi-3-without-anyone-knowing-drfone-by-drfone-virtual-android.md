@@ -1,7 +1,7 @@
 ---
 title: In 2024, 4 Methods to Turn off Life 360 On Xiaomi Civi 3 without Anyone Knowing | Dr.fone
-date: 2024-09-18T16:24:53.947Z
-updated: 2024-09-19T17:17:39.231Z
+date: 2024-09-26T16:20:27.550Z
+updated: 2024-10-02T17:33:35.954Z
 tags: 
   - virtual location chang
   - location changer
@@ -41,6 +41,13 @@ Some of the available Life360 features include notifying you when a member of yo
 
 There are times when you want to turn Life360 off without it showing so that people don’t know your present location. But, if you have no idea how to go about it, you’re in luck. This section covers the best methods to stop sharing your location with friends and family on Life360.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. **Turn Off Your Circle’s Location on Life360**
 
 There is the possibility of limiting the details about your location to others in your circle. One way to turn Life360 without anyone knowing is by choosing a circle and disconnecting from them. The steps below break down the entire process.
@@ -49,6 +56,13 @@ There is the possibility of limiting the details about your location to others i
 - Next, choose a circle you want to stop sharing your location with at the top of the page.
 
 ![locate the circle on life360](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - Tap on ‘location sharing’ and click on the slider next to it to disable location sharing.
 
@@ -97,13 +111,6 @@ You’re not left out of this option; below are the steps to disable GPS service
 
 ![turn off gps location services on android](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3: **Best Ways to Fake Location on Life360 without Anyone Knowing-Virtual location \[iOS/Android Supported\]**
 
 Although Life360 can be helpful in emergencies or security issues, it can also prove quite problematic. If you want some privacy or don’t trust members of your circle, you might want to learn how to turn off Life 360. The problem with turning off the Life360 location is that members of your circle might notice, which would inevitably cause some conflict.
@@ -135,6 +142,13 @@ Below, we’ve broken down the process for you; keep reading to learn how to fak
 3\. Next, connect your iPhone or Android device to your PC and click 'get started.'
 
 ![tap on get started button](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4\. Next, you have to turn on the ‘teleport mode’ by clicking its icon at the upper right corner of the screen.
 
@@ -170,13 +184,34 @@ Yes, it does. It will send a ‘location sharing paused’ notification to all y
 
 Life360 is a useful app for professional and personal circles. However, it can be intrusive on our privacy sometimes. Most times, the youths want to learn how to turn off Life360 without their parents knowing on iPhone and Android devices. This article provides you with different methods you can achieve this. If you want to learn how to turn off life 360 without showing up, the best option is to fake your location. We hope the guide above helps you utilize [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) without any issues.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Will iSpoofer update On Xiaomi Civi 3
 
 iSpoofer has been one of the most in-demand applications for changing your location while playing Pokemon Go. For all the right reasons, people wanted to stick to it to make sure that they catch the splendid Pokemon no matter where they are stationed. But the problems started when iSpoofer stopped working and there was no way anyone could continue to use or initiate iSpoofer update. When you open the application, you’d either see an error message, a subtle hint at an apology, or a pop-up that says that the app is under maintenance.
 
 ![ispoofer shut down pic](https://images.wondershare.com/drfone/2020/2020/ispoofer-shut-down-pic-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 All of them are the alternative ways of saying - ‘We are not available anymore’. But will iSpoofer be back in the year 2021? Can we expect to revive our Pokemon catching abilities with the iSpoofer update? Even if it comes back, will it be available for Android and iPhone users? If not - then do we have any other application that we can use for this purpose? To get answers to all these questions, you have to continue to read this space.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 1: Why Can’t I update iSpoofer?
 
@@ -236,13 +271,6 @@ Have you ever wondered why you get the advertisements of the websites you visite
 
 ![cross site tracking](https://images.wondershare.com/drfone/article/2022/03/cross-site-tracking.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 The CST process is like invading your privacy by collecting your browser history and personal information. So, to prevent these services, there are several ways by which you can cross-site tracking on your system as well as Xiaomi Civi 3 phone browsers. Keep reading to learn **how to stop cross-site tracking on both Xiaomi Civi 3 and browser.**
 
 ## Part 1: Why Do We Need to Stop Cross-site Tracking?
@@ -272,10 +300,10 @@ Safari cross-site tracking can be prevented using the below steps on your iPhone
 ![prevent cross-site tracking on iPhone](https://images.wondershare.com/drfone/article/2022/03/prevent-cst-iphone-ipad.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 - Step 1. Launch the Settings app on your iOS device.
@@ -287,13 +315,6 @@ Safari cross-site tracking can be prevented using the below steps on your iPhone
 Use the steps below to **turn off cross-site tracking on Safari** on your Mac systems.
 
 ![stop cross-site tracking on mac](https://images.wondershare.com/drfone/article/2022/03/prevent-cst-mac.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - Step 1. On your Mac system, open the Safari app.
 - Step 2. Move to Safari > Preferences > Privacy
@@ -312,6 +333,13 @@ Chrome is used widely on Windows systems and Android devices, and to prevent the
 
 ![stop cross-site tracking on android](https://images.wondershare.com/drfone/article/2022/03/prevent-cst-android.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Enable “Do Not Track” on Google Chrome for Computer
 
 - Step 1. Launch Chrome on your system, and from the menu at the upper-right corner, click on the Settings option.
@@ -319,13 +347,6 @@ Chrome is used widely on Windows systems and Android devices, and to prevent the
 - Step 3. Tap and enable the slider next to “Send a “Do not track” request with your browsing traffic.”
 
 ![prevent -cross-site-tracking on chrome computer](https://images.wondershare.com/drfone/article/2022/03/prevent-cst-computer-chrome.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 5: Recommended Solution: Fake a Location to Stop Cross-Site Location Tracking Using Dr. Fone
 
@@ -393,5 +414,24 @@ Preventing Cross-site tracking can be done on different browsers and devices usi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://graphic-issues.techidaily.com/clearing-up-black-windows-post-fall/"><u>Clearing Up Black Windows Post Fall</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/close-up-confidence-navigating-google-meets-zoom-feature-for-2024/"><u>Close-Up Confidence Navigating Google Meet's Zoom Feature for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-huawei-p60-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Huawei P60 Phone | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/harnessing-skypes-potential-on-pc-and-mac-with-ease-for-2024/"><u>Harnessing Skype's Potential on PC & Mac with Ease for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-motorola-defy-2-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Motorola Defy 2? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Apple iPhone X? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-moto-e13-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Motorola Moto E13 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Samsung Galaxy S24+ | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-path-to-smooth-transitions-in-inshot-editing/"><u>In 2024, The Path to Smooth Transitions in Inshot Editing</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-for-updater-glitch-code-0x80073712/"><u>Quick Fixes for Updater Glitch: Code 0X80073712</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-battle-of-brands-action-4-max-360-and-x3-which-wins-the-race/"><u>The Battle of Brands Action 4, Max 360 & X3 - Which Wins the Race?</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Vivo Y36i? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-tecno-spark-10c-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Tecno Spark 10C Has Black Screen of Death? | Dr.fone</u></a></li>
+</ul></div>
 

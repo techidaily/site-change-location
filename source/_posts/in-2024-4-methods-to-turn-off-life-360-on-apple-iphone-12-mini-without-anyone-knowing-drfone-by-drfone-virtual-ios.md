@@ -1,7 +1,7 @@
 ---
 title: In 2024, 4 Methods to Turn off Life 360 On Apple iPhone 12 mini without Anyone Knowing | Dr.fone
-date: 2024-09-15T16:17:15.216Z
-updated: 2024-09-19T16:01:55.961Z
+date: 2024-10-01T20:25:48.657Z
+updated: 2024-10-02T17:44:26.333Z
 tags: 
   - virtual location chang
   - location changer
@@ -58,6 +58,19 @@ There is the possibility of limiting the details about your location to others i
 
 ![pause location sharing](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-2.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. **Turn off Your Apple iPhone 12 mini’s Airplane Mode**
 
 Another option you have to stop sharing location on Life360 is by switching on Airplane mode. You can do this on your Android and iOS devices. Once you enable Airplane mode, you’ll see a white flag on your last saved location.
@@ -65,6 +78,13 @@ Another option you have to stop sharing location on Life360 is by switching on A
 **For your iOS devices**: open ‘control center’ and tap on the ‘airplane mode’ button. Alternatively, you can go to settings and tap on ‘airplane mode’ to switch it on.
 
 ![turn on airplane mode on iphone](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-6.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **For Android** owners wondering how to turn location off on life360 through Airplane mode, swipe down from the top of your screen and select the ‘Airplane mode’ icon. You can also turn it on by visiting ‘settings’ and selecting ‘network & internet’ from the option displayed. Finally, find the airplane mode and switch it on.
 
@@ -86,6 +106,13 @@ iOS users can easily turn off GPS services by following the steps we’ll be pro
 
 ![disable gps location services on iphone](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-8.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **For Android**
 
 You’re not left out of this option; below are the steps to disable GPS service on your Apple iPhone 12 minis.
@@ -96,13 +123,6 @@ You’re not left out of this option; below are the steps to disable GPS service
 - If you want to disable GPS services on your Apple iPhone 12 mini, turn off location tracking for apps.
 
 ![turn off gps location services on android](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-9.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: **Best Ways to Fake Location on Life360 without Anyone Knowing-Virtual location \[iOS/Android Supported\]**
 
@@ -131,6 +151,13 @@ Below, we’ve broken down the process for you; keep reading to learn how to fak
 2\. Select ‘virtual location’ from the options displayed on the main menu.
 
 ![access virtual location feature](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3\. Next, connect your Apple iPhone 12 mini or Android device to your PC and click 'get started.'
 
@@ -199,6 +226,13 @@ This app also works as a third-party software as it runs in the background while
 ## Part 2: What’s the rate of iPogo ban
 
 ![ipogo ban intro 2](https://images.wondershare.com/drfone/2020/202010/ipogo-ban-intro-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Players mostly use iPogo for location spoofing, which is very common in Pokémon go. Niantic releases various patch notes to stop players from spoofing and catch those who are doing it. In Pokémon Go players, are banned on a 3-Strike basis.
 
@@ -270,13 +304,6 @@ Confirm the exact location on the pop-up that appears now and click on “Move h
 
 ![virtual location 05](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 6: Check Location on the deivce**
 
 After this, you have successfully changed your location. You can cross-check this by pressing the “Center on” icon.
@@ -305,6 +332,13 @@ In AR games that come with GPS tracking software, they track the real motion of 
 - Some players can't travel in the first place for various reasons like financial constraints, health concerns, and current location.
 
 In these cases, using a **fake GPS route** helps simulate the location of players, so they can still take part without actually moving around.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2. 4 Effective Ways to Simulate GPS Movement On AR games?
 
@@ -358,6 +392,13 @@ Below is the video showcasing all steps necessary to simulate GPS movement while
 
 ![tap on the teleport mode icon](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 4**: The software will automatically take your GPS location there. To confirm, press Move Here.
 
 ![press move here](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
@@ -404,13 +445,6 @@ It is possible to run this app on different iPhones and iPads simultaneously. Th
 
 ![tap on move here](https://images.wondershare.com/drfone/article/2022/12/how-to-simulate-gps-movement-on-ar-games-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Simulate GPS Movement Android
 
 Like in the case of iOS, searches related to **Pokémon Go spoofing Android Reddit** are also available. Therefore, let us discuss the best Android app to use for fake GPS route spoofing.
@@ -447,23 +481,9 @@ Get multiple spoofing options here, like expert mode and various routes to set u
 
 ![tap on the play button](https://images.wondershare.com/drfone/article/2022/12/how-to-simulate-gps-movement-on-ar-games-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3**: The app will automatically show the spoofed fly GPS after inserting the fake location.
 
 ![the app will automatically show](https://images.wondershare.com/drfone/article/2022/12/how-to-simulate-gps-movement-on-ar-games-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Method 2. [Mock Locations](https://play.google.com/store/apps/details?id=ru.gavrikov.mocklocations)**
 
@@ -521,6 +541,13 @@ While Pokémon Go is the most popular of them all, you can expect interesting pl
 
 To learn more about these games, you should read the full article to discover [some great titles that are similar to Pokemon Go](https://drfone.wondershare.com/pokemon-go/top-ar-games-like-pokemon-go.html).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Conclusion
 
 Indeed, there are different methods you can use to spoof your location to play AR games that require actual movement. While the debate against location spoofing apps is understandable, these software types' also uses effectively improve user experience.
@@ -539,5 +566,21 @@ The best step while using them is to follow the gameplay rules respectfully and 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-elite-guide-exceptional-instagram-hlv-designers/"><u>[New] In 2024, Elite Guide Exceptional Instagram HLV Designers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-enhanced-audio-experience-top-5-game-headsets-for-streaming/"><u>[Updated] In 2024, Enhanced Audio Experience Top 5 Game Headsets for Streaming</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-masterful-approaches-to-live-sports-video-capture-for-2024/"><u>[Updated] Masterful Approaches to Live Sports Video Capture for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-blueprint-to-dominate-social-platforms/"><u>[Updated] The Blueprint to Dominate Social Platforms</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-bright-ideas-for-android-video-mastery/"><u>2024 Approved Bright Ideas for Android Video Mastery</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-transforming-youtube-content-advanced-strategies-to-perfect-videos-after-publishing/"><u>2024 Approved Transforming YouTube Content Advanced Strategies to Perfect Videos After Publishing</u></a></li>
+<li><a href="https://change-location.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-giants-growth-competitive-forces-at-playindustry-symposium-recap/"><u>Game Giants' Growth: Competitive Forces at Play![Industry Symposium Recap]</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-vivo-s17t-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Vivo S17t? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Xiaomi Redmi Note 13 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-crafting-a-pathway-to-instagram-affordability-through-partnerships/"><u>In 2024, Crafting a Pathway to Instagram Affordability Through Partnerships</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-cutting-edge-technology-through-toms-hardware-experts/"><u>Unveiling Cutting-Edge Technology Through Tom's Hardware Experts</u></a></li>
+</ul></div>
 

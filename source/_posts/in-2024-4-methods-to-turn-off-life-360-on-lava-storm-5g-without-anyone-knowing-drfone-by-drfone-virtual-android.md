@@ -1,7 +1,7 @@
 ---
 title: In 2024, 4 Methods to Turn off Life 360 On Lava Storm 5G without Anyone Knowing | Dr.fone
-date: 2024-09-23T16:12:44.774Z
-updated: 2024-09-27T16:10:47.698Z
+date: 2024-09-27T17:51:00.114Z
+updated: 2024-10-02T19:17:34.040Z
 tags: 
   - virtual location chang
   - location changer
@@ -50,13 +50,6 @@ There is the possibility of limiting the details about your location to others i
 
 ![locate the circle on life360](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - Tap on ‘location sharing’ and click on the slider next to it to disable location sharing.
 
 ![click on location sharing](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing.jpg)
@@ -72,13 +65,6 @@ Another option you have to stop sharing location on Life360 is by switching on A
 **For your iOS devices**: open ‘control center’ and tap on the ‘airplane mode’ button. Alternatively, you can go to settings and tap on ‘airplane mode’ to switch it on.
 
 ![turn on airplane mode on iphone](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-6.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **For Android** owners wondering how to turn location off on life360 through Airplane mode, swipe down from the top of your screen and select the ‘Airplane mode’ icon. You can also turn it on by visiting ‘settings’ and selecting ‘network & internet’ from the option displayed. Finally, find the airplane mode and switch it on.
 
@@ -117,13 +103,6 @@ Although Life360 can be helpful in emergencies or security issues, it can also p
 
 Fortunately, you have another effective option, and that is by faking your GPS location using a location spoofer. You can display the location you want while keeping your true location safe on Life360. Dr. Fone –Virtual location is an excellent tool for faking your location.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 1-Click Location Changer for both iOS and Android
@@ -146,6 +125,13 @@ Below, we’ve broken down the process for you; keep reading to learn how to fak
 
 ![access virtual location feature](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3\. Next, connect your iPhone or Android device to your PC and click 'get started.'
 
 ![tap on get started button](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
@@ -154,11 +140,25 @@ Below, we’ve broken down the process for you; keep reading to learn how to fak
 
 ![enable teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5\. Now, enter the location you want to teleport to on the upper left side of the screen and then click the ‘go’ icon.
 
 6\. Click ‘move here’ in the popup box to change your location to this new place.
 
 ![tap on move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Automatically, your location will change to the chosen place on the map and your mobile device.
 
@@ -175,13 +175,6 @@ Yes, there are some dangers associated with turning off location on Life360. No 
 ### 2\. **Can Life360 track my location when I switch My Lava Storm 5G off?**
 
 When your phone is off, your GPS location is automatically disabled. Therefore Life360 won’t be able to track your location; it will only display your last logged location.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. **Does Life360 tell my circle when I turn off the location?**
 
@@ -215,6 +208,13 @@ For instance, spouses can monitor their better half and if any one of them does 
 
 For these reasons, a lot of people sum up the app as an intervention for their privacy. And for those who love their privacy, hating being tracked by Life360 is completely natural to them.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: Stop Life360 Tracking vs. Spoofing Life360
 
 To stop or to spoof, that is the question! Yes, when you are annoyed with being tracked by Life360, you can have two options with you. Either you can stop Life360 tracking or spoof Life360 tracking. But what goes best? You might be wondering the same. For many of you, simply stopping the app and logging out from it can be a plain solution. However, we don’t support this. To us, the faking location on Life360 is much better.
@@ -244,13 +244,6 @@ Take your iPhone now and connect it to the computer. Hit on "Get Started" once t
 You will be shown a map on the next screen. Here, you can find your current virtual location. If the location is not showing, click on the "Current Virtual Location" icon that can be discovered at the lower right part.
 
 ![find your actual location](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 4: Enable Teleport Mode**
 
@@ -368,6 +361,13 @@ Wondershare Dr.Fone - Virtual Location is a tool that allows users to spoof actu
 
 Disabling Wi-Fi on your iPhone might limit the accuracy of your location for Life360. However, Life360 can still track your location using cellular data and GPS. Turning off Wi-Fi alone might not entirely stop Life360 from tracking your location. It is especially true if other location services are still active on your device. To prevent tracking, you might need to adjust settings within your device's location services.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Final Words
 
 Life360 is no doubt a useful app that can help you know about the whereabouts of your near friends and family. However, when you hate being tracked on it, spoofing Life360 can come out as a great option. We discussed some helpful ways **how to fake your location on Life360** in this article, including [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) which allows you to manipulate your GPS location, simulate routes, and set up geofences, making it a versatile solution for your location spoofing needs. Hope you find this helpful.
@@ -401,6 +401,13 @@ This app also works as a third-party software as it runs in the background while
 ## Part 2: What’s the rate of iPogo ban
 
 ![ipogo ban intro 2](https://images.wondershare.com/drfone/2020/202010/ipogo-ban-intro-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Players mostly use iPogo for location spoofing, which is very common in Pokémon go. Niantic releases various patch notes to stop players from spoofing and catch those who are doing it. In Pokémon Go players, are banned on a 3-Strike basis.
 
@@ -454,6 +461,13 @@ Wait for a few seconds; in the meantime, connect your iPhone to the computer usi
 
 ![virtual location 01](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3: Check the Location**
 
 A new window will pop-up where you will see your current location. If the location is not accurate, click on “Center On” present in the lower-right corner.
@@ -466,25 +480,11 @@ Now click on the 1st icon on the upper right corner, which will enable you to te
 
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 5: Confirm the Location**
 
 Confirm the exact location on the pop-up that appears now and click on “Move here.”
 
 ![virtual location 05](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 6: Check Location on the deivce**
 
@@ -492,16 +492,16 @@ After this, you have successfully changed your location. You can cross-check thi
 
 ![virtual location 06](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 To be certain, you can also check the location on your iPhone. Just open maps on your device, and you will see your selected location.
 
 ![virtual location 07](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -521,22 +521,22 @@ Can iPogo get you banned? Yes, it can, and it eventually will. It would help if 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-exploring-the-best-tools-for-video-recording-a-bandicam-vs-camtasia-review/"><u>[Updated] 2024 Approved Exploring the Best Tools for Video Recording A Bandicam Vs Camtasia Review</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-expert-guide-to-instantaneous-deletion-of-youtube-posts/"><u>[Updated] In 2024, Expert Guide to Instantaneous Deletion of Youtube Posts</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-picture-perfectionism-top-tools-and-sites-for-adding-frame-elements/"><u>2024 Approved Picture Perfectionism Top Tools & Sites for Adding Frame Elements</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-power-play-joining-a-music-company-network-in-the-age-of-streaming/"><u>2024 Approved The Power Play Joining a Music Company Network in the Age of Streaming</u></a></li>
-<li><a href="https://change-location.techidaily.com/additional-tips-about-sinnoh-stone-for-vivo-v30-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Vivo V30 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Vivo V29 Pro | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-poco-x6-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Poco X6 Quickly? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-go-joystick-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Vivo T2 5G? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Vivo T2 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-nokia-g22-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Nokia G22 To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Samsung Galaxy F15 5G? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/sony-bdp-s3700-overhaul-a-new-perspective-review/"><u>Sony BDP-S3700 Overhaul A New Perspective Review</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/odern-marketers-guide-to-video-sharing-exploring-igtv-and-youtube-for-2024/"><u>The Modern Marketer's Guide to Video Sharing Exploring IGTV & YouTube for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/tips-and-fixes-for-when-your-pc-struggles-to-connect-to-cod-warzone-games/"><u>Tips & Fixes for When Your PC Struggles to Connect to COD Warzone Games</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-vivo-x100-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Vivo X100 FRP Bypass</u></a></li>
+<li><a href="https://change-location.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/adventure-essentials-top-10-gopro-protectors-reviewed-for-2024/"><u>Adventure Essentials - Top 10 GoPro Protectors Reviewed for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/balancing-bitrate-in-obs-broadcasts-for-2024/"><u>Balancing Bitrate in OBS Broadcasts for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/comprehensive-data-sanitization-made-simple-stellar-wiper-pro-5-for-windows-schedule-wiping-tasks-effortlessly/"><u>Comprehensive Data Sanitization Made Simple: Stellar Wiper Pro 5 for Windows - Schedule Wiping Tasks Effortlessly</u></a></li>
+<li><a href="https://win11.techidaily.com/fast-track-to-windows-help-top-5-routes-uncovered/"><u>Fast Track to Windows Help - Top 5 Routes Uncovered</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>How to Use Life360 on Windows PC For Apple iPhone 6? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-advanced-color-correction-mastering-luts-in-after-effects/"><u>In 2024, Advanced Color Correction Mastering LUTs in After Effects</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-best-beginner-drones-kids-edition-top-10-list/"><u>In 2024, Best Beginner Drones - Kids' Edition Top 10 List</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-ispoofer-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Vivo V29 Pro? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unlocking-video-potential-essential-courses-for-new-creators/"><u>In 2024, Unlocking Video Potential Essential Courses for New Creators</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-top-8-digital-audio-workstations-daws-revolutionizing-contemporary-rap-and-randb-creation-for-2024/"><u>New Top 8 Digital Audio Workstations (DAWs) Revolutionizing Contemporary Rap and R&B Creation for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Infinix Note 30? | Dr.fone</u></a></li>
 </ul></div>
 

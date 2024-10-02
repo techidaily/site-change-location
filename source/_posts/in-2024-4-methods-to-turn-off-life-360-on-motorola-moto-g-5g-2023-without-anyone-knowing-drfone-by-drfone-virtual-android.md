@@ -1,7 +1,7 @@
 ---
 title: In 2024, 4 Methods to Turn off Life 360 On Motorola Moto G 5G (2023) without Anyone Knowing | Dr.fone
-date: 2024-09-21T16:16:53.125Z
-updated: 2024-09-27T16:03:29.207Z
+date: 2024-09-25T19:15:06.078Z
+updated: 2024-10-02T19:57:30.207Z
 tags: 
   - virtual location chang
   - location changer
@@ -59,10 +59,10 @@ There is the possibility of limiting the details about your location to others i
 ![pause location sharing](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. **Turn off Your Motorola Moto G 5G (2023)’s Airplane Mode**
@@ -73,16 +73,16 @@ Another option you have to stop sharing location on Life360 is by switching on A
 
 ![turn on airplane mode on iphone](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **For Android** owners wondering how to turn location off on life360 through Airplane mode, swipe down from the top of your screen and select the ‘Airplane mode’ icon. You can also turn it on by visiting ‘settings’ and selecting ‘network & internet’ from the option displayed. Finally, find the airplane mode and switch it on.
 
 ![turn on airplane mode on android](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-7.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 These steps will help you turn off location sharing on Life360. However, the downside of using Airplane mode is that it prevents you from accessing the internet. In addition, with the Airplane mode turned on, you can’t make or receive phone calls, either. Therefore, we don’t recommend this as your top choice when learning to turn off Life 360.
 
@@ -99,6 +99,13 @@ iOS users can easily turn off GPS services by following the steps we’ll be pro
 - Next, disable GPS location services
 
 ![disable gps location services on iphone](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-8.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **For Android**
 
@@ -143,13 +150,6 @@ Below, we’ve broken down the process for you; keep reading to learn how to fak
 
 ![tap on get started button](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4\. Next, you have to turn on the ‘teleport mode’ by clicking its icon at the upper right corner of the screen.
 
 ![enable teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
@@ -189,13 +189,6 @@ Life360 is a useful app for professional and personal circles. However, it can b
 Location-based apps and games are all the rage right now, and the latest trends indicate that this is not going anywhere but upwards. When you want to access content that is not available to you in your current location, what can you do? Or, when you want to catch Pokémon but aren’t getting any, you can’t give up and stop playing, can you? A location spoofer app to mock location can help you in this situation, and we are going to tell you how to mock location on iPhone and Android along with the top **mock location apps** for Android and iPhone in this guide. Read on!
 
 ![top mock location apps for android ios](https://images.wondershare.com/drfone/article/2023/12/mock-location-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part I: Purpose of Mock Location Apps
 
@@ -257,14 +250,14 @@ A quality product from Wootechy, iMoveGo is compatible with the latest iOS 17 an
 
 ![ispoofer](https://images.wondershare.com/drfone/article/2023/12/mock-location-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Probably one of the most known apps at one point in time, iSpoofer was great at spoofing location on iPhone until Niantic, the makers of Pokémon GO, detected the app, and banned it. The app still works with some tricks up its sleeve, but we do not really recommend it, given that it was detected once and if you are detected using the app, you will be banned from the Poke-verse for good.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part IV: Top Mock Location Apps for Android
 
@@ -285,13 +278,6 @@ Fake GPS Location-GPS JoyStick by The App Ninjas is a popular mock location spoo
 #### 3\. iToolab AnyGo for Android
 
 ![itoolab anygo for android](https://images.wondershare.com/drfone/article/2023/12/mock-location-9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 iToolab AnyGo for Android works in over 100 games and apps and can simulate movements between two points. The speed of movement can be customized and the app does not require you to root your Motorola Moto G 5G (2023).
 
@@ -318,6 +304,13 @@ Dr.Fone - Virtual Location can be used to effectively spoof GPS coordinates on A
 ![vpna for android](https://images.wondershare.com/drfone/article/2023/12/mock-location-11.jpg)
 
 VPNa - Fake GPS Location Go is a regularly updated mock location app for Android and a good thing about this app is that it does not require you to root your Motorola Moto G 5G (2023)!
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part V: Steps To Mock Location on Android Or iPhone with Dr.Fone - Virtual Location
 
@@ -362,6 +355,13 @@ Step 5: Click another location or type it and choose from the traveling paramete
 
 ![drfone virtual location one stop mode](https://images.wondershare.com/drfone/guide/virtual-location-09.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Your device will start simulating movement as per your set parameters and the map will start moving. You can pause or cancel at any time.
 
 ![drfone virtual location spoofer](https://images.wondershare.com/drfone/guide/virtual-location-10.png)
@@ -402,13 +402,6 @@ Although life360 provides excellent family location services, it also affects yo
 
 [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) is a location-changer application that allows users to change their device's location with one click. It provides a fake location to all tracking applications like life360 to help users protect their privacy. With Dr.Fone, you get an easy-to-use interface where you can navigate your fake GPS location on the map with joystick stimulation. You can change your location data history as well.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 1-Click Location Changer for both iOS and Android
@@ -425,6 +418,13 @@ Although life360 provides excellent family location services, it also affects yo
 
 ![access virtual location feature](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **STEP 2:** Click on "get started" to open the map and center on your actual location.
 
 ![tap on get started button](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
@@ -438,10 +438,10 @@ Although life360 provides excellent family location services, it also affects yo
 ![choose destination you want](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -462,19 +462,19 @@ Let us conclude our article here, hoping that you got the answer to everything y
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-craft-captivating-facebook-coverage/"><u>[Updated] Craft Captivating Facebook Coverage</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-next-gen-cloud-vaults-ultimate-pick-list/"><u>2024 Approved Next-Gen Cloud Vaults Ultimate Pick List</u></a></li>
-<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-oneplus-11-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your OnePlus 11 5G in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1722992591861-escape-from-tarkov-fps-boost-pro-level-guide-to-elevate-your-gameplay-speedily/"><u>Escape From Tarkov FPS Boost - Pro-Level Guide to Elevate Your Gameplay Speedily</u></a></li>
-<li><a href="https://change-location.techidaily.com/honor-90-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor 90 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Tecno Pova 5? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Vivo S17 | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-earnings-expedition-navigating-your-way-to-wealth-with-youtube-mobile-content/"><u>In 2024, Earnings Expedition Navigating Your Way to Wealth with YouTube Mobile Content</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-honor-magic-6-pro-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Honor Magic 6 Pro to New Android? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Vivo X100 Pro? | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-correcting-the-user32dll-not-detected-problem-on-your-pc/"><u>Step-by-Step Guide: Correcting the 'User32.dll Not Detected' Problem on Your PC</u></a></li>
-<li><a href="https://change-location.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Vivo T2x 5G? | Dr.fone</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/unlock-tiktok-potential-pc-and-mac-video-sharing-guide-for-2024/"><u>Unlock TikTok Potential PC & Mac Video Sharing Guide for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/where-is-the-best-place-to-catch-dratini-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-essential-phones-for-optimal-gear-vr-performance-update-2023/"><u>[New] In 2024, Essential Phones for Optimal Gear VR Performance - Update 2023</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-convenient-techniques-for-saving-youtube-videos-for-2024/"><u>[Updated] Convenient Techniques for Saving YouTube Videos for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-melodious-modulation-techniques-in-free-fire/"><u>2024 Approved Melodious Modulation Techniques in Free Fire</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-mobile-marketers-blueprint-simple-pathway-to-youtube-success/"><u>2024 Approved The Mobile Marketer's Blueprint Simple Pathway to YouTube Success</u></a></li>
+<li><a href="https://change-location.techidaily.com/additional-tips-about-sinnoh-stone-for-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Samsung Galaxy S24+ | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-honor-90-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-oneplus-12r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/how-to-live-stream-360-videos-on-facebook-for-2024/"><u>How to Live Stream 360 Videos on Facebook for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Samsung Galaxy A05? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-oppo-a2-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Oppo A2? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On OnePlus 12? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/no-more-freezes-masterful-fixes-for-age-of-empires-iv-crashing-on-windowsmacos/"><u>No More Freezes: Masterful Fixes for Age of Empires IV Crashing on Windows/MacOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamlessly-blending-apple-maps-into-your-windows-setup/"><u>Seamlessly Blending Apple Maps Into Your Windows Setup</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-6-memory-and-cognitive-skills-enhancement-apps-unleashing-your-mental-potential/"><u>Top 6 Memory and Cognitive Skills Enhancement Apps: Unleashing Your Mental Potential</u></a></li>
 </ul></div>
 

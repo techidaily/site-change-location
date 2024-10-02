@@ -1,7 +1,7 @@
 ---
 title: In 2024, 4 Methods to Turn off Life 360 On Tecno Pop 8 without Anyone Knowing | Dr.fone
-date: 2024-09-12T16:49:41.188Z
-updated: 2024-09-19T17:02:31.718Z
+date: 2024-10-01T16:23:19.568Z
+updated: 2024-10-02T19:43:41.567Z
 tags: 
   - virtual location chang
   - location changer
@@ -37,9 +37,23 @@ Some of the available Life360 features include notifying you when a member of yo
 
 ![sending help alert on life360](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Turn off Life360 without Knowing
 
 There are times when you want to turn Life360 off without it showing so that people don’t know your present location. But, if you have no idea how to go about it, you’re in luck. This section covers the best methods to stop sharing your location with friends and family on Life360.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. **Turn Off Your Circle’s Location on Life360**
 
@@ -85,6 +99,13 @@ iOS users can easily turn off GPS services by following the steps we’ll be pro
 - Next, disable GPS location services
 
 ![disable gps location services on iphone](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-8.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **For Android**
 
@@ -180,6 +201,13 @@ By changing the country on Google Play Store, you can install some unavailable a
 - After changing the country’s location, you won't be able to utilize the previous Google Play balance of the old country.
 - Once you have changed your country’s server location in settings, the Google Play Store takes 48 hours to change the location.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Change Google Account Location?
 
 This section will offer easy ways to change play store country and location on Google in every circumstance. By doing so, you can easily install restricted applications in your region.
@@ -197,13 +225,6 @@ Through your Tecno Pop 8s, you can change the location on both Google Play Store
 **Step 2:** Tap on the "General" section to locate the option of "Account and Device Preferences." Afterward, find the "Country and Profiles" option by scrolling down. From there, you can see your current country location.
 
 ![access account and device preferences](https://images.wondershare.com/drfone/article/2022/05/change-google-account-location-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 3:** Now click on "Switch to the Country Play Store" to change the location. For verification, click on "Continue" when a pop-up message appears on your screen asking if you want to change the location.
 
@@ -264,6 +285,13 @@ Moreover, the process is fast and fully secured to protect your computer from un
 We have mentioned methods to change Play Store country manually and through VPN, but they still have a few limitations. Once you change the country's location on Google Play manually, the Play Store requires 48 hours to accept this modification. Moreover, you can only change the country's server location once a year. With VPN, many country servers are unreachable, and some servers can be reached only through a paid version. This makes the process expensive and time taking.
 
 To avoid these hurdles and chaos, we recommend you to use Dr.Fone – Virtual Location to fake your location on both Android and iOS devices. This tool works in every situation and allows users to travel the globe through their phones free of cost. You can also travel with an exact GPS location just with a single click. Hence, this tool will work amazingly in faking your location without requiring you to change Google Play country's location.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
@@ -410,10 +438,10 @@ Step 7: Now go to the ‘Fake GPS Go Location’ app and select your favourite s
 ![play button](https://images.wondershare.com/drfone/article/2019/09/fake-gps-go-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![select the no-ads option](https://images.wondershare.com/drfone/article/2019/09/fake-gps-go-12.jpg)
@@ -426,6 +454,13 @@ Step 9: Close this app and open the Google Map to check your current location yo
 
 ![open the Google Map](https://images.wondershare.com/drfone/article/2019/09/fake-gps-go-14.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 4: Any other better alternative to Fake GPS GO
 
 In this section, you will learn about the alternative tool to Fake GPS Go. The name of the alternative app is ‘Fake GPS Location’. It is a new app released this year 2019 to serve the users in a better way. You can download this software at Google play store without any issues.
@@ -437,19 +472,6 @@ Step 1: Check-in to play store and type ‘Fake GPS Location’ in the search ba
 Step 2: Open the app after the download process
 
 ![download the app](https://images.wondershare.com/drfone/article/2019/09/fake-gps-go-16.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 3: Allow the app to access the Tecno Pop 8 device location and accept the ‘Cookies’ to work on this platform
 
@@ -525,16 +547,16 @@ Step 3: Next, key in a number that will define the number of times you want to t
 
 ![define the number](https://images.wondershare.com/drfone/guide/virtual-location-09.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 4: Now, the position will be seen moving as per the chosen speed on the map. And this is how you can fake the movement sans **_Fake GPS Go apk_**.
 
 ![moving as per the chosen speed](https://images.wondershare.com/drfone/guide/virtual-location-10.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Part 3: Simulate Route Movement for Multiple Locations
 
@@ -543,13 +565,6 @@ Step 1: For multiple spots, you need to click the “multi-stop route” after e
 Step 2: The pop-up will show the distance where you need to hit the “Move Here” button. Choose the moving speed.
 
 ![select the multiple places](https://images.wondershare.com/drfone/guide/virtual-location-11.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 3: Enter a digit for how many times you want to take route and click “March”. This will begin the movement simulation.
 
@@ -579,5 +594,20 @@ Step 3: Enter a digit for how many times you want to take route and click “Mar
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-pure-summer-magic-the-top-10-classic-kids-films/"><u>2024 Approved Pure Summer Magic The Top 10 Classic Kid's Films</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-nokia-g22-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/elevate-your-match-chances-with-clever-tinder-bios-for-2024/"><u>Elevate Your Match Chances with Clever Tinder Bios for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/from-ideas-to-action-how-to-transform-photos-into-engaging-mobile-videos/"><u>From Ideas to Action How to Transform Photos Into Engaging Mobile Videos</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/gamers-guide-to-the-most-powerful-iphones-on-the-market-today/"><u>Gamer's Guide to the Most Powerful iPhones on the Market Today</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Xiaomi 13T Pro? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Vivo Y100t? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leap-ahead-in-polyglotism-with-chatgpt-plus-tips-and-tricks-for-effective-language-acquisition/"><u>Leap Ahead in Polyglotism with ChatGPT Plus: Tips and Tricks for Effective Language Acquisition</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Nokia C300? | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/step-by-step-success-on-youtube-with-spectacision-music-videos/"><u>Step-by-Step Success on Youtube with Spectacision Music Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-essential-guide-to-tapered-music-transitions-in-premiere-pro/"><u>The Essential Guide to Tapered Music Transitions in Premiere Pro</u></a></li>
+<li><a href="https://change-location.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-vivo-v29-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Vivo V29 | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, 4 Methods to Turn off Life 360 On Tecno Spark 10C without Anyone Knowing | Dr.fone
-date: 2024-09-16T16:04:07.703Z
-updated: 2024-09-19T16:36:32.283Z
+date: 2024-09-28T21:14:09.784Z
+updated: 2024-10-02T19:41:49.299Z
 tags: 
   - virtual location chang
   - location changer
@@ -58,6 +58,13 @@ There is the possibility of limiting the details about your location to others i
 
 ![pause location sharing](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. **Turn off Your Tecno Spark 10C’s Airplane Mode**
 
 Another option you have to stop sharing location on Life360 is by switching on Airplane mode. You can do this on your Android and iOS devices. Once you enable Airplane mode, you’ll see a white flag on your last saved location.
@@ -69,13 +76,6 @@ Another option you have to stop sharing location on Life360 is by switching on A
 **For Android** owners wondering how to turn location off on life360 through Airplane mode, swipe down from the top of your screen and select the ‘Airplane mode’ icon. You can also turn it on by visiting ‘settings’ and selecting ‘network & internet’ from the option displayed. Finally, find the airplane mode and switch it on.
 
 ![turn on airplane mode on android](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-7.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 These steps will help you turn off location sharing on Life360. However, the downside of using Airplane mode is that it prevents you from accessing the internet. In addition, with the Airplane mode turned on, you can’t make or receive phone calls, either. Therefore, we don’t recommend this as your top choice when learning to turn off Life 360.
 
@@ -109,6 +109,13 @@ You’re not left out of this option; below are the steps to disable GPS service
 Although Life360 can be helpful in emergencies or security issues, it can also prove quite problematic. If you want some privacy or don’t trust members of your circle, you might want to learn how to turn off Life 360. The problem with turning off the Life360 location is that members of your circle might notice, which would inevitably cause some conflict.
 
 Fortunately, you have another effective option, and that is by faking your GPS location using a location spoofer. You can display the location you want while keeping your true location safe on Life360. Dr. Fone –Virtual location is an excellent tool for faking your location.  
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
@@ -152,7 +159,21 @@ Automatically, your location will change to the chosen place on the map and your
 
 <iframe width="100%" height="450" type="text/html" src="https://www.youtube.com/embed/xQa-_8RTg5U" frameborder="0"></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 4: FAQ About Turn off Location on Life360
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. **Are there any risks to turning off GPS location?**
 
@@ -169,13 +190,6 @@ Yes, it does. It will send a ‘location sharing paused’ notification to all y
 ## Conclusion
 
 Life360 is a useful app for professional and personal circles. However, it can be intrusive on our privacy sometimes. Most times, the youths want to learn how to turn off Life360 without their parents knowing on iPhone and Android devices. This article provides you with different methods you can achieve this. If you want to learn how to turn off life 360 without showing up, the best option is to fake your location. We hope the guide above helps you utilize [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) without any issues.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Stop My Spouse from Spying on My Tecno Spark 10C
 
@@ -197,13 +211,6 @@ If you feel that your phone is running slow than usual then it might be hacked a
 
 ![spying on phones](https://images.wondershare.com/drfone/article/2022/03/spying-on-phone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. The battery is draining too fast
 
 Though battery drain can alone not be a sign of the phone being hacked as with time the life of the battery starts decreasing. Still, it can be one of the signs as the hacking apps and tools are resource-draining which in turn decreases the battery life.
@@ -221,6 +228,13 @@ When your emails, phone calls, and text messages are being checked or tracked th
 If your social media accounts like Facebook and others are kept an eye on it means that you are being watched and your phone is being hacked. Tracking you or your vehicle using GPS
 
 ![hack without touching by social media](https://images.wondershare.com/drfone/article/2022/03/hack-without-touching.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 6\. Tracking you or your vehicle using GPS
 
@@ -256,13 +270,6 @@ So, now when you are sure that you are being spied on by your partner, what is t
 ### Response 1: Reassure your partner and gain the trust
 
 Firstly, if you know that you are not doing anything wrong or want to prove your worth, let your spouse keep tracking you. In the end, when your spouse will not find anything suspicious about your activities and your location, he/she will know that you are right. Moreover, you can even install a GPS on your phone that you’re so that your spouse is aware of your whereabouts all the time, and when nothing suspicious will be found out he will stop spying on you.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Response 2: Stop your spouse from spying on you by actionable methods
 
@@ -311,6 +318,13 @@ You can check out this video for further instruction.
 
 ![connect phone with virtual location](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3.** The actual location of your device will now appear in the new window. If the location is not correct, you can tap on the “**Center On**” icon present in the lower right to display your correct location.
 
 ![virtual location map interface](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
@@ -326,6 +340,13 @@ You can check out this video for further instruction.
 **Method 3: Take advantage of anti-spyware software**
 
 Another way to stop your spouse from spying on you is by using anti-spy software. Just like spy software sends your location and other information to the hacking spouse, an anti-spyware tool will prevent tracking your device and will prevent from sharing your device information like calls, messages, and others. There are several anti-spyware tools for Android and iOS available in the market and some of the popular ones are Mobile Security & Anti-Theft Protection, iAmNotified, Avira Mobile Security, Cell Spy Catcher, Lookout, and more.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Response 3: Seek a Divorce
 
@@ -344,6 +365,13 @@ No, your phone cannot be spied on using any common or linked contacts.
 ### Q 3: Can someone spy on my Tecno Spark 10C without touching it?
 
 Yes, your phone can be spied on without anyone touching it or having access to it. There are several advanced spyware tools available that can let a person have access to all your phone information like messages, calls, emails, and more. In a few quick steps, a hacker can use his/her phone to enable the spying process of your device.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Wrap it Up
 
@@ -416,13 +444,6 @@ A quality product from Wootechy, iMoveGo is compatible with the latest iOS 17 an
 ![ispoofer](https://images.wondershare.com/drfone/article/2023/12/mock-location-6.jpg)
 
 Probably one of the most known apps at one point in time, iSpoofer was great at spoofing location on iPhone until Niantic, the makers of Pokémon GO, detected the app, and banned it. The app still works with some tricks up its sleeve, but we do not really recommend it, given that it was detected once and if you are detected using the app, you will be banned from the Poke-verse for good.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part IV: Top Mock Location Apps for Android
 
@@ -541,5 +562,22 @@ Using a mock location app can be fun. You can use it for recreational purposes s
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-what-everyone-needs-to-know-about-asmr-videos/"><u>[New] What Everyone Needs to Know About ASMR Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-venturing-into-virtual-studio-technology-vst-world/"><u>[Updated] Venturing Into Virtual Studio Technology (VST) World</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-ranked-linuxs-foremost-screenshot-programs/"><u>2024 Approved Ranked Linux's Foremost Screenshot Programs</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-gaming-experience-with-key-monitor-specs/"><u>Elevate Your Gaming Experience with Key Monitor Specs</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-samsung-galaxy-s24-ultra-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Samsung Galaxy S24 Ultra? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-vivo-y27-4g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Vivo Y27 4G Quickly? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Samsung Galaxy A14 5G? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Vivo X100? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Oppo A59 5G? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Samsung Galaxy A24? | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-discover-the-best-top-game-download-websites/"><u>New Discover the Best Top Game Download Websites</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-infinix-gt-10-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Infinix GT 10 Pro without Them Knowing | Dr.fone</u></a></li>
+</ul></div>
 

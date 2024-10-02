@@ -1,7 +1,7 @@
 ---
 title: In 2024, 4 Methods to Turn off Life 360 On Xiaomi Redmi Note 12 Pro 4G without Anyone Knowing | Dr.fone
-date: 2024-09-15T16:38:34.245Z
-updated: 2024-09-19T16:47:07.345Z
+date: 2024-10-01T20:16:32.030Z
+updated: 2024-10-02T18:27:49.895Z
 tags: 
   - virtual location chang
   - location changer
@@ -36,6 +36,19 @@ Life360 works by sharing your GPS location on the map, allowing the members of y
 Some of the available Life360 features include notifying you when a member of your circle moves to a new point and it will send a help alert when there’s an emergency. In addition, the app automatically contacts the emergency contacts you added when you do this. However, this doesn’t change that it can get intrusive when you need some privacy. That’s why the next section covers how to turn Life360 off.
 
 ![sending help alert on life360](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-2.png)
+
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: How to Turn off Life360 without Knowing
 
@@ -86,6 +99,13 @@ iOS users can easily turn off GPS services by following the steps we’ll be pro
 
 ![disable gps location services on iphone](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-8.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **For Android**
 
 You’re not left out of this option; below are the steps to disable GPS service on your Xiaomi Redmi Note 12 Pro 4Gs.
@@ -98,10 +118,10 @@ You’re not left out of this option; below are the steps to disable GPS service
 ![turn off gps location services on android](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: **Best Ways to Fake Location on Life360 without Anyone Knowing-Virtual location \[iOS/Android Supported\]**
@@ -109,19 +129,6 @@ You’re not left out of this option; below are the steps to disable GPS service
 Although Life360 can be helpful in emergencies or security issues, it can also prove quite problematic. If you want some privacy or don’t trust members of your circle, you might want to learn how to turn off Life 360. The problem with turning off the Life360 location is that members of your circle might notice, which would inevitably cause some conflict.
 
 Fortunately, you have another effective option, and that is by faking your GPS location using a location spoofer. You can display the location you want while keeping your true location safe on Life360. Dr. Fone –Virtual location is an excellent tool for faking your location.  
-
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
@@ -148,13 +155,6 @@ Below, we’ve broken down the process for you; keep reading to learn how to fak
 3\. Next, connect your iPhone or Android device to your PC and click 'get started.'
 
 ![tap on get started button](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4\. Next, you have to turn on the ‘teleport mode’ by clicking its icon at the upper right corner of the screen.
 
@@ -186,6 +186,13 @@ When your phone is off, your GPS location is automatically disabled. Therefore L
 
 Yes, it does. It will send a ‘location sharing paused’ notification to all your group members. Additionally, if you log out from Life360, it will notify your circle immediately.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Life360 is a useful app for professional and personal circles. However, it can be intrusive on our privacy sometimes. Most times, the youths want to learn how to turn off Life360 without their parents knowing on iPhone and Android devices. This article provides you with different methods you can achieve this. If you want to learn how to turn off life 360 without showing up, the best option is to fake your location. We hope the guide above helps you utilize [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) without any issues.
@@ -196,11 +203,25 @@ People, generally boys, are often found playing games on their cell phones, and 
 
 Unlike other games, Mobile Legends allows its players to hide their actual location. Therefore, ML players have many reasons to **fake GPS Mobile Legends,** such as getting a higher rank and playing with their friends wherever they are. Let's find how to fake GPS on ML in this article now!
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Part 1: Why Do We Need to Fake Location on ML**
 
 Some players want to fake-locate Mobile Legends because it is highly competitive and it usually ranks globally or locally. Most players prefer local street rankings, which are specified according to the area. The GPS detects the location of the Xiaomi Redmi Note 12 Pro 4G devices in your area while you are in the game. Spoofing your location can bring you new requests and challenges that were practically unavailable in your area.
 
 ![alt标签](https://images.wondershare.com/drfone/article/2022/04/fake-gps-mobile-legends-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The most amazing thing this does to your game is bringing you different teammates from all over the world, which can't be done the other way. Another thing that you can do while using **fake GPS for ML** is to earn a top badge in the less competitive areas. If you want to play the game with your friend, you or he can change the location to play together.
 
@@ -256,13 +277,6 @@ The location has changed now; you can check it by clicking "Center On." The same
 
 ![check your fake location](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 1-Click Location Changer for both iOS and Android
@@ -306,6 +320,13 @@ This article has discussed the Mobile Legends game and how you can **fake GPS Mo
 ## How to Fix Xiaomi Redmi Note 12 Pro 4G Find My Friends No Location Found?
 
 [![avatar](https://drfone.wondershare.com/images/james-davis.png)](https://drfone.wondershare.com/author/james-davis/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 In this time of modern technology, it is hard to be away from your phone or even leave it at home. When any task that we plan to do, usually already have an application released for the sole purpose of doing that task and needing to do it on your phone. When we message our friends, have a video call with our family, or just simply order food to eat at home, you can do all of them on the Xiaomi Redmi Note 12 Pro 4G device in your palm.
 
@@ -395,6 +416,13 @@ _**Step 1:**_ Download the "Dr. Fone - Virtual Location" software on your laptop
 
 ![locate yourself](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 _**Step 4:**_ If you want to change your location, you will need to turn on the "Teleportation" mode by clicking on the first icon, typing the location you want, and then clicking on the "Go" icon.
 
 ![one stop teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
@@ -402,13 +430,6 @@ _**Step 4:**_ If you want to change your location, you will need to turn on the 
 **_Step 5:_** Click on "Move Here" and your current location will show up as the location that you typed on Your Xiaomi Redmi Note 12 Pro 4G.
 
 ![teleport to desired location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -426,5 +447,24 @@ We hope the tips we shared helped fix the "No Location Found" issue on your phon
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-everyday-epics-in-a-lens-tips-to-avoid-common-mistakes/"><u>[New] 2024 Approved Everyday Epics in a Lens Tips to Avoid Common Mistakes</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-demystifying-photo-editing-a-snapseed-introduction/"><u>[New] Demystifying Photo Editing A Snapseed Introduction</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-elevate-your-photography-with-polarrs-complete-features/"><u>[New] In 2024, Elevate Your Photography with Polarr's Complete Features</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-streamlining-your-remote-podcast-setup/"><u>[New] Streamlining Your Remote Podcast Setup</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-5-book-trailers-that-will-captivate-you/"><u>[Updated] Top 5 Book Trailers That Will Captivate You</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-premium-top-5-storage-solutions-for-xbox/"><u>2024 Approved Premium Top 5 Storage Solutions for Xbox</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-simple-steps-for-overcoming-windows-onedrive-glitches/"><u>5 Simple Steps for Overcoming Windows OneDrive Glitches</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-realme-c67-4g-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Realme C67 4G? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-realme-narzo-n53-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Realme Narzo N53? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-xiaomi-redmi-note-12-4g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Xiaomi Redmi Note 12 4G Quickly? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Samsung Galaxy S23 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Asus ROG Phone 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-vivo-x100-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Vivo X100? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Vivo V27 Pro? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Samsung Galaxy S23 Tactical Edition? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-and-easy-guide-fast-dvd-ripping-with-windows/"><u>Quick & Easy Guide: Fast DVD Ripping with Windows</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-your-gpu-easy-installation-of-new-nvidia-drivers/"><u>Update Your GPU: Easy Installation of New Nvidia Drivers</u></a></li>
+</ul></div>
 
