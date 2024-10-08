@@ -1,7 +1,7 @@
 ---
 title: In 2024, 4 Methods to Turn off Life 360 On Motorola Moto G13 without Anyone Knowing | Dr.fone
-date: 2024-09-26T19:59:03.986Z
-updated: 2024-10-02T16:07:20.536Z
+date: 2024-10-04T01:01:20.133Z
+updated: 2024-10-07T18:08:26.915Z
 tags: 
   - virtual location chang
   - location changer
@@ -41,6 +41,13 @@ Some of the available Life360 features include notifying you when a member of yo
 
 There are times when you want to turn Life360 off without it showing so that people don’t know your present location. But, if you have no idea how to go about it, you’re in luck. This section covers the best methods to stop sharing your location with friends and family on Life360.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. **Turn Off Your Circle’s Location on Life360**
 
 There is the possibility of limiting the details about your location to others in your circle. One way to turn Life360 without anyone knowing is by choosing a circle and disconnecting from them. The steps below break down the entire process.
@@ -50,16 +57,16 @@ There is the possibility of limiting the details about your location to others i
 
 ![locate the circle on life360](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - Tap on ‘location sharing’ and click on the slider next to it to disable location sharing.
 
 ![click on location sharing](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - Now you can recheck the map, and it will show ‘location sharing paused.
 
@@ -150,19 +157,6 @@ Automatically, your location will change to the chosen place on the map and your
 
 ![location on your phone](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
 
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 <iframe width="100%" height="450" type="text/html" src="https://www.youtube.com/embed/xQa-_8RTg5U" frameborder="0"></iframe>
 
 ## Part 4: FAQ About Turn off Location on Life360
@@ -211,13 +205,6 @@ There are a few tricks that you can use to hide your location from your friends 
 
 ![find bitmoji](https://images.wondershare.com/_thumbs/top-left-bitmoji-icon-pic3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3:** The profile page will appear. Scroll to the bottom and you will find the Snapmap option there. Right below it will be a small arrow pointing to the right. Instead of clicking on the map, tap on thi arrow.
 
 ![location setting on snapchat](https://images.wondershare.com/_thumbs/location-settings-snapchat-pic4.jpg)
@@ -225,13 +212,6 @@ There are a few tricks that you can use to hide your location from your friends 
 **Step 4:** The Map and ‘My Location’ settings will open. There you will find the Ghost Mode. Enable the setting and you will see a dialogue box asking you to choose the duration of the Ghost Mode. Depending on what you want, choose your location.
 
 ![duration ghost mode](https://images.wondershare.com/_thumbs/ghost-mode-duration-pic5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If you still don’t trust this Ghost mode, the next trick will be very useful for you. Not just Snapchat, any app won’t be able to track down your exact location when you follow it.
 
@@ -283,13 +263,6 @@ If you are wondering how to fake location on snapchat, then the Snapchat locatio
 
 ![dr.fone home screen](https://images.wondershare.com/_thumbs/drfone-home-pic12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2**: Now connect Your Motorola Moto G13 to your PC and go with the ‘Get Started’ option.
 
 ![dr.fone virtual location](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
@@ -317,15 +290,22 @@ The Virtual private Network services hide your IP, mask your identity and since 
 ![signup for quick connect](https://images.wondershare.com/_thumbs/nordvpn-us-quick-connect-pic17.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 3**: However, you can change your location too. Go to the ‘More options’ and then choose Servers. Under this, go for All Countries to view the choices you have. Choose one and that server will be activated.
 
 ![choose the server](https://images.wondershare.com/_thumbs/new-server-change-pic18.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 So, the location of this new server will reflect on your snapchat snapmap too.
 
@@ -342,6 +322,13 @@ A - Snapchat tries to provide the accurate location most of the time. It uses yo
 **Q3. How do you tell if someone is hiding their location from you on snapchat?**
 
 A - They will disappear off of the world map. Literally! So, whenever someone is hiding their location from you, it means they’ve either activated the Ghost Mode or they turned off the Location services of their phone. As a result, you will not find their bitmoji on the snapmap even if they are actively using the app. But if they’ve employed a Location spoofer, it is hard to say if the location is real or not.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Part 4: Conclusion**
 
@@ -418,16 +405,16 @@ To disable the function, choose the Location Sharing menu item and then drag the
 
 ![turn off circle's location sharing](https://images.wondershare.com/drfone/article/2022/06/what-are-location-permissions-life360-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Stop Using the GPS on Your Device
 
 Stopping location sharing on Life360 may also be accomplished by turning off the GPS service, another viable alternative.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### \* For Android Users
 
@@ -444,10 +431,10 @@ Stopping location sharing on Life360 may also be accomplished by turning off the
 ![stop using the gps on iphone](https://images.wondershare.com/drfone/article/2022/06/what-are-location-permissions-life360-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Take use of a Burner Phone
@@ -481,6 +468,13 @@ It's pretty simple to use Dr.Fone, and here are the instructions.
 - Step 1: Once you've downloaded Dr.fone from the official site, you'll need to install it on your computer or system.
 
 ![start drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - Step 2: Install it and then run it. As soon as you've plugged in your iOS device, press the "start" icon.
 
@@ -516,24 +510,24 @@ Life360 is a handy app, but it can be frustrating when a child or teen doesn't w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-master-the-art-of-activating-and-deactivating-pip-in-ios-browsers-for-2024/"><u>[Updated] Master the Art of Activating and Deactivating PIP in iOS Browsers for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-restoring-iphone-x-identity-check-reviving-face-recognition/"><u>[Updated] Restoring iPhone X Identity Check Reviving Face Recognition</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-constructive-approaches-to-defeating-digital-trolls/"><u>2024 Approved Constructive Approaches to Defeating Digital Trolls</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/beginners-guide-to-refresh-your-system-bios-by-clearing-cmos/"><u>Beginner's Guide to Refresh Your System BIOS by Clearing CMOS</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/cut-the-pixels-keep-quality-discover-no-cost-solutions-for-reducing-jpeg-file-sizes-to-under-100-kb/"><u>Cut the Pixels, Keep Quality: Discover No-Cost Solutions for Reducing JPEG File Sizes to Under 100 KB</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/fixed-cannot-insert-object-error-in-excel-2016-step-by-step-guide-stellar-by-stellar-guide/"><u>Fixed Cannot Insert Object Error in Excel 2016 | Step-by-Step Guide | Stellar</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-latest-msi-sound-card-drivers-for-windows-operating-system/"><u>Get Your Latest MSI Sound Card Drivers for Windows Operating System</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Samsung Galaxy A15 4G? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-samsung-galaxy-s24plus-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Samsung Galaxy S24+ Quickly? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Samsung Galaxy A05 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-6s-to-android-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 6s to Android? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On ZTE Nubia Z60 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-best-4k-gaming-laptops/"><u>In 2024, Best 4K Gaming Laptops</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-z-flip-5-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Samsung Galaxy Z Flip 5 Phone Without Password?</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Vivo S17? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Samsung Galaxy XCover 7? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Vivo Y27 4G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Vivo Y100i Power 5G? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Vivo S17 Pro? | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-expertsnap-recording-tool-win-10-version/"><u>[New] 2024 Approved ExpertSnap Recording Tool, Win 10 Version</u></a></li>
+<li><a href="https://change-location.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/envision-vr-today-a-practical-guide-for-smartphone-users/"><u>Envision VR Today A Practical Guide for Smartphone Users</u></a></li>
+<li><a href="https://article-tips.techidaily.com/exclusive-guide-to-audio-alchemy-sites-for-2024/"><u>Exclusive Guide to Audio Alchemy Sites for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-itel-p40plus-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Itel P40+ Quickly? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-go-joystick-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Samsung Galaxy A05s? | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-from-seedling-to-sunset-the-best-farming-titles-for-togetherness/"><u>In 2024, From Seedling to Sunset The Best Farming Titles for Togetherness</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Oppo Reno 10 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-vivo-g2-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/keep-your-mac-awake-effective-methods-to-prevent-automatic-sleep/"><u>Keep Your Mac Awake: Effective Methods to Prevent Automatic Sleep</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-discovering-the-best-places-for-impactful-drum-sounds-for-2024/"><u>New Discovering the Best Places for Impactful Drum Sounds for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/review-of-the-criacr-bluetooth-fm-transmitter-cp24-small-design-noticeable-issues/"><u>Review of the CRIACR Bluetooth FM Transmitter CP24: Small Design, Noticeable Issues</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721478440405-solve-button-issues-quickly-restart-your-iphone-without-the-usual-press/"><u>Solve Button Issues? Quickly Restart Your iPhone Without the Usual Press.</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-best-ispoofer-alternative-to-try-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/top-6-youtube-outros-made-easy-and-free-guide-for-2024/"><u>Top 6 YouTube Outros Made Easy & FREE (Guide) for 2024</u></a></li>
 </ul></div>
 
