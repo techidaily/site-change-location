@@ -1,7 +1,7 @@
 ---
 title: In 2024, 4 Methods to Turn off Life 360 On Infinix Smart 8 Plus without Anyone Knowing | Dr.fone
-date: 2024-10-12T17:19:46.497Z
-updated: 2024-10-13T18:12:09.422Z
+date: 2024-10-12T20:27:06.208Z
+updated: 2024-10-19T17:24:57.437Z
 tags: 
   - virtual location chang
   - location changer
@@ -54,23 +54,9 @@ There is the possibility of limiting the details about your location to others i
 
 ![click on location sharing](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - Now you can recheck the map, and it will show ‘location sharing paused.
 
 ![pause location sharing](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. **Turn off Your Infinix Smart 8 Plus’s Airplane Mode**
 
@@ -83,6 +69,13 @@ Another option you have to stop sharing location on Life360 is by switching on A
 **For Android** owners wondering how to turn location off on life360 through Airplane mode, swipe down from the top of your screen and select the ‘Airplane mode’ icon. You can also turn it on by visiting ‘settings’ and selecting ‘network & internet’ from the option displayed. Finally, find the airplane mode and switch it on.
 
 ![turn on airplane mode on android](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-7.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 These steps will help you turn off location sharing on Life360. However, the downside of using Airplane mode is that it prevents you from accessing the internet. In addition, with the Airplane mode turned on, you can’t make or receive phone calls, either. Therefore, we don’t recommend this as your top choice when learning to turn off Life 360.
 
@@ -101,10 +94,10 @@ iOS users can easily turn off GPS services by following the steps we’ll be pro
 ![disable gps location services on iphone](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-8.png)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **For Android**
@@ -154,13 +147,6 @@ Below, we’ve broken down the process for you; keep reading to learn how to fak
 
 ![enable teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5\. Now, enter the location you want to teleport to on the upper left side of the screen and then click the ‘go’ icon.
 
 6\. Click ‘move here’ in the popup box to change your location to this new place.
@@ -180,10 +166,10 @@ Automatically, your location will change to the chosen place on the map and your
 Yes, there are some dangers associated with turning off location on Life360. No one knows where you are anymore, which could be dangerous in the case of an emergency.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. **Can Life360 track my location when I switch My Infinix Smart 8 Plus off?**
@@ -214,6 +200,13 @@ Another great feature this tool has is that you can even change the speed of you
 
 On another note, we will share with you the limitation of the Foneazy MockGo software. Currently, this application is only available for iOS phone users, and Android users. Therefore, you are not able to use this software. Another limitation is that it does not support macOS versions that are older than 10.10. Reaching out to their customer support can also take a long time as they take time to respond to you. Lastly, the software will stop updating, and you will need to check yourself if the software needs to be updated.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Fix Foneazy MockGo Not Working Issue
 
 Being able to share a spoof location or use it in games is fun and a great way to fool any of your friends. However, while using the Foneazy MockGo software, you will encounter instances where it is not working properly. Therefore, we will share with you some quick fixes and checks that you can do on your own to fix the temporary issue within the software.
@@ -227,13 +220,6 @@ Being able to share a spoof location or use it in games is fun and a great way t
 **_Option #4:_** Restart your phone or computer. If you have exhausted all the tips we shared, you can try this basic troubleshooting to fix this issue. Usually, just a quick restart on your phone or computer can help to make your Foneazy MockGo work again.
 
 Try all of these tricks that we have shared and get that temporary issue in Foneazy MockGo fixed in no time.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: Best Foneazy MockGo Alternative Progam You Can Use in 2022
 
@@ -265,10 +251,10 @@ Our product, **“Dr. Fone - Virtual Location” (**[**https://drfone.wondershar
 ![virtual-location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **You can watch the video below to gfix Foneazy MockGo not working on your device**
@@ -299,6 +285,13 @@ But as we said before, it is quite uncomfortable to know that someone is trackin
 
 ![turn off location on life360](https://images.wondershare.com/drfone/virtual-loaction/Stop-Life360-From-Tracking-You-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 You can turn off the location to stop the Life360 tracking feature. But, with this, keep the background app refresh off. Follow the following steps to turn off the location on life360.
 
 - Open the Life360 on your phone and go to 'Settings' in the lower right corner
@@ -307,6 +300,13 @@ You can turn off the location to stop the Life360 tracking feature. But, with th
 - Now, you can see on the map that "Location Sharing Paused."
 
 **Note:** If you ever press the Check In button, it will update your location in Life360 even if it is turned off. Further, if you press the Help Alert button, this will also turn on the location-sharing feature.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: Fake Location Apps to Spoofing Life360
 
@@ -332,17 +332,17 @@ Here are the few steps that you will need to follow to use Dr.Fone. Take a look!
 
 ![click on get started button](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - Now you will see a map interface with your current location.
 - On the map, you can select teleport mode from the top right corner and can search for the desired location.
 
 ![select teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - After a search for the desired location, click on the "move here" button.
 - Finally, you are ready to spoof to any location in Life360.
@@ -400,24 +400,17 @@ Life360 is a very helpful app for parents and friends group, but still, it becom
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-proven-strategies-maximizing-efficiency-in-your-mobizen-screencast-processes/"><u>[New] 2024 Approved Proven Strategies Maximizing Efficiency in Your Mobizen Screencast Processes</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-8-free-and-online-facebook-link-downloaders-for-2024/"><u>[New] 8 Free And Online Facebook Link Downloaders for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-dji-quadcopters-range-budget-upgraded-top-tier-4k-for-2024/"><u>[New] DJI Quadcopters Range Budget, Upgraded, Top-Tier 4K for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-hypervision-pro-all-in-one-4k-screen-desks/"><u>[Updated] HyperVision Pro All-in-One 4K Screen Desks</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-iphones-ultimate-podcast-downloading-manual/"><u>[Updated] IPhone's Ultimate Podcast Downloading Manual</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/cutting-edge-film-making-start-here/"><u>Cutting-Edge Film Making, Start Here</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/exploring-the-features-of-vimeos-innovative-recorder-for-2024/"><u>Exploring the Features of Vimeo's Innovative Recorder for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-apple-iphone-13-mini-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 Methods to Turn off Life 360 On Apple iPhone 13 mini without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-asus-rog-phone-8-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Asus ROG Phone 8 Pro without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Realme C67 4G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Motorola Edge 2023 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Realme Narzo N53 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Realme Note 50 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Nokia 105 Classic | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-infinix-smart-8-pro-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Infinix Smart 8 Pro is off? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-lava-yuva-3-pro-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Lava Yuva 3 Pro is off? | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/spotlight-on-starlets-snippet-for-2024/"><u>Spotlight on Starlet's Snippet for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/unlock-youtubes-power-for-free-educational-sessions-for-2024/"><u>Unlock YouTube's Power for FREE Educational Sessions for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/why-wont-my-backspace-key-work-common-issues-and-solutions-explored/"><u>Why Won’t My Backspace Key Work? Common Issues and Solutions Explored</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-experience-next-gen-notetaking-with-mematic-for-2024/"><u>[New] Experience Next-Gen Notetaking with Mematic for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-audio-essentials-latest-speakers-for-2024/"><u>[Updated] Audio Essentials Latest Speakers for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-examining-the-huawei-p10-camera-and-display-capabilities/"><u>[Updated] Examining the Huawei P10 Camera and Display Capabilities</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-masterclass-10-secrets-to-effective-livestreaming-cricket-games/"><u>2024 Approved Masterclass 10 Secrets to Effective Livestreaming Cricket Games</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/best-practices-erasing-external-storage-devices-in-windows-n-version-a-guide/"><u>Best Practices: Erasing External Storage Devices in Windows N Version - A Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-unresponsive-gaming-controllers-for-windows-users/"><u>Fixing Unresponsive Gaming Controllers for Windows Users</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Samsung Galaxy F15 5G? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/premier-audio-archivers-for-teachings/"><u>Premier Audio Archivers for Teachings</u></a></li>
+<li><a href="https://change-location.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Vivo T2 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, 3 Ways to Fake GPS Without Root On Nokia 105 Classic | Dr.fone
-date: 2024-10-08T16:40:43.297Z
-updated: 2024-10-13T17:39:38.791Z
+date: 2024-10-15T20:11:14.610Z
+updated: 2024-10-19T19:27:51.646Z
 tags: 
   - virtual location chang
   - location changer
@@ -68,13 +68,6 @@ Before **GPS** **spoof without root,** you have to find and set your actual loca
 Click the second icon present in the upper right to turn on the “teleport mode.” Now, type where you want to teleport in the space given on the top left. After that, click “Go” to start a **fake GPS with no root**.
 
 ![choose destination you want](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 4: Chance the Location**
 
@@ -156,13 +149,6 @@ Location permissions Life360 allows you to share the location of your device wit
 
 Life360 uses location permissions for a few different reasons. For example, Life360 uses location permissions to show nearby friends when they check in to places so that you can see who is nearby and what they're up to.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1：What Does "Location Permissions Off" Mean on Life360?
 
 There are two ways to prevent GPS tracking on the phone: switch off the phone's GPS or take off Life360 rights to track your whereabouts using GPS.
@@ -177,6 +163,13 @@ Your device's status bar may glow blue and display a message notifying you that 
 
 "Always" grants the software all the permissions it needs. So, for example, allowing location permission will be done – every time the app launches. As a result, the software can track your location even if the application is closed.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2：Can My Nokia 105 Classic Be Tracked If Location Services Are Off?
 
 If you misplace your phone or want to run an application that requires to access your location, you may use the already developed location settings on your smartphone. Suppose, on the other hand; you don't want anybody to track your phone?
@@ -184,6 +177,13 @@ If you misplace your phone or want to run an application that requires to access
 Is it possible to track a phone even if the location services are disabled? Mobile phones can be tracked even when location services are off, and the answer to that question is, "Yes."
 
 Disabling your phone's location services might help you hide your current whereabouts. This is critical if you don't want others to be able to follow your movements or activities. However, other methods may still find a smartphone's overall geolocation using different ways.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Cell-Site Simulators
 
@@ -198,13 +198,6 @@ Some mobile malware or spyware can detect and track your location without the ne
 ### 3\. Cell Towers
 
 Cell towers can provide a rough estimate of a phone's location. A cell tower is a network access point that connects a mobile phone to the Internet. A smartphone's location can be found by triangulating the position of cell towers near your device. This method works best when the cell towers are close together.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Wi-Fi Snooping
 
@@ -221,10 +214,23 @@ Turning on Airplane Mode on your smartphone is another fast approach to preventi
 ![switch to the airplane mode](https://images.wondershare.com/drfone/article/2022/06/what-are-location-permissions-life360-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Make Sure to Turn Off Circle's Location Sharing
@@ -239,6 +245,13 @@ To disable the function, choose the Location Sharing menu item and then drag the
 - Go to your phone's settings and look for "Location Sharing Paused."
 
 ![turn off circle's location sharing](https://images.wondershare.com/drfone/article/2022/06/what-are-location-permissions-life360-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Stop Using the GPS on Your Device
 
@@ -266,13 +279,6 @@ Burner phones make it very easy to disable location tracking on Life360. In addi
 - Establish a connection between your phone and the free Wi-Fi that is accessible.
 - If you delete this application from your smartphone, your parents will no longer be able to monitor your phone use.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5\. Trust Dr.fone
 
 Smartphones have taken over the globe, and almost everyone has one. In addition, apps for smartphones, such as those for monitoring children, have been developed as a result of advances in technology. Using programs like Life360, parents can keep tabs on their children and teens. However, for some children and teenagers, Life360 disturbs their privacy, and they don't enjoy being tracked around the clock by the program.
@@ -297,13 +303,6 @@ It's pretty simple to use Dr.Fone, and here are the instructions.
 
 ![start drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - Step 2: Install it and then run it. As soon as you've plugged in your iOS device, press the "start" icon.
 
 ![start the virtual location feature](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
@@ -315,6 +314,13 @@ It's pretty simple to use Dr.Fone, and here are the instructions.
 - Step 4: To relocate to a new place, do a scan and then hit the "move here" option.
 
 ![teleport to desired location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - Step 5: Finally, Your spoofing skills have been fully unlocked!
 
@@ -337,6 +343,13 @@ The traditional method of circumventing region-locked content on Netflix is simp
 Netflix offers subscribers a wide range of content, but their library varies per region due to licensing and copyright agreements. The service price sometimes costs less in other countries, which is why using VPNs to save money on subscriptions are highly popular.
 
 Using VPNs and other methods to change your region is not illegal, but it violates Netflix's Terms of Use. If you're caught using VPNs or other means to bypass their geo-restrictions, Netflix can suspend or terminate your account. This is why you should always take caution when navigating the streaming giant's Terms of Use.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: Will Netflix Ban My Account If I Use a VPN?
 
@@ -389,6 +402,13 @@ Proxy Servers work the same as VPNs as it routes traffic to a third-party server
 
 ![manual proxy settings for netflix](https://images.wondershare.com/drfone/article/2023/01/change-proxy-netflix-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note**
 
 To change Proxy on mobile phones, change your phone's proxy settings. Your Netflix app will automatically copy your phone's proxy settings if done correctly.
@@ -427,25 +447,11 @@ Tor Browser is available across all major platforms, including Windows, macOS, L
 
 - You can't control the region you have access to, so your Netflix content is not guaranteed to have what you're looking for.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Conclusion
 
 Changing your Netflix region with or without a VPN certainly has its perks. This is because you can watch your favorite series unavailable to your country to maximize your streaming access. Choosing a country with a lower subscription price also saves you money.
 
 While it's not illegal to change your Netflix region, it does violate the streaming giant's Terms of Use. You should always research and know the pros and cons when circumventing Netflix's terms so your account doesn't get suspended or terminated.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
@@ -473,21 +479,24 @@ While it's not illegal to change your Netflix region, it does violate the stream
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/updated-assessing-the-video-capacity-of-64gb-drives/"><u>[Updated] Assessing the Video Capacity of 64Gb Drives</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-cutting-edge-techniques-in-logitech-webcam-filming-and-streaming-guide/"><u>[Updated] Cutting-Edge Techniques in Logitech Webcam Filming and Streaming Guide</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-skype-audio-archive-mp3-techniques-free-edition/"><u>[Updated] Skype Audio Archive MP3 Techniques, Free Edition</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/analyzing-the-average-an-in-depth-look-at-the-avengers-by-marvel/"><u>Analyzing the Average: An In-Depth Look at 'The Avengers' By Marvel</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/easier-cinematography-perfecting-fade-effects-for-2024/"><u>Easier Cinematography Perfecting Fade Effects for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-nubia-red-magic-8s-pro-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Nubia Red Magic 8S Pro? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-samsung-galaxy-a34-5g-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Samsung Galaxy A34 5G? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Motorola Edge 40 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Apple iPhone 14 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Poco F5 5G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Vivo Y100t | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Motorola Moto G73 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/into-every-detail-a-deep-dive-into-dji-phantom-4/"><u>Into Every Detail A Deep Dive Into DJI Phantom 4</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/revolutionizing-podcast-branding-with-ai-naming-generators-for-2024/"><u>Revolutionizing Podcast Branding with AI Naming Generators for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Oppo Find X6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-secrets-of-professional-rl-broadcasts/"><u>[New] 2024 Approved Secrets of Professional RL Broadcasts</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-top-picks-essential-products-every-entrepreneur-must-own/"><u>[New] 2024 Approved Top Picks Essential Products Every Entrepreneur Must Own</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-10-best-online-video-call-free-to-use/"><u>[New] In 2024, 10 Best Online Video Call (Free to Use)</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-mr-beasts-financial-portrait/"><u>2024 Approved Mr. Beast’s Financial Portrait</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-call-logs-on-tecno-pop-8-by-fonelab-android-recover-call-logs/"><u>Complete guide for recovering call logs on Tecno Pop 8</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-techniques-for-securing-email-addresstable-entry-on-servers/"><u>Essential Techniques for Securing Email Addresstable Entry on Servers</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-nokia-g310-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Nokia G310? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-xiaomi-redmi-note-12-4g-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Xiaomi Redmi Note 12 4G Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Oppo F25 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-xiaomi-redmi-note-12r-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Xiaomi Redmi Note 12R To Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-nokia-150-2023-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Nokia 150 (2023) to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Apple iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-itel-a70-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Itel A70? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Samsung Galaxy S23 Tactical Edition? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Vivo T2 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Samsung Galaxy M14 4G? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-poco-c65s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Poco C65s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/what-happens-to-your-facebook-live-if-its-flagged-for-copyright-in-2024/"><u>What Happens to Your Facebook Live if It’s Flagged for Copyright, In 2024</u></a></li>
 </ul></div>
 
