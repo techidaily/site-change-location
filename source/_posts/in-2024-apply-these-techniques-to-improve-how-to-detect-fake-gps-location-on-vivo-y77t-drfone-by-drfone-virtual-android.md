@@ -1,7 +1,7 @@
 ---
 title: In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Vivo Y77t | Dr.fone
-date: 2024-09-30T20:02:15.921Z
-updated: 2024-10-07T23:01:17.647Z
+date: 2024-11-04T03:54:09.748Z
+updated: 2024-11-05T22:23:22.501Z
 tags: 
   - virtual location chang
   - location changer
@@ -32,13 +32,6 @@ In this article, we'll show you how to apply clear and easy security measures to
 Location spoofing is a way for people to manipulate the location of GPS data shared by their devices. Faking your GPS is used for various actions, including accessing geo-blocked contents of an application, circumventing games or movies with country restrictions, or maintaining your privacy.
 
 Using fake GPS software sends out false GPS signals from your device, hiding or changing your location. This sidesteps security as well as trust and safety terms of applications that rely on location signals.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: Ways to Fake Your GPS Location on Android and iOS
 
@@ -118,19 +111,6 @@ Here are some of the methods you can take advantage of.
 
 While the methods to detect GPS locations are presented above, it's important to remember that detecting fake GPS locations is difficult and requires you to combine different methods. You can easily detect mock locations on Android, but the methods available if you're on a different device will vary depending on the resources at your disposal.
 
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Conclusion
 
 Faking your GPS is easy nowadays. You can download an application and tinker with a few settings on your smartphone to start GPS spoofing. For secure virtual navigation, make [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) your first choice. As a result, anti-spoofing in GPS is are the rise, especially if you're on the receiving end of the data.
@@ -167,6 +147,13 @@ Supporting all the leading Android 4.4+ models, this fake location spoofer app i
 
 ![fake gps location spoofer free](https://images.wondershare.com/drfone/2023/virtuallocation/location-spoofer-app-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2.2 VPNa Fake GPS Location - Mock GPS Go
 
 While the name might sound confusing, it is not a VPN, but a fake GPS spoofer for Android. The basic version is freely available and supports Android 4.4 and later versions.
@@ -177,19 +164,6 @@ While the name might sound confusing, it is not a VPN, but a fake GPS spoofer fo
 - The fake GPS location spoofer will also let you set favorite spots to change the location quickly.
 
 ![mock gps go](https://images.wondershare.com/drfone/2023/virtuallocation/location-spoofer-app-2.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2.3 FGL Pro Location Spoofer
 
@@ -203,16 +177,10 @@ This is one of the most user-friendly fake location spoofer tools you can try. W
 ![fgl pro location spoofer](https://images.wondershare.com/drfone/2023/virtuallocation/location-spoofer-app-3.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2.4 Fake GPS Location - GPS Joystick
@@ -237,9 +205,23 @@ This is a dedicated Pokemon Go walking cheat that you can install from its websi
 
 ![pgsharp location spoofer](https://images.wondershare.com/drfone/article/2024/01/pgsharp-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: Top 5 Fake GPS Location Spoofer Tools for iOS Devices
 
 Unlike Android devices, spoofing your location on an iPhone would be a bit different. This is because you won’t find any readily available location spoofer app on the App Store. Therefore, you either have to jailbreak your iPhone or use a desktop application to spoof your iPhone location.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3.1 Dr.Fone - Virtual Location
 
@@ -274,13 +256,6 @@ Once your iPhone is detected, its present location would automatically be displa
 
 ![look for a target location](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Afterward, you can click on the search option and simply enter the name, address, or coordinates of the target location.
 
 ![click on the search location](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
@@ -308,6 +283,13 @@ A part of the iTools toolkit, the Location Spoofer application will let you simu
 
 ![iTools location spoofer](https://images.wondershare.com/drfone/2023/virtuallocation/location-spoofer-app-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3.3 iSpoofer iPhone Location Spoofer
 
 While iSpoofer user to be a popular option, it hasn’t been updated in a while. Also, Niantic has identified this location spoofer so its usage might get your account banned.
@@ -329,13 +311,6 @@ This is a hardware technique that you can implement to fake the location on your
 - There are also options to set up a route and simulate the Vivo Y77t device’s movement.
 
 ![iteleporter location spoofer](https://images.wondershare.com/drfone/2023/virtuallocation/location-spoofer-app-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3.5 GFaker iPhone Location Spoofer
 
@@ -362,6 +337,13 @@ Yes, using a GPS spoofer can potentially be detected by certain apps or services
 
 When looking to reduce the detection risk while using a location spoofer, choose an app from a reputable source that comes with regular updates. Use it sparingly and avoid sudden, unrealistic location changes. Mimic realistic movement patterns if altering locations and consider using a VPN for added anonymity. Moreover, choose a trusted app such as Wondershare Dr.Fone - Virtual Location to spoof your location.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Now when you know not one but 10 different ways to change your device location, you can easily implement the Pokemon Go walking hack. Not just Pokemon, these fake GPS location spoofer tools would help you change the location on other gaming, dating, and social apps as well. While you can use any reliable fake location spoofer app for Android, a trusted application like [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) (iOS/Android) would be the perfect pick. Go ahead and try these options to pick the best fake GPS location spoofer free/paid solution right away!
@@ -375,6 +357,13 @@ While using your phone to track your current location, you might have noticed th
 ## Part 1: Why is My Location Wrong on My Vivo Y77t?
 
 As we have mentioned earlier, there are multiple reasons why your location is not being tracked accurately by your phone. We understand how crucial to ensure that the location is accurate, especially if you are using this to send someone something or if you plan to go somewhere.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### _Reason #1:_ The location services are disabled on your phone
 
@@ -410,16 +399,16 @@ It is important to regularly update your phone with the recent software updates 
 - **_Step 1:_** Go to “Settings” and look for “General”.
 - **_Step 2:_** Look for “Software Update”, from there you will see whether you have the latest iOS. If your phone is not updated, then you can go ahead and update it.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### _Option #3:_ If you are using another application, make sure that the application is updated as well
 
 Similar to your iOS, the application needs to also be updated, so double-check if the application needs to be updated as well. You can do this by going to the App Store and checking if the application needs to be updated and if it does, do update the app and you can retry tracking your location after.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### _Option #4:_ Enable the “Location Services” for your phone
 
@@ -427,13 +416,6 @@ Double-check if the location services are turned on on your phone so it will sho
 
 - **_Step 1:_** Open the “Settings” on your phone and scroll down to look for “Privacy” then tap on it.
 - **_Step 2:_** Next, click on “Location Services” and check to see whether the location is turned on. If it is turned on, turn it off and back on again.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Bonus Tip: Easy Way to Fake Your GPS Location on Vivo Y77t (NO Jailbreak)
 
@@ -491,16 +473,24 @@ There are the things that you can do when you have an incorrect location on your
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-from-passion-to-prominence-the-creators-quest/"><u>[New] 2024 Approved From Passion to Prominence The Creator's Quest</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-itel-a60s-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Itel A60s without App | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/copyright-free-gaming-scores-the-10-leading-sources/"><u>Copyright-Free Gaming Scores – The 10 Leading Sources</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-it-itel-a05s-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Itel A05s Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-go-joystick-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Vivo T2 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Vivo V30 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Samsung Galaxy S24+ | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Samsung Galaxy A05 | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-blueprint-for-successful-individual-podcasts/"><u>The Blueprint for Successful Individual Podcasts</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unlocking-apple-iphone-15-plus-passcode-without-a-computer-drfone-by-drfone-ios/"><u>Unlocking Apple iPhone 15 Plus Passcode without a Computer | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unveiling-the-top-10-4k-computer-screens/"><u>Unveiling the #Top 10 4K Computer Screens</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-cutting-edge-drones-pairing-perfectly-with-gopros/"><u>[Updated] 2024 Approved Cutting-Edge Drones Pairing Perfectly with GoPros</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-saving-your-hangout-participation/"><u>[Updated] Saving Your Hangout Participation</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-mastering-netflixs-innovative-split-screen-tech/"><u>2024 Approved Mastering Netflix's Innovative Split Screen Tech</u></a></li>
+<li><a href="https://change-location.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/adjusting-large-desktop-screens-on-win10/"><u>Adjusting Large Desktop Screens on Win10</u></a></li>
+<li><a href="https://win-latest.techidaily.com/behebung-von-problemen-mit-dem-wiederherstellungsmodus-in-windows-t-wenn-er-beim-booten-oder-bei-datenwiederherstellung-nicht-reagiert/"><u>Behebung Von Problemen Mit Dem Wiederherstellungsmodus in Windows T, Wenn Er Beim Booten Oder Bei Datenwiederherstellung Nicht Reagiert</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-ps3-connection-guide-for-pc-users/"><u>Effortless PS3 Connection: Guide for PC Users</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-vivo-y36i-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Vivo Y36i to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-correctly-configure-user-settings-and-overcome-the-driver-failure-problem/"><u>How to Correctly Configure User Settings and Overcome the 'Driver Failure' Problem</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-honor-100-pro-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Honor 100 Pro Quickly? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-honor-play-7t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Xiaomi Redmi Note 12T Pro? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Vivo T2 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/simple-repair-dealing-with-persistent-outriders-game-crashes/"><u>Simple Repair: Dealing with Persistent Outriders Game Crashes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-your-designs-into-reality-chatgpts-role-in-3d-printing/"><u>Transform Your Designs Into Reality: ChatGPT's Role in 3D Printing</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-vivo-y100a-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Vivo Y100A? | Dr.fone</u></a></li>
 </ul></div>
 

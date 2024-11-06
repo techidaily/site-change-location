@@ -1,7 +1,7 @@
 ---
 title: In 2024, 8 Solutions to Fix Find My Friends Location Not Available On OnePlus 12R | Dr.fone
-date: 2024-10-18T21:17:36.164Z
-updated: 2024-10-19T16:00:22.576Z
+date: 2024-10-29T18:28:14.678Z
+updated: 2024-11-05T21:47:59.628Z
 tags: 
   - virtual location chang
   - location changer
@@ -40,13 +40,6 @@ Not! This message does not necessarily mean that you have blocked yourself or th
 "Location Not Available" means that the OnePlus 12R device is not currently sharing its location with the Find My app. This can happen if the OnePlus 12R device is in Airplane mode or if the user has turned off location sharing for the Find My app. It can also happen if there is a temporary issue with the iCloud servers.
 
 In summary, "No Location Found" means the app could not locate the OnePlus 12R device, while "Location Not Available" means that the OnePlus 12R device is not currently sharing its location.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: Possible Reasons For Find My Friends Location OnePlus 12R  Not Available
 
@@ -105,7 +98,27 @@ The next tip to use when Find My Friends says location not available is restarti
 
 ![restart OnePlus 12R ](https://www.virtuallocation.com/images/pokemon-go/restart-OnePlus 12R .jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Drag the Power slider to the right side and wait for the OnePlus 12R device to shut down. Wait for a minute before you restart the OnePlus 12R device, and hopefully, the feature will start working again as usual.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Tip 7: Check That Your Friend Has Signed into Find My Friends
 
@@ -136,10 +149,10 @@ To use Dr.Fone - Virtual Location, here are the steps you need to follow:
 ![detect actual location](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 3:** Now go to the search box and type the location you want to switch to. Once the location gets detected, click on the "Move Here" option, and the location of your OnePlus 12R  or Android phone will change to the one you specified.
@@ -180,6 +193,13 @@ Yes, you can take steps to prevent someone from tracking your phone's location. 
 
 Taking these precautions can help safeguard your phone's location and enhance your privacy. It's important to stay vigilant and be aware of the privacy settings and permissions on your device.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 1-Click Location Changer for both iOS and Android
@@ -191,6 +211,13 @@ Taking these precautions can help safeguard your phone's location and enhance yo
 - Work with location-based apps, like [Pokemon Go](https://drfone.wondershare.com/virtual-location/pokemon-go-spoofing-ios.html), [Snapchat](https://drfone.wondershare.com/virtual-location/fake-snapchat-location.html), [Instagram](https://drfone.wondershare.com/virtual-location/how-to-change-region-on-instagram.html), [Facebook](https://drfone.wondershare.com/virtual-location/fake-location-on-facebook.html), etc.
 
 **3981454** people have downloaded it
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -206,13 +233,6 @@ However, that doesn’t mean you cannot use Life360 on a PC. While it may seem a
 
 So, without wasting another second, let’s dive straight into the guide.
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1: Why people seek to use Life360 on PC?
 
 First things first; why would anyone want to use a family locator app like Life360 on their PC? Well, the truth is everyone has their own reason to get **_Life360 for PC_**. For instance, let’s say you are in the middle of an important project and don’t want to be bothered by alerts on your smartphone. However, you still don’t want to compromise with the safety of your family members.
@@ -220,6 +240,13 @@ First things first; why would anyone want to use a family locator app like Life3
 In this situation, you can simply run the **_Life360 app on PC_**. This will allow you to directly keep track of the whereabouts of family members on your Windows system and you won’t have to constantly check your phone.
 
 Life360 can also be used on a computer when your phone’s battery has completely drained and there’s no power outlet nearby. In this case, you can simply power-on your laptop, start the Life360 app and send your current whereabouts to family members.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: Is it possible to use Life360 on Windows PC?
 
@@ -253,6 +280,13 @@ Step 4: In the home screen, tap the “Google Play Store” icon. You’ll be as
 
 ![bluestacks 13](https://images.wondershare.com/drfone/2023/virtuallocation/bluestacks-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 5: In the top search bar, type-in Life360 and tap the “install” button to download the app.
 
 ![bluestacks 5](https://images.wondershare.com/drfone/2023/virtuallocation/bluestacks-4.jpg)
@@ -260,13 +294,6 @@ Step 5: In the top search bar, type-in Life360 and tap the “install” button 
 Step 6: Life360 is now installed on your computer. Open the app and enter your login details. You’ll now be able to run Life360 on your PC.
 
 ![bluestacks 5](https://images.wondershare.com/drfone/2023/virtuallocation/bluestacks-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4: Use Life360 by mirroring Android to Windows PC
 
@@ -301,6 +328,13 @@ Keep in mind that you’ll still require your device to navigate through the con
 Life360 is probably among the top family locators for Android users. Apart from its extensive range of features, the app provides a user-friendly interface, which allows it easier for even elders to use the app without any issues. Even though there isn’t a dedicated Life360 software for Windows, you can follow the above-mentioned methods to run the **_Life360 on PC_**.
 
 ## You Might Also Like
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Location-based apps
 
@@ -370,13 +404,6 @@ Cell towers can provide a rough estimate of a phone's location. A cell tower is 
 
 When a Wi-Fi hotspot is nearby, your phone can connect to it without needing to connect to a cell tower. Your phone can then transmit the signal back to the hotspot, which will record the OnePlus 12R device's IP address.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3：How Do I Pause Life360 without My Parents Knowing?
 
 There are many ways to ensure your parents do not know where you are and what you are doing. Some of these methods are:
@@ -417,20 +444,6 @@ Stopping location sharing on Life360 may also be accomplished by turning off the
 - To disable this feature, enter the "Location Services" menu by selecting the "Personal" tab and selecting the appropriate option.
 
 ![stop using the gps on iphone](https://images.wondershare.com/drfone/article/2022/06/what-are-location-permissions-life360-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Take use of a Burner Phone
 
@@ -480,13 +493,6 @@ It's pretty simple to use Dr.Fone, and here are the instructions.
 
 ![current location in program](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Life360 is a handy app, but it can be frustrating when a child or teen doesn't want to use it. It's easy to fool the app and trick it into thinking that you're at home or school, but you're not. Hence, [Dr.Fone - Virtual Location (iOS/Android)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) is an excellent app for faking your location and keeping your personal information safe.
@@ -505,22 +511,22 @@ Life360 is a handy app, but it can be frustrating when a child or teen doesn't w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-speedy-visual-scan-of-your-pictures-on-win11/"><u>[New] 2024 Approved Speedy Visual Scan of Your Pictures on Win11</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-hdr-evaluation-is-aurora-a-game-changer/"><u>[New] HDR Evaluation Is Aurora a Game-Changer?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovative-iphone-and-ipad-video-players-the-10-best-options/"><u>[Updated] Innovative iPhone & iPad Video Players The 10 Best Options</u></a></li>
-<li><a href="https://change-location.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Samsung Galaxy S24+ | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Samsung Galaxy S23+ | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/exploring-av1s-superiority-over-vp9/"><u>Exploring AV1's Superiority Over VP9</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/free-frameworks-amplify-your-youtube-vision/"><u>Free Frameworks Amplify Your YouTube Vision</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>How To Use Special Features - Virtual Location On Apple iPhone 6? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Honor Magic V2 | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-honor-play-7t-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Honor Play 7T | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/iphone-speicherkapazitatsprobleme-wahrend-der-datentransferverwaltung/"><u>IPhone-Speicherkapazitätsprobleme Während Der Datentransferverwaltung</u></a></li>
-<li><a href="https://change-location.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Samsung Galaxy A24 | Dr.fone</u></a></li>
-<li><a href="https://win-web.techidaily.com/mastering-systemklon-und-systemmigration-eine-schrittweise-anleitung-zur-erfolgreichen-umsetzung/"><u>Mastering Systemklon Und Systemmigration: Eine Schrittweise Anleitung Zur Erfolgreichen Umsetzung</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/simple-instructions-to-activate-bluetooth-connectivity-for-windows-11-and-10-users/"><u>Simple Instructions to Activate Bluetooth Connectivity for Windows 11 and 10 Users</u></a></li>
-<li><a href="https://change-location.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Vivo Y27s | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-quick-and-easy-mac-screen-captures-utilizing-keyboard-shortcuts-for-2024/"><u>[New] Quick and Easy Mac Screen Captures Utilizing Keyboard Shortcuts for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-droning-shadows-action-camera-analysis/"><u>[Updated] 2024 Approved Droning Shadows Action Camera Analysis</u></a></li>
+<li><a href="https://network-issues.techidaily.com/amd-radeon-hd-6950-gets-power-boost-with-latest-win11-drivers-upgrade/"><u>AMD Radeon HD 6950 Gets Power Boost with Latest Win11 Drivers Upgrade</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Xiaomi Redmi Note 12 Pro 4G? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Vivo V29? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-ispoofer-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Vivo V27 Pro? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Vivo V29? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oneplus-ace-3-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from OnePlus Ace 3 To Phone | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-smooth-sound-transformation-essential-ios-apps-to-convert-youtube-mp3-wise/"><u>In 2024, Smooth Sound Transformation Essential iOS Apps to Convert YouTube MP3-Wise</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-10-best-tools-to-bypass-icloud-activation-lock-on-iphone-15-plus-you-should-try-out-by-drfone-ios/"><u>In 2024, The 10 Best Tools to Bypass iCloud Activation Lock On iPhone 15 Plus You Should Try Out</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ios-18-arrives-zero-dollar-update-comprehensive-feature-list-and-new-updates-roundup/"><u>IOS 18 Arrives - Zero Dollar Update, Comprehensive Feature List, and New Updates Roundup</u></a></li>
+<li><a href="https://change-location.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/siri-elevated-by-artificial-intelligence-unveiling-apples-home-screen-comprehension-breakthrough-analysis-on-zdnet/"><u>Siri Elevated by Artificial Intelligence: Unveiling Apple's Home Screen Comprehension Breakthrough | Analysis on ZDNET</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Vivo S18e? | Dr.fone</u></a></li>
 </ul></div>
 
