@@ -1,7 +1,7 @@
 ---
 title: In 2024, Best 10 Mock Location Apps Worth Trying On Nokia C300 | Dr.fone
-date: 2024-10-29T19:55:05.337Z
-updated: 2024-11-05T17:34:56.798Z
+date: 2024-11-14T18:28:56.965Z
+updated: 2024-11-15T22:57:53.572Z
 tags: 
   - virtual location chang
   - location changer
@@ -40,6 +40,19 @@ The sole purpose of mock location apps or software is to help users spoof/ mock 
 One of the most frequent and completely understandable concern and question on people’s minds when they talk about location spoofing is whether is it safe to mock location whether it can be detected and what the consequences are.
 
 Answer: Location spoofing is safe and will go undetected as long as it is done sensibly and with the right mock location app on your iPhone and Android. You have nothing to worry about as long as you do not be particularly obvious about location mocking. This means that you should take care not to be hopping like a bunny from here and there in minutes.
+
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part III: Top Mock Location Apps for iPhone
 
@@ -88,10 +101,10 @@ A quality product from Wootechy, iMoveGo is compatible with the latest iOS 17 an
 Probably one of the most known apps at one point in time, iSpoofer was great at spoofing location on iPhone until Niantic, the makers of Pokémon GO, detected the app, and banned it. The app still works with some tricks up its sleeve, but we do not really recommend it, given that it was detected once and if you are detected using the app, you will be banned from the Poke-verse for good.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part IV: Top Mock Location Apps for Android
@@ -114,13 +127,6 @@ Fake GPS Location-GPS JoyStick by The App Ninjas is a popular mock location spoo
 
 ![itoolab anygo for android](https://images.wondershare.com/drfone/article/2023/12/mock-location-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 iToolab AnyGo for Android works in over 100 games and apps and can simulate movements between two points. The speed of movement can be customized and the app does not require you to root your Nokia C300.
 
 #### 4\. [Dr.Fone - Virtual Location (Android)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
@@ -128,6 +134,13 @@ iToolab AnyGo for Android works in over 100 games and apps and can simulate move
 ![drfone virtual location android](https://images.wondershare.com/drfone/article/2023/12/mock-location-android.jpg)
 
 Dr.Fone - Virtual Location can be used to effectively spoof GPS coordinates on Android devices as well. An issue that other spoofing apps present is that the location might jump between its true location and falsified location, which means that other apps might present a location spoofing solution that is not stable. That is not the case with Dr.Fone - Virtual Location (Android) where a location once set remains set as long as you want it to, and will not jump.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
@@ -164,13 +177,6 @@ Step 1: Download and launch Dr.Fone on your computer and click on Virtual Locati
 
 ![drfone](https://images.wondershare.com/drfone/drfone/drfone-home.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 2: Connect your device and click Get Started button after accepting the disclaimer.
 
 ![drfone virtual location get started](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
@@ -201,6 +207,13 @@ Your device will start simulating movement as per your set parameters and the ma
 
 ![drfone virtual location spoofer](https://images.wondershare.com/drfone/guide/virtual-location-10.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part VI: Tips To Avoid Detection
 
 Using a method that has been detected once, such as iSpoofer, is one way to land in trouble. How to go undetected when spoofing locations? Use these tips.
@@ -208,6 +221,13 @@ Using a method that has been detected once, such as iSpoofer, is one way to land
 \- The best way to spoof your location when playing games such as Pokémon GO is to be showing yourself traveling from point A to B just as you would in real life. No jumping.
 
 \- One precaution to take when you spoof your location in general is to allow a cooling period before changing location, and once you change your location to anywhere in the world, do not jump to another far-off place the next minute or even the next hour. Be sensible, allow for time it would take in real life to travel that distance, and you should go undetected.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Closing Words
 
@@ -218,6 +238,13 @@ Using a mock location app can be fun. You can use it for recreational purposes s
 The web world offers many apps, including Google, Facebook, Uber, etc. that provide location-based services. This means such apps will need your location to work. However, there are some rare occasions when users don’t find this service welcoming and thus, they wish to fake GPS location.
 
 One of the instances comprises a well-known location-based game – Pokemon Go, where users might want to mislead the app and make the phone not understand where they exactly are. There might be other cases as well. No matter what reason you want this to be done, we are here to introduce you GPS joystick app that helps you for the same. Here we go!
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 1: Fake GPS Location - GPS JoyStick the App
 
@@ -269,13 +296,6 @@ But if that’s not the case, you’re required to disable the Play Store's auto
 
 ![Do not auto-update apps](https://images.wondershare.com/drfone/article/2019/09/fake-gps-joystick-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Next, get hold of Google Play Services (an older version) from the link here: _<https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-12-6-85-release/>_
 
 **Note:** Ensure to download the Google Play Services apk file that is closest to your Android version. But, remember not to install it now.
@@ -287,6 +307,13 @@ Once done, if “Find My Device” is enabled over your device, you need to get 
 Likewise, disable “Google Play” and uninstall all its updates as well. To remove updates, get into “Settings” followed by “Apps/Applications”. Scroll down to “Google Play Services” and hit on “Uninstall updates”.
 
 ![Uninstall updates](https://images.wondershare.com/drfone/article/2019/09/fake-gps-joystick-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note:** If you’re unable to get this done, then you may need to disable the Android device manager in the first place. For this, get to “Settings” > “Security” > “Device Administrators” > disable “Android Device Manager first”.
 
@@ -378,37 +405,30 @@ Tap ‘Get Started’ option then add a new address in the ‘Teleport’ mode. 
 
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 4: Changed Location in the app**
 
 Now the Dr.Fone app displays your desired address as your current location. You can verify it by spotting the location on the map view.
 
 ![verify new location](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
 
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 5: Location on iPhone**
 
 Next, you must check your default current location in map view on iPhone, and you will witness the modified location in pace with your desired address.
 
 ![witness the modified location](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 6: Play Pokemon Go without moving**
 
@@ -419,13 +439,6 @@ Now use the “one-stop route” or “multi-stop route” to simulate the real-
 When you are playing location-based games like Pokemon Go, you might need to simulate GPS movement to catch more Pokemon. To do this, you can use the GPS movement feature of Wondershare [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). This feature allows you to simulate GPS movement between two or multiple spots on the map. Here's how you can do it:
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/r2GiOQxwfQc" frameborder="0" allowfullscreen=""></iframe>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Part 1: Simulate Movement Along a Route (One-Stop Route)
 
@@ -469,13 +482,6 @@ As the simulation starts, click **Pause** at any instance where you want to stop
 
 ![execute multi stop route simulation](https://images.wondershare.com/drfone/guide/virtual-location-12.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Part 3: Use Joystick for More Flexible GPS Control (Joystick Movement)
 
 Dr.Fone has integrated the joystick feature into the Virtual Location program to spare 90% of the labor for GPS control. You can always find the joystick on the lower left part in teleport mode. And you can also click the joystick button in the upper right (the 5th one) to use the joystick feature.
@@ -503,22 +509,16 @@ The joystick, like one-stop route or multi-stop route modes, aims to facilitate 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-gif-creation-step-by-step-guide/"><u>2024 Approved Mastering GIF Creation Step-by-Step Guide</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unlock-chromes-full-potential-with-pip-across-devices/"><u>2024 Approved Unlock Chrome's Full Potential with PIP Across Devices</u></a></li>
-<li><a href="https://change-location.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Samsung Galaxy A15 4G | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-optimal-performance-with-geforce-rtx-nvida-3090-driver-for-legacy-windows-systems-windows-10-8-and-7/"><u>Get Optimal Performance with GeForce RTX Nvida 3090 Driver for Legacy Windows Systems (Windows 10, 8 & 7)</u></a></li>
-<li><a href="https://change-location.techidaily.com/home-button-not-working-on-nokia-c300-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Nokia C300? Here Are Real Fixes | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Oppo A78 5G? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-vivo-y77t-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Vivo Y77t to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Samsung Galaxy M34 5G? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Vivo S17 Pro | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Samsung Galaxy Z Flip 5? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-windows-7s-sunset-comprehensive-guide-on-eol-and-support-cessation/"><u>Navigating Windows 7'S Sunset: Comprehensive Guide on EOL and Support Cessation</u></a></li>
-<li><a href="https://extra-information.techidaily.com/perfect-moment-for-podcast-debuts/"><u>Perfect Moment for Podcast Debuts</u></a></li>
-<li><a href="https://facebook.techidaily.com/steering-clear-of-the-marketing-maze-tips-to-avoid-objectionable-ads/"><u>Steering Clear of the Marketing Maze: Tips to Avoid Objectionable Ads</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-apple-watch-ultra-2-anticipated-release-details-and-price-forecasts/"><u>Unveiling the Apple Watch Ultra 2: Anticipated Release Details & Price Forecasts</u></a></li>
-<li><a href="https://facebook.techidaily.com/whatsapps-feature-availability-remains-same-without-new-policies/"><u>WhatsApp's Feature Availability Remains Same Without New Policies</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-the-roadmap-to-making-money-with-personal-videos/"><u>[Updated] 2024 Approved The Roadmap to Making Money with Personal Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-future-with-av1-over-vp9/"><u>2024 Approved Exploring the Future with AV1 over VP9</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gentle-audio-dimming-methods-in-os-xwindows-for-2024/"><u>Gentle Audio Dimming Methods in OS X/Windows for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-tecno-spark-10c-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Tecno Spark 10C? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-explore-artistic-possibilities-premier-android-graphics-app-selection/"><u>In 2024, Explore Artistic Possibilities Premier Android Graphics App Selection</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-samsung-galaxy-m14-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Samsung Galaxy M14 5G to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-premium-solutions-for-remote-team-interaction/"><u>In 2024, Premium Solutions for Remote Team Interaction</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-unique-identity-on-snapchat-inspiration-from-more-than-120-private-snap-ideas/"><u>In 2024, Unique Identity on Snapchat Inspiration From More Than 120 Private Snap Ideas</u></a></li>
 </ul></div>
 

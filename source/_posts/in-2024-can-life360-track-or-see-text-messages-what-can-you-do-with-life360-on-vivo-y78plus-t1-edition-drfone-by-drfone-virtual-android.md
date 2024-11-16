@@ -1,7 +1,7 @@
 ---
 title: In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Vivo Y78+ (T1) Edition? | Dr.fone
-date: 2024-11-01T01:48:48.853Z
-updated: 2024-11-06T06:40:27.037Z
+date: 2024-11-13T19:50:56.545Z
+updated: 2024-11-16T10:30:02.216Z
 tags: 
   - virtual location chang
   - location changer
@@ -59,13 +59,6 @@ Now, you know that Life360 cannot see your text message, but what can Life360 se
 
 It's important to note that while Life360 is designed to facilitate family communication and safety, the extent of data visibility and tracking can vary based on the settings and permissions configured within the app.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 5: How to stop Life360 from seeing your location data?
 
 Life360 can only have limited access to your texts, but it tracks your location as long as the app runs in the background and the location services are on. For those of you who wonder, does life360 alert you when someone checks your locations? The answer is no because no Android or iOS application has that feature. So, all group members can track your location or see your location history all the time. Here is how you can stop life360 from seeing your location.
@@ -118,6 +111,13 @@ Life360 is designed for parents to always stay informed about the digital well-b
 
 I hope reading this article helped relieve your concerns about the Life360 app. Can you track text messages with life360 "Yes" the app tracks your location through texts but can life360 read texts, or can life360 see who you text, "No" because it cannot monitor all your device's actions. The device can see if you are texting others. Still, it cannot store any data, so you can privately communicate with people inside or outside your circle. But you can stop the app from tracking your location for safety purposes, so you have to use [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) to trick location-based applications or change your GPS coordinates or location history with one click.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is Fake GPS Location Spoofer a Good Choice On Vivo Y78+ (T1) Edition?
 
 Several situations might permit you to spoof location on your Android. Whether you're looking to play a location-based game like Pokemon GO, you want to access movies in other regions on Netflix or fool your friends into thinking you're in another part of the world.
@@ -131,13 +131,6 @@ Well, this article will walk you through the things you must know before using t
 ## Part 1. Fake GPS Location Spoofer Overview
 
 <table><tbody><tr><td><strong>Developer</strong></td><td>IncorporateApps</td></tr><tr><td><strong>Review &amp; Rating</strong></td><td>4.3/5</td></tr><tr><td><strong>Latest Version</strong></td><td>5.8.1</td></tr><tr><td><strong>Latest Release</strong></td><td>Aug 22, 2023</td></tr><tr><td><strong>Supported OS</strong></td><td>Android</td></tr><tr><td><strong>System Requirements</strong></td><td>Android 4.4 and later</td></tr><tr><td><strong>Pricing and Plan</strong></td><td>Perpetual Plan - $3.99</td></tr><tr><td><strong>Customer Support</strong></td><td>3.5/5</td></tr></tbody></table>
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2. Fake GPS Location Spoofer Key Features
 
@@ -171,6 +164,13 @@ We've explained the steps to get Android into developer mode below:
 
 ![enable developer options and allow mock locations](https://images.wondershare.com/drfone/article/2023/01/enable-developer-mode-on-android-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3:** Go back to the Settings main page and tap on Location Mode. Then, select Use GPS to determine location.
 
 ![use gps to determine the location](https://images.wondershare.com/drfone/article/2023/01/enable-developer-mode-on-android-3.jpg)
@@ -191,13 +191,6 @@ After you complete the steps above, follow the following steps to spoof your Viv
 
 ![setup fake gps location spoofer](https://images.wondershare.com/drfone/article/2023/01/spoof-location-with-fake-gps-location-spoofer-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3:** Tap the Circular icon at the top right corner to allow the app to detect your current location.
 
 ![allow fake gps location spoofer to detect the location](https://images.wondershare.com/drfone/article/2023/01/spoof-location-with-fake-gps-location-spoofer-4.jpg)
@@ -205,13 +198,6 @@ After you complete the steps above, follow the following steps to spoof your Viv
 **Step 4:** Now, find the location you wish to teleport to and tap on it to start spoofing your location.
 
 ![start faking gps location](https://images.wondershare.com/drfone/article/2023/01/spoof-location-with-fake-gps-location-spoofer-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4: Fake GPS Location Spoofer User Reviews
 
@@ -293,9 +279,23 @@ With [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfon
 
 ![click move here](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 6:** Once you complete the above, your Vivo Y78+ (T1) Edition location will be spoofed instantly.
 
 ![mock phone location](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Comparison Table: Fake GPS Location Spoofer vs. Dr.Fone - Virtual Location
 
@@ -341,13 +341,6 @@ Overall, the Fake GPS Location Spoofer app can help you achieve your objective o
 
 PPTP, which stands for Point to Point Tunneling Protocol is one of the oldest and most trusted ways of implementing a VPN. It was developed by Microsoft and uses a GRE tunnel with a TCP control channel to bypass various geo-based restrictions. Since free PPTP VPN has been around for years now and is pretty easy to setup, it is quite popular as well. Read on and learn the basics of PPTP VPN free with a free PPTP VPN list as well.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1: What is PPTP VPN?
 
 The free VPN PPTP was earlier introduced by Windows, but was later adopted by all the other platforms like Linux, macOS, iOS, Android, etc. Even though the layer of encryption in free PPTP VPN is not as secure as other protocols, it makes it pretty fast. Due to this, the PPTP VPN is widely used to bypass location-based restrictions.
@@ -361,7 +354,21 @@ The free VPN PPTP was earlier introduced by Windows, but was later adopted by al
 
 ![free pptp vpn connection](https://images.wondershare.com/drfone/2023/virtuallocation/pptp-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 By attaining a free VPN PPTP server, you can easily connect to it. For instance, if you wish to connect to Singapore, you would need free PPTP VPN Singapore host IP. We have provided a free PPTP VPN list in the next section.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: Free PPTP VPN Server List
 
@@ -379,27 +386,20 @@ After getting to know about so many free PPTP VPN Singapore, USA, Canada, UK, an
 
 ![free pptp vpn connection](https://images.wondershare.com/drfone/2023/virtuallocation/pptp-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3\. This will launch a new wizard that can be used to setup a PPTP VPN free. Out of all the provided options, select the “Connect to a workplace” option.
 
 ![connect to a workplace](https://images.wondershare.com/drfone/2023/virtuallocation/pptp-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4\. On the next window, you would be given an option to either dial directly or use a VPN. Click on the “Use my Internet Connection (VPN)” option to continue.
 
 ![Use my Internet Connection ](https://images.wondershare.com/drfone/2023/virtuallocation/pptp-4.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5\. Great! Now, you need to provide information related to the host and server. You can refer the free PPTP VPN list we have provided in the previous section and pick the server (and hostname) of your choice.
 
@@ -411,13 +411,6 @@ After getting to know about so many free PPTP VPN Singapore, USA, Canada, UK, an
 
 ![change nerwork settings](https://images.wondershare.com/drfone/2023/virtuallocation/pptp-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 9\. Go to the Security tab and make sure the type of VPN is listed as PPTP (Point to Point Tunneling Protocol). Also, the data encryption option should be “Optional Encryption (Connect even if no encryption)” and the option for “Challenge Handshake Authentication Protocol (CHAP)” should be selected for “Allow these protocols”.
 
 ![pptp vpn properties](https://images.wondershare.com/drfone/2023/virtuallocation/pptp-6.jpg)
@@ -427,6 +420,13 @@ After getting to know about so many free PPTP VPN Singapore, USA, Canada, UK, an
 11\. Once it is done, you can save these changes and exit the interface. Now, go to the list of available networks and connect to the free PPTP VPN you have created.
 
 ![connect to free pptp vpn](https://images.wondershare.com/drfone/2023/virtuallocation/pptp-7.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 That’s it! By following these steps, you would be able to create a free PPTP VPN Singapore, USA, UK, Canada, Germany, or any other location. Simply give this tutorial a try and pick the preferred option from our free PPTP VPN list. If you also have a suggestion for a free VPN PPTP that you want to add to your list, then let us know about it in the comments below.
 
@@ -471,22 +471,19 @@ Some of its advantages are as follows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-channel-trailers-that-convert-viewers-into-customers/"><u>[New] In 2024, Channel Trailers that Convert Viewers Into Customers</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-trending-picture-tales-history-revealed/"><u>[New] Trending Picture Tales History Revealed</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-skyward-savings-affordable-drones-below-a-hundred/"><u>2024 Approved Skyward Savings Affordable Drones Below a Hundred$</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/a-comprerans-guide-to-finding-and-joining-exclusive-discords-for-2024/"><u>A Compreran's Guide to Finding and Joining Exclusive Discords for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/budget-friendly-with-rich-features-discover-the-value-of-an-lg-24lh4480-smart-tv/"><u>Budget-Friendly with Rich Features: Discover the Value of an LG 24LH4480 Smart TV</u></a></li>
-<li><a href="https://win11.techidaily.com/bypassing-printer-busy-on-windows-11-systems/"><u>Bypassing Printer Busy on Windows 11 Systems</u></a></li>
-<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-vivo-y27-5g-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Vivo Y27 5G Phone | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-huawei-nova-y91-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Huawei Nova Y91? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Vivo X100 | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-vivo-t2-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Vivo T2 5G Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Samsung Galaxy A05? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-asus-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Asus Phone with Broken Screen</u></a></li>
-<li><a href="https://change-location.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Samsung Galaxy Z Flip 5? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Samsung Galaxy M34 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Vivo V30 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/unlock-your-printers-full-potential-with-a-fresh-driver-install-on-windows-oses/"><u>Unlock Your Printer's Full Potential with a Fresh Driver Install on Windows OSes</u></a></li>
-<li><a href="https://change-location.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Samsung Galaxy S24+ | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-hot-takes-top-ten-video-hits-from-social-media-giants-for-2024/"><u>[New] Hot Takes Top Ten Video Hits From Social Media Giants for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-how-to-create-awesome-instagram-videos/"><u>[Updated] How to Create Awesome Instagram Videos</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-essential-tips-for-youtube-edits-with-sony-vegas/"><u>[Updated] In 2024, Essential Tips for YouTube Edits with Sony Vegas</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-masterclass-youtube-music-arrangement/"><u>[Updated] In 2024, Masterclass YouTube Music Arrangement</u></a></li>
+<li><a href="https://apple-account.techidaily.com/detailed-guide-on-removing-iphone-se-2020-activation-lock-without-previous-owner-by-drfone-ios/"><u>Detailed Guide on Removing iPhone SE (2020) Activation Lock without Previous Owner?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-motorola-moto-g24-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Motorola Moto G24? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-samsung-galaxy-z-flip-5-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Samsung Galaxy Z Flip 5 without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-infinix-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Infinix Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-transform-your-imagination-into-visual-masterpieces-on-windows-10/"><u>In 2024, Transform Your Imagination Into Visual Masterpieces on Windows 10</u></a></li>
+<li><a href="https://driver-download.techidaily.com/trustworthy-and-speedy-access-to-canon-mg3620-drivers-start-printing-today/"><u>Trustworthy and Speedy Access to Canon MG3620 Drivers - Start Printing Today</u></a></li>
 </ul></div>
 
