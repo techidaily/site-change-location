@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Vivo S18 | Dr.fone
-date: 2024-11-19T21:55:29.808Z
-updated: 2024-11-25T22:04:39.049Z
+date: 2024-12-01T17:18:07.984Z
+updated: 2024-12-05T17:24:45.927Z
 tags: 
   - virtual location chang
   - location changer
@@ -32,7 +32,7 @@ When location sharing is enabled in the Vivo S18 device, the map will show the c
 ![Find My Friends app](https://images.wondershare.com/drfone/article/2019/09/find-my-friends-intro.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How it is different in iOS 13
@@ -69,10 +69,6 @@ From the main page of dr.fone – Virtual Location (iOS), download it. After thi
 
 ![install the tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2: Set up Phone’s Connection**
 
 Now, take your iPhone and keep it connected with the system. After this is done, click on the “Get Started” button to move ahead.
@@ -84,10 +80,6 @@ Now, take your iPhone and keep it connected with the system. After this is done,
 After following the second step, all you need is to look for your actual location. To make this happen, click on the “Center On” icon given at lower right of screen.
 
 ![look for your actual location](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 4: Enable Teleport Mode**
 
@@ -124,7 +116,7 @@ If you have done jailbreaking, you can have FMFNotifier. Jailbreaking will be wo
 ![FMFNotifier notification](https://images.wondershare.com/drfone/article/2019/09/fmfnotifier-notification.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - Secondly, you can do configurations from the Settings app easily. Like, you can customize the text of the notification. Besides, the app allows you to set and save several false locations preset.
@@ -138,6 +130,10 @@ If you have done jailbreaking, you can have FMFNotifier. Jailbreaking will be wo
 **Step 3:** Lastly, install the package. Now, you can go to “Settings” on your device. Go to FMFNotifier and configure the settings as you want to fake location on Find My Friends.
 
 ![configure the settings](https://images.wondershare.com/drfone/article/2019/09/fmfnotifier-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3.4 Use AntiTracker to protect your location privacy
 
@@ -161,10 +157,6 @@ You will get the notification no matter your screen is locked or not. A notifica
 
 ![antitracker settings](https://images.wondershare.com/drfone/article/2019/09/antitracker-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 4: How to Fake Find My Friends location on Android
 
 If you want to fake Find My Friends location on Android, you can easily configure Android devices to do it. For this, you can take help of an Android spoofer app. There are plenty of them available in Play Store. We will be using “Fake GPS GO Location Spoofer Free”. This is how to fake location on Find My Friends on Android.
@@ -187,17 +179,9 @@ When you install it rightly, this is how to do a little twisting to set it up wi
 
 ![Select mock location app](https://images.wondershare.com/drfone/article/2019/09/select-mock-location-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 5:** Return to Fake GPS Free and long press the two spots on map to set the route. Take help of the play button given at the bottom. This will enable the location spoofing. You will see, “Fake location engaged…”. This will show your fake location on Find My Friends app.
 
 ![fake gps on android](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How To Teleport Your GPS Location On Vivo S18?
 
@@ -249,6 +233,10 @@ Open your smartphone and access its maps application. Look into the current loca
 
 ![confirm location on the smartphone](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Part 2: Instantaneous Movement Between Multiple Points (Jump Teleport Mode)
 
 Wondershare Dr.Fone - Virtual Location also allows the movement of the smartphone device between multiple places with the Jump Teleport Mode. If you want to make your **location spoofing** look realistic, the steps below will be beneficial:
@@ -271,6 +259,10 @@ As prescribed, you can propagate amongst the set spots with the Jump Teleport Mo
 
 ![start changing location](https://images.wondershare.com/drfone/guide/start-use-jump-teleport-mode.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Can I Use a Fake GPS Without Mock Location On Vivo S18?
 
 All Android phones come with a GPS location feature with which you and others can navigate your current location. But, do you know that sometime this feature may create a headache for you as the third party app can trace your location. Also, any third person can track your GPS and can harm you. This is why many users want to fake GPS location on Android and iOS.
@@ -282,6 +274,10 @@ Are you wondering about how spoofing is possible on Android and iOS 14?
 If yes, then we have safe and reliable tricks that will help you to fake GPS on Android without allowing mock location apk.
 
 In this article, we are going to discuss some useful tricks to fake GPS without a mock location that will protect your privacy. Take a look!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: What Is Mock Location?
 
@@ -337,15 +333,15 @@ Most of the latest android phones come with the inbuilt mock location feature. T
 
 ![newly added developer options](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4:** Tap on the newly added developer option and toggle on its field.
 
 ![add developer option and toggle](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-6.jpg)
 
 **Step 5:** In the list of developer options, locate the “Allow Mock Locations” feature, and enable it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3.2 How To Change Your Mobile Location By Working With A Spoofer App?
 
@@ -354,10 +350,6 @@ After enable “allow mock location” on an android mobile phone, you will need
 **Step 1:** Go to Play Store and search for a spoofing app on the search bar.
 
 ![go to play store and search](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 2:** From the list, you can download any free or paid spoofing apps on your device. Some other free apps are Fake GPS and GPS Emulator.
 
@@ -391,10 +383,6 @@ Here are the steps that you will need to follow to install Dr. Fone in your devi
 
 ![world map with three mode](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4:** Select any one mode from the teleport, two-stop mode, and multi-stop mode to spoof your location.
 
 **Step 5:** Search for the desired location on the search bar to fake your current location and click enter.
@@ -403,7 +391,15 @@ Here are the steps that you will need to follow to install Dr. Fone in your devi
 
 Now you are ready to spoof iPhone without compromising the privacy of the Phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: Mock Location Feature On Different Android Models
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mock Location on Samsung and Motto
 
@@ -425,6 +421,10 @@ Most of the Xiaomi devices have MIUI numbers instead of Build Number. So, to ena
 
 In Huawei devices, there is the EMUI, for this, go to Settings > Software Information and tap on EMUI to turn on Developer Options.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 We hope that after reading the above article, you would be able to allow mock locations apk on different android devices. Also, you can fake GPS on iOS with the help of [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) app. This will help you spoof many dating apps and gaming apps.
@@ -443,21 +443,20 @@ We hope that after reading the above article, you would be able to allow mock lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-how-to-search-filters-on-instagram-and-get-more-filters-for-free/"><u>[New] In 2024, How to Search Filters on Instagram and Get More Filters for Free</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-uncovering-if-vlogger-critiques-are-paid/"><u>[New] Uncovering If Vlogger Critiques Are Paid</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-quick-start-capturing-high-quality-mov-videos-on-windows-11/"><u>[Updated] 2024 Approved Quick Start Capturing High-Quality MOV Videos on Windows 11</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-simplifying-your-life-with-discord-call-setup-guide/"><u>[Updated] In 2024, Simplifying Your Life with Discord Call Setup Guide</u></a></li>
-<li><a href="https://change-location.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Vivo V29e | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/explore-the-ultimate-senior-cellular-deals-of-2nce-2024/"><u>Explore the Ultimate Senior Cellular Deals of 2Nce 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-xiaomi-13-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Xiaomi 13 Ultra | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-asus-rog-phone-8-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Asus ROG Phone 8 Phone | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Vivo Y78 5G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-realme-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Realme 12 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-xiaomi-redmi-note-12-pro-4g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Xiaomi Redmi Note 12 Pro 4G Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-note-12-pro-5g-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Xiaomi Redmi Note 12 Pro 5G Phone with Broken Screen</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Vivo Y55s 5G (2023)? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-nokia-c12-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Nokia C12 PC | Dr.fone</u></a></li>
-<li><a href="https://win-web3.techidaily.com/verstandliche-anleitungen-zum-zurucksetzen-ihrer-schutzpartie-im-gpt-tipps-und-tricks/"><u>Verständliche Anleitungen Zum Zurücksetzen Ihrer Schutzpartie Im GPT - Tipps Und Tricks</u></a></li>
-<li><a href="https://change-location.techidaily.com/why-is-ipogo-not-working-on-vivo-s17e-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Vivo S17e? Fixed | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-dive-into-the-world-of-podcasting-from-concept-to-finalized-scripts/"><u>[New] In 2024, Dive Into the World of Podcasting From Concept to Finalized Scripts</u></a></li>
+<li><a href="https://change-location.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/enhance-real-time-periscope-broadcasting/"><u>Enhance Real-Time Periscope Broadcasting</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-samsung-galaxy-f34-5g-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Samsung Galaxy F34 5G Phone | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Vivo Y77t? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-essential-guide-sharpening-your-iphone-pics-without-paid-apps/"><u>In 2024, Essential Guide Sharpening Your iPhone Pics Without Paid Apps</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-the-ultimate-shortcut-to-achieving-unique-vocal-flair-in-pubg/"><u>In 2024, The Ultimate Shortcut to Achieving Unique Vocal Flair in PUBG</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-why-is-ipogo-not-working-on-vivo-t2-pro-5g-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Vivo T2 Pro 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-gpu-armored-post-acceleration/"><u>Nvidia GPU Armored Post-Acceleration</u></a></li>
+<li><a href="https://change-location.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Samsung Galaxy S24+? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-vivo-y78plus-t1-edition-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-steam-backup-errors/"><u>Troubleshooting Steam Backup Errors</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/urban-armors-fortified-carrier-case-for-macbook-pro-assessed-blending-robustness-with-useful-design-features/"><u>Urban Armor's Fortified Carrier Case for MacBook Pro Assessed: Blending Robustness with Useful Design Features</u></a></li>
+<li><a href="https://change-location.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Vivo Y78+ | Dr.fone</u></a></li>
 </ul></div>
 

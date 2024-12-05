@@ -1,7 +1,7 @@
 ---
 title: In 2024, 3 Ways to Fake GPS Without Root On Tecno Pova 5 | Dr.fone
-date: 2024-11-19T19:37:15.825Z
-updated: 2024-11-25T20:27:49.291Z
+date: 2024-11-29T17:56:34.679Z
+updated: 2024-12-05T16:53:52.228Z
 tags: 
   - virtual location chang
   - location changer
@@ -31,6 +31,10 @@ Have trouble catching Pokemon? Or maybe you're trying to get a date. Whatever yo
 
 Try it with location-based apps like Pokemon Go or Tinder to fake movement and enjoy all the fun on the go. It works perfectly with any application to **fake GPS without root**. The app is compatible with Windows and macOS devices to use any of them for GPS spoofing on your smartphone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 1-Click Location Changer for both iOS and Android
@@ -57,15 +61,15 @@ Connect your iOS device with the lightning cable or your Tecno Pova 5 using a US
 
 ![tap on get started button](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3: Set the Accurate Location**
 
 Before **GPS** **spoof without root,** you have to find and set your actual location on the map. If the location is not shown correctly, hit the “Center On” icon located at the lower right part.
 
 ![choose destination](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 4: Turn on Teleport Mode**
 
@@ -102,10 +106,6 @@ Other than Dr.Fone, you can use its alternative [Hola](https://m.apkpure.com/fak
 
 - Many times, the cursor doesn’t work correctly.
 - It can drain your device’s battery, unlike Dr.Fone – Virtual Method.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Fake GPS Go Location Spoofer**
 
@@ -146,7 +146,7 @@ You'll have fun letting your friends think you're partying like a rock star or r
 - May heat up the phone if used for long.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -172,6 +172,10 @@ The free VPN PPTP was earlier introduced by Windows, but was later adopted by al
 
 By attaining a free VPN PPTP server, you can easily connect to it. For instance, if you wish to connect to Singapore, you would need free PPTP VPN Singapore host IP. We have provided a free PPTP VPN list in the next section.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Free PPTP VPN Server List
 
 To make things easier for you to connect to a free PPTP VPN server, we have come up with a working and free PPTP VPN list right here. This includes free PPTP VPN Singapore, Canada, UK, USA, and other countries.
@@ -191,10 +195,6 @@ After getting to know about so many free PPTP VPN Singapore, USA, Canada, UK, an
 3\. This will launch a new wizard that can be used to setup a PPTP VPN free. Out of all the provided options, select the “Connect to a workplace” option.
 
 ![connect to a workplace](https://images.wondershare.com/drfone/2023/virtuallocation/pptp-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4\. On the next window, you would be given an option to either dial directly or use a VPN. Click on the “Use my Internet Connection (VPN)” option to continue.
 
@@ -222,6 +222,10 @@ After getting to know about so many free PPTP VPN Singapore, USA, Canada, UK, an
 
 That’s it! By following these steps, you would be able to create a free PPTP VPN Singapore, USA, UK, Canada, Germany, or any other location. Simply give this tutorial a try and pick the preferred option from our free PPTP VPN list. If you also have a suggestion for a free VPN PPTP that you want to add to your list, then let us know about it in the comments below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: An Easier Alternative to Setup VPN
 
 You may find that there is a steep learning curve ahead to master PPTP VPN setup. In addition, the ways to set up PPTP VPN are quite different for various devices and PCs.
@@ -236,6 +240,10 @@ Some of its advantages are as follows:
 - Intuitive interface and easy operations.
 - Offers 24/7 customer service.
 - As low as about 3 USD per month.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
@@ -257,10 +265,6 @@ Are you wondering how to **fake the browser location** or which tool to use? You
 
 ![google chrome featured image](https://images.wondershare.com/drfone/article/2022/12/how-to-hide-or-fake-your-location-in-google-chrome-browser-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How Does Chrome Know Your Location?
 
 Before discussing Google **Chrome's fake location**, it is important to know how Chrome detects your physical location. Google Chrome uses many ways to pinpoint your exact location, like your IP address, GPS, Wi-Fi, Bluetooth, and Cell Tower data. Every internet connection has an IP address bound to a location that enables Chrome to identify your location.
@@ -276,10 +280,6 @@ If you are worried about Google Chrome detecting your physical location and shar
 **Step 1:** Launch Google Chrome on your computer and click the "Three Dots" icon to open the Google Chrome Settings. Here, tap "Privacy and Security" from the left sidebar and select "Site Settings."
 
 ![access the site settings option](https://images.wondershare.com/drfone/article/2022/12/how-to-hide-or-fake-your-location-in-google-chrome-browser-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 2:** Navigate to "Permissions" and click on "Location." To hide the location on Google Chrome, select the "Don't allow sites to see your location" option.
 
@@ -341,6 +341,10 @@ Once the Teleport Mode is activated, add your desired location and press "Go." Y
 
 ![hit the move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2. Manually Change Your Location Using Google Chrome DevTools
 
 It is also possible to **fake browser location** on Chrome using the Google Chrome Developer Tools. It is a built-in feature of Chrome and can be used to manually change or turn off your browser's location. Follow these steps for changing location on Chrome with DevTools:
@@ -348,10 +352,6 @@ It is also possible to **fake browser location** on Chrome using the Google Chro
 **Step 1:** After opening Google Chrome, click the three-dots icon from the top right corner. It will open the Chrome menu where you need to select "Developer Tools" after clicking "More Tools."
 
 ![choose the developer tools](https://images.wondershare.com/drfone/article/2022/12/how-to-hide-or-fake-your-location-in-google-chrome-browser-11.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 2:** A window will open on the right side with all the developing tools you can use in Chrome. Click on the three-dots icon located near "Console" in the bottom left corner of the window. Choose "Sensors" from the pop-up menu.
 
@@ -382,6 +382,10 @@ Many **fake location Chrome extensions** are available on Google Chrome which ca
 
 ![confirm the fixed location position](https://images.wondershare.com/drfone/article/2022/12/how-to-hide-or-fake-your-location-in-google-chrome-browser-16.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Limitations**
 
 - Location Guard doesn't protect your IP address. It means some websites can still detect your real location using the IP address.
@@ -397,10 +401,6 @@ Another way you can fool websites and your browser by displaying a **fake locati
 
 ![tap on the quick connect button](https://images.wondershare.com/drfone/article/2022/12/how-to-hide-or-fake-your-location-in-google-chrome-browser-17.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3:** You can also choose the desired location as your fake Chrome location in NordVPN. To do that, scroll down the list of countries and locations and choose your desired locations to connect to.
 
 **Limitations**
@@ -408,15 +408,15 @@ Another way you can fool websites and your browser by displaying a **fake locati
 - NordVPN can only spoof your IP address and will not work for geo-restricted applications.
 - Using a VPN usually affects your internet speed and can make browsing slower and more difficult.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 4: FAQs
 
 ### 1.What is Geolocation?
 
 Geolocation is a term used for the process of pinpointing the location of a device connected to the internet. The location can be determined using methods like IP address, GPS, and mobile tower data. Apps and websites commonly use it to provide location-based services.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.What is the HTML5 Geolocation API?
 
@@ -427,7 +427,7 @@ The HTML5 Geolocation API is a browser API used to determine a user's geographic
 Hiding or spoofing your location protects your privacy and stop application and websites from tracking you. It also allows you to access geo-restricted apps and play location-based games. You can also fake your location to get the latest updates of your favorite apps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -450,18 +450,19 @@ That's why having a tool like [Dr.Fone - Virtual Location](https://tools.techida
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-fb-video-sizes-and-proportions/"><u>2024 Approved FB Video Sizes and Proportions</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Tecno Spark 20 | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/funimate-pro-apk-review-and-how-to-guide-for-2024/"><u>Funimate Pro APK Review and How-To Guide for 2024</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/guide-de-recherche-et-restauration-des-videos-flv-perdues-ou-effacees-sur-votre-ordinateur/"><u>Guide De Recherche Et Restauration Des Vidéos FLV Perdues Ou Effacées Sur Votre Ordinateur</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-infinix-hot-40i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Infinix Hot 40i? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-realme-narzo-n55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Realme Narzo N55 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Vivo S17? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-troubleshoot-and-fix-the-livekernelevent-error-code/"><u>How to Troubleshoot and Fix the LiveKernelEvent Error (Code</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-sci-fi-extraordinaire-journey-to-novel-universes-in-10-films/"><u>In 2024, Sci-Fi Extraordinaire Journey to Novel Universes in 10 Films</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-why-is-ipogo-not-working-on-vivo-y78plus-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Vivo Y78+? Fixed | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/minimca-houses-best-abode-guides-for-new-players/"><u>MiniMCA Houses Best Abode Guides for New Players</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/navigating-tech-issues-professional-insights-into-software-usage-functionality-and-common-bugs/"><u>Navigating Tech Issues: Professional Insights Into Software Usage, Functionality, and Common Bugs</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlock-live-video-broadcasting-secrets-of-the-upcoming-2024-olympics/"><u>Unlock Live Video Broadcasting Secrets of the Upcoming 2024 Olympics</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-orchestrate-an-engaging-statement-with-tunes/"><u>[New] Orchestrate an Engaging Statement with Tunes</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-harnessing-hype-strategies-to-elevate-your-instagram-presence/"><u>2024 Approved Harnessing Hype Strategies to Elevate Your Instagram Presence</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/breaking-barriers-top-picks-of-virtual-reality-walkers-for-2024/"><u>Breaking Barriers Top Picks of Virtual Reality Walkers for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-tecno-phantom-v-fold-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Tecno Phantom V Fold Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-realme-narzo-60-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-xiaomi-redmi-note-12-4g-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Xiaomi Redmi Note 12 4G Phone | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-xiaomi-redmi-a2plus-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Xiaomi Redmi A2+ Through Google Earth?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Samsung Galaxy A24? | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-the-leaderboard-of-the-best-web-capture-apps/"><u>In 2024, The Leaderboard of the Best Web Capture Apps</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Vivo S18? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-xiaomi-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Xiaomi Phone Network-Ready</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723964502044-use-futuristic-language-that-would-appeal-to-young-adults-blending-technology-terms-with-senior-care-planning/"><u>Use Futuristic Language that Would Appeal to Young Adults, Blending Technology Terms with Senior Care Planning.</u></a></li>
 </ul></div>
 
