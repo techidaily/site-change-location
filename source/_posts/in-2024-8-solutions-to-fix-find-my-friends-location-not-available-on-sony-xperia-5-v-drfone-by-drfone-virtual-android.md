@@ -1,7 +1,7 @@
 ---
 title: In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Sony Xperia 5 V | Dr.fone
-date: 2024-08-24T05:06:37.482Z
-updated: 2024-08-25T05:06:37.482Z
+date: 2024-12-08T16:50:52.242Z
+updated: 2024-12-11T17:20:56.014Z
 tags: 
   - virtual location chang
   - location changer
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/603cef112c71acaaa3fdccdd6f7a956de3ad09701
 There is no doubt that Find My Friends is an excellent application for location tracking. It allows users to track the location of their friends and family members through a variety of devices. So, when Find My Friends says the location is not available, it can be a frustrating situation. But don't stress over this because we are here to assist you in Find My Friends not working. Go through this guide, and you'll know what to do to take care of the problem.
 
 ![find my friends location not available](https://images.wondershare.com/drfone/article/2023/05/find-my-friends-location-not-available.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: What Does "Location Not Available" Mean on Find My Friends?
 
@@ -53,26 +57,16 @@ All these reasons can be the ones causing trouble on your Sony Xperia 5 V  and A
 
 When the Find My Friends app location is not available, here are some more tips that can help get rid of this issue.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ### Tip 1: Check if Find My Friends is Supported in Region/Country
 
 The foremost thing you should do when the Find My Friends location is not available is to check the region/country's location. Apple Inc still hasn't provided the Find My Friends feature in all countries and regions due to local laws and technical issues. So, the most plausible reason for the app not working properly is solely because it is not available in that particular country/region.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Tip 2: Quit and enable GPS or Location Services again
 
 After verifying that the feature is available in your region, enable the GPS & Location Services. In case you've already enabled the feature, turn it off, quit the app, and again enable the service. It might fix the location not found on the Find My Friends issue you've been facing. Just open Settings > Privacy & Security > Location Services and toggle the bar to turn the feature on or off.
 
 ![enable location services](https://www.virtuallocation.com/images/pokemon-go/enable-location-services.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ### Tip 3: Adjust Sony Xperia 5 V  Date and Time
 
 As we stated in the possible reasons, incorrect dates and times also result in this problem. If you have manually set the date and time, change the settings and set it to "Set Automatically" in General Settings. Hopefully, this will resolve the problem when the Find My Friends location is not available.
@@ -97,9 +91,6 @@ Toggle on the option to enable it. Once the feature is enabled, your friends wil
 
 For Android users, go to "Settings" > "Additional settings" > "Privacy" > "Location", and choose the location mode to enable it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Tip 6: Restart the Sony Xperia 5 V  or Android Phones
 
 The next tip to use when Find My Friends says location not available is restarting your phone. For most devices, the method is common. But for Sony Xperia 5 V  X and 11, the steps are slightly different. For other Sony Xperia 5 V  models, press the Power button and wait until the slider appears. For Sony Xperia 5 V  X and 11/12/13/14, you'll have to hold the Volume button and the Power button together to make the slider appear on the screen.
@@ -107,18 +98,20 @@ The next tip to use when Find My Friends says location not available is restarti
 ![restart Sony Xperia 5 V ](https://www.virtuallocation.com/images/pokemon-go/restart-Sony Xperia 5 V .jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Drag the Power slider to the right side and wait for the Sony Xperia 5 V device to shut down. Wait for a minute before you restart the Sony Xperia 5 V device, and hopefully, the feature will start working again as usual.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Tip 7: Check That Your Friend Has Signed into Find My Friends
 
 Another tip that can help you resolve to **Find My Friends location not available** is checking that your friend has signed into the app. It is apparent that if your friend hasn't logged into the feature, you won't access his/her location.
 
 Open the Find Friends app, log into it, and enable the location-sharing feature.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tip 8: Quit Find My Friends App and Open It Again
 
@@ -146,14 +139,8 @@ To use Dr.Fone - Virtual Location, here are the steps you need to follow:
 
 ![move to virtual location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 As you can see, when you have Dr.Fone - Virtual Location software, you can share any location with just one click. And it would seem that your Find My Friends app is working fine.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## FAQs You May Want to Know about Sony Xperia 5 V  Location
 
 **1\. Is there a way to check if someone has stopped sharing their location with you on their Sony Xperia 5 V ?**
@@ -186,11 +173,6 @@ Yes, you can take steps to prevent someone from tracking your phone's location. 
 
 Taking these precautions can help safeguard your phone's location and enhance your privacy. It's important to stay vigilant and be aware of the privacy settings and permissions on your device.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 1-Click Location Changer for both iOS and Android
@@ -207,9 +189,6 @@ Taking these precautions can help safeguard your phone's location and enhance yo
 
 Hopefully, now you know "why is find my friends not working" and several ways to fix the Find Friends location not available. In this guide, we learned all these tips to make it easy for Sony Xperia 5 V  users to rectify the issues with the Find Friends app. Check all the tips carefully and implement them whenever you face issues like this.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Use Life360 on Windows PC For Sony Xperia 5 V?
 
 Life360 is an online platform that utilizes geo-location services to help users share their real-time location with friends and family. The app allows people to create a family group and stay connected to each other through features like chatting, sharing location, sending safety alerts, etc.
@@ -220,9 +199,6 @@ However, that doesn’t mean you cannot use Life360 on a PC. While it may seem a
 
 So, without wasting another second, let’s dive straight into the guide.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 1: Why people seek to use Life360 on PC?
 
 First things first; why would anyone want to use a family locator app like Life360 on their PC? Well, the truth is everyone has their own reason to get **_Life360 for PC_**. For instance, let’s say you are in the middle of an important project and don’t want to be bothered by alerts on your smartphone. However, you still don’t want to compromise with the safety of your family members.
@@ -231,9 +207,6 @@ In this situation, you can simply run the **_Life360 app on PC_**. This will all
 
 Life360 can also be used on a computer when your phone’s battery has completely drained and there’s no power outlet nearby. In this case, you can simply power-on your laptop, start the Life360 app and send your current whereabouts to family members.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: Is it possible to use Life360 on Windows PC?
 
 Life360 is an extremely useful app for people who are always concerned about their closed ones. The app is basically designed with a vision to keep family members connected and safe. In addition to location sharing, the app also provides exclusive features like crash detection, place alerts, speed alerts, battery monitoring, etc.
@@ -258,9 +231,6 @@ Step 2: Open the installer and tap the “download” button. This will initiate
 
 ![bluestacks 1](https://images.wondershare.com/drfone/2023/virtuallocation/bluestacks-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 Step 3: Once the installation process completes, Bluestacks will start to boot. Keep in mind that the first boot may take some time, depending on your system configurations.
 
 ![bluestacks 2](https://images.wondershare.com/drfone/2023/virtuallocation/bluestacks-2.jpg)
@@ -269,9 +239,6 @@ Step 4: In the home screen, tap the “Google Play Store” icon. You’ll be as
 
 ![bluestacks 13](https://images.wondershare.com/drfone/2023/virtuallocation/bluestacks-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step 5: In the top search bar, type-in Life360 and tap the “install” button to download the app.
 
 ![bluestacks 5](https://images.wondershare.com/drfone/2023/virtuallocation/bluestacks-4.jpg)
@@ -280,9 +247,6 @@ Step 6: Life360 is now installed on your computer. Open the app and enter your l
 
 ![bluestacks 5](https://images.wondershare.com/drfone/2023/virtuallocation/bluestacks-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 4: Use Life360 by mirroring Android to Windows PC
 
 While running an emulator is a great way to get **_Life360 on PC_,** it has its own set of challenges. For instance, running an Android emulator is not easy when you have a low-configuration PC. Emulators like Bluestacks requires high system configuration otherwise they take forever to load.
@@ -309,21 +273,16 @@ Step 5: It may take some while for the connection to establish. Once it does, yo
 
 ![mirroring android 4](https://images.wondershare.com/drfone/2023/virtuallocation/mirroring-android-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 Keep in mind that you’ll still require your device to navigate through the content on your computer. Any action that you perform on your device will be replicated on your computer screen as well.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Final Verdict
 
 Life360 is probably among the top family locators for Android users. Apart from its extensive range of features, the app provides a user-friendly interface, which allows it easier for even elders to use the app without any issues. Even though there isn’t a dedicated Life360 software for Windows, you can follow the above-mentioned methods to run the **_Life360 on PC_**.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## You Might Also Like
 
 ## Location-based apps
@@ -358,14 +317,6 @@ If yes, then we have safe and reliable tricks that will help you to fake GPS on 
 
 In this article, we are going to discuss some useful tricks to fake GPS without a mock location that will protect your privacy. Take a look!
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: What Is Mock Location?
 
 Mock location is a feature in android devices that specify the different locations when using fake GPS apps. Basically, it helps with location spoofing in the android emulator, and you can easily test your GPS applications.
@@ -375,6 +326,10 @@ If you want to spoof Pokémon go or any other location-based app, you will need 
 In android phones, mock location is a hidden developer setting that allows you to set any GPS location and support fake GPS apps.
 
 There are many free location spoofing apps available in the Google Play Store that can exploit this hidden mock location setting.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: What Can Mock Locations Be Used For?
 
@@ -393,29 +348,25 @@ However, with allowing mock location feature, you can download fake location app
 Also, there are many other AR games, including Ingress Prime, Harry Potter: Wizards Unite, Kings of Pool, Pokémon Go, and Knightfall AR. You can spoof all on Android with the help of allowing mock location apk.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2.2 For Dating Apps
 
 ![mock location for dating apps](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 In addition to AR-based games, you can also spoof dating apps like Tinder and Grindr Xtra. It is because using the fake location for dating apps will allow you to see profiles of people from outside your city or country. This is how you can have more options to search for your partner online.
 
 Again to spoof dating apps, you will need to enable allow mock location apk feature on android devices.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 3: How Mock Locations Change Your Mobile Location?
 
 Now, let’s check out how you can mock locations on Your Sony Xperia 5 Vs. Ideally, you will need to enable allow mock location to select a fake location spoofer app under it. With fake GPS spoofer, you can fake your android location.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3.1 How to allow mock locations on Android
 
 Most of the latest android phones come with the inbuilt mock location feature. Though this feature is considered to be reserved for developers, and you need to enable the Developer Options first to allow mock location apk on android mobile Phone. Follow the following steps to enable developer option.
@@ -432,10 +383,6 @@ Most of the latest android phones come with the inbuilt mock location feature. T
 
 ![newly added developer options](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 **Step 4:** Tap on the newly added developer option and toggle on its field.
 
 ![add developer option and toggle](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-6.jpg)
@@ -451,8 +398,9 @@ After enable “allow mock location” on an android mobile phone, you will need
 ![go to play store and search](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Step 2:** From the list, you can download any free or paid spoofing apps on your device. Some other free apps are Fake GPS and GPS Emulator.
 
 **Step 3:** Tap on the icon of the app of your choice and install it on the mobile Phone.
@@ -461,11 +409,6 @@ After enable “allow mock location” on an android mobile phone, you will need
 
 ![enable allow mock location](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 **Step 5:** Under developer options, you will see the “Mock Location App” field and tap on it to get a list installed GPS spoofing apps. Select the Fake GPS app from the list to set it the default mock location apk.
 
 Now you are able to spoof dating apps or gaming apps.
@@ -487,8 +430,9 @@ Here are the steps that you will need to follow to install Dr. Fone in your devi
 ![connect your iphone](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Step 3:** You will see a world map with three modes on the right top side.
 
 ![world map with three mode](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
@@ -501,25 +445,14 @@ Here are the steps that you will need to follow to install Dr. Fone in your devi
 
 Now you are ready to spoof iPhone without compromising the privacy of the Phone.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: Mock Location Feature On Different Android Models
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Mock Location on Samsung and Motto
 
 In Samsung and Motto device, the mock location feature is available under the “Debugging” section of Developer Options.
 
 ![mock location on Samsung and motto](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-13.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Allow mock location on LG
 
 Smartphones from LG have a dedicated “Allow Mock Locations” feature that you can easily access by enabling Developer Options.
@@ -530,21 +463,17 @@ Most of the Xiaomi devices have MIUI numbers instead of Build Number. So, to ena
 
 ![mock location on LG](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-14.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ### Huawei
 
 In Huawei devices, there is the EMUI, for this, go to Settings > Software Information and tap on EMUI to turn on Developer Options.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 We hope that after reading the above article, you would be able to allow mock locations apk on different android devices. Also, you can fake GPS on iOS with the help of [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) app. This will help you spoof many dating apps and gaming apps.
-
-
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -558,5 +487,26 @@ We hope that after reading the above article, you would be able to allow mock lo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-the-essential-guide-to-fb-status-video-downloads/"><u>[New] 2024 Approved The Essential Guide to FB Status Video Downloads</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-top-15-youtube-movies-channels-for-you-to-kill-time/"><u>[Updated] 2024 Approved Top 15 YouTube Movies Channels for You to Kill Time</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-navigating-the-maximum-duration-limit-for-instagram-videos/"><u>[Updated] In 2024, Navigating the Maximum Duration Limit for Instagram Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-syncing-your-browser-with-auto-play-feature-in-facebook/"><u>[Updated] In 2024, Syncing Your Browser with Auto-Play Feature in Facebook</u></a></li>
+<li><a href="https://change-location.techidaily.com/all-you-need-to-know-about-mega-greninja-for-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/all-you-need-to-know-about-mega-greninja-for-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-honor-x50iplus-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Honor X50i+ to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/erstellen-einer-geister-festplatte-auf-einem-ssd-mit-windows-11-zwei-einfache-methoden/"><u>Erstellen Einer Geister-Festplatte Auf Einem SSD Mit Windows 11 - Zwei Einfache Methoden</u></a></li>
+<li><a href="https://change-location.techidaily.com/honor-100-pro-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor 100 Pro Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-itel-p55plus-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Itel P55+ Quickly? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>How to Stop Life360 from Tracking You On Apple iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Oppo F23 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-androids-ultimate-guide-to-photo-editors-is-pickup-a-contender/"><u>In 2024, Android’s Ultimate Guide to Photo Editors Is PickUp a Contender?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-from-hobbies-to-hearts-youtubes-path-to-fame/"><u>In 2024, From Hobbies to Hearts YouTube's Path to Fame</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-superior-speech-logging-apps-for-ipads-3/"><u>In 2024, Superior Speech Logging Apps for iPads #3</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Samsung Galaxy S24+ | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Samsung Galaxy A25 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-infinix-gt-10-pro-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Infinix GT 10 Pro</u></a></li>
+</ul></div>
 

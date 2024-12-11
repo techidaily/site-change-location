@@ -1,7 +1,7 @@
 ---
 title: In 2024, 4 Methods to Turn off Life 360 On Honor Magic V2 without Anyone Knowing | Dr.fone
-date: 2024-12-01T17:47:28.111Z
-updated: 2024-12-05T17:39:26.993Z
+date: 2024-12-04T17:12:51.149Z
+updated: 2024-12-11T18:01:14.278Z
 tags: 
   - virtual location chang
   - location changer
@@ -23,10 +23,6 @@ Life 360 has made tracking our friends and loved ones so easy. It is an excellen
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: What is Life 360?
 
 Many applications are available today to help family and friends track each other for various purposes. One such app is Life360, and it has been successful since its launch. This tracking app makes it easy to trace the location of your loved ones or anyone you want to track. But, first, you need to create a circle of friends on a map.
@@ -41,10 +37,6 @@ Some of the available Life360 features include notifying you when a member of yo
 
 ![sending help alert on life360](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: How to Turn off Life360 without Knowing
 
 There are times when you want to turn Life360 off without it showing so that people don’t know your present location. But, if you have no idea how to go about it, you’re in luck. This section covers the best methods to stop sharing your location with friends and family on Life360.
@@ -58,6 +50,10 @@ There is the possibility of limiting the details about your location to others i
 
 ![locate the circle on life360](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - Tap on ‘location sharing’ and click on the slider next to it to disable location sharing.
 
 ![click on location sharing](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing.jpg)
@@ -65,6 +61,10 @@ There is the possibility of limiting the details about your location to others i
 - Now you can recheck the map, and it will show ‘location sharing paused.
 
 ![pause location sharing](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. **Turn off Your Honor Magic V2’s Airplane Mode**
 
@@ -105,11 +105,23 @@ You’re not left out of this option; below are the steps to disable GPS service
 
 ![turn off gps location services on android](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: **Best Ways to Fake Location on Life360 without Anyone Knowing-Virtual location \[iOS/Android Supported\]**
 
 Although Life360 can be helpful in emergencies or security issues, it can also prove quite problematic. If you want some privacy or don’t trust members of your circle, you might want to learn how to turn off Life 360. The problem with turning off the Life360 location is that members of your circle might notice, which would inevitably cause some conflict.
 
 Fortunately, you have another effective option, and that is by faking your GPS location using a location spoofer. You can display the location you want while keeping your true location safe on Life360. Dr. Fone –Virtual location is an excellent tool for faking your location.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
@@ -164,7 +176,7 @@ Yes, there are some dangers associated with turning off location on Life360. No 
 When your phone is off, your GPS location is automatically disabled. Therefore Life360 won’t be able to track your location; it will only display your last logged location.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. **Does Life360 tell my circle when I turn off the location?**
@@ -183,19 +195,11 @@ Do you find it hard to look for places without an active internet connection? We
 
 ![Route Generator App Banner](https://images.wondershare.com/drfone/article/2021/04/best-route-generator-apps-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: What is a Route Generator App (And Why to Use it)?
 
 In nutshell, a route generator app would help you navigate from one point on the map to another. Though, these apps have some add-one features compared to any run-of-the-mill navigation app. With the help of a GPX file generator feature, they can just export your mapped route offline. In this way, you can simply import the GPX file again (on the same or another map) and navigate your way without any active internet connection.
 
 Therefore, it can help you navigate when you hike, trail, cycle, play games like Pokemon Go, and do other activities where there is low internet connectivity.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: 5 Best Route Generator Apps You Should Try
 
@@ -249,10 +253,6 @@ _Runs on_: iOS and Android
 
 ![Map My Run App](https://images.wondershare.com/drfone/article/2021/04/best-route-generator-apps-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. **GPX Creator**
 
 This is a lightweight route generator app for iOS devices that would let you create in-depth GPX files for any location of your choice.
@@ -297,10 +297,14 @@ As you can see, with the help of a GPX file generator, you can easily save your 
 
 ![drfone](https://images.wondershare.com/drfone/guide/wait-import-gpx.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 I’m sure that after reading this guide, you would be able to pick the best route generator app to meet your requirements. I have listed Pokemon map generator as well as running route generator apps that you can consider. Once you have got a GPX generator, you can also use a tool like [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) to import/export GPX files and can also use it to play Pokemon Go remotely with its location spoofing feature.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Does Life360 Notify When You Log Out On Honor Magic V2?
@@ -327,10 +331,6 @@ Although life360 provides excellent family location services, it also affects yo
 
 [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) is a location-changer application that allows users to change their device's location with one click. It provides a fake location to all tracking applications like life360 to help users protect their privacy. With Dr.Fone, you get an easy-to-use interface where you can navigate your fake GPS location on the map with joystick stimulation. You can change your location data history as well.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 1-Click Location Changer for both iOS and Android
@@ -347,6 +347,10 @@ Although life360 provides excellent family location services, it also affects yo
 
 ![access virtual location feature](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **STEP 2:** Click on "get started" to open the map and center on your actual location.
 
 ![tap on get started button](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
@@ -356,16 +360,12 @@ Although life360 provides excellent family location services, it also affects yo
 ![choose destination](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **STEP 4:** After finding the location, click on "move here" to change your location.
 
 ![choose destination you want](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -385,18 +385,24 @@ Let us conclude our article here, hoping that you got the answer to everything y
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-top-5-pro-snipers-on-macos/"><u>[New] 2024 Approved Top 5 Pro Snipers on macOS</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-enhancing-your-viewing-experience-recording-overwatch-games-for-2024/"><u>[New] Enhancing Your Viewing Experience Recording Overwatch Games for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-twitch-recapture-method-restart-livestreams/"><u>[New] Twitch Recapture Method Restart Livestreams</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-coping-with-unexpected-account-suspension-on-copyright-claims/"><u>[Updated] 2024 Approved Coping with Unexpected Account Suspension on Copyright Claims</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-first-step-guide-to-professional-vlogging/"><u>[Updated] 2024 Approved First-Step Guide to Professional Vlogging</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-best-8-filter-packs-for-dynamic-video-streaming/"><u>[Updated] Best 8 Filter Packs for Dynamic Video Streaming</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-analysis-on-slomo-video-softwares-performance-for-2024/"><u>Expert Analysis on SloMo Video Software's Performance for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-vivo-v30-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Vivo V30 Pro? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Vivo T2 5G | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Apple iPhone 6? | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-mov-video-rotator-top-5-free-downloads/"><u>New 2024 Approved MOV Video Rotator Top 5 Free Downloads</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-harnessing-android-potential-for-stunning-time-lapse-videos/"><u>[New] Harnessing Android Potential for Stunning Time-Lapse Videos</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-how-to-skyrocket-likes-on-your-tiktok-unpack-sessions/"><u>[New] How to Skyrocket Likes on Your TikTok Unpack Sessions</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-your-phone-your-camera-tips-for-mobile-video-shooting-for-2024/"><u>[New] Your Phone, Your Camera Tips for Mobile Video Shooting for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-stay-ahead-adapting-your-approach-for-instagrams-evolved-feed/"><u>[Updated] 2024 Approved Stay Ahead Adapting Your Approach for Instagram’s Evolved Feed</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-magix-acid-pro-critique-and-comparable-products/"><u>2024 Approved Magix ACID Pro Critique & Comparable Products</u></a></li>
+<li><a href="https://change-location.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-tutorial-installing-hyper-v-features-on-windows-10-computers/"><u>Comprehensive Tutorial: Installing Hyper-V Features on Windows 10 Computers</u></a></li>
+<li><a href="https://article-files.techidaily.com/high-dynamic-range-luminances-impact-review-for-2024/"><u>High Dynamic Range Luminance's Impact Review for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-poco-x6-pro-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Poco X6 Pro Quickly? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-vivo-v30-lite-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-honor-90-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Honor 90? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-iphone-se-2020-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For iPhone SE (2020) Lock Screen</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Vivo V29e? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/revolutionizing-flight-indispensable-drone-extras-unveiled-for-2024/"><u>Revolutionizing Flight Indispensable Drone Extras Unveiled for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/smooth-update-of-windows-11-device-drivers-guide/"><u>Smooth Update of Windows 11 Device Drivers Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Samsung Galaxy F34 5G | Dr.fone</u></a></li>
 </ul></div>
 
