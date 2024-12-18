@@ -1,7 +1,7 @@
 ---
 title: In 2024, 4 Methods to Turn off Life 360 On Infinix Note 30 5G without Anyone Knowing | Dr.fone
-date: 2024-08-17T07:29:43.759Z
-updated: 2024-08-18T07:29:43.759Z
+date: 2024-12-16T19:29:08.587Z
+updated: 2024-12-17T18:34:13.570Z
 tags: 
   - virtual location chang
   - location changer
@@ -32,6 +32,14 @@ Some of the available Life360 features include notifying you when a member of yo
 
 ![sending help alert on life360](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to Turn off Life360 without Knowing
 
 There are times when you want to turn Life360 off without it showing so that people don’t know your present location. But, if you have no idea how to go about it, you’re in luck. This section covers the best methods to stop sharing your location with friends and family on Life360.
@@ -45,20 +53,22 @@ There is the possibility of limiting the details about your location to others i
 
 ![locate the circle on life360](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - Tap on ‘location sharing’ and click on the slider next to it to disable location sharing.
 
 ![click on location sharing](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 - Now you can recheck the map, and it will show ‘location sharing paused.
 
 ![pause location sharing](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. **Turn off Your Infinix Note 30 5G’s Airplane Mode**
 
 Another option you have to stop sharing location on Life360 is by switching on Airplane mode. You can do this on your Android and iOS devices. Once you enable Airplane mode, you’ll see a white flag on your last saved location.
@@ -67,17 +77,15 @@ Another option you have to stop sharing location on Life360 is by switching on A
 
 ![turn on airplane mode on iphone](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **For Android** owners wondering how to turn location off on life360 through Airplane mode, swipe down from the top of your screen and select the ‘Airplane mode’ icon. You can also turn it on by visiting ‘settings’ and selecting ‘network & internet’ from the option displayed. Finally, find the airplane mode and switch it on.
 
 ![turn on airplane mode on android](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 These steps will help you turn off location sharing on Life360. However, the downside of using Airplane mode is that it prevents you from accessing the internet. In addition, with the Airplane mode turned on, you can’t make or receive phone calls, either. Therefore, we don’t recommend this as your top choice when learning to turn off Life 360.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. **Disable GPS Service on Your Device**
 
@@ -110,11 +118,10 @@ Although Life360 can be helpful in emergencies or security issues, it can also p
 
 Fortunately, you have another effective option, and that is by faking your GPS location using a location spoofer. You can display the location you want while keeping your true location safe on Life360. Dr. Fone –Virtual location is an excellent tool for faking your location.  
 
-
-
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 1-Click Location Changer for both iOS and Android
@@ -137,19 +144,21 @@ Below, we’ve broken down the process for you; keep reading to learn how to fak
 
 ![access virtual location feature](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 3\. Next, connect your iPhone or Android device to your PC and click 'get started.'
 
 ![tap on get started button](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4\. Next, you have to turn on the ‘teleport mode’ by clicking its icon at the upper right corner of the screen.
 
 ![enable teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5\. Now, enter the location you want to teleport to on the upper left side of the screen and then click the ‘go’ icon.
 
@@ -161,14 +170,12 @@ Automatically, your location will change to the chosen place on the map and your
 
 ![location on your phone](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 <iframe width="100%" height="450" type="text/html" src="https://www.youtube.com/embed/xQa-_8RTg5U" frameborder="0"></iframe>
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 4: FAQ About Turn off Location on Life360
 
 ### 1\. **Are there any risks to turning off GPS location?**
@@ -183,14 +190,9 @@ When your phone is off, your GPS location is automatically disabled. Therefore L
 
 Yes, it does. It will send a ‘location sharing paused’ notification to all your group members. Additionally, if you log out from Life360, it will notify your circle immediately.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 Life360 is a useful app for professional and personal circles. However, it can be intrusive on our privacy sometimes. Most times, the youths want to learn how to turn off Life360 without their parents knowing on iPhone and Android devices. This article provides you with different methods you can achieve this. If you want to learn how to turn off life 360 without showing up, the best option is to fake your location. We hope the guide above helps you utilize [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) without any issues.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -198,3 +200,27 @@ Life360 is a useful app for professional and personal circles. However, it can b
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-stream-quality-which-is-superior-obs-or-fraps/"><u>[New] 2024 Approved Stream Quality Which Is Superior, OBS or Fraps?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/avigating-youtubes-algorithm-as-a-game-streamer/"><u>[New] Navigating YouTube's Algorithm as a Game Streamer</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/anking-the-top-value-video-resources-online-for-2024/"><u>[New] Ranking the Top Value Video Resources Online for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-unlock-every-shared-file-and-image-in-messaging-app/"><u>[Updated] Unlock Every Shared File and Image in Messaging App</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effortless-writing-with-advanced-tech-discover-hix-ai-powered-by-gpt-narrative/"><u>Effortless Writing with Advanced Tech: Discover HIX AI, Powered by GPT-Narrative</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhancing-sound-quality-in-your-media-room-with-smart-furniture-placement-techniques-explore-how/"><u>Enhancing Sound Quality in Your Media Room with Smart Furniture Placement Techniques - Explore How.</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-oppo-a1-5g-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Oppo A1 5G Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Vivo Y77t? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-nokia-c02-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Nokia C02</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-go-joystick-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Vivo V27 Pro? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-guiding-steps-for-effective-gopro-time-lapse-capture/"><u>In 2024, Guiding Steps for Effective GoPro Time-Lapse Capture</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-google-pixel-8-pro-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Google Pixel 8 Pro</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-cooldown-chart-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+</ul></div>
+

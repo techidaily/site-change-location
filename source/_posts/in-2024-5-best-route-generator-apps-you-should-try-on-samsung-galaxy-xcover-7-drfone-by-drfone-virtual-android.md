@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Best Route Generator Apps You Should Try On Samsung Galaxy XCover 7 | Dr.fone
-date: 2024-11-10T09:18:11.330Z
-updated: 2024-11-16T00:53:29.759Z
+date: 2024-12-14T16:35:20.586Z
+updated: 2024-12-17T20:17:26.825Z
 tags: 
   - virtual location chang
   - location changer
@@ -27,18 +27,15 @@ Do you find it hard to look for places without an active internet connection? We
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: What is a Route Generator App (And Why to Use it)?
 
 In nutshell, a route generator app would help you navigate from one point on the map to another. Though, these apps have some add-one features compared to any run-of-the-mill navigation app. With the help of a GPX file generator feature, they can just export your mapped route offline. In this way, you can simply import the GPX file again (on the same or another map) and navigate your way without any active internet connection.
 
 Therefore, it can help you navigate when you hike, trail, cycle, play games like Pokemon Go, and do other activities where there is low internet connectivity.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: 5 Best Route Generator Apps You Should Try
 
@@ -122,13 +119,6 @@ _Price_: Free or $1.99
 
 ![GPX Viewer Android App](https://images.wondershare.com/drfone/article/2021/04/best-route-generator-apps-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3: How to View GPX Files Offline on your PC?
 
 As you can see, with the help of a GPX file generator, you can easily save your routes offline. Though, if you are looking for a Pokemon Map Generator app or a solution to view your GPX files on your PC, then try Dr.Fone – Virtual Location (iOS). Developed by Wondershare, it can be used to view GPX files, spoof the location of your device, and even simulate its movement.
@@ -144,13 +134,14 @@ As you can see, with the help of a GPX file generator, you can easily save your 
 ![drfone](https://images.wondershare.com/drfone/guide/wait-import-gpx.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 I’m sure that after reading this guide, you would be able to pick the best route generator app to meet your requirements. I have listed Pokemon map generator as well as running route generator apps that you can consider. Once you have got a GPX generator, you can also use a tool like [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) to import/export GPX files and can also use it to play Pokemon Go remotely with its location spoofing feature.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Will the iPogo Get You Banned and How to Solve It On Samsung Galaxy XCover 7
 
@@ -246,25 +237,11 @@ Now click on the 1st icon on the upper right corner, which will enable you to te
 
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 5: Confirm the Location**
 
 Confirm the exact location on the pop-up that appears now and click on “Move here.”
 
 ![virtual location 05](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 6: Check Location on the deivce**
 
@@ -276,6 +253,10 @@ To be certain, you can also check the location on your iPhone. Just open maps on
 
 ![virtual location 07](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Can iPogo get you banned? Yes, it can, and it eventually will. It would help if you understood why can iPogo get you banned and why you should not use that application for location spoofing. We also provided you with a perfect solution to avoid iPogo ban using Wondershare’s [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) . We also provided a step-by-step guide to use Dr. Fone for teleporting and changing your iPhone's GPS location. That was all for this article; if you have any queries related to this article, you can comment below. We will make sure you get the necessary assistance for the same.
@@ -284,6 +265,10 @@ Can iPogo get you banned? Yes, it can, and it eventually will. It would help if 
 
 [![avatar](https://drfone.wondershare.com/images/alice-mj.png)](https://drfone.wondershare.com/author/alice-mj/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The Internet is a vast space and you have a plethora of content on different websites and platforms. You can call it a two-way - give and take relationship when it comes to the dynamics of data exchange between the world wide web and the users.
 
 When you visit websites, they use cookies to track your activities. When you visit a restaurant, the phone detects and saves the GPS in the memory. You click a picture in the Maldives, your phone seeks out geographic points to prepare the right time and date stamps.
@@ -291,13 +276,6 @@ When you visit websites, they use cookies to track your activities. When you vis
 You need your GPS to download and use certain apps. Similarly, your GPS might be the reason you are unable to play some games or use some applications. Change GPS Location Samsung Galaxy XCover 7 and this won't be a problem for you.
 
 But if you are wondering how can I change my location on my iPhone? These 5 methods will help you get fruitful results.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1: Change GPS Location on Samsung Galaxy XCover 7 using a Professional PC Program
 
@@ -325,16 +303,13 @@ You can get this done within minutes if you have the right program with you. One
 
 ![drfone](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3**: Now, the world map will display on the screen and you can clearly see the coordinates and directions as well. On the top right corner, the third icon is called the 'Teleport Mode'. Click on that and enter the name of the place in the search box. You can even pinpoint it, if you are sure about the place.
 
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 4**: If you are completely sure that you got the address right, click on the 'Move Here' option. It moves your Pin from your present location to your new virtual location.
 
@@ -366,6 +341,10 @@ Note: The Companion App is not available on the App store. You have to download 
 
 ![final map location](https://images.wondershare.com/drfone/2020/2020/final-map-location-pic8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Change GPS Location on Samsung Galaxy XCover 7 using XCode
 
 You can change the geolocation Samsung Galaxy XCover 7 by using your coding expertise as well. That is why XCode exists. This Computer Program lets you change your Location in Samsung Galaxy XCover 7 by giving some GIT Commands to the PC while your Samsung Galaxy XCover 7 stays connected to it. By following these steps, you can understand how to do it. But if you've never had a liking for programming and coding languages, then you should probably skip this -
@@ -373,6 +352,10 @@ You can change the geolocation Samsung Galaxy XCover 7 by using your coding expe
 **Step 1**: Download and install XCode from the AppStore, directly to your Mac device. Launch the application.
 
 ![download xcode app](https://images.wondershare.com/drfone/2020/2020/download-and-install-xcode-pic9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2**: Once you see the XCode window open, Go for the 'Single View Application' to start a new Project and go on by clicking on 'Next'. You can set up a name and details for this particular project.
 
@@ -412,6 +395,10 @@ Cydia is also based on software applications and changes location in seconds, Ho
 
 ![cydia toggle shift](https://images.wondershare.com/drfone/2020/2020/cydia-toggle-shift-pic18.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4**: Now we can decide which apps can access our new virtual location. At the bottom of the page, you will find an 'i' icon. Go click on it and choose the 'White List' option. This one will then take you to the app list and you can decide which of them will have access to the phone's location.
 
 ## Part 5: Change GPS Location on Samsung Galaxy XCover 7 using Location Handle
@@ -430,16 +417,13 @@ Location Handle is another useful application that you can use to change your lo
 
 ![manual mode location handle](https://images.wondershare.com/drfone/2020/2020/manual-mode-location-handle-pic22.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 4**: Once the Manual mode is activated, the map will be displayed and you can change the pin location. You can enter the location name in the search box.
 
 ![chowchilla location handler](https://images.wondershare.com/drfone/2020/2020/chowchilla-location-handler-pic23.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5**: The Joystick will appear on the page and you can use it to shift your location to wherever you want. Once you fix on the location, proceed and the new location will be updated.
 
@@ -463,22 +447,18 @@ We hope you are no longer wondering How to change Location services on Samsung G
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-streamlined-strategies-mastering-screen-record-on-an-hp-notebook-for-2024/"><u>[New] Streamlined Strategies Mastering Screen Record on an HP Notebook for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-rotated-video-conundrum-in-instagrams-feed/"><u>[Updated] The Rotated Video Conundrum in Instagram's Feed</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-exemplary-episodes-for-auditory-drama/"><u>2024 Approved Exemplary Episodes for Auditory Drama</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-quick-glance-fastest-photo-viewer-in-11-os/"><u>2024 Approved Quick Glance Fastest Photo Viewer in 11 OS</u></a></li>
-<li><a href="https://program-issues.techidaily.com/eliminate-stuttering-glitches-in-fortnite-effective-strategies-for-a-seamless-gaming-session/"><u>Eliminate Stuttering Glitches in Fortnite: Effective Strategies for a Seamless Gaming Session</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-advice-how-to-resolve-a-frozen-pc-while-setting-up-the-windows-operating-system/"><u>Expert Advice: How to Resolve a Frozen PC While Setting Up the Windows Operating System</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Ways to Fake GPS Without Root On Apple iPhone 6 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-motorola-moto-g34-5g-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Motorola Moto G34 5G? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-honor-magic-6-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Honor Magic 6 without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-vivo-v27-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Vivo V27 Pro without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Apple iPhone SE (2020) | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Apple iPhone 12 Pro | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Sony Xperia 1 V | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Honor Magic5 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-securing-your-digital-quest-with-savvy-screenshots/"><u>In 2024, Securing Your Digital Quest with Savvy Screenshots</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/understanding-the-dynamics-of-instagram-unfollows/"><u>Understanding the Dynamics of Instagram Unfollows</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-12-unparalleled-youtube-gamers-intros-revealed-free-or-fee/"><u>[Updated] 2024 Approved 12 Unparalleled YouTube Gamers' Intros Revealed Free or Fee?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-podcast-renaming-made-easy-with-these-ai-tools/"><u>2024 Approved Podcast Renaming Made Easy with These AI Tools</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/abbey/"><u>損害賠償申請プロセスの流れを適切にコントロールしている方法 | ABBEYブック</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-itel-s23plus-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Itel S23+ without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximizing-creativity-with-chatgpts-advanced-image-recognition/"><u>Maximizing Creativity with ChatGPT's Advanced Image Recognition</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/asy-way-to-mix-and-match-youtube-playlist-order/"><u>The Easy Way to Mix and Match YouTube Playlist Order</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-missing-wlpapidll-files-expert-tips-and-solutions/"><u>Troubleshooting Missing wlpapi.dll Files: Expert Tips & Solutions</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/youtube-edition-expert-advice-on-creating-compelling-video-edits-for-2024/"><u>Youtube Edition Expert Advice on Creating Compelling Video Edits for 2024</u></a></li>
 </ul></div>
 

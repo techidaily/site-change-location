@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Vivo Y36 | Dr.fone
-date: 2024-12-09T18:00:53.927Z
-updated: 2024-12-11T17:51:38.820Z
+date: 2024-12-14T20:16:19.212Z
+updated: 2024-12-17T21:44:33.287Z
 tags: 
   - virtual location chang
   - location changer
@@ -71,6 +71,10 @@ Now, take your iPhone and keep it connected with the system. After this is done,
 
 ![connect iphone to pc](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3: Look for Location**
 
 After following the second step, all you need is to look for your actual location. To make this happen, click on the “Center On” icon given at lower right of screen.
@@ -83,19 +87,11 @@ In this step, you should activate the teleport mode. This will be done by clicki
 
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 5: Fake Find My Friends Location**
 
 Now, the program will get your location and click on “Move Here” that comes in the next dialog box. The location will be changed now. You can see that in your iPhone and its location-based app.
 
 ![Fake location on Find My Friends](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3.2 Use a burner iPhone to fake location in Find My Friends
 
@@ -131,10 +127,6 @@ If you have done jailbreaking, you can have FMFNotifier. Jailbreaking will be wo
 
 ![configure the settings](https://images.wondershare.com/drfone/article/2019/09/fmfnotifier-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3.4 Use AntiTracker to protect your location privacy
 
 When privacy is everything for you, you cannot tolerate anyone peeping into your life, especially your location. Find My Friends lets people doing that. You can take help of AntiTracker which is another jailbreak tweak. With this, you will be helped by faking location on Find My Friends. Like the above app, this will also notify you when someone is going to know your location through Find My Friends.
@@ -156,6 +148,10 @@ You will get the notification no matter your screen is locked or not. A notifica
 - Have a look on the location request logs i.e. each time when the location is pinged
 
 ![antitracker settings](https://images.wondershare.com/drfone/article/2019/09/antitracker-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: How to Fake Find My Friends location on Android
 
@@ -179,17 +175,9 @@ When you install it rightly, this is how to do a little twisting to set it up wi
 
 ![Select mock location app](https://images.wondershare.com/drfone/article/2019/09/select-mock-location-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 5:** Return to Fake GPS Free and long press the two spots on map to set the route. Take help of the play button given at the bottom. This will enable the location spoofing. You will see, “Fake location engaged…”. This will show your fake location on Find My Friends app.
 
 ![fake gps on android](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Dose Life360 Notify Me When Someone Checks My Location On Vivo Y36?
 
@@ -215,7 +203,7 @@ If you want to know how Life360 stacks up against the competition, these are som
 - The battery level of the participants will be shown, and then action will be conducted that will not result in any reason for alarm.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: Does Life360 Tell You When Someone Checks Your Location?
@@ -254,10 +242,6 @@ Turning down the Vivo Y36 device's potential to interact with Wi-Fi and cellular
 
 ![ disable wi-fi and cellular data access](https://images.wondershare.com/drfone/article/2022/06/life360-notify-me-when-someone-checks-your-location-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2.** Disconnect from the internet through Wi-Fi and cellular data if you have them. For example, rather than disabling the whole Android system on an iPhone, you may simply disable the Life 360 app.
 
 **Step 3.** Navigate to the settings menu, look for the Life360 option, and then off cellular data, background refresh, and the Motion & Fitness feature.
@@ -295,9 +279,17 @@ Here are the steps you can follow to stop sharing your location on your iPhone d
 
 ![open feature](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3.** You'll be presented with a new window called "Virtual Location."
 
 ![start location faking](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4.** Make sure you have a USB cable for your iPhone or iPad or Android that is compatible with your computer. Take a moment to unlock the Vivo Y36 device, if necessary, and then press the Trust Device option.
 
@@ -314,7 +306,7 @@ Here are the steps you can follow to stop sharing your location on your iPhone d
     ![teleport to desired location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 8**. Tap Still Move after you agree to the instructions.
@@ -322,6 +314,10 @@ Here are the steps you can follow to stop sharing your location on your iPhone d
     ![current location in program](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
 
     When you use this software, your Phone's GPS location will be faked. To navigate your new surroundings, just press and hold the left joystick.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -345,13 +341,13 @@ Using VPNs and other methods to change your region is not illegal, but it violat
 
 If you're wondering if Netflix bans accounts that use VPN, the answer is “No, they don't”. On the other hand, Netflix will block access to content if it detects that you're connected to VPN. If this happens, simply turn off your VPN or try connecting to different servers on your VPN and retry.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: Can You Change Your Netflix Region Without a VPN?
 
 There are multiple ways to change your location on Netflix without a VPN, whether you're on your computer, iPhone, or Android. You can use a smart DNS service, a Proxy Server, or a [Tor browser](https://www.torproject.org/download/) to connect to a country you want to access. Follow our guide below to change country on Netflix now without a VPN.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: Using a Smart DNS
 
@@ -362,6 +358,10 @@ Utilizing Smart DNS to change country on Netflix without VPN actually works in t
 **Step 2**: Register your IP address on your selected provider and obtain the appropriate DNS Server Address on your account.
 
 ![change dns server](https://images.wondershare.com/drfone/article/2023/01/change-dns-server-netflix-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3**: Open **Networking** settings on your computer, iPhone, PlayStation, or Xbox and find **DNS Settings** (the image below is an example for the Windows system).
 
@@ -377,10 +377,6 @@ Utilizing Smart DNS to change country on Netflix without VPN actually works in t
 **Cons**
 
 - DNS doesn't carry your information, as the server side will only see the IP address where the query came from, which hackers can manipulate.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2: Using a Proxy Server
 
@@ -444,6 +440,10 @@ Changing your Netflix region with or without a VPN certainly has its perks. This
 
 While it's not illegal to change your Netflix region, it does violate the streaming giant's Terms of Use. You should always research and know the pros and cons when circumventing Netflix's terms so your account doesn't get suspended or terminated.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 1-Click Location Changer for both iOS and Android
@@ -470,24 +470,18 @@ While it's not illegal to change your Netflix region, it does violate the stream
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-top-tracks-for-a-professional-unboxing-presentation/"><u>[New] 2024 Approved Top Tracks for a Professional Unboxing Presentation</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-instagram-story-whats-not-in-public-knowledge/"><u>[New] In 2024, Instagram Story What's Not in Public Knowledge?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-sharp-cinematic-edge-choosing-the-phone-that-offers-unmatched-video-ois/"><u>[New] Sharp Cinematic Edge Choosing the Phone that Offers Unmatched Video OIS</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-tailoring-game-recording-features-for-windows-11-gamers/"><u>[New] Tailoring Game Recording Features for Windows 11 Gamers</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-immersion-station-youtubes-10-best-virtual-reality-films/"><u>[Updated] In 2024, Immersion Station YouTube's 10 Best Virtual Reality Films</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-advanced-audio-segmentation-made-simple-a-premiere-guide/"><u>2024 Approved Advanced Audio Segmentation Made Simple A Premiere Guide</u></a></li>
-<li><a href="https://change-location.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Vivo T2 5G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/home-button-not-working-on-motorola-moto-g34-5g-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Motorola Moto G34 5G? Here Are Real Fixes | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-lava-yuva-2-pro-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Lava Yuva 2 Pro Quickly? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-vivo-s18-pro-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Vivo S18 Pro</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Vivo V29e | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-vivo-x-fold-2-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Vivo X Fold 2 for Free? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/is-it-possible-to-play-your-favorite-ps4-games-using-a-ps5-console/"><u>Is It Possible to Play Your Favorite PS4 Games Using a PS5 Console?</u></a></li>
-<li><a href="https://change-location.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Xiaomi Redmi A2 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/the-best-ispoofer-alternative-to-try-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Xiaomi 13 Ultra | Dr.fone</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-top-rated-adobe-premiere-title-templates-free-for-your-next-project-for-2024/"><u>Updated Top-Rated Adobe Premiere Title Templates Free for Your Next Project for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Samsung Galaxy M34 5G? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/where-is-the-best-place-to-catch-dratini-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-a-detailed-exposition-on-harnessing-power-of-adobes-cloud-data-vaults-for-2024/"><u>[New] A Detailed Exposition on Harnessing Power of Adobe's Cloud Data Vaults for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/he-algorithm-behind-youtubes-post-upload-logic/"><u>[New] The Algorithm Behind YouTube's Post-Upload Logic</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-navigating-the-world-of-video-editing-for-youtube-creators/"><u>[Updated] In 2024, Navigating the World of Video Editing for YouTube Creators</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-infinix-smart-7-hd-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-apple-iphone-x-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 Methods to Turn off Life 360 On Apple iPhone X without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-oppo-find-x7-ultra-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Oppo Find X7 Ultra FRP</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-screen-saver-successes-a-video-showcase-evaluation/"><u>In 2024, Screen Saver Successes - A Video Showcase Evaluation</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/indonesias-hearty-greetings-your-first-steps/"><u>Indonesia's Hearty Greetings: Your First Steps</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/pure-harmony-for-win-software-for-2024/"><u>Pure Harmony for WIN Software for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Xiaomi 14 | Dr.fone
-date: 2024-12-07T16:23:35.633Z
-updated: 2024-12-11T18:13:14.697Z
+date: 2024-12-16T21:58:31.265Z
+updated: 2024-12-17T19:20:33.993Z
 tags: 
   - virtual location chang
   - location changer
@@ -37,6 +37,10 @@ You can find yourself confused if you are using iOS 13 and looking for Find My F
 
 ![Find My Friends on iOS 13](https://images.wondershare.com/drfone/article/2019/09/find-my-friends-ios-13.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: What Are the Against Voices of the Find My Friends App?
 
 Look at some of the things we feel not beneficial about Find My Friends.
@@ -53,10 +57,6 @@ In such cases, the need of hiding or faking Find My Friends location rises. This
 
 We know how important it is to trick your device deceiving with the location. You might be curious now to learn the methods that can meet the objective of yours. Let us begin with the section that introduces you four ways to fake Find My Friends location.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3.1 Use virtual location tool to fake Find My Friends location on iOS
 
 One of the useful ways to learn faking location on Find My Friends is using a professional tool like [dr.fone – Virtual Location (iOS)](https://www.wondershare.com/ios-virtual-location.html) . This tool helps you to teleport your iOS device’s GPS anywhere. Also, with this, you can get your speed of movement customized easily. It is one of the trusted tools you can use. Here are the steps to be followed to fake location on Find My Friends.
@@ -69,19 +69,11 @@ From the main page of dr.fone – Virtual Location (iOS), download it. After thi
 
 ![install the tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2: Set up Phone’s Connection**
 
 Now, take your iPhone and keep it connected with the system. After this is done, click on the “Get Started” button to move ahead.
 
 ![connect iphone to pc](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3: Look for Location**
 
@@ -95,15 +87,15 @@ In this step, you should activate the teleport mode. This will be done by clicki
 
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 5: Fake Find My Friends Location**
 
 Now, the program will get your location and click on “Move Here” that comes in the next dialog box. The location will be changed now. You can see that in your iPhone and its location-based app.
 
 ![Fake location on Find My Friends](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3.2 Use a burner iPhone to fake location in Find My Friends
 
@@ -116,10 +108,6 @@ Using a burner can also be a good option to take help of when your goal is to fa
 In spite of the fact that this way is helpful, there could be some shortcomings associated with it. Firstly, your friend might try to connect with your through Find My Friends app’s chat feature. And since you have kept your burner device somewhere else and you don’t have it right now, you can miss the chat. This may make your friends a little doubtful.
 
 Secondly, it could be perplexed and draining at the same time to keep checking that the entire settings are accurately set up.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3.3 Use FMFNotifier to help you on Find My Friends
 
@@ -150,6 +138,10 @@ When privacy is everything for you, you cannot tolerate anyone peeping into your
 You will get the notification no matter your screen is locked or not. A notification that is “You’re being tracked” along with the Find My Friends icon will appear when someone tries to track you.
 
 ![find tracks using the antitracker](https://images.wondershare.com/drfone/article/2019/09/antitracker-notification.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Guide on How to Use AntiTracker**
 
@@ -191,10 +183,6 @@ When you install it rightly, this is how to do a little twisting to set it up wi
 
 ![fake gps on android](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Wondering the Best Alternative to Hola On Xiaomi 14? Here Is the Answer
 
 Used by 250 million users worldwide, the Hola Fake GPS tool is one of the most popular free location changers. A "community-powered VPN," Hola fake GPS allows one to access websites and online content restricted based on geographical location.
@@ -218,6 +206,10 @@ Here's what you have to know about the Hola Fake GPS tool before choosing to use
 ### 1\. What is Fake GPS location - Hola used for?
 
 **Fake GPS location:** Hola is used to spoof your location and access restricted content. In short, if there is a geo-restricted website that you cannot visit, Hola Fake GPS can help you access it. Plus, you can play location-based games like Pokémon Go to navigate the roads of other corners of the world and catch Pokémon from the comfort of your home.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Key Features of Fake GPS location - Hola
 
@@ -258,6 +250,10 @@ That's how to use the Hola Fake GPS location application on the Android device t
 
 Hola Fake GPS Android app or the Chrome Extension has its own set of benefits and limitations, depending on the context and intended use. Here are some of the pros and cons of using a Hola Fake GPS location changer:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Pros
 
 - **Privacy**: Hola Fake GPS location is usually used to conceal your actual location and protect your privacy on the internet.
@@ -290,6 +286,10 @@ No. There is no grey area here. For years, the Hola Fake GPS Android app has bee
 Moreover, the accessible version of Hola Fake GPS isn't even encrypted, so there is always a chance of a man-in-the-middle attack, and so on.
 
 Not to forget, Hola Fake GPS and its parent app, the HolaVPN, have also been removed from the Chrome Web Store numerous times. Additionally, it has a long history of controversies. So, it is only better to look for alternatives to Hola Fake GPS.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 5. Comparison of Fake GPS location - Hola and Its Competitor Dr.Fone - Virtual Location
 
@@ -336,9 +336,17 @@ One of the best things about [Dr.Fone - Virtual Location](https://tools.techidai
 
 ![select virtual location](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Connect your phone to the computer using its respective cable. Then, click Get Started on your computer and trust the Xiaomi 14 devices on your phone to proceed.
 
 ![click get started](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** On the next screen, you will see the current location of your device. Choose Center On if you cannot see your current location on the map.
 
@@ -363,13 +371,13 @@ That's how to use Dr.Fone - Virtual Location to spoof your location and move to 
 
 Pokémon Go is hugely popular, but some countries block players from accessing certain features or from downloading it at all. A free VPN service, HolaVPN, can be used to change your IP location to unblock Pokémon Go in these areas.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. What is HolaVPN?
 
 HolaVPN is a VPN service that reroutes your internet traffic and hides your IP address. Unlike the Hola Fake GPS, the bandwidth and encryption levels allotted with the HolaVPN service are significant. Plus, it does not alter the location of a chosen application but all the applications on the internet. This means you can play Pokémon from any part of the world, access YouTube from another region, and so on.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Why Use HolaVPN in Pokémon Go?
 
@@ -399,10 +407,6 @@ When you are playing location-based games like Pokemon Go, you might need to sim
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/r2GiOQxwfQc" frameborder="0" allowfullscreen=""></iframe>
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Part 1: Simulate Movement Along a Route (One-Stop Route)
 
 You can set up a one-stop route when **mocking locations fake** with Dr.Fone - Virtual Location. This particular feature helps users to set up looping or round trips within a specific location. To perform the steps for simulating movement, look ahead for a better understanding:
@@ -412,10 +416,6 @@ Step 1Access One-Stop Route Function
 Once you launch Wondershare Dr.Fone - Virtual Location and connect your smartphone successfully, proceed to select the **One-Stop Route** function from the top-right section. The function is represented by the third icon from the left in the section. While you have already teleported to another location or are using your current location, you can tap anywhere on the map to set your destination location.
 
 ![activate one stop route mode](https://images.wondershare.com/drfone/guide/virtual-location-08.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 2Define Simulation Parameters
 
@@ -428,6 +428,10 @@ Step 3Start Simulation Movement
 The respective simulation starts, and you can see your position is moving on the map with the speed you set. If you wish to hold the simulation, click **Pause** or tap **Clear** to revert to your original state.
 
 ![start one stop simulation](https://images.wondershare.com/drfone/guide/virtual-location-10.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Part 2: Simulate Movement Along a Route (Multi-Stop Route)
 
@@ -448,10 +452,6 @@ Step 2View Multi-Stop Route Movement
 As the simulation starts, click **Pause** at any instance where you want to stop the simulation. You can also **Clear** all settings if required.
 
 ![execute multi stop route simulation](https://images.wondershare.com/drfone/guide/virtual-location-12.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Part 3: Use Joystick for More Flexible GPS Control (Joystick Movement)
 
@@ -480,19 +480,16 @@ The joystick, like one-stop route or multi-stop route modes, aims to facilitate 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-christian-hymnal-options-for-ringtone-customization/"><u>[New] In 2024, Christian Hymnal Options for Ringtone Customization</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-maximizing-video-quality-with-zooms-format-tools/"><u>[Updated] 2024 Approved Maximizing Video Quality with Zoom's Format Tools</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/dive-deep-into-creating-lifelike-ios-photos/"><u>Dive Deep Into Creating Lifelike iOS Photos</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-connectivity-problems-with-aoc-displays-under-windows-11-environments/"><u>Fixing Connectivity Problems with AOC Displays Under Windows 11 Environments</u></a></li>
-<li><a href="https://change-location.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Vivo V30 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-samsung-galaxy-s24-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Samsung Galaxy S24 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Xiaomi 13 Ultra | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Vivo Y28 5G | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-subtle-art-of-easing-audio-intensity-garageband/"><u>In 2024, The Subtle Art of Easing Audio Intensity (Garageband)</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Vivo Y100A? | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/instagrams-mirage-identifying-false-friends-at-no-price-for-2024/"><u>Instagram's Mirage Identifying False Friends at No Price for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/premier-tools-for-collaborative-live-video-sessions/"><u>Premier Tools for Collaborative Live Video Sessions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/transforming-spotifys-soundtracks-into-downloadable-text-files/"><u>Transforming Spotify's Soundtracks Into Downloadable Text Files</u></a></li>
-<li><a href="https://change-location.techidaily.com/where-is-the-best-place-to-catch-dratini-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-the-financial-key-to-boosting-your-videos-reach/"><u>[New] 2024 Approved The Financial Key to Boosting Your Video's Reach</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-e-comic-crafting-kit/"><u>[Updated] 2024 Approved E-Comic Crafting Kit</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-latest-samsung-bd-j5900-updated-review-2023/"><u>[Updated] Latest Samsung BD-J5900 Updated Review 2023</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/1-professioneel-videobearbeitingspakket-movavi-kopen-zekerheid-en-efficientie/"><u>1. Professioneel Videobearbeitingspakket Movavi Kopen: Zekerheid en Efficiëntie</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-infinix-hot-40-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Infinix Hot 40? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Motorola Moto G34 5G? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-asus-rog-phone-7-ultimate-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Asus ROG Phone 7 Ultimate is off? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-meizu-21-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Meizu 21 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-the-missing-coprocessor-driver-issue-in-windows-11/"><u>Resolving the 'Missing Coprocessor Driver' Issue in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-non-opening-nuisance-7-steps-to-fix-stubborn-websites-in-win-os/"><u>The Non-Opening Nuisance: 7 Steps to Fix Stubborn Websites in WIN OS</u></a></li>
 </ul></div>
 

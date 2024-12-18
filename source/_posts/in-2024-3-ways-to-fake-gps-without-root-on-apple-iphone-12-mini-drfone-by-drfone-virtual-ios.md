@@ -1,7 +1,7 @@
 ---
 title: In 2024, 3 Ways to Fake GPS Without Root On Apple iPhone 12 mini | Dr.fone
-date: 2024-08-17T07:29:33.694Z
-updated: 2024-08-18T07:29:33.694Z
+date: 2024-12-11T22:41:30.475Z
+updated: 2024-12-17T17:16:03.926Z
 tags: 
   - virtual location chang
   - location changer
@@ -20,13 +20,15 @@ Fake GPS is an Android application for tweaking your GPS settings. It will help 
 
 In other words, it is called GPS spoofing. Some users believe in a misconception that the Apple iPhone 12 mini device will have to be rooted for GPS spoofing. But that’s wrong. It’s possible to alter the location without rooting your phone. If you have no idea how to **fake GPS no root** and want to know more, keep reading this article. We created this guide to curb your worries and help you fix your issue! Let’s begin now!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: The one-stop way to fake GPS on your iOS and Android without root
 
 Have trouble catching Pokemon? Or maybe you're trying to get a date. Whatever your reason, with Dr. Fone's Virtual Location, you can quickly teleport your phone to anywhere in the world with a single click. You can even move along a route that you draw!
 
 Try it with location-based apps like Pokemon Go or Tinder to fake movement and enjoy all the fun on the go. It works perfectly with any application to **fake GPS without root**. The app is compatible with Windows and macOS devices to use any of them for GPS spoofing on your smartphone.
-
-
 
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
@@ -66,17 +68,29 @@ Click the second icon present in the upper right to turn on the “teleport mode
 
 ![choose destination you want](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4: Chance the Location**
 
 Now, you will be able to trick all the location-based apps with your fake location. Click on “Move Here” when the popup box shows.
 
 ![tap on move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Even when you click the “Center On” icon for location yourself, the location will remain fixed to where you have done teleporting.
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/r2GiOQxwfQc" frameborder="0" allowfullscreen=""></iframe>
 
 ## Part 2: Other APPs to fake GPS without jailbreak no root
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fake GPS Location – Hola**
 
@@ -85,8 +99,9 @@ Other than Dr.Fone, you can use its alternative [Hola](https://m.apkpure.com/fak
 ![hola app](https://images.wondershare.com/drfone/article/2022/05/what-is-hola-fake-gps.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Pros**
 
 - Quick to alter the location to wherever you want in the world.
@@ -99,6 +114,10 @@ Other than Dr.Fone, you can use its alternative [Hola](https://m.apkpure.com/fak
 - Many times, the cursor doesn’t work correctly.
 - It can drain your device’s battery, unlike Dr.Fone – Virtual Method.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Fake GPS Go Location Spoofer**
 
 [Fake GPS Go Location Spoofer](https://play.google.com/store/apps/details?id=com.incorporateapps.fakegps.fre&hl=en_IN&gl=US) is a perfect solution for those looking for a reliable GPS spoofer. It is available as an app, eliminating the need to be rooted to use it. Additionally, it’s incredibly simple to use and can fool all Geo-location based applications on your device.
@@ -107,9 +126,6 @@ You'll have fun letting your friends think you're partying like a rock star or r
 
 ![fake gps go](https://images.wondershare.com/drfone/article/2022/05/fake-gps-go-location-spoofer-free.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 **Pros**
 
 - It can be used with a joystick to match the movement on the screen.
@@ -128,6 +144,10 @@ You'll have fun letting your friends think you're partying like a rock star or r
 
 ![gps emulator](https://images.wondershare.com/drfone/article/2022/05/gps-emulator.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Pros**
 
 - Provides access to three map types for allowing you to teleport location conveniently.
@@ -144,6 +164,10 @@ You'll have fun letting your friends think you're partying like a rock star or r
 
 If you plan to root your device to **fake GPS without mock location no root**, drop that idea. You are now aware of some of the best ways to fake GPS without rooting your device. It’s highly recommended to use [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) when you want to do more and change your GPS location.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Stop Life360 from Tracking You On Apple iPhone 12 mini?
 
 This is the era of smartphones, and most of the people in the world own a smartphone. The advancement in technology brings many apps, including child surveillance apps for smartphones. The apps like Life360 helps parents to track their teenagers and children. But, on the other hand, for some teenagers or adults, Life360 invades their privacy, and they are not like 24\*7 tracking by the app.
@@ -152,9 +176,6 @@ This is the era of smartphones, and most of the people in the world own a smartp
 
 This is where spoofing Life360 comes handy. No matter whether you own an iPhone or Android, you can spoof Life360 with the right tricks and tools. In this article, we will discuss the different ways to stop Life360 from tracking you. But, before that, let's take a look at what is Life360.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ### What is Life360?
 
 Life360 is basically a tracking app that you can use to share your location with friends or to track your teenager. Also, with this app, you can also do chit-chatting with your friends and family members via the in-app chat feature.
@@ -167,9 +188,6 @@ But as we said before, it is quite uncomfortable to know that someone is trackin
 
 ![turn off location on life360](https://images.wondershare.com/drfone/virtual-loaction/Stop-Life360-From-Tracking-You-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 You can turn off the location to stop the Life360 tracking feature. But, with this, keep the background app refresh off. Follow the following steps to turn off the location on life360.
 
 - Open the Life360 on your phone and go to 'Settings' in the lower right corner
@@ -179,25 +197,20 @@ You can turn off the location to stop the Life360 tracking feature. But, with th
 
 **Note:** If you ever press the Check In button, it will update your location in Life360 even if it is turned off. Further, if you press the Help Alert button, this will also turn on the location-sharing feature.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: Fake Location Apps to Spoofing Life360
 
 The best way to stop Life360 from tracking you is to use fake GPS apps on Android and iOS. There are many fake location apps that you can install in your device to spoof Life360 without any risk to your device.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2.1 How to spoof life 360 iPhone
 
 To spoof GPS on the iPhone is tricky, and it requires reliable as well as safest tools like [Dr.Fone – Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/).
 
 ![how to spoof life360](https://images.wondershare.com/drfone/virtual-loaction/Stop-Life360-From-Tracking-You-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/FfhgWxnARqo" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 This tool is specially designed for iOS users that help to spoof location without causing any risk to your data. The best thing is that it is very easy to use and easy to install, as well. Also, in Dr.Fone – Virtual Location (iOS), you can teleport anywhere and can customize your speed. With just one click, you are able to spoof Life360 and other location-based apps.
@@ -208,28 +221,21 @@ Here are the few steps that you will need to follow to use Dr.Fone. Take a look!
 
 ![download dr.fone from official site](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 - After this, install it and launch it. Now connect your iOS device to the system with the USB cable and click on the "get started" button.
 
 ![click on get started button](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 - Now you will see a map interface with your current location.
 - On the map, you can select teleport mode from the top right corner and can search for the desired location.
 
 ![select teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 - After a search for the desired location, click on the "move here" button.
 - Finally, you are ready to spoof to any location in Life360.
-
-
 
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
@@ -260,9 +266,6 @@ Now, follow the following steps to install any fake GPS on Android.
 - Under enable developer option go to allow mock location app and select the app you installed from the list
 - Now open the app, and fill your desired location on the map. It is simple to spoof Life360 on Android
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ## Part 3: Use a Burner Phone for Life360 Fake Location
 
 The burner is a phone on which you can install Life360 and can put it in one place while going out with another phone. It is a great trick to stop Life360 from tracking you. The only thing is that you should need to have two phones.
@@ -273,15 +276,31 @@ For the burner, you can use any device with Google play store or App store, and 
 
 Life360 is a very helpful app for parents and friends group, but still, it becomes irritating sometime to know that people are tracking you. Therefore, you can use tricks to hide your current location from Life360. There are many ways that you can apply Life360 fake location, but if you own iPhone, it needs a reliable tool. [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) (iOS) is best to spoof Life360 without putting your device's security at risk. Try it once!
 
-
-
-
-
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-mastering-podcast-seo-skyrocketing-your-popularity/"><u>[New] 2024 Approved Mastering Podcast SEO Skyrocketing Your Popularity</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-uploading-maximum-length-videos-successfully-on-instagram/"><u>[Updated] 2024 Approved Uploading Maximum-Length Videos Successfully on Instagram</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-dslrmirrorless-guide-top-ten-gimbal-choices/"><u>[Updated] DSLR/Mirrorless Guide Top Ten Gimbal Choices</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-streamline-video-saving-from-linkedin-using-this-6-app-compilation/"><u>2024 Approved Streamline Video Saving From LinkedIn Using This 6-App Compilation</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-itel-a60-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/adding-words-to-pictures-easy-photo-text-editing-tips/"><u>Adding Words to Pictures Easy Photo Text Editing Tips</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/bringing-your-outdoor-experiences-home-gopro-livestreams-on-facebookperiscope/"><u>Bringing Your Outdoor Experiences Home GoPro Livestreams on Facebook/Periscope</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/cost-effective-smartphone-comparison-how-motorola-one-matches-up-to-an-iphone/"><u>Cost-Effective Smartphone Comparison: How Motorola One Matches up to an iPhone</u></a></li>
+<li><a href="https://change-location.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-vivo-s18-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-ideal-episodic-unveiling-schedule/"><u>In 2024, Ideal Episodic Unveiling Schedule</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Vivo Y77t? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/list-of-pokemon-go-joysticks-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Vivo S17t | Dr.fone</u></a></li>
+</ul></div>
+

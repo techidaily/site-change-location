@@ -1,7 +1,7 @@
 ---
 title: In 2024, 4 Methods to Turn off Life 360 On Poco C50 without Anyone Knowing | Dr.fone
-date: 2024-11-30T16:25:08.199Z
-updated: 2024-12-05T17:59:44.181Z
+date: 2024-12-16T17:38:39.873Z
+updated: 2024-12-17T16:26:19.785Z
 tags: 
   - virtual location chang
   - location changer
@@ -54,6 +54,10 @@ There is the possibility of limiting the details about your location to others i
 
 ![click on location sharing](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - Now you can recheck the map, and it will show ‘location sharing paused.
 
 ![pause location sharing](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-2.jpg)
@@ -97,10 +101,6 @@ You’re not left out of this option; below are the steps to disable GPS service
 
 ![turn off gps location services on android](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: **Best Ways to Fake Location on Life360 without Anyone Knowing-Virtual location \[iOS/Android Supported\]**
 
 Although Life360 can be helpful in emergencies or security issues, it can also prove quite problematic. If you want some privacy or don’t trust members of your circle, you might want to learn how to turn off Life 360. The problem with turning off the Life360 location is that members of your circle might notice, which would inevitably cause some conflict.
@@ -143,17 +143,9 @@ Below, we’ve broken down the process for you; keep reading to learn how to fak
 
 ![tap on move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Automatically, your location will change to the chosen place on the map and your mobile device.
 
 ![location on your phone](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <iframe width="100%" height="450" type="text/html" src="https://www.youtube.com/embed/xQa-_8RTg5U" frameborder="0"></iframe>
 
@@ -171,6 +163,10 @@ When your phone is off, your GPS location is automatically disabled. Therefore L
 
 Yes, it does. It will send a ‘location sharing paused’ notification to all your group members. Additionally, if you log out from Life360, it will notify your circle immediately.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Life360 is a useful app for professional and personal circles. However, it can be intrusive on our privacy sometimes. Most times, the youths want to learn how to turn off Life360 without their parents knowing on iPhone and Android devices. This article provides you with different methods you can achieve this. If you want to learn how to turn off life 360 without showing up, the best option is to fake your location. We hope the guide above helps you utilize [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) without any issues.
@@ -186,7 +182,11 @@ You can also make use of this app to spoof your location while playing location 
 ![spoof your location ](https://images.wondershare.com/drfone/article/2019/09/fake-gps-go-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: About Fake GPS GO Location Spoofer
@@ -226,10 +226,6 @@ This app is helpful while playing games related to location. You can mock your f
 - Ease Installation and setup process
 - Flexible and customizable
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### The Against Voices on Fake GPS GO Location Spoofer
 
 There exist disappointed users struggling to understand this app. The user’s face issues only if they were not able to follow the instructions promptly provided by the development team of Fake GPS Go Location Spoofer.
@@ -262,13 +258,13 @@ Step 4: Accept the Advertising terms to proceed
 
 ![Advertising terms](https://images.wondershare.com/drfone/article/2019/09/fake-gps-go-7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 5: Next, you have to enable the ‘Mock Location’ option in the ‘Developer Option’ window. To do that you must go to ‘Settings-> Software info -> Built Number’. Tap the ‘Built Number’ few times based on the model of your Poco C50 to unlock into the ‘Developer option’. In the ‘Developer Option’, choose ‘Select mock location app’.
 
 ![enable option](https://images.wondershare.com/drfone/article/2019/09/fake-gps-go-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Select mock location app](https://images.wondershare.com/drfone/article/2019/09/fake-gps-go-9.jpg)
 
@@ -280,11 +276,11 @@ Step 7: Now go to the ‘Fake GPS Go Location’ app and select your favourite s
 
 ![play button](https://images.wondershare.com/drfone/article/2019/09/fake-gps-go-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![select the no-ads option](https://images.wondershare.com/drfone/article/2019/09/fake-gps-go-12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 8: Finally, you have changed the default current location in your device using the Fake GPS Go Location Spoofer app successfully.
 
@@ -307,7 +303,7 @@ Step 2: Open the app after the download process
 ![download the app](https://images.wondershare.com/drfone/article/2019/09/fake-gps-go-16.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 3: Allow the app to access the Poco C50 device location and accept the ‘Cookies’ to work on this platform
@@ -324,13 +320,13 @@ Step 5: To implement the fake location you must select the desired place on the 
 
 ![assign permission](https://images.wondershare.com/drfone/article/2019/09/fake-gps-go-20.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 6: Enable the settings and grant permission to fake the location on your device
 
 ![allow display over apps](https://images.wondershare.com/drfone/article/2019/09/fake-gps-go-21.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 7: At last, the fake location is marked on your device using this app. Your device will show up this new location irrespective of your current place.
 
@@ -364,6 +360,10 @@ Step 3: You will notice your current location on the map. If not, hit the “Cen
 
 ![current location](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 4: Choose the third icon on the upper right part of the screen from the three given icons. This is “teleport mode”. Enter the name of the location where you need to teleport and click “Go”.
 
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
@@ -383,6 +383,10 @@ Step 1: Launch the tool and look for the first icon at the upper right screen wh
 Step 2: The slider located below the screen needs to be dragged to set the speed of travelling. You can choose cycling speed or the speed you want. Hit on “Move Here” afterwards.
 
 ![choose cycling speed or the speed you want](https://images.wondershare.com/drfone/guide/virtual-location-08.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3: Next, key in a number that will define the number of times you want to travel the route back and forth. Hit “March” option.
 
@@ -431,10 +435,6 @@ Step 1Access One-Stop Route Function
 Once you launch Wondershare Dr.Fone - Virtual Location and connect your smartphone successfully, proceed to select the **One-Stop Route** function from the top-right section. The function is represented by the third icon from the left in the section. While you have already teleported to another location or are using your current location, you can tap anywhere on the map to set your destination location.
 
 ![activate one stop route mode](https://images.wondershare.com/drfone/guide/virtual-location-08.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 2Define Simulation Parameters
 
@@ -495,17 +495,18 @@ The joystick, like one-stop route or multi-stop route modes, aims to facilitate 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-unveiling-the-secrets-of-video-filter-application-techniques/"><u>[New] Unveiling the Secrets of Video Filter Application Techniques</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-ideal-backgrounds-for-virtual-presence/"><u>[Updated] 2024 Approved Ideal Backgrounds for Virtual Presence</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-the-complete-users-manual-to-zoom-meeting-recordings/"><u>[Updated] In 2024, The Complete User's Manual to Zoom Meeting Recordings</u></a></li>
-<li><a href="https://change-location.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-about-vivo-v29-frp-bypass-by-drfone-android/"><u>In 2024, About Vivo V29 FRP Bypass</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-ace-tiktok-live-leveraging-zoom-capabilities/"><u>In 2024, Ace TikTok Live Leveraging Zoom Capabilities</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-best-practices-in-upgrading-to-a-high-end-4k-camera-lens/"><u>In 2024, Best Practices in Upgrading to a High-End 4K Camera Lens</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Samsung Galaxy A25 5G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Samsung Galaxy S23+? | Dr.fone</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/paso-a-paso-como-hacer-una-respaldo-reliable-de-windows-mediante-la-facil-utilizacion-de-aomei-backupper/"><u>Paso a Paso: Cómo Hacer Una Respaldo Reliable De Windows Mediante La Fácil Utilización De AOMEI Backupper</u></a></li>
-<li><a href="https://win-great.techidaily.com/solve-the-dilemma-of-windows-update-issue-80080005/"><u>Solve the Dilemma of Windows Update Issue 80080005</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-personal-growth-chronicles-for-youtube-audience/"><u>[New] In 2024, Personal Growth Chronicles for YouTube Audience</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-audiovisual-experts-choices-the-ultimate-video-editing-gear/"><u>[Updated] 2024 Approved Audiovisual Experts' Choices The Ultimate Video Editing Gear</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-how-to-burn-video-to-dvd-on-mac/"><u>[Updated] How to Burn Video to DVD on Mac</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/android-mastery-for-virtual-reality-and-panoramic-videos/"><u>Android Mastery for Virtual Reality & Panoramic Videos</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-asus-drivers-and-tools-latest-graphics-software-for-windows-pcs/"><u>Download ASUS Drivers & Tools: Latest Graphics Software for Windows PCs</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/increase-your-fps-on-fallout-76-a-comprehensive-guide-players/"><u>Increase Your FPS on Fallout 76: A Comprehensive Guide Players</u></a></li>
+<li><a href="https://driver-install.techidaily.com/new-easier-driver-rollouts-gtx-760/"><u>New Easier Driver Rollouts, GTX 760</u></a></li>
 </ul></div>
 

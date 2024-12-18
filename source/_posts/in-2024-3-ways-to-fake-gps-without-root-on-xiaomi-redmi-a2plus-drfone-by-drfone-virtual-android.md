@@ -1,7 +1,7 @@
 ---
 title: In 2024, 3 Ways to Fake GPS Without Root On Xiaomi Redmi A2+ | Dr.fone
-date: 2024-08-24T05:04:30.096Z
-updated: 2024-08-25T05:04:30.096Z
+date: 2024-12-12T22:03:33.993Z
+updated: 2024-12-17T22:04:01.061Z
 tags: 
   - virtual location chang
   - location changer
@@ -26,7 +26,9 @@ Have trouble catching Pokemon? Or maybe you're trying to get a date. Whatever yo
 
 Try it with location-based apps like Pokemon Go or Tinder to fake movement and enjoy all the fun on the go. It works perfectly with any application to **fake GPS without root**. The app is compatible with Windows and macOS devices to use any of them for GPS spoofing on your smartphone.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
@@ -76,6 +78,10 @@ Even when you click the “Center On” icon for location yourself, the location
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/r2GiOQxwfQc" frameborder="0" allowfullscreen=""></iframe>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Other APPs to fake GPS without jailbreak no root
 
 ### **Fake GPS Location – Hola**
@@ -85,8 +91,9 @@ Other than Dr.Fone, you can use its alternative [Hola](https://m.apkpure.com/fak
 ![hola app](https://images.wondershare.com/drfone/article/2022/05/what-is-hola-fake-gps.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Pros**
 
 - Quick to alter the location to wherever you want in the world.
@@ -108,8 +115,9 @@ You'll have fun letting your friends think you're partying like a rock star or r
 ![fake gps go](https://images.wondershare.com/drfone/article/2022/05/fake-gps-go-location-spoofer-free.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Pros**
 
 - It can be used with a joystick to match the movement on the screen.
@@ -123,17 +131,15 @@ You'll have fun letting your friends think you're partying like a rock star or r
 - It doesn’t work on all GPS-related apps.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **GPS Emulator**
 
 [GPS emulator](https://play.google.com/store/apps/details?id=com.rosteam.gpsemulator&hl=en_IN&gl=US) is another such application that helps you in **fake GPS no root.** If you're looking to fake your location without too many advanced features, this might be for you. It's straightforward, and it gets the job done quickly. It demands modification in your Xiaomi Redmi A2+ setting like turning on the developer mode, deactivating mock location, etc.
 
 ![gps emulator](https://images.wondershare.com/drfone/article/2022/05/gps-emulator.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Pros**
 
 - Provides access to three map types for allowing you to teleport location conveniently.
@@ -146,9 +152,6 @@ You'll have fun letting your friends think you're partying like a rock star or r
 - No updates for so long.
 - May heat up the phone if used for long.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Conclusion
 
 If you plan to root your device to **fake GPS without mock location no root**, drop that idea. You are now aware of some of the best ways to fake GPS without rooting your device. It’s highly recommended to use [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) when you want to do more and change your GPS location.
@@ -164,6 +167,10 @@ Are you wondering about how spoofing is possible on Android and iOS 14?
 If yes, then we have safe and reliable tricks that will help you to fake GPS on Android without allowing mock location apk.
 
 In this article, we are going to discuss some useful tricks to fake GPS without a mock location that will protect your privacy. Take a look!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: What Is Mock Location?
 
@@ -191,23 +198,14 @@ However, with allowing mock location feature, you can download fake location app
 
 Also, there are many other AR games, including Ingress Prime, Harry Potter: Wizards Unite, Kings of Pool, Pokémon Go, and Knightfall AR. You can spoof all on Android with the help of allowing mock location apk.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2.2 For Dating Apps
 
 ![mock location for dating apps](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 In addition to AR-based games, you can also spoof dating apps like Tinder and Grindr Xtra. It is because using the fake location for dating apps will allow you to see profiles of people from outside your city or country. This is how you can have more options to search for your partner online.
 
 Again to spoof dating apps, you will need to enable allow mock location apk feature on android devices.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 3: How Mock Locations Change Your Mobile Location?
 
 Now, let’s check out how you can mock locations on Your Xiaomi Redmi A2+s. Ideally, you will need to enable allow mock location to select a fake location spoofer app under it. With fake GPS spoofer, you can fake your android location.
@@ -224,37 +222,20 @@ Most of the latest android phones come with the inbuilt mock location feature. T
 
 ![tap on build number seven times](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 3:** After this, go back to Settings, and there you will newly added Developer Options.
 
 ![newly added developer options](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 **Step 4:** Tap on the newly added developer option and toggle on its field.
 
 ![add developer option and toggle](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-6.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Step 5:** In the list of developer options, locate the “Allow Mock Locations” feature, and enable it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ### 3.2 How To Change Your Mobile Location By Working With A Spoofer App?
 
 After enable “allow mock location” on an android mobile phone, you will need to install a location spoofing app like Fake GPS. Also, there are many other free fake GPS apps that you can download from Google Play Store in your Phone.
@@ -275,9 +256,6 @@ After enable “allow mock location” on an android mobile phone, you will need
 
 Now you are able to spoof dating apps or gaming apps.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3.3 How to change your iPhone location?
 
 To fake GPS on iPhone, you will need a safe and secure app like [Dr. Fone virtual location iOS](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). If you own iPhone, you can easily spoof location with the help of this easy to install the app.
@@ -290,9 +268,6 @@ Here are the steps that you will need to follow to install Dr. Fone in your devi
 
 ![go to dr.fone official site](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 **Step 2:** Now, connect your iPhone with system and click on “get started.”
 
 ![connect your iphone](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
@@ -307,12 +282,7 @@ Here are the steps that you will need to follow to install Dr. Fone in your devi
 
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Now you are ready to spoof iPhone without compromising the privacy of the Phone.
-
-
 
 ## Part 4: Mock Location Feature On Different Android Models
 
@@ -323,8 +293,9 @@ In Samsung and Motto device, the mock location feature is available under the �
 ![mock location on Samsung and motto](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-13.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Allow mock location on LG
 
 Smartphones from LG have a dedicated “Allow Mock Locations” feature that you can easily access by enabling Developer Options.
@@ -343,11 +314,6 @@ In Huawei devices, there is the EMUI, for this, go to Settings > Software Inform
 
 We hope that after reading the above article, you would be able to allow mock locations apk on different android devices. Also, you can fake GPS on iOS with the help of [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) app. This will help you spoof many dating apps and gaming apps.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ## How to Share Location in Messenger On Xiaomi Redmi A2+?
 
 We usually host a gathering once in a while and invite our friends to come over. Most of us are already used to organizing such activities because we’ve been doing that for a long time now. However, we cannot deny that it’s much easier nowadays than years ago. Why so? Simply because the communication channels available today at our disposal are more digital and more capable. For instance, Facebook Messenger now allows users to share their whereabouts in a snap of a finger. Yes. That feature is called Live Location.
@@ -356,17 +322,12 @@ The Live Location feature on Messenger works beyond sending the address or coord
 
 In this article, we will delve into the highlights and benefits of Facebook Messenger’s location-sharing features. We will also provide some tutorials on **how to share Live Location** on Messenger. Continue reading below to learn more.
 
-
-
 ## Part 1. Everything You Should Know About Messenger’s Live Location
 
 Facebook is well aware that sharing location details is essential to its users. That’s why developers have come up with a brilliant idea and rolled out Live Location on Messenger. It basically works like other location-sharing features. However, Live Location provides more precise and thorough location information. It’s in map form, where you can view the exact location and track the movements of the sender. You’ll continue to see updates for as long as the sharing is not halted on the other end. To navigate it properly, try to read tutorials on how to share Live Location on Messenger.
 
 ![facebook messenger live location](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 What if you wish to send a particular address from another location? There is no problem with that. Messenger allows users to search for a specific place, trace it on the map, and share the details. The receiver can view it in map form and get directions if necessary. See? It’s very easy and convenient. No need to type in long addresses just to share a particular location with your friend. You just have to find it precisely on the map and send the information afterward.
 
 Convenience is just one thing. Messenger’s location-sharing feature has a lot more to offer to users. One of which is the accuracy of the shared location information. Since the details are automatically generated through GPS, you can be sure that it is correct and definite. If you go out and track it down the neighborhood, you can certainly find the location in no time. Just make sure that the location services on your smartphone are activated so you can view your progress in real time. Also, stay vigilant while you’re out and keep yourself safe from any harm. Remember that safety remains a priority and comes above convenience.
@@ -380,16 +341,10 @@ Facebook Messenger’s location-sharing feature will not work without the necess
 
 ![apps settings](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 - **Step 3:** Find and click **Messenger.**
 
 ![messenger settings](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - **Step 4:** Click **Permissions.**
 
 ![messenger permission settings](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-4.jpg)
@@ -398,17 +353,10 @@ Facebook Messenger’s location-sharing feature will not work without the necess
 
 ![location permission on messenger](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - **Step 6:** Select **Allow Only While Using the App.** If you’re quite conservative regarding this matter, click **Ask Every Time** instead. After that, Facebook Messenger will have access to your location information.
 
 ![allow messenger access](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ## Part 2. How to Share My Location on Messenger?
 
 How do I share my location on Messenger? As mentioned earlier, it’s very easy to use Facebook Messenger for location sharing. All it takes is just a few clicks on the platform. No need to manually type in the address or sketch the landmarks. Messenger does the rest of the work for you. In actuality, there are three ways to share your location on Messenger. Any of them can be of great help to you, depending on your current situation. Do you want to try them now? Check out the tutorials below.
@@ -423,9 +371,6 @@ How to share my location on Messenger? Well, the first option you can try is thr
 
 ![more button messenger](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - **Step 4:** Right after, click **Location.**
 
 ![location option on messenger](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-8.jpg)
@@ -435,11 +380,9 @@ How to share my location on Messenger? Well, the first option you can try is thr
 ![share live location on messenger](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
+
 ### Method 2: Share location on Facebook Messenger via Pinned Location
 
 Let’s say there is a specific place you want to visit with your friend. Is there a way to share the address of the venue without you being there at the moment? Fortunately, it is possible. Apart from sharing your current location in real-time via Live Location, you can also send pinned locations on Messenger. You just need to search for it and then redirect the details to your friend. Yes. It’s just as simple as that. Do you want to try it on your smartphone? If so, follow the guide below.
@@ -454,9 +397,6 @@ Let’s say there is a specific place you want to visit with your friend. Is the
 
 - **Step 6:** Choose one from the suggested results and then click on it. The details will then be forwarded immediately to the intended receiver.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 3: Share location on Facebook Messenger via Google Maps location
 
 How do I share my location in Messenger if I cannot find it on the map provided? Yes. That happens sometimes. There are certain places that are untraceable on the messaging platform. As a result, it doesn’t appear on the map when you try to search for it. But don’t sweat it. If you experience the same issue, you can instead use Google Maps to share location details. How to do it? Check out the tutorial provided below.
@@ -470,12 +410,13 @@ How do I share my location in Messenger if I cannot find it on the map provided?
 
 ![location choices](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 - **Step 4:** Access the menu bar below the map and then click **Share.**
 
 ![share google maps location](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-13.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 5:** From there, click **Chats** or the **Facebook Messenger** logo.
 - **Step 6:** Find the receiver from the provided list and then click the **Send** button next to its name.
@@ -484,14 +425,9 @@ How do I share my location in Messenger if I cannot find it on the map provided?
 
 **NOTE:** Of course, you can only send pinned locations via Google Maps. The Facebook Messenger’s Live Location is available within the platform only.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## BONUS TIP: Protect Your Privacy With [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 There’s no denying that the location-sharing feature of Facebook Messenger is useful to many of us. It always comes in very handy whenever we need to meet people somewhere or invite them to our places. However, we should not become too complacent and let our guard down. Sharing sensitive information like whereabouts always comes with risk, regardless of the platform and the intention. Therefore, make it a habit to protect your privacy at all costs. In this regard, Wondershare Dr.Fone has something special to offer. Its Virtual Location feature, capable of modifying and simulating your location records, can be of great help for you. Don’t worry. It’s very easy to use. Here’s a short guide for you.
-
-
 
 - **Step 1:** Download Wondershare Dr.Fone from its [<u>official website.</u>](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) Right after, install it on your computer.
 - **Step 2:** Launch the newly installed software on your desktop. Once it fully loads up, connect your smartphone using a data cable. Follow the on-screen instructions and perform the steps accordingly to ensure the connection between the two devices is stable enough to handle the succeeding operations.
@@ -500,9 +436,6 @@ There’s no denying that the location-sharing feature of Facebook Messenger is 
 
 ![wondershare drfone teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 - **Step 5:** Head over to the top-left corner and enter your desired location into the search bar. Choose one from the suggested results. After that, click the **Enter** icon.
 
 ![search preferred location](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
@@ -521,11 +454,6 @@ There’s no denying that the location-sharing feature of Facebook Messenger is 
 
 Gone are the days when you had to write invitation cards manually and deliver them one by one. Nowadays, all you need to do is go online and use Messenger’s location-sharing feature. Have you already tried it? If not, you should take it into consideration and use it on your next agenda. Refer to the tutorial above on how to share Live Location on Messenger. It can certainly help you get started. How do I share my location on Messenger without physically being there? That’s simple. Use Messenger or Google Maps’s pinned location. Furthermore, download [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) on your computer. Its Virtual Location feature, capable of modifying your location settings, can provide protection for your privacy. Just connect your Xiaomi Redmi A2+ to the computer and set it up from there.
 
-
-
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -538,5 +466,16 @@ Gone are the days when you had to write invitation cards manually and deliver th
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-the-experts-playbook-for-transforming-srt-into-diverse-formats/"><u>[New] The Expert's Playbook for Transforming SRT Into Diverse Formats</u></a></li>
+<li><a href="https://change-location.techidaily.com/honor-play-40c-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor Play 40C Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Xiaomi Redmi Note 12 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>How to Stop Life360 from Tracking You On Apple iPhone XS Max? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/integrate-new-m2-storage-with-windows/"><u>Integrate New M.2 Storage with Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-compatible-gpu-drivers-download-for-nvidia-quadro-rtx-8000-on-win7win8win10/"><u>Latest Compatible GPU Drivers: Download for NVIDIA Quadro RTX 8000 on Win7/Win8/Win10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-youtube-issues-chrome-and-firefox-audience-still-hears-sound-while-videos-stutter/"><u>Resolving YouTube Issues: Chrome and Firefox - Audience Still Hears Sound While Videos Stutter</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-power-of-the-garmin-venu-your-constant-partner-in-personal-well-being-and-activity-management/"><u>Unveiling the Power of the Garmin Venu: Your Constant Partner in Personal Well-Being & Activity Management</u></a></li>
+</ul></div>
 

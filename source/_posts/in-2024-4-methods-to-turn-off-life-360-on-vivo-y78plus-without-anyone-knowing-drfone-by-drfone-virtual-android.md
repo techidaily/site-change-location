@@ -1,7 +1,7 @@
 ---
 title: In 2024, 4 Methods to Turn off Life 360 On Vivo Y78+ without Anyone Knowing | Dr.fone
-date: 2024-12-07T17:24:26.920Z
-updated: 2024-12-11T17:07:03.293Z
+date: 2024-12-14T22:11:01.280Z
+updated: 2024-12-17T16:08:18.793Z
 tags: 
   - virtual location chang
   - location changer
@@ -29,17 +29,9 @@ Many applications are available today to help family and friends track each othe
 
 ![life360 for location sharing](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Life360 works by sharing your GPS location on the map, allowing the members of your circle to view it. As long as your GPS location is turned on, those in your circle will always have access to your exact location. Life360 developers are continually releasing new features to improve their tracking function.
 
 ![life360 map showing circles](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Some of the available Life360 features include notifying you when a member of your circle moves to a new point and it will send a help alert when there’s an emergency. In addition, the app automatically contacts the emergency contacts you added when you do this. However, this doesn’t change that it can get intrusive when you need some privacy. That’s why the next section covers how to turn Life360 off.
 
@@ -62,17 +54,13 @@ There is the possibility of limiting the details about your location to others i
 
 ![click on location sharing](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - Now you can recheck the map, and it will show ‘location sharing paused.
 
 ![pause location sharing](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. **Turn off Your Vivo Y78+’s Airplane Mode**
 
@@ -155,21 +143,17 @@ Below, we’ve broken down the process for you; keep reading to learn how to fak
 
 ![tap on move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Automatically, your location will change to the chosen place on the map and your mobile device.
 
 ![location on your phone](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
 
 <iframe width="100%" height="450" type="text/html" src="https://www.youtube.com/embed/xQa-_8RTg5U" frameborder="0"></iframe>
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 4: FAQ About Turn off Location on Life360
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. **Are there any risks to turning off GPS location?**
 
@@ -184,7 +168,7 @@ When your phone is off, your GPS location is automatically disabled. Therefore L
 Yes, it does. It will send a ‘location sharing paused’ notification to all your group members. Additionally, if you log out from Life360, it will notify your circle immediately.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -197,11 +181,19 @@ Find My Friends is an app developed for Android and iOS devices. You can say it 
 
 It is helpful if you are having a hang out plan with your friends. And if you friend is on the way, he or she can share their location. Or it is a great way to catch if someone is lying about their location.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: About Find My Friends app
 
 When location sharing is enabled in the Vivo Y78+ device, the map will show the current locations. The [Find My Friends app](https://www.virtuallocation.com/find-my-friends/) also has an inbuilt chat option where you can contact your friend and interact about with them. It also automatically informs you when your friend reaches at the target location, leave a location etc. You can customize and configure the alerts as per your choice.
 
 ![Find My Friends app](https://images.wondershare.com/drfone/article/2019/09/find-my-friends-intro.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How it is different in iOS 13
 
@@ -242,10 +234,6 @@ From the main page of dr.fone – Virtual Location (iOS), download it. After thi
 Now, take your iPhone and keep it connected with the system. After this is done, click on the “Get Started” button to move ahead.
 
 ![connect iphone to pc](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3: Look for Location**
 
@@ -322,7 +310,7 @@ You will get the notification no matter your screen is locked or not. A notifica
 ![antitracker settings](https://images.wondershare.com/drfone/article/2019/09/antitracker-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4: How to Fake Find My Friends location on Android
@@ -425,6 +413,10 @@ Setting a virtual location is one of the prime role Dr.Fone plays.
 
 **3981454** people have downloaded it
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Steps To Fake Your Location with Dr.Fone Virtual Location
 
 Downloading Dr.Fone - Virtual Location (for iOS or Android) is the first thing that has to be taken. After that, run the executable file to begin using the application.
@@ -447,6 +439,10 @@ For iPhone users, after the program has been linked via a USB cord, it is possib
 
 ![choose destination you want](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4:** It's clear to the system that Rome is your destination. To relocate, choose "Move Here" from the menu that appears.
 
 ![choose destination you want](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
@@ -456,7 +452,7 @@ For iPhone users, after the program has been linked via a USB cord, it is possib
 ![tap on move here button](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 6: FAQs
@@ -483,6 +479,10 @@ In brief, it is because walking is less likely to be used for commuting than dri
 
 It means that the Vivo Y78+ device you're using is not connected to the internet. In this case, you should check if your internet connection is working properly. If you're sure your internet connection is working fine, try restarting your device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Does Life360 work when your phone is off?
 
 In the event that you switch off your phone, the GPS feature will also be disabled. As a result, it will not be able to determine your position when your phone is turned off.
@@ -507,24 +507,18 @@ Life360 is a useful application that helps you keep tabs on your loved ones. You
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-streaming-smarts-engaging-viewers-on-multiple-networks/"><u>[New] 2024 Approved Streaming Smarts Engaging Viewers on Multiple Networks</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-vcr-video-vault-extensive-reviews-and-summary/"><u>[Updated] 2024 Approved VCR Video Vault Extensive Reviews & Summary</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-reaching-more-posting-tiktok-videos-on-twitter-for-2024/"><u>[Updated] Reaching More Posting TikTok Videos on Twitter for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-step-by-step-to-adobe-cloud-success-and-non-adobe-options/"><u>[Updated] Step-by-Step to Adobe Cloud Success & Non-Adobe Options</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-elevate-your-content-with-top-ranked-youtube-channels/"><u>2024 Approved Elevate Your Content with Top-Ranked YouTube Channels</u></a></li>
-<li><a href="https://change-location.techidaily.com/additional-tips-about-sinnoh-stone-for-vivo-v29e-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Vivo V29e | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/all-you-need-to-know-about-mega-greninja-for-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/fall-update-exciting-new-capabilities-announced-for-select-apple-airpod-models-detailed-review-by-techradar/"><u>Fall Update: Exciting New Capabilities Announced for Select Apple AirPod Models - Detailed Review by TechRadar</u></a></li>
-<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-samsung-galaxy-f15-5g-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Samsung Galaxy F15 5G Phone | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/home-button-not-working-on-infinix-zero-30-5g-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Infinix Zero 30 5G? Here Are Real Fixes | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-samsung-galaxy-z-flip-5-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Samsung Galaxy Z Flip 5 Location by Number | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-meizu-21-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Meizu 21 to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Vivo Y27s | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Samsung Galaxy A15 5G | Dr.fone</u></a></li>
-<li><a href="https://win-web3.techidaily.com/multifile-deletion-made-easy-a-step-by-step-guide-for-windows-users-by-yl-computing-experts/"><u>Multifile Deletion Made Easy: A Step-by-Step Guide for Windows Users by YL Computing Experts</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-2024-range-extenders-leading-brands-reviewed/"><u>Top 2024 Range Extenders: Leading Brands Reviewed</u></a></li>
-<li><a href="https://change-location.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Samsung Galaxy M54 5G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-innovate-iconoclastic-images-using-giphy/"><u>[New] In 2024, Innovate Iconoclastic Images Using Giphy</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-stand-out-on-social-media-discover-a-hundredplus-creative-frameworks-for-your-snap-stories/"><u>[Updated] Stand Out on Social Media Discover a Hundred+ Creative Frameworks for Your Snap Stories</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-crafting-podcast-episodes-essential-writing-techniques-and-examples/"><u>2024 Approved Crafting Podcast Episodes Essential Writing Techniques & Examples</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-unboxing-freex-streamer-pro-for-webcams/"><u>2024 Approved Unboxing FreeX Streamer Pro for Webcams</u></a></li>
+<li><a href="https://win-web.techidaily.com/erfolgreiches-verschieben-von-daten-auf-samsung-geraten-problem-der-unerkannten-speichermedien/"><u>Erfolgreiches Verschieben Von Daten Auf Samsung Geräten - Problem Der Unerkannten Speichermedien</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, 11 Best Location Changers for Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Samsung Galaxy M34 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/no-cost-screen-record-the-ultimate-win11-tools-1-5-listing/"><u>No-Cost Screen Record The Ultimate Win11 Tools #1-5 Listing</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-tech-guide-inside-knowledge-from-toms-hardware/"><u>The Ultimate Tech Guide: Inside Knowledge From Tom's Hardware</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-and-repair-non-receiving-calls-on-iphones-using-our-top-11-methods/"><u>Troubleshoot and Repair Non-Receiving Calls on iPhones Using Our Top 11 Methods</u></a></li>
 </ul></div>
 

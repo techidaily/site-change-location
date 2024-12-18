@@ -1,7 +1,7 @@
 ---
 title: In 2024, 4 Methods to Turn off Life 360 On Apple iPhone 12 Pro without Anyone Knowing | Dr.fone
-date: 2024-11-12T03:13:41.141Z
-updated: 2024-11-16T07:07:51.760Z
+date: 2024-12-10T19:27:04.487Z
+updated: 2024-12-17T21:00:28.966Z
 tags: 
   - virtual location chang
   - location changer
@@ -37,16 +37,13 @@ Some of the available Life360 features include notifying you when a member of yo
 
 ![sending help alert on life360](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to Turn off Life360 without Knowing
 
 There are times when you want to turn Life360 off without it showing so that people don’t know your present location. But, if you have no idea how to go about it, you’re in luck. This section covers the best methods to stop sharing your location with friends and family on Life360.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. **Turn Off Your Circle’s Location on Life360**
 
@@ -61,15 +58,16 @@ There is the possibility of limiting the details about your location to others i
 
 ![click on location sharing](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - Now you can recheck the map, and it will show ‘location sharing paused.
 
 ![pause location sharing](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. **Turn off Your Apple iPhone 12 Pro’s Airplane Mode**
@@ -85,13 +83,6 @@ Another option you have to stop sharing location on Life360 is by switching on A
 ![turn on airplane mode on android](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-7.png)
 
 These steps will help you turn off location sharing on Life360. However, the downside of using Airplane mode is that it prevents you from accessing the internet. In addition, with the Airplane mode turned on, you can’t make or receive phone calls, either. Therefore, we don’t recommend this as your top choice when learning to turn off Life 360.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. **Disable GPS Service on Your Device**
 
@@ -118,18 +109,15 @@ You’re not left out of this option; below are the steps to disable GPS service
 
 ![turn off gps location services on android](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: **Best Ways to Fake Location on Life360 without Anyone Knowing-Virtual location \[iOS/Android Supported\]**
 
 Although Life360 can be helpful in emergencies or security issues, it can also prove quite problematic. If you want some privacy or don’t trust members of your circle, you might want to learn how to turn off Life 360. The problem with turning off the Life360 location is that members of your circle might notice, which would inevitably cause some conflict.
 
 Fortunately, you have another effective option, and that is by faking your GPS location using a location spoofer. You can display the location you want while keeping your true location safe on Life360. Dr. Fone –Virtual location is an excellent tool for faking your location.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
@@ -161,13 +149,6 @@ Below, we’ve broken down the process for you; keep reading to learn how to fak
 
 ![enable teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5\. Now, enter the location you want to teleport to on the upper left side of the screen and then click the ‘go’ icon.
 
 6\. Click ‘move here’ in the popup box to change your location to this new place.
@@ -194,16 +175,13 @@ When your phone is off, your GPS location is automatically disabled. Therefore L
 
 Yes, it does. It will send a ‘location sharing paused’ notification to all your group members. Additionally, if you log out from Life360, it will notify your circle immediately.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Life360 is a useful app for professional and personal circles. However, it can be intrusive on our privacy sometimes. Most times, the youths want to learn how to turn off Life360 without their parents knowing on iPhone and Android devices. This article provides you with different methods you can achieve this. If you want to learn how to turn off life 360 without showing up, the best option is to fake your location. We hope the guide above helps you utilize [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) without any issues.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Apple iPhone 12 Pro?
 
@@ -271,15 +249,20 @@ And click on "Get Started" to open the maps.
 
 ![tap on get started button](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Click on the "Teleport Mode" search for your fake location or use the joystick stimulator to move to the exact coordinates. Finally, click on the "Move Here" button to change your device's location.
 
 ![choose destination](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 6: FAQs about Life360
@@ -360,18 +343,15 @@ Once it is done, go to its Settings > Developer Options and turn on the option t
 
 ![set a mock location](https://www.virtuallocation.com/images/vpna/vpna-fake-gps-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Step 2: Make VPNa Fake GPS as the default mock location app**
 
 Now, you can just go to the Play Store and download the VPNa Fake GPS Location app on your device. After the app is installed, you can just go to its Developer Options again and set it as a default mock location app.
 
 ![defaut mock location app](https://www.virtuallocation.com/images/vpna/vpna-fake-gps-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Step 3: Spoof your Android's location**
 
@@ -394,6 +374,10 @@ While Android users can take the assistance of VPNa Fake GPS, iOS users often fi
 At first, you can just connect your Apple iPhone 12 Pro to your computer and launch the Dr.Fone toolkit. Select the "Virtual Location" feature from its home and click on the "Get Started" button.
 
 ![vpna dr.fone-virtual location](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 2: Look for a location to spoof
 
@@ -423,16 +407,20 @@ This brings us to the end of this detailed VPNa Fake GPS Location Free review. T
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harmonize-body-and-mind-through-these-top-10-yogis-videos/"><u>[Updated] 2024 Approved Harmonize Body and Mind Through These Top 10 Yogis' Videos</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-earning-strategies-with-youtubes-adsense-payout-per-k-viewers/"><u>[Updated] In 2024, Earning Strategies with Youtube's AdSense Payout per K Viewers</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-unblock-your-youtube-experience-easy-solutions-for-chromefirefox/"><u>[Updated] Unblock Your YouTube Experience Easy Solutions for Chrome/Firefox</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/discover-the-tricks-to-recording-and-screencasting-your-youtube-views-without-cash/"><u>Discover The Tricks to Recording & Screencasting Your YouTube Views without Cash</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Oppo Find X7 Ultra | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-samsung-galaxy-a14-4g-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Samsung Galaxy A14 4G? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-nokia-c32-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Nokia C32 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Vivo S18 Pro | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722895217092-revamp-your-file-organizers-appearance-changing-folder-colors-on-a-mac/"><u>Revamp Your File Organizer's Appearance - Changing Folder Colors on a Mac</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/snappyscreen-recording-suite/"><u>SnappyScreen Recording Suite</u></a></li>
-<li><a href="https://win-blog.techidaily.com/trasformare-i-file-ogv-in-formato-avi-on-line-e-gratuitamente-con-movavi/"><u>Trasformare I File OGV in Formato AVI On-Line E Gratuitamente Con Movavi</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-supercharge-your-content-editing-and-enhancing-youtube-tags-for-2024/"><u>[Updated] Supercharge Your Content Editing and Enhancing YouTube Tags for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-elevating-profits-via-celebrity-skincare-channels/"><u>2024 Approved Elevating Profits via Celebrity Skincare Channels</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/dell-inkjet-aio-updater-for-win7/"><u>Dell Inkjet AIO Updater for Win7</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-realme-11x-5g-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Realme 11X 5G? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-samsung-galaxy-f15-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Samsung Galaxy F15 5G without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Google Pixel Fold | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-samsung-galaxy-f34-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Samsung Galaxy F34 5G to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/rating-royalty-free-songs-into-video-projects/"><u>Integrating Royalty-Free Songs Into Video Projects</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/quickplay-quotient-top-10-lightning-gaming-apps-for-2024/"><u>Quickplay Quotient Top 10 Lightning Gaming Apps for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/relaxation-reigns-top-pc-titles/"><u>Relaxation Reigns Top PC Titles</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-and-implementing-file-permissions-with-linux-acls/"><u>Understanding and Implementing File Permissions with Linux ACLs</u></a></li>
 </ul></div>
 
