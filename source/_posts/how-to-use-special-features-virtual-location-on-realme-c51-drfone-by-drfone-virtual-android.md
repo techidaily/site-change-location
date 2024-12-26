@@ -1,7 +1,7 @@
 ---
 title: How To Use Special Features - Virtual Location On Realme C51? | Dr.fone
-date: 2024-08-17T07:27:02.809Z
-updated: 2024-08-18T07:27:02.809Z
+date: 2024-12-20T16:00:56.763Z
+updated: 2024-12-26T16:00:58.655Z
 tags: 
   - virtual location chang
   - location changer
@@ -24,9 +24,6 @@ Wondershare [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershar
 
 The circle route feature is under the multi-stop route mode. When your starting point is close to the ending point, a pop-up asks if you want to set up a circle route. Click **Yes** to create a circular path on the map.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![try setting a circle route](https://images.wondershare.com/drfone/guide/circle-route.png)
 
 ### Part 2: Realistic Mode (For One-Stop Route and Multi-Stop Route)
@@ -36,18 +33,19 @@ This particular feature makes the simulation look realistic with the ability to 
 ![use realistic mode for accuracy](https://images.wondershare.com/drfone/guide/realistic-mode.png)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Part 3: Fluctuation Mode (For Teleport Mode)
 
 Whenever you are teleporting your smartphone device to another location, you can try using the fluctuation mode feature offered against it. As you activate **Teleport Mode** from the top-right section and search for a location, you will discover the **Fluctuation Mode** toggle in the confirmation tab. Turn on the toggle to slightly switch the location from the selected point to show realistic motion.
 
 ![apply fluctuation mode](https://images.wondershare.com/drfone/guide/fluctuation-mode.png)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Part 4: Cooldown Timer (For Teleport Mode and Jump Teleport Mode)
 
 While teleporting the location of your smartphone to different places for playing games like Pokemon Go, you are bound to activate a cooldown timer within your location-changing app to show realistic movement. By locating the **Cooldown Timer** on the right pane of icons, activate it, and this feature will automatically calculate the cooling time by measuring the distance between your destination and the starting point.
@@ -58,9 +56,6 @@ It is recommended not to start the movement until the cooldown time is completed
 
 This option will automatically jump you to the next destination once the timer ends. It is helpful for games like Pokemon Go, where the game servers can detect frequent jumps with no cooldown time.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Part 5: Import/Export GPX File
 
 You can also import and export specific navigated locations from Dr.Fone in the form of GPX files. While you can export GPX files for keeping a record of your location, you can also import such files for inserting specific locations to simulate or teleport to. Find out how you can import and export GPX files with this location-changing application:
@@ -71,19 +66,24 @@ If you have defined a proper location to simulate at a particular instant using 
 
 ![export location as a gpx file](https://images.wondershare.com/drfone/guide/save-one-stop-route.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2Import a GPX File
 
 For importing a GPX file on the platform, click the **Import** button on the right pane. As this opens a window, select the GPX file you wish to import to the platform.
 
 ![import gpx file to the platform](https://images.wondershare.com/drfone/guide/import-gpx.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3Wait for the File to be Read
 
 Wait for a moment until Dr.Fone - Virtual Location recognizes the specific locations within the GPX file and displays them on the map.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wait for gpx file to load](https://images.wondershare.com/drfone/guide/wait-import-gpx.png)
 
 ### Part 6: Historical Records
@@ -102,6 +102,10 @@ Select the **Go** button adjacent to any particular historical record to re-laun
 
 ![move to any location from history](https://images.wondershare.com/drfone/guide/history-records-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Part 7: Favorite List
 
 You can also set up favorite locations within the platform to define quick accessibility to your favorite locations. To do that, you have to follow the guidelines shown next:
@@ -110,10 +114,6 @@ Step 1Favorite Specific Locations
 
 While setting up locations in Jump Teleport Mode, One-Stop Route, or Multi-Stop Route, you can tap on the **Favorite** icon adjacent to every marked location or favorite an entire route with the **Favorite** icon on the top of the left panel.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![save locations as favorite](https://images.wondershare.com/drfone/guide/find-favorites.png)
 
 Step 2Access your Favorite Section
@@ -121,8 +121,6 @@ Step 2Access your Favorite Section
 To look for your favorite locations, look for the **Favorite** icon on the right pane to open a list containing all locations you have marked. You can choose the **Move** option to automatically move into a particular location in no time.
 
 ![search for favorite locations](https://images.wondershare.com/drfone/guide/search-favorites.png)
-
-
 
 ## How To Simulate GPS Movement With Location Spoofer On Realme C51?
 
@@ -138,10 +136,11 @@ Step 1Access One-Stop Route Function
 
 Once you launch Wondershare Dr.Fone - Virtual Location and connect your smartphone successfully, proceed to select the **One-Stop Route** function from the top-right section. The function is represented by the third icon from the left in the section. While you have already teleported to another location or are using your current location, you can tap anywhere on the map to set your destination location.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![activate one stop route mode](https://images.wondershare.com/drfone/guide/virtual-location-08.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 2Define Simulation Parameters
 
@@ -153,9 +152,6 @@ Step 3Start Simulation Movement
 
 The respective simulation starts, and you can see your position is moving on the map with the speed you set. If you wish to hold the simulation, click **Pause** or tap **Clear** to revert to your original state.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![start one stop simulation](https://images.wondershare.com/drfone/guide/virtual-location-10.png)
 
 ### Part 2: Simulate Movement Along a Route (Multi-Stop Route)
@@ -176,14 +172,8 @@ Step 2View Multi-Stop Route Movement
 
 As the simulation starts, click **Pause** at any instance where you want to stop the simulation. You can also **Clear** all settings if required.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![execute multi stop route simulation](https://images.wondershare.com/drfone/guide/virtual-location-12.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ### Part 3: Use Joystick for More Flexible GPS Control (Joystick Movement)
 
 Dr.Fone has integrated the joystick feature into the Virtual Location program to spare 90% of the labor for GPS control. You can always find the joystick on the lower left part in teleport mode. And you can also click the joystick button in the upper right (the 5th one) to use the joystick feature.
@@ -198,8 +188,9 @@ The joystick, like one-stop route or multi-stop route modes, aims to facilitate 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/r2GiOQxwfQc" frameborder="0" allowfullscreen=""></iframe>
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How To Teleport Your GPS Location On Realme C51?
 
 While playing games like Pokemon Go, you are in desperate need of finding more Pokémon. If so, changing your location is a necessity that needs to be figured out. For that, teleporting the GPS location of the Realme C51 device is the optimal solution. To carry this out, Wondershare [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) provides a perfect system for fake locations.
@@ -212,9 +203,6 @@ While playing games like Pokemon Go, you are in desperate need of finding more P
 
 **Note:** Once you teleport or move to a virtual place, you can restore to the actual location by restarting the Realme C51 device. You will see a prompt that reminds you to restart your device to restore the location of the connected device when you close the Virtual Location. Click **Restart Device** and close the program.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![restart device on closing virtual location](https://images.wondershare.com/drfone/guide/restart-decive.png)
 
 _\* Dr.Fone Mac version still has the old interface, but it does not affect the use of Dr.Fone function, we will update it as soon as possible._
@@ -225,18 +213,16 @@ Step 1Activate Teleport Mode
 
 Once you have connected your smartphone, continue to select the **Teleport Mode** option from the top-right section. The particular icon is represented by the first icon from the left in that section.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 2Add Location To Teleport
 
 After activating **Teleport Mode,** click the search bar on the top-left to type in the location where you want to shift. After adding the location, hit **Enter** to proceed.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![look for a location to teleport](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
 **Note:** If you can't find your current location when searching spots on the map, you can click the **Current Virtual Location** icon on the right sidebar to show your current virtual location.
@@ -251,23 +237,18 @@ Step 4Location Successfully Changed On Computer
 
 The location of the smartphone will be instantly changed to the selected location and will be displayed on the map.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![move location successfully](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
 
 Step 5Location Changed On the Smartphone
 
 Open your smartphone and access its maps application. Look into the current location of the Realme C51 device and verify it to be the same as the changed location on the computer.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![confirm location on the smartphone](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Part 2: Instantaneous Movement Between Multiple Points (Jump Teleport Mode)
 
 Wondershare Dr.Fone - Virtual Location also allows the movement of the smartphone device between multiple places with the Jump Teleport Mode. If you want to make your **location spoofing** look realistic, the steps below will be beneficial:
@@ -290,6 +271,9 @@ As prescribed, you can propagate amongst the set spots with the Jump Teleport Mo
 
 ![start changing location](https://images.wondershare.com/drfone/guide/start-use-jump-teleport-mode.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -303,10 +287,19 @@ As prescribed, you can propagate amongst the set spots with the Jump Teleport Mo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-writing-vlogs-a-guide-to-persuasive-scripts/"><u>[New] 2024 Approved Writing Vlogs A Guide to Persuasive Scripts</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-exploring-the-complexity-behind-youtube-view-counter-for-2024/"><u>[Updated] Exploring the Complexity Behind YouTube View Counter for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-sci-fis-virtual-cosmos-the-most-innovative-movies-of-the-metaverse-era/"><u>[Updated] Sci-Fi's Virtual Cosmos The Most Innovative Movies of the Metaverse Era</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-step-by-step-guide-to-capturing-webcam-dialogues/"><u>[Updated] Step-by-Step Guide to Capturing Webcam Dialogues</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-fixes-eradicating-sticking-images-from-various-monitors-and-tvs/"><u>Comprehensive Fixes: Eradicating Sticking Images From Various Monitors and TVs</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/convert-your-photos-or-graphics-to-pdf-for-free-using-our-user-friendly-online-tool/"><u>Convert Your Photos or Graphics to PDF for Free Using Our User-Friendly Online Tool!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/guida-rapida-per-la-conversione-avchd-m2ts-a-mp4-senza-compromettere-la-qualita-i-top-5-metodi/"><u>Guida Rapida per La Conversione AVCHD M2TS a MP4 Senza Compromettere La Qualità: I Top 5 Metodi</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Xiaomi Civi 3? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-infinix-note-30-vip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Samsung Galaxy A14 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/restoring-clear-vision-fixing-iphone-lens-out-of-focus-for-2024/"><u>Restoring Clear Vision Fixing iPhone Lens Out-of-Focus for 2024</u></a></li>
+</ul></div>
 

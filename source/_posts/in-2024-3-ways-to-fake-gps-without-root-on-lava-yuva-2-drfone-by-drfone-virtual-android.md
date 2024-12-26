@@ -1,7 +1,7 @@
 ---
 title: In 2024, 3 Ways to Fake GPS Without Root On Lava Yuva 2 | Dr.fone
-date: 2024-12-14T23:24:25.636Z
-updated: 2024-12-17T19:04:58.971Z
+date: 2024-12-23T16:00:38.159Z
+updated: 2024-12-26T16:04:08.041Z
 tags: 
   - virtual location chang
   - location changer
@@ -24,6 +24,10 @@ In other words, it is called GPS spoofing. Some users believe in a misconception
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: The one-stop way to fake GPS on your iOS and Android without root
 
@@ -70,7 +74,7 @@ Click the second icon present in the upper right to turn on the “teleport mode
 ![choose destination you want](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4: Chance the Location**
@@ -85,19 +89,11 @@ Even when you click the “Center On” icon for location yourself, the location
 
 ## Part 2: Other APPs to fake GPS without jailbreak no root
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Fake GPS Location – Hola**
 
 Other than Dr.Fone, you can use its alternative [Hola](https://m.apkpure.com/fake-gps-location-hola/org.hola.gpslocation) on Android devices. It’s available to use in more than 43 languages free of cost. With this **fake GPS Android no root** **application**, you can choose from an extensive list of places worldwide to set your location. For android users who can’t afford a PC or laptop to perform GPS spoofing with Dr.Fone, they can choose Hola for convenience.
 
 ![hola app](https://images.wondershare.com/drfone/article/2022/05/what-is-hola-fake-gps.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Pros**
 
@@ -119,10 +115,6 @@ You'll have fun letting your friends think you're partying like a rock star or r
 
 ![fake gps go](https://images.wondershare.com/drfone/article/2022/05/fake-gps-go-location-spoofer-free.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Pros**
 
 - It can be used with a joystick to match the movement on the screen.
@@ -134,6 +126,10 @@ You'll have fun letting your friends think you're partying like a rock star or r
 
 - It Consumes too much battery.
 - It doesn’t work on all GPS-related apps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **GPS Emulator**
 
@@ -157,6 +153,10 @@ You'll have fun letting your friends think you're partying like a rock star or r
 
 If you plan to root your device to **fake GPS without mock location no root**, drop that idea. You are now aware of some of the best ways to fake GPS without rooting your device. It’s highly recommended to use [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) when you want to do more and change your GPS location.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Find iSpoofer Pro Activation Key On Lava Yuva 2?
 
 There are specific situations where it is necessary to fake your GPS location. By spoofing locations, you can teleport to anywhere in the world, hide your true location to prevent others from tracking you, have access to content that is restricted in your current location, and so on. Spoofing locations is also conducive in location-based games such as Pokémon GO.
@@ -173,20 +173,20 @@ There are specific applications that allow you to spoof the location of your dev
 
 ![pokemon community day](https://images.wondershare.com/drfone/2020/202010/pokemon-community-day.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2. Check out websites: Certain websites throughout the internet occasionally offer free **iSpoofer Pro Plan** License **Keys**. Try to check them out from time to time, and someday you might be lucky to get a free **iSpoofer Pro Plan** License **Key**. One of such websites is [<u>http://www.spoofer.pro/</u>](http://www.spoofer.pro/).
 
 ![ispoofer pro](https://images.wondershare.com/drfone/2020/202010/ispoofer-pro.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. Subscribe to YouTube channels: Another way to get a free **iSpoofer Pro Plan**License **Key** is to subscribe to YouTube channels that offer giveaways of these license **keys**. There are specific YouTube channels that offer free **iSpoofer Pro Plan** License **Keys** to their lucky subscribers. Make sure you subscribe to such channels and keep checking their videos, especially around giveaway times, to see if you are the lucky subscriber to win the giveaway.
 
 ![subscribe-youtube](https://images.wondershare.com/drfone/2020/202010/subscribe-youtube.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: The safer way to Spoof on iPhone
@@ -225,7 +225,7 @@ A much better and safer way to spoof your iPhone location is to do it using Wond
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. A popup box will appear. Click "Move Here".
@@ -237,7 +237,7 @@ A much better and safer way to spoof your iPhone location is to do it using Wond
 ![launch the Virtual Location](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -254,6 +254,10 @@ However, if you have checked recently, iSpoofer has gone - MIA. You don’t find
 
 You will find the answers to all these questions in the clearly guided write-up below and yes, it i applicable for both Android and iOS users.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Part 1 - Does iSpoofer Still Work. Why?**
 
 If you have encountered the iSpoofer not working problem, then you are among the several Pokemon Enthusiasts who have been desperately waiting for an update. But the sad news is we never know if it will knock on our doors or not. The app still remains - non-functional. If you have the older version on your phone - uninstalled - and just lying there, you will notice that you will get a maintenance message saying that the app is under ‘maintanence’.
@@ -267,7 +271,7 @@ One of the main reasons for iSpoofer Pogo not working is its ban by the makers o
 ![iSpoofer -initial-error-message-official-pic-3](https://images.wondershare.com/drfone/2020/2020/iSpoofer%20-initial-error-message-official-pic-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 iSpoofer not only changes the way you play the game but also defies the very concept of how the game should be perceived. You have to ‘Go’ out of the house. So, when Niantic banned the app, iSpoofer lost its very loyal customers. The main target audience were the players of Pokemon Go so you can expect how hard of an impact the loss must have brought to the revenue of iSpoofer.
@@ -291,10 +295,6 @@ If you are facing the iSpoofer iOS not working problem, then you can adopt one o
 **Apps on App Store** - This is one of the first things that anyone would do when they are in serious need of a location change. Go to the App Store and search for the ‘Fake GPS Location Changers’. However, you have to resort to the Trial and Error method here. Not all apps are going to work - some will be detected pretty quickly - while the others will simply take up space and nothing else. Until you settle on the suitable one, the search continues.
 
 ![App-store-Location-Changers-pic-6](https://images.wondershare.com/drfone/2020/2020/App-store-Location-Changers-pic-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If you are looking for a sure shot at changing your location without any hassle, then the best suggestion would be to use [Dr. Fone’s Virtual Location](https://drfone.wondershare.com/virtual-location/fake-snapchat-location.html) Changer. WIthin 3-4 steps you can easily change your location to anywhere in the world. This is how you do it -
 
@@ -328,24 +328,20 @@ It is as simple as that with [Dr.Fone - Virtual Location](https://tools.techidai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-creating-a-singular-stream-from-diverse-youtube-videos/"><u>[New] In 2024, Creating a Singular Stream From Diverse YouTube Videos</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-top-10-drones-your-ever-present-aviation-partner/"><u>[New] In 2024, Top 10 Drones Your Ever-Present Aviation Partner</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-mastering-youtube-to-watch-facebook-content-on-apple-tv/"><u>[New] Mastering YouTube to Watch Facebook Content on Apple TV</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-learn-how-to-blur-a-part-of-a-picture-on-pcmobile/"><u>[Updated] Learn How to Blur a Part of a Picture on PC/Mobile</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-discover-the-secret-art-of-crafting-podcast-narratives/"><u>2024 Approved Discover the Secret Art of Crafting Podcast Narratives</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/customizing-and-simplifying-the-macos-sonoma-menu-bar-a-step-by-step-guide/"><u>Customizing & Simplifying the MacOS Sonoma Menu Bar: A Step-by-Step Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/direct3d-initialization-mastered/"><u>Direct3D Initialization Mastered</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-poco-c65-by-drfone-android/"><u>How to Bypass FRP from Poco C65?</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Xiaomi Redmi A2 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-vivo-x-flip-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Vivo X Flip without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Motorola Moto G24 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Samsung Galaxy S23 FE | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Vivo V27 Pro | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Realme 11 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Asus ROG Phone 7? | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-webinar-technology-hacks-with-no-financial-cost/"><u>In 2024, Webinar Technology Hacks with No Financial Cost</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/master-your-sound-expert-techniques-for-tweaking-speaker-settings-in-the-windows-control-panel-yl-software-solutions/"><u>Master Your Sound: Expert Techniques for Tweaking Speaker Settings in the Windows Control Panel - YL Software Solutions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-expert-offline-audio-to-text-solutions/"><u>[New] Expert Offline Audio to Text Solutions</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-clearview-record-pro-for-11-users-for-2024/"><u>[Updated] ClearView Record Pro for 11 Users for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-social-media-savvy-top-trending-hashtags-for-youtubers/"><u>[Updated] In 2024, Social Media Savvy Top Trending Hashtags for Youtubers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-lowering-sounds-on-mac-and-pc-gradually-and-invisibly/"><u>2024 Approved Lowering Sounds On Mac & PC Gradually and Invisibly</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-flashback-2022s-snowboard-x-winners/"><u>2024 Approved Ultimate Flashback 2022'S Snowboard X Winners</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/creating-your-own-path-on-youtube-a-course-guide-for-2024/"><u>Creating Your Own Path on YouTube A Course Guide for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1109001-9781476730974-fire-from-within/"><u>Fire from Within | Free Book</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-nubia-red-magic-8s-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Nubia Red Magic 8S Pro+? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-nokia-c02-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Nokia C02 Quickly? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Vivo Y27 4G? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-effective-ways-to-fix-checkra1n-error-31-from-apple-iphone-15-by-drfone-ios/"><u>In 2024, Effective Ways To Fix Checkra1n Error 31 From Apple iPhone 15</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Samsung Galaxy S23 Tactical Edition? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-vivo-y78t-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-and-solving-steam-issues-for-a-smooth-run-of-tiny-tinas-wonderlands-on-windows/"><u>Troubleshooting and Solving Steam Issues for a Smooth Run of Tiny Tina's Wonderlands on Windows</u></a></li>
+<li><a href="https://change-location.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Vivo Y100 5G | Dr.fone</u></a></li>
 </ul></div>
 
