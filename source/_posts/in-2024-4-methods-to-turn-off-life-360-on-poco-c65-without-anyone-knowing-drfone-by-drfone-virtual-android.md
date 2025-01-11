@@ -1,7 +1,7 @@
 ---
 title: In 2024, 4 Methods to Turn off Life 360 On Poco C65 without Anyone Knowing | Dr.fone
-date: 2024-12-28T23:32:24.853Z
-updated: 2025-01-04T21:08:54.185Z
+date: 2025-01-10T18:01:22.501Z
+updated: 2025-01-11T18:50:06.286Z
 tags: 
   - virtual location chang
   - location changer
@@ -29,10 +29,6 @@ Many applications are available today to help family and friends track each othe
 
 ![life360 for location sharing](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Life360 works by sharing your GPS location on the map, allowing the members of your circle to view it. As long as your GPS location is turned on, those in your circle will always have access to your exact location. Life360 developers are continually releasing new features to improve their tracking function.
 
 ![life360 map showing circles](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-1.png)
@@ -41,13 +37,13 @@ Some of the available Life360 features include notifying you when a member of yo
 
 ![sending help alert on life360](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: How to Turn off Life360 without Knowing
 
 There are times when you want to turn Life360 off without it showing so that people don’t know your present location. But, if you have no idea how to go about it, you’re in luck. This section covers the best methods to stop sharing your location with friends and family on Life360.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. **Turn Off Your Circle’s Location on Life360**
 
@@ -57,10 +53,6 @@ There is the possibility of limiting the details about your location to others i
 - Next, choose a circle you want to stop sharing your location with at the top of the page.
 
 ![locate the circle on life360](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-3.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - Tap on ‘location sharing’ and click on the slider next to it to disable location sharing.
 
@@ -109,14 +101,6 @@ You’re not left out of this option; below are the steps to disable GPS service
 
 ![turn off gps location services on android](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: **Best Ways to Fake Location on Life360 without Anyone Knowing-Virtual location \[iOS/Android Supported\]**
 
 Although Life360 can be helpful in emergencies or security issues, it can also prove quite problematic. If you want some privacy or don’t trust members of your circle, you might want to learn how to turn off Life 360. The problem with turning off the Life360 location is that members of your circle might notice, which would inevitably cause some conflict.
@@ -153,29 +137,21 @@ Below, we’ve broken down the process for you; keep reading to learn how to fak
 
 ![enable teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5\. Now, enter the location you want to teleport to on the upper left side of the screen and then click the ‘go’ icon.
 
 6\. Click ‘move here’ in the popup box to change your location to this new place.
 
 ![tap on move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Automatically, your location will change to the chosen place on the map and your mobile device.
 
 ![location on your phone](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <iframe width="100%" height="450" type="text/html" src="https://www.youtube.com/embed/xQa-_8RTg5U" frameborder="0"></iframe>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: FAQ About Turn off Location on Life360
 
@@ -187,12 +163,16 @@ Yes, there are some dangers associated with turning off location on Life360. No 
 
 When your phone is off, your GPS location is automatically disabled. Therefore Life360 won’t be able to track your location; it will only display your last logged location.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. **Does Life360 tell my circle when I turn off the location?**
 
 Yes, it does. It will send a ‘location sharing paused’ notification to all your group members. Additionally, if you log out from Life360, it will notify your circle immediately.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -208,7 +188,7 @@ Do you find it hard to look for places without an active internet connection? We
 ![Route Generator App Banner](https://images.wondershare.com/drfone/article/2021/04/best-route-generator-apps-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: What is a Route Generator App (And Why to Use it)?
@@ -358,6 +338,10 @@ When the Find My Friends app location is not available, here are some more tips 
 
 The foremost thing you should do when the Find My Friends location is not available is to check the region/country's location. Apple Inc still hasn't provided the Find My Friends feature in all countries and regions due to local laws and technical issues. So, the most plausible reason for the app not working properly is solely because it is not available in that particular country/region.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Tip 2: Quit and enable GPS or Location Services again
 
 After verifying that the feature is available in your region, enable the GPS & Location Services. In case you've already enabled the feature, turn it off, quit the app, and again enable the service. It might fix the location not found on the Find My Friends issue you've been facing. Just open Settings > Privacy & Security > Location Services and toggle the bar to turn the feature on or off.
@@ -369,6 +353,14 @@ After verifying that the feature is available in your region, enable the GPS & L
 As we stated in the possible reasons, incorrect dates and times also result in this problem. If you have manually set the date and time, change the settings and set it to "Set Automatically" in General Settings. Hopefully, this will resolve the problem when the Find My Friends location is not available.
 
 ![adjust date and time](https://www.virtuallocation.com/images/pokemon-go/adjust-date-and-time.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tip 4: Check the Internet
 
@@ -394,6 +386,10 @@ The next tip to use when Find My Friends says location not available is restarti
 
 ![restart Poco C65 ](https://www.virtuallocation.com/images/pokemon-go/restart-Poco C65 .jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Drag the Power slider to the right side and wait for the Poco C65 device to shut down. Wait for a minute before you restart the Poco C65 device, and hopefully, the feature will start working again as usual.
 
 ### Tip 7: Check That Your Friend Has Signed into Find My Friends
@@ -401,6 +397,10 @@ Drag the Power slider to the right side and wait for the Poco C65 device to shut
 Another tip that can help you resolve to **Find My Friends location not available** is checking that your friend has signed into the app. It is apparent that if your friend hasn't logged into the feature, you won't access his/her location.
 
 Open the Find Friends app, log into it, and enable the location-sharing feature.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tip 8: Quit Find My Friends App and Open It Again
 
@@ -492,22 +492,17 @@ Hopefully, now you know "why is find my friends not working" and several ways to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-10-shopping-powerhouses-where-to-buy-personalized-present-wrappers/"><u>[New] 10 Shopping Powerhouses Where to Buy Personalized Present Wrappers</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-professional-audio-choice-the-ultimate-10-spotify-tools/"><u>[New] In 2024, Professional Audio Choice The Ultimate 10 Spotify Tools</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-minecraft-survival-shelter-mastery/"><u>[Updated] In 2024, Minecraft Survival Shelter Mastery</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-stardew-essentials-unveiling-ginger-islands-secrets/"><u>[Updated] In 2024, Stardew Essentials Unveiling Ginger Island's Secrets</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-platform-faceoff-for-quick-viewers-a-clash-between-youtube-shorts-and-tiktok-for-2024/"><u>[Updated] Platform Faceoff for Quick Viewers A Clash Between YouTube Shorts and TikTok for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-vivo-v30-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Vivo V30 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-infinix-note-30i-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Infinix Note 30i Phone | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-realme-gt-3-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Realme GT 3 Phone | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-xcover-7-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy XCover 7 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Samsung Galaxy F54 5G? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Vivo Y36 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Vivo Y36i | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/list-of-pokemon-go-joysticks-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Vivo Y200 | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/nvidia-geforce-update-for-gtx-1060/"><u>Nvidia GeForce Update for GTX 1060</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-starter-issues-for-the-humankind-game-on-various-platforms/"><u>Overcoming Starter Issues for the 'Humankind' Game on Various Platforms</u></a></li>
-<li><a href="https://change-location.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Vivo T2 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/youtube-vs-dailymention-spotlighting-key-aspects/"><u>YouTube Vs. DailyMention Spotlighting Key Aspects</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-spectacular-ultra-hd-screens-for-playing-games/"><u>[New] Spectacular Ultra HD Screens for Playing Games</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ess-beginnings-easier-than-ever-top-10-youtube-channel-ideas/"><u>Business Beginnings Easier Than Ever Top 10 YouTube Channel Ideas</u></a></li>
+<li><a href="https://change-location.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Vivo Y36i | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-meizu-21-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Meizu 21? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-resolve-unable-to-link-issue-with-nvidia-geforce-in-windows-11/"><u>How to Resolve 'Unable to Link' Issue With NVIDIA GeForce in Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-xiaomi-redmi-k70-pro-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Xiaomi Redmi K70 Pro to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oneplus-nord-ce-3-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from OnePlus Nord CE 3 5G to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>How To Use Special Features - Virtual Location On Apple iPhone 15 Plus? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Vivo V29 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/winx-mediatrans-excellence-premier-solution-to-effortlessly-sync-pictures-tunes-and-videos-across-ios-devices-and-pcs/"><u>WinX MediaTrans™ Excellence: Premier Solution to Effortlessly Sync Pictures, Tunes, & Videos Across iOS Devices & PCs</u></a></li>
 </ul></div>
 

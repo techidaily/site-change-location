@@ -1,7 +1,7 @@
 ---
 title: In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Sony Xperia 5 V | Dr.fone
-date: 2024-12-30T20:49:50.066Z
-updated: 2025-01-04T16:39:54.191Z
+date: 2025-01-08T16:06:25.425Z
+updated: 2025-01-11T18:18:02.376Z
 tags: 
   - virtual location chang
   - location changer
@@ -28,10 +28,6 @@ You can also make use of this app to spoof your location while playing location 
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: About Fake GPS GO Location Spoofer
 
@@ -98,13 +94,13 @@ Step 3: Allow the app to access the Sony Xperia 5 V device’s location
 
 ![access device’s location](https://images.wondershare.com/drfone/article/2019/09/fake-gps-go-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 4: Accept the Advertising terms to proceed
 
 ![Advertising terms](https://images.wondershare.com/drfone/article/2019/09/fake-gps-go-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 5: Next, you have to enable the ‘Mock Location’ option in the ‘Developer Option’ window. To do that you must go to ‘Settings-> Software info -> Built Number’. Tap the ‘Built Number’ few times based on the model of your Sony Xperia 5 V to unlock into the ‘Developer option’. In the ‘Developer Option’, choose ‘Select mock location app’.
 
@@ -119,10 +115,6 @@ Step 6: inside the ‘Select mock location app’, you have to click the ‘Fake
 Step 7: Now go to the ‘Fake GPS Go Location’ app and select your favourite spot on the map. Then press the ‘Play’ button. Select ‘Without Ads’ option to implement the changes accordingly.
 
 ![play button](https://images.wondershare.com/drfone/article/2019/09/fake-gps-go-11.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![select the no-ads option](https://images.wondershare.com/drfone/article/2019/09/fake-gps-go-12.jpg)
 
@@ -168,10 +160,6 @@ Step 7: At last, the fake location is marked on your device using this app. Your
 
 ![new location on your device](https://images.wondershare.com/drfone/article/2019/09/fake-gps-go-22.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Now you had a clear picture of the ‘Fake GPS Location’ app in a detailed manner. It is enough if you follow the steps carefully to mark the fake location in no time.
 
 ### Conclusion
@@ -180,15 +168,15 @@ There are many apps related to fake GPS on the internet space and spotting the r
 
 Make use of the ‘Fake GPS Go Location Spoofer’ app to protect your live location details. With the help of this app, you can surf through any social media and play online games without any fear. Conceal the location information and increase your privacy through innovative products at the Google play store.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 5: Fake GPS GO has no app for iPhone? What to do?
 
 Tricking the location by Fake GPS Go location spoofer can come in handy under many situations. However, when it comes to iOS devices, the users may get annoyed as the app has no iOS version. Therefore, you should be thankful to Dr.Fone – Virtual Location (iOS) that helps you serve the purpose without any Fake GPS Go apk. The tool is designed by Wondershare and never disappoints users for faking location. Let us know how you can pretend to be somewhere in an iOS device sans Fake GPS Go.
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/FfhgWxnARqo" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mode 1: Teleport Anywhere
 
@@ -207,6 +195,10 @@ Step 3: You will notice your current location on the map. If not, hit the “Cen
 Step 4: Choose the third icon on the upper right part of the screen from the three given icons. This is “teleport mode”. Enter the name of the location where you need to teleport and click “Go”.
 
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 5: Then entered place will be recognized by the program and you need to click “Move Here” option in the pop-up dialogue.
 
@@ -288,10 +280,6 @@ Faking GPS on android is also super easy and it allows the users to spoof the lo
 
 ![download fake GPS android](https://drfone.wondershare.com/2020/download_fake_GPS_android.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2.** Within the software information of the phone tap the build number 7 times to enable the developer’s options.
 
 ![enable developer options android](https://drfone.wondershare.com/2020/enable_developer_options_android.jpg)
@@ -299,6 +287,10 @@ Faking GPS on android is also super easy and it allows the users to spoof the lo
 **Step 3.** Enable the mock locations on android and select the fake GPS application to get the results.
 
 ![enable mock location android](https://drfone.wondershare.com/2020/enable_mock_location_android.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4.** Select the location where you want to spoof and then press the play button. Your location will be changed and your phone will also show and lock your spoofed location.
 
@@ -309,7 +301,7 @@ Faking GPS on android is also super easy and it allows the users to spoof the lo
 For fake GPS Uber, many applications can be used to get the work done on the iPhone. It is however advised to make sure that the best application is chosen for the results.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2.1 How to select a Good Location Application for iPhone?
@@ -322,9 +314,17 @@ To select the best application for iPhone it is advised to keep in mind the foll
 
 **iii.** The application in question should have the versions for both desktop and mobile for better control.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.2 App and desktop which is better
 
 For Uber GPS spoofing the desktop application is awesome. It allows more control and therefore it also lets the users get the best results. The desktop application will also let the users know about the exact location as compared to the mobile application.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### The Best Desktop Location Spoofer for iPhone
 
@@ -374,6 +374,10 @@ Click move here and you will get to the teleported location. It will also make s
 
 ![virtual location 5](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 6: Complete the Process**
 
 The iDevice of your will also show the same location as on the program and this completes the process in full.
@@ -400,13 +404,13 @@ It is also one of the easiest ways to make sure that the location is changed. Yo
 
 ![location changer android](https://drfone.wondershare.com/2020/location_changer_android.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 No matter whatever the process you use for the location spoofing it is the [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) that surpasses all with ease and perfection. It is one of the easiest and the most used programs that will make sure that the location spoofing is performed with 100% accuracy. With Dr. Fone changing location has been too easy to perform. The application is backed by a highly technical team and it will get you the results that you have always been longing for.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How To Teleport Your GPS Location On Sony Xperia 5 V?
 
@@ -458,10 +462,6 @@ Open your smartphone and access its maps application. Look into the current loca
 
 ![confirm location on the smartphone](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Part 2: Instantaneous Movement Between Multiple Points (Jump Teleport Mode)
 
 Wondershare Dr.Fone - Virtual Location also allows the movement of the smartphone device between multiple places with the Jump Teleport Mode. If you want to make your **location spoofing** look realistic, the steps below will be beneficial:
@@ -472,15 +472,15 @@ You will have to first access the **Jump Teleport Mode** option from the second 
 
 ![turn on jump teleport mode](https://images.wondershare.com/drfone/guide/jump-teleport-mode.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2Set Spots to Jump Teleport
 
 Continue to select the spots you want to pass one by one on the map by simply tapping on them with your mouse. After selecting multiple spots, click the **Start Moving** button at the bottom of the left panel to start the movement.
 
 ![define points for jump teleport](https://images.wondershare.com/drfone/guide/choose-jump-teleport-destination.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 3Change Location Between Set Spots
 
@@ -502,24 +502,16 @@ As prescribed, you can propagate amongst the set spots with the Jump Teleport Mo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-cutting-edge-film-making-start-here-for-2024/"><u>[New] Cutting-Edge Film Making, Start Here for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-the-essential-guide-to-crafting-engaging-haul-videos/"><u>[New] The Essential Guide to Crafting Engaging Haul Videos</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-telltale-signs-your-chat-is-hidden/"><u>[Updated] 2024 Approved Telltale Signs Your Chat Is Hidden</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-creating-impressive-3d-beginnings-on-youtube/"><u>[Updated] In 2024, Creating Impressive 3D Beginnings on YouTube</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-how-to-deafen-silent-tweets-impact/"><u>[Updated] In 2024, How to Deafen Silent Tweets' Impact</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/download-torrents-with-vpn-to-stay-safe-the-fastest-vpn-around-the-world/"><u>Download Torrents with VPN to Stay Safe - The Fastest VPN Around the World</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enabling-firewall-essential-fixes-for-a-shutdown-system/"><u>Enabling Firewall: Essential Fixes for a Shutdown System</u></a></li>
-<li><a href="https://article-helps.techidaily.com/freescape-extraction-revisited-a-look-at-the-latest-update-for-2024/"><u>Freescape Extraction Revisited A Look at the Latest Update for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/harnessing-gpresult-to-generate-gpo-data/"><u>Harnessing GPResult to Generate GPO Data</u></a></li>
-<li><a href="https://change-location.techidaily.com/honor-magic-v2-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor Magic V2 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Vivo Y28 5G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Oppo Find X6? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Oppo Find X7? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-poco-c65-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Poco C65? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Vivo Y28 5G? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Vivo Y200e 5G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Vivo Y200 | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-comprehensive-insights-into-your-electronics/"><u>Tom's Tech Hub: Comprehensive Insights Into Your Electronics</u></a></li>
-<li><a href="https://change-location.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Vivo Y02T? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-crafting-quality-content-setting-up-your-mac-for-minecraft-sessions/"><u>[Updated] 2024 Approved Crafting Quality Content Setting Up Your Mac for Minecraft Sessions</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-tips-and-tricks-for-effortless-finding-exceptional-pexel-images/"><u>[Updated] 2024 Approved Tips and Tricks for Effortless Finding Exceptional Pexel Images</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Samsung Galaxy A15 4G? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-why-is-ipogo-not-working-on-samsung-galaxy-m54-5g-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Samsung Galaxy M54 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-functionality-to-a-malfunctioning-win11-media-player/"><u>Restoring Functionality to a Malfunctioning Win11 Media Player</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/securing-sims-legacy-proven-strategies-for-documenting-virtual-escapades/"><u>Securing Sims' Legacy Proven Strategies for Documenting Virtual Escapades</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-key-to-earning-on-youtube-in-depth-ad-revenue-guidebook-for-2024/"><u>The Key to Earning on YouTube In-Depth Ad Revenue Guidebook for 2024</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-v27e-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from V27e.</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Vivo Y78+? | Dr.fone</u></a></li>
 </ul></div>
 

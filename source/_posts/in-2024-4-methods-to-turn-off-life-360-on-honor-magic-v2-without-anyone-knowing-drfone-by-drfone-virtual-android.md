@@ -1,7 +1,7 @@
 ---
 title: In 2024, 4 Methods to Turn off Life 360 On Honor Magic V2 without Anyone Knowing | Dr.fone
-date: 2025-01-03T21:49:56.063Z
-updated: 2025-01-04T16:51:51.787Z
+date: 2025-01-08T18:35:44.023Z
+updated: 2025-01-11T17:48:46.987Z
 tags: 
   - virtual location chang
   - location changer
@@ -41,10 +41,6 @@ Some of the available Life360 features include notifying you when a member of yo
 
 There are times when you want to turn Life360 off without it showing so that people don’t know your present location. But, if you have no idea how to go about it, you’re in luck. This section covers the best methods to stop sharing your location with friends and family on Life360.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. **Turn Off Your Circle’s Location on Life360**
 
 There is the possibility of limiting the details about your location to others in your circle. One way to turn Life360 without anyone knowing is by choosing a circle and disconnecting from them. The steps below break down the entire process.
@@ -63,7 +59,7 @@ There is the possibility of limiting the details about your location to others i
 ![pause location sharing](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. **Turn off Your Honor Magic V2’s Airplane Mode**
@@ -80,6 +76,10 @@ Another option you have to stop sharing location on Life360 is by switching on A
 
 These steps will help you turn off location sharing on Life360. However, the downside of using Airplane mode is that it prevents you from accessing the internet. In addition, with the Airplane mode turned on, you can’t make or receive phone calls, either. Therefore, we don’t recommend this as your top choice when learning to turn off Life 360.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. **Disable GPS Service on Your Device**
 
 Another top method of turning off Life360 is disabling the GPS service on your device. It is an effective option, and you can carry it out on your iOS and Android devices. Below, we’ll break down the steps of doing this on your Android and iOS devices.
@@ -93,10 +93,6 @@ iOS users can easily turn off GPS services by following the steps we’ll be pro
 - Next, disable GPS location services
 
 ![disable gps location services on iphone](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-8.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **For Android**
 
@@ -137,6 +133,10 @@ Below, we’ve broken down the process for you; keep reading to learn how to fak
 
 ![access virtual location feature](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3\. Next, connect your iPhone or Android device to your PC and click 'get started.'
 
 ![tap on get started button](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
@@ -155,10 +155,14 @@ Automatically, your location will change to the chosen place on the map and your
 
 ![location on your phone](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <iframe width="100%" height="450" type="text/html" src="https://www.youtube.com/embed/xQa-_8RTg5U" frameborder="0"></iframe>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4: FAQ About Turn off Location on Life360
@@ -167,21 +171,17 @@ Automatically, your location will change to the chosen place on the map and your
 
 Yes, there are some dangers associated with turning off location on Life360. No one knows where you are anymore, which could be dangerous in the case of an emergency.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. **Can Life360 track my location when I switch My Honor Magic V2 off?**
 
 When your phone is off, your GPS location is automatically disabled. Therefore Life360 won’t be able to track your location; it will only display your last logged location.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. **Does Life360 tell my circle when I turn off the location?**
 
 Yes, it does. It will send a ‘location sharing paused’ notification to all your group members. Additionally, if you log out from Life360, it will notify your circle immediately.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -195,15 +195,15 @@ Do you find it hard to look for places without an active internet connection? We
 
 ![Route Generator App Banner](https://images.wondershare.com/drfone/article/2021/04/best-route-generator-apps-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: What is a Route Generator App (And Why to Use it)?
 
 In nutshell, a route generator app would help you navigate from one point on the map to another. Though, these apps have some add-one features compared to any run-of-the-mill navigation app. With the help of a GPX file generator feature, they can just export your mapped route offline. In this way, you can simply import the GPX file again (on the same or another map) and navigate your way without any active internet connection.
 
 Therefore, it can help you navigate when you hike, trail, cycle, play games like Pokemon Go, and do other activities where there is low internet connectivity.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: 5 Best Route Generator Apps You Should Try
 
@@ -227,6 +227,10 @@ Price: Free or $9.99
 
 ![Route4Me GPX Generator](https://images.wondershare.com/drfone/article/2021/04/best-route-generator-apps-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. **Routes: GPX KML Generator**
 
 If you are looking for a more advanced GPX generator app for your Android, then you can try Routes. The app will let you generate and export/import routes on your phone for free and that too in the preferred terrain of your choice.
@@ -241,6 +245,10 @@ _Runs on_: Android
 _Price_: Free
 
 ![Routes GPX Generator App](https://images.wondershare.com/drfone/article/2021/04/best-route-generator-apps-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. **Map My Run**
 
@@ -301,6 +309,10 @@ As you can see, with the help of a GPX file generator, you can easily save your 
 
 ![drfone](https://images.wondershare.com/drfone/guide/wait-import-gpx.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 I’m sure that after reading this guide, you would be able to pick the best route generator app to meet your requirements. I have listed Pokemon map generator as well as running route generator apps that you can consider. Once you have got a GPX generator, you can also use a tool like [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) to import/export GPX files and can also use it to play Pokemon Go remotely with its location spoofing feature.
 
 ## Does Life360 Notify When You Log Out On Honor Magic V2?
@@ -308,10 +320,6 @@ I’m sure that after reading this guide, you would be able to pick the best rou
 Life360 is an excellent family security service provider that notifies family members and loved ones about the user's temporary location with GPS tracking and action alerts. In addition, life360 uses texts and notifications to help circle members keep track of everyone's location, driving habits, and frequently visited places. Still, most people don't use the app because they think it restricts them with message tracking and other features that look familiar to some spying apps. For those who want to know does life360 notify when you log out, you will find out everything about that in this article.
 
 Life360 can track your device's location and texts, but it can't read your texts, and people outside your circle can't view your location, so your privacy is safe using this app. All circle members get a location paused notification when logging out or turning off the location. Read till the end to learn how various life360 features work and can you log into life360 on a computer. We also have solutions to turn off locations without others knowing on any family tracking app.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: How does the life360 location work?
 
@@ -347,17 +355,9 @@ Although life360 provides excellent family location services, it also affects yo
 
 ![access virtual location feature](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **STEP 2:** Click on "get started" to open the map and center on your actual location.
 
 ![tap on get started button](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **STEP 3:** Start the "teleport mode" and type the name of the location you want to teleport your device to in the search bar. You can also manually navigate with a joystick stimulator.
 
@@ -385,21 +385,18 @@ Let us conclude our article here, hoping that you got the answer to everything y
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-boosting-webcam-quality-with-ease-and-precision/"><u>[New] Boosting WebCam Quality with Ease and Precision</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-access-all-subtitles-top-10-free-tools-for-youtube-videos/"><u>[New] In 2024, Access All Subtitles Top 10 Free Tools for YouTube Videos</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/1716069201990-new-in-2024-essential-offline-ios-game-list-unplugged-fun-awaits/"><u>[New] In 2024, Essential Offline iOS Game List - Unplugged Fun Awaits!</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-unlocking-potential-creating-compelling-content-on-your-phone/"><u>[New] Unlocking Potential Creating Compelling Content on Your Phone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-precision-in-memory-keeping-organizing-photos-on-iphone-and-uploading-to-icloud/"><u>[Updated] In 2024, Precision in Memory Keeping Organizing Photos on iPhone and Uploading to iCloud</u></a></li>
-<li><a href="https://change-location.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-vivo-s17-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Vivo S17 | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-guide-to-correcting-the-incorrect-parameters-that-trigger-error-87-during-library-loading-processes/"><u>Comprehensive Guide to Correcting the Incorrect Parameters That Trigger Error 87 During Library Loading Processes</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/earn-on-the-go-snapchats-money-tips/"><u>Earn on the Go Snapchat's Money Tips</u></a></li>
-<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-asus-rog-phone-8-pro-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Asus ROG Phone 8 Pro Phone | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Poco M6 5G? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-poco-x6-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Poco X6? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Vivo Y17s | Dr.fone</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-from-lengthy-video-to-captivating-animation-create-gifs-with-ease/"><u>In 2024, From Lengthy Video to Captivating Animation - Create Gifs with Ease</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/introducing-the-all-new-revamped-mac-studio-by-apple-a-modern-take-on-the-classic-mac-mini-expert-analysis-at-zdnet/"><u>Introducing the All-New, Revamped Mac Studio by Apple - A Modern Take on the Classic Mac Mini | Expert Analysis at ZDNet</u></a></li>
-<li><a href="https://change-location.techidaily.com/list-of-pokemon-go-joysticks-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Vivo V27e | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/pokemon-go-cooldown-chart-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-stealthy-styles-easy-color-corrections-techniques-for-2024/"><u>[New] Stealthy Styles Easy Color Corrections Techniques for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-win-and-mac-users-elevate-your-workflow-with-our-top-8-tools-to-convert-sub-into-srtr-for-2024/"><u>[New] Win and Mac Users, Elevate Your Workflow with Our Top 8 Tools to Convert SUB Into SRTR for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-cyber-sensation-the-rise-of-videoviral-tweets/"><u>[Updated] 2024 Approved Cyber Sensation The Rise of #VideoViral Tweets</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-sony-xperia-5-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/efficient-steps-for-fixing-a-disappeared-d-drive-in-windows-11-a-comprehensive-tutorial/"><u>Efficient Steps for Fixing a Disappeared D Drive in Windows 11 – A Comprehensive Tutorial</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>How To Activate and Use Life360 Ghost Mode On Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>How to Stop Life360 from Tracking You On Apple iPhone 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Itel P55 5G? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Samsung Galaxy F04? | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-expert-tips-to-enhance-your-adobe-presentation-videos/"><u>In 2024, Expert Tips to Enhance Your Adobe Presentation Videos</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Samsung Galaxy S23 | Dr.fone</u></a></li>
 </ul></div>
 

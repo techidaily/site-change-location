@@ -1,7 +1,7 @@
 ---
 title: In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Apple iPhone 15 | Dr.fone
-date: 2024-12-28T23:44:05.672Z
-updated: 2025-01-04T17:41:43.051Z
+date: 2025-01-07T18:06:21.283Z
+updated: 2025-01-11T17:34:20.056Z
 tags: 
   - virtual location chang
   - location changer
@@ -30,6 +30,10 @@ It is not hard to change or spoof your location in Mozilla Firefox. Stick with t
 ## Part 1: Preparations Before Spoofing Your Location in Firefox
 
 Before starting with **Firefox location spoof**, you must be aware of how the platform and websites determine your location. There are many ways a browser can detect your location. It includes services like IP addresses, GPS tracking, Wi-Fi, and Bluetooth. The main tool browsers and websites use to determine your location is HTML5 Geolocation API.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Basic Understanding of the HTML5 Geolocation API
 
@@ -71,10 +75,6 @@ Disabling your location on Mozilla Firefox can stop websites from accessing your
 
 ![tap on the edit button](https://images.wondershare.com/drfone/article/2022/12/how-to-fake-your-location-in-firefox-browser-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3:** You can enter your desired location using its latitude and longitude coordinates. The format to enter your location coordinates should be:
 
 **"data:application/json,{"location": {"lat": LATITUDE VALUE, "lng": LONGITUDE VALUE}, "accuracy": 27000.0}."**
@@ -95,9 +95,17 @@ Another way you can protect your location from websites is to use the "[Location
 
 ![set the privacy levels](https://images.wondershare.com/drfone/article/2022/12/how-to-fake-your-location-in-firefox-browser-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** Using its "Fixed Location" feature from the left sidebar, you can change your location. Here, select any location from the map by placing the "Marker" on it to change your browser's location.
 
 ![set the fixed location](https://images.wondershare.com/drfone/article/2022/12/how-to-fake-your-location-in-firefox-browser-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to Fake Your Location in Mozilla Firefox on Phones
 
@@ -123,6 +131,10 @@ If you use the Firefox browser on your phone, it allows you to disable your loca
 
 ![choose the firefox app](https://images.wondershare.com/drfone/article/2022/12/how-to-fake-your-location-in-firefox-browser-13.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** In the "Location" menu, you can select "Never" to completely disable the location access for the Firefox browser. To only stop Firefox from detecting your accurate location, turn off the toggle of the "Precise Location" option.
 
 ![disable the firefox ios location](https://images.wondershare.com/drfone/article/2022/12/how-to-fake-your-location-in-firefox-browser-14.jpg)
@@ -134,7 +146,7 @@ Nowadays, many websites work with the help of location-based services. Disabling
 [Wondershare Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) provides you with an excellent way to do **Firefox location spoofing**. You will not have to worry about websites or apps detecting your location as fake when using this tool.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
@@ -177,10 +189,6 @@ Enter your desired fake location in the provided space and press "Go" once the m
 
 ![confirm the fake location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 3: Change Your Location in Firefox Using ExpressVPN
 
 Browsers like Mozilla Firefox tracks your location by using your IP address. You can use a VPN to spoof your IP location to protect your actual location from websites. [ExpressVPN](https://www.expressvpn.com/) is a VPN that is available for both Android and iOS devices. You can use these steps to change your location using ExpressVPN:
@@ -191,13 +199,13 @@ Browsers like Mozilla Firefox tracks your location by using your IP address. You
 
 ![select the expressvpn location](https://images.wondershare.com/drfone/article/2022/12/how-to-fake-your-location-in-firefox-browser-18.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Conclusion
 
 In today's digital world, you have to compromise your privacy to some extent. However, it doesn't mean that you should not try to use tools available to you to protect your privacy to the limit. [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) solves your concerns regarding location sharing with ease. With this tool, you can **fake location in Firefox** and still enjoy all the features and services offered by location-based websites and apps.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Prevent Cross-Site Tracking on Apple iPhone 15 and Browser
 
@@ -227,10 +235,6 @@ Yes, private browsing can be traced. When you work in private browsing mode, the
 
 Safari is the most commonly used platform by iOS users. So, to prevent CST for Safari on your iOS devices and Mac systems, below is a complete guide.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Deactivate Safari cross-website tracking for iPhone & iPad
 
 Safari cross-site tracking can be prevented using the below steps on your Apple iPhone 15 and iPad.
@@ -255,6 +259,10 @@ Use the steps below to **turn off cross-site tracking on Safari** on your Mac sy
 
 Chrome is used widely on Windows systems and Android devices, and to prevent the CST from your browser, a detailed guide is given below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Enable “Do Not Track” on Google Chrome for Android
 
 - Step 1. On your Apple iPhone 15, open the Chrome app.
@@ -263,10 +271,6 @@ Chrome is used widely on Windows systems and Android devices, and to prevent the
 - Step 4. Click on the “Do Not Track” option to turn on the feature.
 
 ![stop cross-site tracking on android](https://images.wondershare.com/drfone/article/2022/03/prevent-cst-android.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Enable “Do Not Track” on Google Chrome for Computer
 
@@ -295,6 +299,10 @@ Here is a video tutorial for you to take an overview of how to use Dr.Fone - Vir
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/FfhgWxnARqo" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Steps to set fake location on your Android and iOS devices using DrFone-Virtual Location**
 
@@ -340,19 +348,11 @@ The feature's name says that it was introduced to cut off any radio transmission
 
 If you have **enabled airplane mode on your Apple iPhone 15** or Android device and think it will also block your GPS location, you are wrong. Know why airplane mode does not turn off GPS location and other ways to **avoid getting tracked with or without Airplane Mode.**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: Does Airplane Mode Turn off location?
 
 As we mentioned above, while you put your phone on airplane mode, the cellular radio, Wi-Fi and Bluetooth is disabled, but not the GPS location.
 
 The GPS works on a different technology where the signals are received from the satellite and are not dependent on the network or cellular services. So, when the airplane mode is enabled, the GPS location is not turned off.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: Can Your Location Be tailed on Airplane Mode?
 
@@ -384,15 +384,15 @@ The process to turn off GPS location on Android devices may vary from device to 
 
 ![switch off gps on android devices](https://images.wondershare.com/drfone/article/2022/03/switch-off-gps-android-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2**. Search for the Airplane icon and click on it to turn on the Airplane Mode.
 
 **Step 3**. Next, open the App Drawer and then choose Settings > Location. Turn off the Location.
 
 ![drfone virtual location switch off gps on android devices](https://images.wondershare.com/drfone/article/2022/03/switch-off-gps-android-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: Spoof Location to prevent GPS Tracing without Turning on Airplane Mode
 
@@ -422,10 +422,6 @@ You can check out this video for further instruction.
 
 ![download virtual location and get started](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3**. Click on the **Get Start** button.
 
 **Step 4**. The software will open a new window, and your connected device's actual location will be shown. If the location is not coming correctly, tap on the **Center On** icon present in the lower-right of the interface.
@@ -445,6 +441,10 @@ You can check out this video for further instruction.
 ### Q1: Can An iPhone Be Traced While off?
 
 No, it cannot be traced when an iPhone or any other phone is switched off. For example, when an iPhone is switched off, its GPS is not activated, and thus it cannot be traced.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Q2: Does Find My iPhone Work on Airplane Mode?
 
@@ -474,18 +474,16 @@ So, it can be concluded that Airplane Mode disconnects you from the cellular net
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-from-zero-to-zoom-expert-launching-successful-webinars/"><u>[New] 2024 Approved From Zero to Zoom Expert Launching Successful Webinars</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-10-best-screenshot-enhancers-iphoneandroid-sticker-magic/"><u>[Updated] 10 Best Screenshot Enhancers IPhone/Android Sticker Magic</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/capture-every-moment-top-budget-friendly-cam-recorders/"><u>Capture Every Moment Top Budget-Friendly Cam Recorders</u></a></li>
-<li><a href="https://fox-info.techidaily.com/explore-novel-editing-techniques-the-synergy-of-storyremix-and-windows-11/"><u>Explore Novel Editing Techniques The Synergy of StoryRemix & Windows 11</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-samsung-galaxy-s23-tactical-edition-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Samsung Galaxy S23 Tactical Edition Quickly? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-samsung-galaxy-xcover-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-breaking-through-boundaries-optimizing-videos-for-maximum-traction/"><u>In 2024, Breaking Through Boundaries Optimizing Videos for Maximum Traction</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Samsung Galaxy M34 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-lava-blaze-2-5g-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Lava Blaze 2 5G Phone that is Locked?</u></a></li>
-<li><a href="https://facebook.techidaily.com/is-my-number-public-on-facebook-now/"><u>Is My Number Public on Facebook Now?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ultimate-guide-to-choosing-the-ideal-screen-recording-tool-for-win-1087-systems-record-any-screen-segment-with-precision/"><u>Ultimate Guide to Choosing the Ideal Screen Recording Tool for Win 10/8/7 Systems - Record Any Screen Segment with Precision</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-wacom-bamboo-no-hassle-just-fast/"><u>Update Wacom Bamboo - No Hassle, Just Fast!</u></a></li>
-<li><a href="https://change-location.techidaily.com/where-is-the-best-place-to-catch-dratini-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-convert-any-youtube-tracking-ios-solutions-in-6-free-tools/"><u>[New] 2024 Approved Convert Any YouTube Tracking IOS Solutions in 6 Free Tools</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-essential-aspect-ratio-info-for-effective-twitter-videos/"><u>[Updated] Essential Aspect Ratio Info for Effective Twitter Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-capturing-clarity-a-guide-to-high-res-videos-on-the-web/"><u>[Updated] In 2024, Capturing Clarity A Guide to High-Res Videos on the Web</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-baffled-by-blank-screens-on-a6400/"><u>2024 Approved Baffled by Blank Screens on A6400</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/a-detailed-exploration-youtubes-visionary-suite/"><u>A Detailed Exploration YouTube's Visionary Suite</u></a></li>
+<li><a href="https://change-location.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exquisite-innovations-in-desktop-tech/"><u>In 2024, Exquisite Innovations in Desktop Tech</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Vivo V27e? | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, 4 Methods to Turn off Life 360 On Infinix Smart 8 Plus without Anyone Knowing | Dr.fone
-date: 2024-12-28T22:45:34.001Z
-updated: 2025-01-04T20:22:33.954Z
+date: 2025-01-10T17:27:22.635Z
+updated: 2025-01-11T16:55:05.936Z
 tags: 
   - virtual location chang
   - location changer
@@ -24,7 +24,7 @@ Life 360 has made tracking our friends and loved ones so easy. It is an excellen
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: What is Life 360?
@@ -37,10 +37,6 @@ Life360 works by sharing your GPS location on the map, allowing the members of y
 
 ![life360 map showing circles](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Some of the available Life360 features include notifying you when a member of your circle moves to a new point and it will send a help alert when there’s an emergency. In addition, the app automatically contacts the emergency contacts you added when you do this. However, this doesn’t change that it can get intrusive when you need some privacy. That’s why the next section covers how to turn Life360 off.
 
 ![sending help alert on life360](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-2.png)
@@ -48,10 +44,6 @@ Some of the available Life360 features include notifying you when a member of yo
 ## Part 2: How to Turn off Life360 without Knowing
 
 There are times when you want to turn Life360 off without it showing so that people don’t know your present location. But, if you have no idea how to go about it, you’re in luck. This section covers the best methods to stop sharing your location with friends and family on Life360.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. **Turn Off Your Circle’s Location on Life360**
 
@@ -69,6 +61,10 @@ There is the possibility of limiting the details about your location to others i
 - Now you can recheck the map, and it will show ‘location sharing paused.
 
 ![pause location sharing](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. **Turn off Your Infinix Smart 8 Plus’s Airplane Mode**
 
@@ -159,6 +155,10 @@ Automatically, your location will change to the chosen place on the map and your
 
 ## Part 4: FAQ About Turn off Location on Life360
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. **Are there any risks to turning off GPS location?**
 
 Yes, there are some dangers associated with turning off location on Life360. No one knows where you are anymore, which could be dangerous in the case of an emergency.
@@ -172,12 +172,16 @@ When your phone is off, your GPS location is automatically disabled. Therefore L
 Yes, it does. It will send a ‘location sharing paused’ notification to all your group members. Additionally, if you log out from Life360, it will notify your circle immediately.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
 
 Life360 is a useful app for professional and personal circles. However, it can be intrusive on our privacy sometimes. Most times, the youths want to learn how to turn off Life360 without their parents knowing on iPhone and Android devices. This article provides you with different methods you can achieve this. If you want to learn how to turn off life 360 without showing up, the best option is to fake your location. We hope the guide above helps you utilize [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) without any issues.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixing Foneazy MockGo Not Working On Infinix Smart 8 Plus
 
@@ -212,7 +216,7 @@ Try all of these tricks that we have shared and get that temporary issue in Fone
 ## Part 3: Best Foneazy MockGo Alternative Progam You Can Use in 2022
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
@@ -236,10 +240,6 @@ Our product, **“Dr. Fone - Virtual Location” (**[**https://drfone.wondershar
 
 ![virtual-location](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **_Step 3:_** You will then be redirected to your current location on the new page.
 - **_Step 4:_** If you want to change your location, you will need to turn on the “Teleportation” mode by clicking on the first icon and typing the location that you want then click on the “Go” icon.
 - **_Step 5:_** Click on “Move Here” and your current location will show up as the location that you typed on Your Infinix Smart 8 Plus.
@@ -253,10 +253,6 @@ Our product, **“Dr. Fone - Virtual Location” (**[**https://drfone.wondershar
 ### Conclusion
 
 There you have it, these are the tricks that you can do on your own to fix any issue that comes up when using Foneazy MockGo or when this application is not working. Despite the advantages of using this application, you will for sure still encounter some limitations so you can look for an alternative that does the same job of sharing a spoof location and that is using **[Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)** which will help you to advance your levels in your AR games or find out other options in other locations in the world.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Stop Life360 from Tracking You On Infinix Smart 8 Plus?
 
@@ -274,9 +270,17 @@ Life360 supports both iOS and Android devices. To use, you will need to install 
 
 But as we said before, it is quite uncomfortable to know that someone is tracking you everywhere. So, if you want to hide location on Life360, then this article to know the amazing tricks to stop Life360 from tracking you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Turn Off Location on Life360
 
 ![turn off location on life360](https://images.wondershare.com/drfone/virtual-loaction/Stop-Life360-From-Tracking-You-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can turn off the location to stop the Life360 tracking feature. But, with this, keep the background app refresh off. Follow the following steps to turn off the location on life360.
 
@@ -287,17 +291,9 @@ You can turn off the location to stop the Life360 tracking feature. But, with th
 
 **Note:** If you ever press the Check In button, it will update your location in Life360 even if it is turned off. Further, if you press the Help Alert button, this will also turn on the location-sharing feature.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: Fake Location Apps to Spoofing Life360
 
 The best way to stop Life360 from tracking you is to use fake GPS apps on Android and iOS. There are many fake location apps that you can install in your device to spoof Life360 without any risk to your device.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2.1 How to spoof life 360 iPhone
 
@@ -339,6 +335,10 @@ Here are the few steps that you will need to follow to use Dr.Fone. Take a look!
 
 **3981454** people have downloaded it
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.2 How To Fake Life360 Location On Android
 
 To spoof Life360 on Android, you can install ant fake location app on your device. There are many fake GPS apps available for Android, some of which are free, and some are paid.
@@ -346,6 +346,10 @@ To spoof Life360 on Android, you can install ant fake location app on your devic
 But, before using the app, you will need to enable the developer option and need to allow mock location feature of android devices. For this, go to about phone under settings and look for the build number. Once you found the build number, tap on it seven times to enable the developer option.
 
 ![how to fake life360 location](https://images.wondershare.com/drfone/virtual-loaction/Stop-Life360-From-Tracking-You-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now, follow the following steps to install any fake GPS on Android.
 
@@ -355,10 +359,6 @@ Now, follow the following steps to install any fake GPS on Android.
 - After this, go back to the settings of the phone and look for enable developer
 - Under enable developer option go to allow mock location app and select the app you installed from the list
 - Now open the app, and fill your desired location on the map. It is simple to spoof Life360 on Android
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: Use a Burner Phone for Life360 Fake Location
 
@@ -384,17 +384,21 @@ Life360 is a very helpful app for parents and friends group, but still, it becom
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-step-by-step-guide-to-uploading-immersive-photos-via-iosandroid/"><u>[New] 2024 Approved Step-by-Step Guide to Uploading Immersive Photos via iOS/Android</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-skys-canvas-transforming-drones-into-dynamic-videos/"><u>[Updated] Sky's Canvas Transforming Drones Into Dynamic Videos</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-elevate-your-reel-game-mastering-attractive-instagram-unboxing/"><u>2024 Approved Elevate Your Reel Game Mastering Attractive Instagram Unboxing</u></a></li>
-<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-samsung-galaxy-s24plus-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Samsung Galaxy S24+ in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://win-unique.techidaily.com/efficient-update-management-techniques-for-windows-11-systems-discover-the-top-5-methods/"><u>Efficient Update Management Techniques for Windows 11 Systems: Discover the Top 5 Methods</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-samsung-galaxy-a14-4g-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Samsung Galaxy A14 4G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Vivo Y100 5G? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Vivo V29e? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Xiaomi 13 Ultra | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Vivo G2? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Vivo S17 Pro? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/navigating-small-group-setups-in-zoom-for-2024/"><u>Navigating Small Group Setups in Zoom for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-top-10-ultimate-apps-for-seamless-youtube-to-webm-conversion/"><u>[New] In 2024, Top 10 Ultimate Apps for Seamless YouTube to WebM Conversion</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-immersive-video-warfare-samsung-vs-lg-cam-clash-for-2024/"><u>[Updated] Immersive Video Warfare Samsung VS LG Cam Clash for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/a-comprehensive-guide-to-apple-iphone-13-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>A Comprehensive Guide to Apple iPhone 13 Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-in-turmoil-italys-sudden-ban-reasoning/"><u>ChatGPT in Turmoil: Italy's Sudden Ban Reasoning</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/die-fuhrenden-kostenfreien-tools-fur-videobearbeitung-ranking-der-besten-programme/"><u>Die Führenden Kostenfreien Tools Für Videobearbeitung - Ranking Der Besten Programme</u></a></li>
+<li><a href="https://change-location.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Motorola Razr 40 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Tecno Pop 7 Pro? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Motorola Razr 40 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/illuminating-the-art-of-iphone-long-exposure-for-2024/"><u>Illuminating the Art of iPhone Long Exposure for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-innovative-methods-for-effective-screen-capture/"><u>In 2024, Innovative Methods for Effective Screen Capture</u></a></li>
+<li><a href="https://driver-download.techidaily.com/intel-network-drivers-download-and-install-for-windows-easily/"><u>Intel Network Drivers Download and Install for Windows [Easily]</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ipoditunes-isync/"><u>IPodがiTunesに同期できない？これが音楽リンクの究極解決策！ - iSyncスキルアップのポイント</u></a></li>
+<li><a href="https://change-location.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Samsung Galaxy F34 5G | Dr.fone</u></a></li>
 </ul></div>
 
