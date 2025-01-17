@@ -1,7 +1,7 @@
 ---
 title: In 2024, 3 Ways to Fake GPS Without Root On Asus ROG Phone 7 | Dr.fone
-date: 2024-12-13T19:42:10.734Z
-updated: 2024-12-17T22:16:40.195Z
+date: 2025-01-14T21:15:08.109Z
+updated: 2025-01-17T06:05:18.118Z
 tags: 
   - virtual location chang
   - location changer
@@ -26,7 +26,7 @@ In other words, it is called GPS spoofing. Some users believe in a misconception
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: The one-stop way to fake GPS on your iOS and Android without root
@@ -56,7 +56,7 @@ Download Dr.Fone – Virtual Location on your PC and run it to begin **fake GPS 
 ![access virtual location feature](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2: Connect Your Device**
@@ -70,10 +70,6 @@ Connect your iOS device with the lightning cable or your Asus ROG Phone 7 using 
 Before **GPS** **spoof without root,** you have to find and set your actual location on the map. If the location is not shown correctly, hit the “Center On” icon located at the lower right part.
 
 ![choose destination](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 4: Turn on Teleport Mode**
 
@@ -98,6 +94,10 @@ Even when you click the “Center On” icon for location yourself, the location
 Other than Dr.Fone, you can use its alternative [Hola](https://m.apkpure.com/fake-gps-location-hola/org.hola.gpslocation) on Android devices. It’s available to use in more than 43 languages free of cost. With this **fake GPS Android no root** **application**, you can choose from an extensive list of places worldwide to set your location. For android users who can’t afford a PC or laptop to perform GPS spoofing with Dr.Fone, they can choose Hola for convenience.
 
 ![hola app](https://images.wondershare.com/drfone/article/2022/05/what-is-hola-fake-gps.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Pros**
 
@@ -153,6 +153,10 @@ You'll have fun letting your friends think you're partying like a rock star or r
 
 If you plan to root your device to **fake GPS without mock location no root**, drop that idea. You are now aware of some of the best ways to fake GPS without rooting your device. It’s highly recommended to use [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) when you want to do more and change your GPS location.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Dose Life360 Notify Me When Someone Checks My Location On Asus ROG Phone 7?
 
 Have you ever had your phone stolen and someone got to see where you live? Did you want to know so you could file a police report and get it back before they try to sell it?
@@ -160,10 +164,6 @@ Have you ever had your phone stolen and someone got to see where you live? Did y
 You probably also have many applications installed, such as WhatsApp, Google maps, Facebook, etc. So how do you get notifications from all these apps without having to check each one individually?
 
 Life360 can help. It is a location-based app that lets you check the location of your device, your family members, and even your friends via push notifications. Does life360 tell you when someone checks your location? Read to learn more.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: How Does Life360 Work?
 
@@ -208,6 +208,10 @@ Using an anonymous burner phone purchased with cash is a standard plot device in
 
 ![ invest in a burner phone](https://images.wondershare.com/drfone/article/2022/06/life360-notify-me-when-someone-checks-your-location-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Disable Wi-Fi and Cellular Data Access
 
 Turning down the Asus ROG Phone 7 device's potential to interact with Wi-Fi and cellular networks is another option for generating a false location.
@@ -215,6 +219,10 @@ Turning down the Asus ROG Phone 7 device's potential to interact with Wi-Fi and 
 **Step 1.** To prevent applications from renewing themselves in the background, you must use the option that saves battery life.
 
 ![ disable wi-fi and cellular data access](https://images.wondershare.com/drfone/article/2022/06/life360-notify-me-when-someone-checks-your-location-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2.** Disconnect from the internet through Wi-Fi and cellular data if you have them. For example, rather than disabling the whole Android system on an iPhone, you may simply disable the Life 360 app.
 
@@ -253,17 +261,21 @@ Here are the steps you can follow to stop sharing your location on your iPhone d
 
 ![open feature](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3.** You'll be presented with a new window called "Virtual Location."
 
 ![start location faking](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4.** Make sure you have a USB cable for your iPhone or iPad or Android that is compatible with your computer. Take a moment to unlock the Asus ROG Phone 7 device, if necessary, and then press the Trust Device option.
 
 ![activate ](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 5**. You may then identify your Phone.
 
@@ -278,10 +290,6 @@ Here are the steps you can follow to stop sharing your location on your iPhone d
 - **Step 8**. Tap Still Move after you agree to the instructions.
 
     ![current location in program](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
     When you use this software, your Phone's GPS location will be faked. To navigate your new surroundings, just press and hold the left joystick.
 
@@ -335,10 +343,6 @@ Overall, VPNa Fake GPS location free is worth a try. It is pretty lightweight, e
 
 Now when you know how VPNa fake GPS Location Free works, let's quickly understand how to use it to change the location on any Android phone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Step 1: Enable Developer Options on your phone**
 
 To set up a mock location app, you need to first enable the Developer Options on your device. To do this, just go to its Settings > About Phone and tap on the "Build Number" feature 7 consecutive times.
@@ -348,6 +352,10 @@ To set up a mock location app, you need to first enable the Developer Options on
 Once it is done, go to its Settings > Developer Options and turn on the option to set a mock location on your phone.
 
 ![set a mock location](https://www.virtuallocation.com/images/vpna/vpna-fake-gps-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Step 2: Make VPNa Fake GPS as the default mock location app**
 
@@ -365,19 +373,11 @@ Later, you can move the pin around and drop it anywhere you like. Tap on the Sta
 
 ![choose anywhere you like](https://www.virtuallocation.com/images/vpna/vpna-fake-gps-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: Bonus Tip: How to Spoof an iPhone Location without Jailbreak
 
 While Android users can take the assistance of VPNa Fake GPS, iOS users often find it hard to change their device location. Well, in this case, you can consider [Dr.Fone - Virtual Location(iOS)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) . It is a user-friendly application that can spoof your iPhone location to any other place by entering its address or exact coordinates. Besides that, you can also simulate the movement of your device between different spots.
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/FfhgWxnARqo" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Step 1: Connect your iPhone and launch the tool
 
@@ -385,15 +385,15 @@ At first, you can just connect your iPhone to your computer and launch the Dr.Fo
 
 ![vpna dr.fone-virtual location](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step 2: Look for a location to spoof
 
 The application will automatically detect your device's location and would display it. To change it, click on the Teleport Mode icon from the top, and enter the address/coordinates of the place in the search bar.
 
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 3: Change your iPhone's location
 
@@ -417,24 +417,15 @@ This brings us to the end of this detailed VPNa Fake GPS Location Free review. T
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-sony-a6400-the-unseen-movie-problem/"><u>[New] 2024 Approved Sony A6400 The Unseen Movie Problem</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-price-tag-shooting-your-next-music-video/"><u>[New] In 2024, Price Tag Shooting Your Next Music Video</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-enhance-your-video-meetings-with-snap-shots-on-zoom/"><u>[Updated] 2024 Approved Enhance Your Video Meetings with Snap Shots on Zoom</u></a></li>
-<li><a href="https://facebook.techidaily.com/8-social-media-content-calendar-tools-for-scheduling-posts/"><u>8 Social Media Content Calendar Tools for Scheduling Posts</u></a></li>
-<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Realme 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-redmi-note-13-proplus-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Redmi Note 13 Pro+ 5G Location Settings | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-samsung-galaxy-xcover-7-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Samsung Galaxy XCover 7? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-nokia-130-music-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Nokia 130 Music without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Realme Narzo 60 5G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Infinix Hot 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Realme GT 3 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Oppo Find X6? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-honor-x7b-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Honor X7b is off? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-xiaomi-redmi-note-12-pro-4g-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Xiaomi Redmi Note 12 Pro 4G to PC? | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-visual-symphony-choosing-background-music/"><u>In 2024, Visual Symphony Choosing Background Music</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/struggling-with-wi-fi-on-your-laptop-discover-effective-troubleshooting-techniques-today/"><u>Struggling with Wi-Fi on Your Laptop? Discover Effective Troubleshooting Techniques Today!</u></a></li>
-<li><a href="https://common-error.techidaily.com/usb-port-issues-on-dell-diagnosis-and-fixing-techniques-revealed/"><u>USB Port Issues on Dell: Diagnosis & Fixing Techniques Revealed</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-directscreen-a-streamlined-windows-recorder/"><u>[New] DirectScreen A Streamlined Windows Recorder</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-visual-storytelling-at-its-finest-youtube-trailers-through-filmoras-lens/"><u>[Updated] In 2024, Visual Storytelling at Its Finest YouTube Trailers Through Filmora's Lens</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtube-growth-hacking-for-new-videographers/"><u>2024 Approved YouTube Growth Hacking for New Videographers</u></a></li>
+<li><a href="https://change-location.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/all-you-need-to-know-about-mega-greninja-for-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-harnessing-youtube-and-fb-techniques-for-maximum-engagement/"><u>In 2024, Harnessing YouTube & FB Techniques for Maximum Engagement</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/intense-battlefront-a-curated-list-of-top-10-free-fps-games/"><u>Intense Battlefront: A Curated List of Top 10 Free FPS Games</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unlock-creative-potential-access-free-sfx-in-2024/"><u>Unlock Creative Potential, Access Free SFX, In 2024</u></a></li>
 </ul></div>
 

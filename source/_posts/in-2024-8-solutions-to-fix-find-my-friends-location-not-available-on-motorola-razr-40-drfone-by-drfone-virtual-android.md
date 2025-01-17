@@ -1,7 +1,7 @@
 ---
 title: In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Motorola Razr 40 | Dr.fone
-date: 2024-12-10T22:54:21.442Z
-updated: 2024-12-17T17:43:56.029Z
+date: 2025-01-11T02:58:21.164Z
+updated: 2025-01-16T21:06:09.424Z
 tags: 
   - virtual location chang
   - location changer
@@ -41,10 +41,6 @@ Not! This message does not necessarily mean that you have blocked yourself or th
 
 In summary, "No Location Found" means the app could not locate the Motorola Razr 40 device, while "Location Not Available" means that the Motorola Razr 40 device is not currently sharing its location.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: Possible Reasons For Find My Friends Location Motorola Razr 40  Not Available
 
 Why does Find My Friends say location not available? Before we get to the solutions, let's explore the possible reasons behind this problem. It is apparent that when the location is not found on Find My Friends, there is an underlying problem. Here are the possible reasons that could cause this error:
@@ -73,7 +69,11 @@ After verifying that the feature is available in your region, enable the GPS & L
 ![enable location services](https://www.virtuallocation.com/images/pokemon-go/enable-location-services.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Tip 3: Adjust Motorola Razr 40  Date and Time
@@ -83,7 +83,7 @@ As we stated in the possible reasons, incorrect dates and times also result in t
 ![adjust date and time](https://www.virtuallocation.com/images/pokemon-go/adjust-date-and-time.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Tip 4: Check the Internet
@@ -99,6 +99,10 @@ Another tip to try out when your friend's location is not available is to make c
 **Step 1:** For Motorola Razr 40  users: get to the "Settings" app and go to "Privacy & Security". You will find the "Location Services" feature, click on it, and see the "Share My Location" feature.
 
 ![enable share my location](https://www.virtuallocation.com/images/pokemon-go/enable-share-my-location.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Toggle on the option to enable it. Once the feature is enabled, your friends will see your location, and you can see theirs.
 
@@ -136,9 +140,17 @@ To use Dr.Fone - Virtual Location, here are the steps you need to follow:
 
 ![drfone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** The next step is to set up the phone's connection. Connect your Motorola Razr 40  and click on the "Get Started" button. Now, detect your current virtual location by clicking on the "Current Virtual Location" icon.
 
 ![detect actual location](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** Now go to the search box and type the location you want to switch to. Once the location gets detected, click on the "Move Here" option, and the location of your Motorola Razr 40  or Android phone will change to the one you specified.
 
@@ -147,7 +159,7 @@ To use Dr.Fone - Virtual Location, here are the steps you need to follow:
 As you can see, when you have Dr.Fone - Virtual Location software, you can share any location with just one click. And it would seem that your Find My Friends app is working fine.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQs You May Want to Know about Motorola Razr 40  Location
@@ -194,10 +206,6 @@ Taking these precautions can help safeguard your phone's location and enhance yo
 
 **3981454** people have downloaded it
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Hopefully, now you know "why is find my friends not working" and several ways to fix the Find Friends location not available. In this guide, we learned all these tips to make it easy for Motorola Razr 40  users to rectify the issues with the Find Friends app. Check all the tips carefully and implement them whenever you face issues like this.
@@ -209,6 +217,10 @@ Have you ever had your phone stolen and someone got to see where you live? Did y
 You probably also have many applications installed, such as WhatsApp, Google maps, Facebook, etc. So how do you get notifications from all these apps without having to check each one individually?
 
 Life360 can help. It is a location-based app that lets you check the location of your device, your family members, and even your friends via push notifications. Does life360 tell you when someone checks your location? Read to learn more.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: How Does Life360 Work?
 
@@ -241,6 +253,10 @@ Does life360 notify when you turn off your location, and what can life360 monito
 
 Life360 hack - Here are some methods to stop sharing your location without them knowing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Invest in a Burner Phone
 
 Using an anonymous burner phone purchased with cash is a standard plot device in espionage movies and programs. There is a method that is the same as this for faking Life360.
@@ -268,10 +284,6 @@ Turning down the Motorola Razr 40 device's potential to interact with Wi-Fi and 
 ![ disable wi-fi and cellular data access](https://images.wondershare.com/drfone/article/2022/06/life360-notify-me-when-someone-checks-your-location-3.jpg)
 
 Once these services are no longer active, your location data will no longer change.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 3. Go For Dr.Fone
 
@@ -354,10 +366,6 @@ Here are the drawbacks you might encounter if you're using Fake GPS Mod APK on y
 - You need to go to your phone's development section and do some tinkering to allow Fake GPS Mod to work on your smartphone.
 - Fake GPS Mod APK is not available for iOS users.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: The Best Alternative to Fake GPS Mod APK - [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 Some of the obvious drawbacks of using Fake GPS Mod include putting your smartphone at risk of APKs and being exclusive on Android, essentially leaving out iOS users. Downloading a great alternative in [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) solves all your problems from location-based apps and games to make your life easier whether you're on iOS or Android.
@@ -375,6 +383,10 @@ If you want to learn more about how to fake your GPS location effectively, here'
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/V0gNpNucOvA"></iframe>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Steps to Fake GPS Location Using [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 Simply follow the steps below to start spoofing your GPS Location with Dr.Fone - Virtual Location.
@@ -391,10 +403,6 @@ Simply follow the steps below to start spoofing your GPS Location with Dr.Fone -
 
 ![connect ios android to drfone](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Tips:**
 
 IPhone users can connect to Dr.Fone - Virtual Location without connecting a USB Cable after syncing once.
@@ -407,10 +415,6 @@ IPhone users can connect to Dr.Fone - Virtual Location without connecting a USB 
 
 ![choose a route using dr fone](https://images.wondershare.com/drfone/article/2022/12/dr-fone-choose-route.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **(Optional) Step 5-B:** If you want to set multiple routes, click **Multi-stop mode** in the upper-right and select your chosen spots one by one. Use the sliders once more to specify the moving speed and how many times you have to go back and forth.
 
 ![choose multiple routes using dr fone](https://images.wondershare.com/drfone/article/2022/12/dr-fone-choose-multi-route.jpg)
@@ -418,10 +422,6 @@ IPhone users can connect to Dr.Fone - Virtual Location without connecting a USB 
 **(Optional) Step 5-C:** If you want to select spots you can pass one by one, click **Jump teleport mode** in the upper right corner. Choose your desired spots and click **Start Moving**. Afterward, click **Last Point** or **Next Point** to jump between spots.
 
 ![jump teleport using dr fone](https://images.wondershare.com/drfone/article/2022/12/dr-fone-jump-teleport.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Note:**
 
@@ -449,19 +449,20 @@ Trying a GPS spoofing app like [Dr. Fone - Virtual Location](https://tools.techi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-essential-guide-sharpening-your-iphone-pics-without-paid-apps/"><u>[New] 2024 Approved Essential Guide Sharpening Your iPhone Pics Without Paid Apps</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/budget-friendly-computer-resurrects-past-technological-phenomenon-and-sparks-vibrant-industry-debate-insights-from-zdnet/"><u>Budget-Friendly Computer Resurrects Past Technological Phenomenon and Sparks Vibrant Industry Debate | Insights From ZDNET</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/comprehensive-guide-to-the-top-10-cost-free-picture-archives/"><u>Comprehensive Guide to the Top 10 Cost-Free Picture Archives</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Samsung Galaxy A23 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Vivo T2 5G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-xiaomi-redmi-note-12t-pro-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Xiaomi Redmi Note 12T Pro? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Honor 90 GT | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Samsung Galaxy A05s | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Lava Storm 5G | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-apple-iphone-8-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock Apple iPhone 8 After Forgetting the Passcode?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-on-your-iphone-12-pro-max-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card on Your iPhone 12 Pro Max Apple ID and Apple Pay</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/neuestes-update-abbyy-gewahrt-xerox-exklusive-lizenzierung-fur-seine-patentierten-drucktechnologien/"><u>Neuestes Update: ABBYY Gewährt Xerox Exklusive Lizenzierung Für Seine Patentierten Drucktechnologien</u></a></li>
-<li><a href="https://solve-news.techidaily.com/the-top-5-strategies-for-effective-robotic-process-automation-adoption-using-smart-analytics/"><u>The Top 5 Strategies for Effective Robotic Process Automation Adoption Using Smart Analytics</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-one-device-one-storage-transferring-files-smoothly/"><u>[New] One Device, One Storage Transferring Files Smoothly</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-farm-management-mastery-for-stardews-ginger-isles-for-2024/"><u>[Updated] Farm Management Mastery for Stardew's Ginger Isles for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-techniques-for-addressing-errors-with-libcurldll-on-pcs/"><u>Effective Techniques for Addressing Errors with libcurl.dll on PCs</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/et-guide-producing-culinary-content/"><u>Gourmet Guide Producing Culinary Content</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-oppo-a58-4g-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Oppo A58 4G Phone | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-itel-p40plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Itel P40+? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-crafting-engaging-content-with-google-trends-analytics/"><u>In 2024, Crafting Engaging Content with Google Trends Analytics</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Samsung Galaxy M34 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-iphone-12-drfone-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-the-silent-problem-conexant-smartaudio-hd-not-working-on-windows-11/"><u>Resolving the Silent Problem: Conexant SmartAudio HD Not Working on Windows 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-expert-reviews-on-the-ideal-32-television-models-guide-by-zdnet/"><u>Top Picks: Expert Reviews on the Ideal 32 Television Models - Guide by ZDNet</u></a></li>
 </ul></div>
 

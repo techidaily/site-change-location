@@ -1,7 +1,7 @@
 ---
 title: How To Teleport Your GPS Location On Vivo Y78+ (T1) Edition? | Dr.fone
-date: 2024-08-29T07:43:16.813Z
-updated: 2024-08-30T07:43:16.813Z
+date: 2025-01-15T21:02:07.195Z
+updated: 2025-01-17T03:48:28.868Z
 tags: 
   - virtual location chang
   - location changer
@@ -21,8 +21,9 @@ While playing games like Pokemon Go, you are in desperate need of finding more P
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/FfhgWxnARqo" frameborder="0" allowfullscreen=""></iframe>
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Part 1: Teleport to Anywhere in the World (Teleport Mode)
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/FfhgWxnARqo" frameborder="0" allowfullscreen=""></iframe>
@@ -30,6 +31,10 @@ While playing games like Pokemon Go, you are in desperate need of finding more P
 **Note:** Once you teleport or move to a virtual place, you can restore to the actual location by restarting the Vivo Y78+ (T1) Edition device. You will see a prompt that reminds you to restart your device to restore the location of the connected device when you close the Virtual Location. Click **Restart Device** and close the program.
 
 ![restart device on closing virtual location](https://images.wondershare.com/drfone/guide/restart-decive.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _\* Dr.Fone Mac version still has the old interface, but it does not affect the use of Dr.Fone function, we will update it as soon as possible._
 
@@ -39,18 +44,12 @@ Step 1Activate Teleport Mode
 
 Once you have connected your smartphone, continue to select the **Teleport Mode** option from the top-right section. The particular icon is represented by the first icon from the left in that section.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![select teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
 Step 2Add Location To Teleport
 
 After activating **Teleport Mode,** click the search bar on the top-left to type in the location where you want to shift. After adding the location, hit **Enter** to proceed.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![look for a location to teleport](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
 **Note:** If you can't find your current location when searching spots on the map, you can click the **Current Virtual Location** icon on the right sidebar to show your current virtual location.
@@ -59,25 +58,27 @@ Step 3Confirm the Location For Teleporting
 
 You will be directed to the particular, and the map will display it for confirmation. If you are willing to teleport to this specific location, click **Move Here**.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![confirm the location to spoof](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 Step 4Location Successfully Changed On Computer
 
 The location of the smartphone will be instantly changed to the selected location and will be displayed on the map.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![move location successfully](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 5Location Changed On the Smartphone
 
 Open your smartphone and access its maps application. Look into the current location of the Vivo Y78+ (T1) Edition device and verify it to be the same as the changed location on the computer.
 
 ![confirm location on the smartphone](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Part 2: Instantaneous Movement Between Multiple Points (Jump Teleport Mode)
 
@@ -101,15 +102,16 @@ As prescribed, you can propagate amongst the set spots with the Jump Teleport Mo
 
 ![start changing location](https://images.wondershare.com/drfone/guide/start-use-jump-teleport-mode.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Life360 Circle: Everything You Need to Know On Vivo Y78+ (T1) Edition
 
 In order to keep in touch with the persons that matter most to you, you may use circles to create private groups. There are a lot of different situations in which the Circle is useful. Please make sure everything is where it should be. Since Check-Ins, Location Sharing, and Messaging are all exclusive to each Circle, no one who does not need to view a particular piece of information will. You've got the upper hand here. You have complete control over who is and isn't included in your Circle. Privacy is something we take very seriously.
 
 Paying for a Life360 package gives you access to all the Circles. To ensure that everyone in your Circle is able to take advantage of the perks that come with a Life360 Membership, each paid plan for Life360 includes all members in your Circle.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: What Is Life360 Circle?
 
 Life360 is a family safety service that offers a variety of services. Its primary focus is to enable families to communicate and stay in touch with each other.
@@ -142,17 +144,12 @@ As soon as you've set up your Circle, no one else will be on it. Select "Add a N
 
 After downloading the app, you'll receive an alert that they have joined your Circle. You'll be able to monitor their activities from then on.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ## Part 5: How to Fake Your Circle Location on Life360
 
-
-
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 1-Click Location Changer for both iOS and Android
@@ -173,10 +170,11 @@ The gadget is entirely safe to use and has a superb record for doing its job wel
 
 **Step 1:** Download and install Dr.Fone – Virtual Location on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![access virtual location feature](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2:** Now would be an excellent time to take your iPhone and connect it to the pc. Upon successful connection, press the "Get Started" icon.
 
@@ -184,30 +182,20 @@ The gadget is entirely safe to use and has a superb record for doing its job wel
 
 **Step 3:** Following that, you'll see an area map. You'll be able to know where you are right now if you use this feature. The "Center On" symbol may be found in the bottom right of the screen if the location isn't appropriately shown.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ![choose destination](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
 **Step 4:** The three life360 symbols at the upper right of the screen are visible. Activating the Teleport Mode requires you to tap on the third icon. Click "Go" when ready to go to your desired location.
 
 ![choose destination you want](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5:** When you input a new location, the application monitors and assesses it. A new box will immediately emerge at the location where the distance is specified. Choosing "Move Here" will cause your current location to be updated to reflect the new place you've picked.
 
 ![tap on move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ## Part 6: How to Delete/Leave a Life360 Circle?
 
 Getting rid of a Circle is a cinch! To begin, you need to:
@@ -220,15 +208,15 @@ Getting rid of a Circle is a cinch! To begin, you need to:
 
 Life360 has become one of the most popular applications on the App Store. It's designed to help people stay connected with friends and family. However, if you're interested in learning how to fake your location on Life360, we recommend using [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/). It's a more safe and effective way to get around the restrictions that Life360 puts in place.
 
-
-
-
-
 ## Fixing Foneazy MockGo Not Working On Vivo Y78+ (T1) Edition
 
 Foneazy MockGo is one of the most popular software out there that allows you to share a temporary, fake, or spoof location with others. There are different factors as to why you will use this software, such as a tool for your games that require your geographic location or some. On the other hand, it could just be for your own security. Whatever your reason is, you can use this software to share a fake location with anyone.
 
 Similar to other software, you will for sure encounter some problems or limitations when using Foneazy MockGo. These fixes could either be temporary or could just be due to the software's capabilities. Therefore, we will share with you in this article some tips that you can use to fix some issues that you will encounter and what alternatives you can use in case you cannot fix the issue in Foneazy MockGo.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: What is Foneazy MockGo?
 
@@ -256,8 +244,6 @@ Try all of these tricks that we have shared and get that temporary issue in Fone
 
 ## Part 3: Best Foneazy MockGo Alternative Progam You Can Use in 2022
 
-
-
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 The best Foneazy MockGo alternative to fake location!
@@ -277,33 +263,25 @@ Our product, **“Dr. Fone - Virtual Location” (**[**https://drfone.wondershar
 - **_Step 1:_** Download the “Dr. Fone - Virtual Location” software on your laptop. Open and choose “Virtual Location”.
 - **_Step 2:_** You can then connect your phone to your computer and click on “Get Started”.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![virtual-location](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **_Step 3:_** You will then be redirected to your current location on the new page.
 - **_Step 4:_** If you want to change your location, you will need to turn on the “Teleportation” mode by clicking on the first icon and typing the location that you want then click on the “Go” icon.
 - **_Step 5:_** Click on “Move Here” and your current location will show up as the location that you typed on Your Vivo Y78+ (T1) Edition.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![virtual-location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 **You can watch the video below to gfix Foneazy MockGo not working on your device**
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/3fv4x1uE-LE"></iframe>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Conclusion
 
 There you have it, these are the tricks that you can do on your own to fix any issue that comes up when using Foneazy MockGo or when this application is not working. Despite the advantages of using this application, you will for sure still encounter some limitations so you can look for an alternative that does the same job of sharing a spoof location and that is using **[Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)** which will help you to advance your levels in your AR games or find out other options in other locations in the world.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -317,11 +295,20 @@ There you have it, these are the tricks that you can do on your own to fix any i
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-effortlessly-merge-your-memories-photos-from-iphone-to-snapchat-for-2024/"><u>[New] Effortlessly Merge Your Memories Photos From iPhone to Snapchat for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-prolific-performance-our-picks-for-top-8-workflow-planners-for-2024/"><u>[New] Prolific Performance Our Picks for Top 8 Workflow Planners for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/he-ultimate-playbook-to-youtube-hub-mastery/"><u>[New] The Ultimate Playbook to YouTube Hub Mastery</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-vector-magic-discovering-the-10-software-picks-you-need/"><u>[New] Vector Magic Discovering the 10 Software Picks You Need</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-samsung-galaxy-a14-5g-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Samsung Galaxy A14 5G Phone | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-infinix-hot-40-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Infinix Hot 40? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Tecno Spark 20C? | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/pedal-and-pound-uncovering-how-days-gone-revamps-post-apocalyptic-bikers-adventure/"><u>Pedal & Pound: Uncovering How 'Days Gone' Revamps Post-Apocalyptic Bikers Adventure</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Xiaomi Redmi Note 12T Pro? | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/quick-guide-to-swedish-language-scripts/"><u>Quick Guide to Swedish Language Scripts</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-the-best-of-the-best-top-5-online-stop-motion-creators/"><u>Updated In 2024, The Best of the Best Top 5 Online Stop Motion Creators</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Can Life360 Track You When Your Apple iPhone 7 is off? | Dr.fone
-date: 2025-01-07T17:08:09.341Z
-updated: 2025-01-11T16:18:19.950Z
+date: 2025-01-12T04:25:36.832Z
+updated: 2025-01-17T06:50:18.047Z
 tags: 
   - virtual location chang
   - location changer
@@ -64,7 +64,7 @@ Disabling Life360's Wi-Fi and Data may result in a warning to parents that their
 Alternatively, you should disable background app refresh, mobile network, physical activity, and WIFI to save battery life. An issue with your Internet connection will come up instead of location stopped in this situation. So don't connect to any Wi-Fi at all.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Fake Locations
@@ -87,10 +87,6 @@ Use a wired connection. Adolescents can turn off Wi-Fi and data when using the L
 
 All these methods can be used to Stop Life360 from Tracking You. However, the best all-in-one solution is a third-party application called Dr.Fone. This Virtual Location Software helps you keep your tracking off, but you can also fake your location very easily in minutes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Conclusion
 
 Can you track a phone if the location is off? Life360 has become a standard feature of many smartphones. Parents often use it to monitor their children's location. The fact that Life360 can be used to track users is quite disturbing. The good news is that there are ways to stop Life360 from tracking you. The best and all-in-one solution is a third-party application called [Dr.Fone - Virtual Location](https://drfone.wondershare.com/drfone-toolkit.html).
@@ -111,6 +107,10 @@ Once you launch Wondershare Dr.Fone - Virtual Location and connect your smartpho
 
 ![activate one stop route mode](https://images.wondershare.com/drfone/guide/virtual-location-08.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2Define Simulation Parameters
 
 Enter a number to define how many times you want to go back and forth, and select whether you want a **Round trip** or a **Loop trip**. Drag the slider on the speed option to set how fast you want to walk. Proceed to click **Move Here** on the bottom to start the movement simulation.
@@ -122,14 +122,6 @@ Step 3Start Simulation Movement
 The respective simulation starts, and you can see your position is moving on the map with the speed you set. If you wish to hold the simulation, click **Pause** or tap **Clear** to revert to your original state.
 
 ![start one stop simulation](https://images.wondershare.com/drfone/guide/virtual-location-10.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Part 2: Simulate Movement Along a Route (Multi-Stop Route)
 
@@ -145,19 +137,11 @@ Activate the **Multi-Stop Route** mode from the top-right section next to the On
 
 ![activate multi stop simulation](https://images.wondershare.com/drfone/guide/virtual-location-11.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2View Multi-Stop Route Movement
 
 As the simulation starts, click **Pause** at any instance where you want to stop the simulation. You can also **Clear** all settings if required.
 
 ![execute multi stop route simulation](https://images.wondershare.com/drfone/guide/virtual-location-12.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Part 3: Use Joystick for More Flexible GPS Control (Joystick Movement)
 
@@ -171,10 +155,6 @@ The joystick, like one-stop route or multi-stop route modes, aims to facilitate 
 - **Manual GPS movement:** Move forward by constantly clicking the Up arrow in the program and long-pressing the key W or Up on the keyboard. Reverse by constantly clicking the Down arrow, or long-pressing the key S or Down on the keyboard. You can also tweak the directions using the four ways above before moving forward or reverse.
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/r2GiOQxwfQc" frameborder="0" allowfullscreen=""></iframe>
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best 10 Mock Location Apps Worth Trying On Apple iPhone 7
 
@@ -192,15 +172,15 @@ The sole purpose of mock location apps or software is to help users spoof/ mock 
 - Location-based games such as Pokémon GO derive the most benefit from a mock location app because you can change your location and show yourself walking in the streets of London while sipping a mojito at a beach in Hawaii and catching amazing new Pokémon!
 - In dating apps, why pay a fee to unlock worldwide access when you can simply use a mock location app to let the dating app change your current location automatically in accordance with your selection in the location spoofer app on your Android or iPhone?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part II: Is It Safe to Mock Location? Can It Be Detected?
 
 One of the most frequent and completely understandable concern and question on people’s minds when they talk about location spoofing is whether is it safe to mock location whether it can be detected and what the consequences are.
 
 Answer: Location spoofing is safe and will go undetected as long as it is done sensibly and with the right mock location app on your Apple iPhone 7 and Android. You have nothing to worry about as long as you do not be particularly obvious about location mocking. This means that you should take care not to be hopping like a bunny from here and there in minutes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part III: Top Mock Location Apps for iPhone
 
@@ -209,6 +189,10 @@ There are fewer mock location apps on the Apple Store due to Apple's strict poli
 #### 1\. [Dr.Fone - Virtual Location (iOS)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 ![drfone virtual location ios](https://images.wondershare.com/drfone/article/2023/12/mock-location.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 This is by far the best one out there. It is designed professionally and inspires trust, unlike some other apps that neither look as polished nor work as flawlessly. When in doubt, trust Wondershare’s Dr.Fone – Virtual Location (iOS) to do the job reliably and professionally in just a few clicks.
 
@@ -234,11 +218,19 @@ iTools by ThinkSkySoft is another great location spoofer you can use. It has an 
 
 ![itoolab](https://images.wondershare.com/drfone/article/2023/12/mock-location-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 iToolab is another popular location spoofer for iPhone and comes with some powerful features that you might want. It is continually developed, which means it supports the latest iOS 17 as well.
 
 #### 4\. iMoveGo
 
 ![imovego](https://images.wondershare.com/drfone/article/2023/12/mock-location-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 A quality product from Wootechy, iMoveGo is compatible with the latest iOS 17 and works well for what it does. It does not require jailbreak and comes with a trial version you can use to see what it does and if it fits your purpose.
 
@@ -247,10 +239,6 @@ A quality product from Wootechy, iMoveGo is compatible with the latest iOS 17 an
 ![ispoofer](https://images.wondershare.com/drfone/article/2023/12/mock-location-6.jpg)
 
 Probably one of the most known apps at one point in time, iSpoofer was great at spoofing location on iPhone until Niantic, the makers of Pokémon GO, detected the app, and banned it. The app still works with some tricks up its sleeve, but we do not really recommend it, given that it was detected once and if you are detected using the app, you will be banned from the Poke-verse for good.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part IV: Top Mock Location Apps for Android
 
@@ -266,6 +254,10 @@ GPS Emulator by DigiTools can run on the Android device itself and spoof your lo
 
 ![gps joystick](https://images.wondershare.com/drfone/article/2023/12/mock-location-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Fake GPS Location-GPS JoyStick by The App Ninjas is a popular mock location spoofer app on Android. This one provides an overlay joystick control to mock location on Android devices, and it might not be everyone’s cup of tea. Some find the joystick incredibly useful and intuitive while some are downright annoyed by it.
 
 #### 3\. iToolab AnyGo for Android
@@ -279,6 +271,10 @@ iToolab AnyGo for Android works in over 100 games and apps and can simulate move
 ![drfone virtual location android](https://images.wondershare.com/drfone/article/2023/12/mock-location-android.jpg)
 
 Dr.Fone - Virtual Location can be used to effectively spoof GPS coordinates on Android devices as well. An issue that other spoofing apps present is that the location might jump between its true location and falsified location, which means that other apps might present a location spoofing solution that is not stable. That is not the case with Dr.Fone - Virtual Location (Android) where a location once set remains set as long as you want it to, and will not jump.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
@@ -337,10 +333,6 @@ Click the third option from the top right to enter One-stop Route mode. Enter a 
 
 ![drfone virtual location one stop mode](https://images.wondershare.com/drfone/guide/virtual-location-08.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 5: Click another location or type it and choose from the traveling parameters such as walking, cycling, riding, or driving, and click Move Here as shown below.
 
 ![drfone virtual location one stop mode](https://images.wondershare.com/drfone/guide/virtual-location-09.png)
@@ -348,6 +340,14 @@ Step 5: Click another location or type it and choose from the traveling paramete
 Your device will start simulating movement as per your set parameters and the map will start moving. You can pause or cancel at any time.
 
 ![drfone virtual location spoofer](https://images.wondershare.com/drfone/guide/virtual-location-10.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part VI: Tips To Avoid Detection
 
@@ -375,20 +375,16 @@ Using a mock location app can be fun. You can use it for recreational purposes s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-content-creation-in-todays-revenue-landscape/"><u>[New] Content Creation in Today’s Revenue Landscape</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/etting-up-video-size-on-youtube-complete-tutorial-for-2024/"><u>[New] Setting Up Video Size on YouTube Complete Tutorial for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-enhance-your-vtuber-experience-with-top-voice-modification-tools/"><u>[Updated] Enhance Your VTuber Experience with Top Voice Modification Tools</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-samsungs-latest-bd-edition-k850-update/"><u>[Updated] Samsung's Latest BD Edition - K850 Update</u></a></li>
-<li><a href="https://change-location.techidaily.com/all-you-need-to-know-about-mega-greninja-for-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Samsung Galaxy A15 5G | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-silent-cyberpunk-2077-troubleshooting-steps-for-pc-gamers/"><u>Fixing Silent Cyberpunk 2077: Troubleshooting Steps for PC Gamers</u></a></li>
-<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-vivo-v29e-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Vivo V29e Phone | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-infinix-smart-7-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Infinix Smart 7 Screen Black But Still Works? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-meizu-21-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Meizu 21?</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-ispoofer-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Samsung Galaxy A34 5G? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Samsung Galaxy Z Flip 5? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-revolutionize-your-profile-picture-top-11-online-makers-ranked/"><u>In 2024, Revolutionize Your Profile Picture Top 11 Online Makers Ranked</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-honor-x50-gt-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Honor X50 GT Location | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-photography-refinement-removing-backgrounds-and-blurring-effectively/"><u>[Updated] Photography Refinement Removing Backgrounds & Blurring Effectively</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-wealth-dissection-of-the-elusive-mr-beast-for-2024/"><u>[Updated] Wealth Dissection of the Elusive Mr. Beast for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-battle-fixing-warzones-directx-error-with-simple-solutions/"><u>Beat the Battle: Fixing Warzone's DirectX Error with Simple Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-ark-crashes-effective-methods-for-a-smoother-user-experience/"><u>Fixing ARK Crashes: Effective Methods for a Smoother User Experience</u></a></li>
+<li><a href="https://change-location.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-infinix-note-30-vip-racing-edition-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Infinix Note 30 VIP Racing Edition Quickly? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-it-oneplus-nord-n30-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It OnePlus Nord N30 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-locked-iphone-7-by-restoring-it-to-factory-settings-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock locked iPhone 7 by restoring it to factory settings</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-vivo-x100-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-vivo-x90s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Vivo X90S | Dr.fone</u></a></li>
 </ul></div>
 

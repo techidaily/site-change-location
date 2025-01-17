@@ -1,7 +1,7 @@
 ---
 title: In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Google Pixel 8 | Dr.fone
-date: 2025-01-06T17:12:05.092Z
-updated: 2025-01-11T18:46:55.713Z
+date: 2025-01-16T02:06:11.943Z
+updated: 2025-01-16T19:44:20.154Z
 tags: 
   - virtual location chang
   - location changer
@@ -24,6 +24,10 @@ There is no doubt that Find My Friends is an excellent application for location 
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: What Does "Location Not Available" Mean on Find My Friends?
 
@@ -62,19 +66,11 @@ When the Find My Friends app location is not available, here are some more tips 
 
 The foremost thing you should do when the Find My Friends location is not available is to check the region/country's location. Apple Inc still hasn't provided the Find My Friends feature in all countries and regions due to local laws and technical issues. So, the most plausible reason for the app not working properly is solely because it is not available in that particular country/region.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Tip 2: Quit and enable GPS or Location Services again
 
 After verifying that the feature is available in your region, enable the GPS & Location Services. In case you've already enabled the feature, turn it off, quit the app, and again enable the service. It might fix the location not found on the Find My Friends issue you've been facing. Just open Settings > Privacy & Security > Location Services and toggle the bar to turn the feature on or off.
 
 ![enable location services](https://www.virtuallocation.com/images/pokemon-go/enable-location-services.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Tip 3: Adjust Google Pixel 8  Date and Time
 
@@ -89,7 +85,11 @@ Before you conclude that there is something wrong with the Find My Friends app, 
 ![check internet connection](https://www.virtuallocation.com/images/pokemon-go/check-internet-connection.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Tip 5: Enable Share My Location
@@ -100,10 +100,6 @@ Another tip to try out when your friend's location is not available is to make c
 
 ![enable share my location](https://www.virtuallocation.com/images/pokemon-go/enable-share-my-location.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Toggle on the option to enable it. Once the feature is enabled, your friends will see your location, and you can see theirs.
 
 For Android users, go to "Settings" > "Additional settings" > "Privacy" > "Location", and choose the location mode to enable it.
@@ -113,6 +109,10 @@ For Android users, go to "Settings" > "Additional settings" > "Privacy" > "Locat
 The next tip to use when Find My Friends says location not available is restarting your phone. For most devices, the method is common. But for Google Pixel 8  X and 11, the steps are slightly different. For other Google Pixel 8  models, press the Power button and wait until the slider appears. For Google Pixel 8  X and 11/12/13/14, you'll have to hold the Volume button and the Power button together to make the slider appear on the screen.
 
 ![restart Google Pixel 8 ](https://www.virtuallocation.com/images/pokemon-go/restart-Google Pixel 8 .jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Drag the Power slider to the right side and wait for the Google Pixel 8 device to shut down. Wait for a minute before you restart the Google Pixel 8 device, and hopefully, the feature will start working again as usual.
 
@@ -139,10 +139,6 @@ To use Dr.Fone - Virtual Location, here are the steps you need to follow:
 **Step 1:** Download the virtual location app for both iOS and Android and install it on your system carefully. Then, launch the app and select the "Virtual Location" option from the toolkit.
 
 ![drfone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 2:** The next step is to set up the phone's connection. Connect your Google Pixel 8  and click on the "Get Started" button. Now, detect your current virtual location by clicking on the "Current Virtual Location" icon.
 
@@ -264,19 +260,23 @@ Now, you can just go to the Play Store and download the VPNa Fake GPS Location a
 
 ![defaut mock location app](https://www.virtuallocation.com/images/vpna/vpna-fake-gps-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Step 3: Spoof your Android's location**
 
 That's it! Whenever you wish to change the location of your device, simply launch VPNa Fake GPS APK. You can enter any location's address or coordinates in the search bar and wait for it to be loaded on the interface.
 
 ![spoof your android](https://www.virtuallocation.com/images/vpna/vpna-fake-gps-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Later, you can move the pin around and drop it anywhere you like. Tap on the Start button and confirm your choice to spoof your device's location.
 
 ![choose anywhere you like](https://www.virtuallocation.com/images/vpna/vpna-fake-gps-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Bonus Tip: How to Spoof an iPhone Location without Jailbreak
 
@@ -284,19 +284,15 @@ While Android users can take the assistance of VPNa Fake GPS, iOS users often fi
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/FfhgWxnARqo" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 1: Connect your iPhone and launch the tool
 
 At first, you can just connect your iPhone to your computer and launch the Dr.Fone toolkit. Select the "Virtual Location" feature from its home and click on the "Get Started" button.
 
 ![vpna dr.fone-virtual location](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Step 2: Look for a location to spoof
 
@@ -317,6 +313,10 @@ This brings us to the end of this detailed VPNa Fake GPS Location Free review. T
 In order to keep in touch with the persons that matter most to you, you may use circles to create private groups. There are a lot of different situations in which the Circle is useful. Please make sure everything is where it should be. Since Check-Ins, Location Sharing, and Messaging are all exclusive to each Circle, no one who does not need to view a particular piece of information will. You've got the upper hand here. You have complete control over who is and isn't included in your Circle. Privacy is something we take very seriously.
 
 Paying for a Life360 package gives you access to all the Circles. To ensure that everyone in your Circle is able to take advantage of the perks that come with a Life360 Membership, each paid plan for Life360 includes all members in your Circle.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: What Is Life360 Circle?
 
@@ -350,10 +350,6 @@ As soon as you've set up your Circle, no one else will be on it. Select "Add a N
 
 After downloading the app, you'll receive an alert that they have joined your Circle. You'll be able to monitor their activities from then on.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 5: How to Fake Your Circle Location on Life360
 
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
@@ -378,6 +374,10 @@ The gadget is entirely safe to use and has a superb record for doing its job wel
 
 ![access virtual location feature](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Now would be an excellent time to take your iPhone and connect it to the pc. Upon successful connection, press the "Get Started" icon.
 
 ![tap on get started button](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
@@ -386,13 +386,13 @@ The gadget is entirely safe to use and has a superb record for doing its job wel
 
 ![choose destination](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4:** The three life360 symbols at the upper right of the screen are visible. Activating the Teleport Mode requires you to tap on the third icon. Click "Go" when ready to go to your desired location.
 
 ![choose destination you want](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5:** When you input a new location, the application monitors and assesses it. A new box will immediately emerge at the location where the distance is specified. Choosing "Move Here" will cause your current location to be updated to reflect the new place you've picked.
 
@@ -424,18 +424,22 @@ Life360 has become one of the most popular applications on the App Store. It's d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-picsnapper-app-testimonials-and-feedback/"><u>[New] 2024 Approved PicSnapper App Testimonials & Feedback</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-top-5-samsung-gear-vr-games/"><u>[Updated] 2024 Approved Top 5 Samsung Gear VR Games</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-win10-screen-grabbing-top-quality-captures/"><u>[Updated] In 2024, Win10 Screen Grabbing - Top Quality Captures</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-tips-of-recording-time-lapse-video-on-iphone/"><u>2024 Approved Tips of Recording Time Lapse Video on iPhone</u></a></li>
-<li><a href="https://change-location.techidaily.com/home-button-not-working-on-nokia-c12-plus-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Nokia C12 Plus? Here Are Real Fixes | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-it-honor-100-pro-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Honor 100 Pro Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-14-online-here-are-6-easy-ways-by-drfone-ios/"><u>How to Unlock iPhone 14 Online? Here are 6 Easy Ways</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-samsung-galaxy-m14-4g-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Samsung Galaxy M14 4G FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-explore-template-treasures-to-craft-unique-corporate-emblems/"><u>In 2024, Explore Template Treasures to Craft Unique Corporate Emblems</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-vivo-v30-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Vivo V30 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Vivo Y27 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-realme-c53-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Realme C53 Location by Number | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/prime-shopping-destinations-customizable-presents-with-flair-for-2024/"><u>Prime Shopping Destinations Customizable Presents with Flair for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-finding-opportunities-where-youtube-collaborations-thrive/"><u>[Updated] 2024 Approved Finding Opportunities Where YouTube Collaborations Thrive</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-visionaryzoom-7-x-perfect-photo-amplification/"><u>[Updated] 2024 Approved VisionaryZoom 7-X Perfect Photo Amplification</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-dive-deeper-how-to-zoom-with-precision-in-minecraft/"><u>[Updated] In 2024, Dive Deeper How to Zoom with Precision in Minecraft</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-smartphones-and-tablets-leading-gb-gameplayers/"><u>[Updated] Smartphones & Tablets Leading GB Gameplayers</u></a></li>
+<li><a href="https://change-location.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/bluetooth-brawl-apple-airpods-pro-vs-samsungs-buds-pro-edition/"><u>Bluetooth Brawl: Apple AirPods Pro Vs. Samsung's Buds Pro Edition</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ning-youtube-videos-for-seamless-playback-for-2024/"><u>Combining YouTube Videos for Seamless Playback for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-sony-xperia-1-v-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Sony Xperia 1 V Phone | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-infinix-hot-40-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-vivo-x100-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-four-k-faceoff-sj6-legend-versus-xiaomis-yi-prototype/"><u>In 2024, Four-K Faceoff SJ6 Legend Versus Xiaomi's Yi Prototype</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-any-oppo-a58-4g-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Oppo A58 4G Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/list-of-pokemon-go-joysticks-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/where-is-the-best-place-to-catch-dratini-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Vivo T2 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
 

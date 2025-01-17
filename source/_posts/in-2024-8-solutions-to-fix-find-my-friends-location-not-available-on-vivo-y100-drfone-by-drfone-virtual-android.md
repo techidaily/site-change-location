@@ -1,7 +1,7 @@
 ---
 title: In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Vivo Y100 | Dr.fone
-date: 2025-01-10T17:52:36.693Z
-updated: 2025-01-11T17:27:44.945Z
+date: 2025-01-12T23:37:10.403Z
+updated: 2025-01-17T01:25:39.805Z
 tags: 
   - virtual location chang
   - location changer
@@ -24,6 +24,10 @@ There is no doubt that Find My Friends is an excellent application for location 
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: What Does "Location Not Available" Mean on Find My Friends?
 
@@ -54,25 +58,13 @@ Why does Find My Friends say location not available? Before we get to the soluti
 
 All these reasons can be the ones causing trouble on your Vivo Y100  and Android phones. Hence, you will have to look for some conventional methods to fix the unavailable location error.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: 8 Tips To Make "Find My Friends Location" Available
 
 When the Find My Friends app location is not available, here are some more tips that can help get rid of this issue.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Tip 1: Check if Find My Friends is Supported in Region/Country
 
 The foremost thing you should do when the Find My Friends location is not available is to check the region/country's location. Apple Inc still hasn't provided the Find My Friends feature in all countries and regions due to local laws and technical issues. So, the most plausible reason for the app not working properly is solely because it is not available in that particular country/region.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Tip 2: Quit and enable GPS or Location Services again
 
@@ -85,6 +77,10 @@ After verifying that the feature is available in your region, enable the GPS & L
 As we stated in the possible reasons, incorrect dates and times also result in this problem. If you have manually set the date and time, change the settings and set it to "Set Automatically" in General Settings. Hopefully, this will resolve the problem when the Find My Friends location is not available.
 
 ![adjust date and time](https://www.virtuallocation.com/images/pokemon-go/adjust-date-and-time.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tip 4: Check the Internet
 
@@ -112,6 +108,10 @@ The next tip to use when Find My Friends says location not available is restarti
 
 Drag the Power slider to the right side and wait for the Vivo Y100 device to shut down. Wait for a minute before you restart the Vivo Y100 device, and hopefully, the feature will start working again as usual.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Tip 7: Check That Your Friend Has Signed into Find My Friends
 
 Another tip that can help you resolve to **Find My Friends location not available** is checking that your friend has signed into the app. It is apparent that if your friend hasn't logged into the feature, you won't access his/her location.
@@ -121,6 +121,10 @@ Open the Find Friends app, log into it, and enable the location-sharing feature.
 ### Tip 8: Quit Find My Friends App and Open It Again
 
 Last but not least valuable tip to use when the Find Friends location is not available is to quit the app. There is a possibility that you've faced the problem only because of a momentary issue or some random glitch. Make sure that you also clear the cache memory before opening the app again. It might fix the problem entirely.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Extension: Can I send the fake location by Find Friends to others?
 
@@ -136,15 +140,27 @@ To use Dr.Fone - Virtual Location, here are the steps you need to follow:
 
 ![drfone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** The next step is to set up the phone's connection. Connect your Vivo Y100  and click on the "Get Started" button. Now, detect your current virtual location by clicking on the "Current Virtual Location" icon.
 
 ![detect actual location](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** Now go to the search box and type the location you want to switch to. Once the location gets detected, click on the "Move Here" option, and the location of your Vivo Y100  or Android phone will change to the one you specified.
 
 ![move to virtual location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 As you can see, when you have Dr.Fone - Virtual Location software, you can share any location with just one click. And it would seem that your Find My Friends app is working fine.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## FAQs You May Want to Know about Vivo Y100  Location
 
@@ -178,10 +194,6 @@ Yes, you can take steps to prevent someone from tracking your phone's location. 
 
 Taking these precautions can help safeguard your phone's location and enhance your privacy. It's important to stay vigilant and be aware of the privacy settings and permissions on your device.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 1-Click Location Changer for both iOS and Android
@@ -205,6 +217,10 @@ Have you ever had your phone stolen and someone got to see where you live? Did y
 You probably also have many applications installed, such as WhatsApp, Google maps, Facebook, etc. So how do you get notifications from all these apps without having to check each one individually?
 
 Life360 can help. It is a location-based app that lets you check the location of your device, your family members, and even your friends via push notifications. Does life360 tell you when someone checks your location? Read to learn more.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: How Does Life360 Work?
 
@@ -265,10 +281,6 @@ Turning down the Vivo Y100 device's potential to interact with Wi-Fi and cellula
 
 Once these services are no longer active, your location data will no longer change.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 3. Go For Dr.Fone
 
 This is one of the best products to spoof or stop your location immediately. In addition, you can alter your GPS position whenever it is necessary with the help of [Dr.Fone - Virtual Location (iOS/Android)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/),.
@@ -298,16 +310,12 @@ Here are the steps you can follow to stop sharing your location on your iPhone d
 
 ![open feature](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3.** You'll be presented with a new window called "Virtual Location."
 
 ![start location faking](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4.** Make sure you have a USB cable for your iPhone or iPad or Android that is compatible with your computer. Take a moment to unlock the Vivo Y100 device, if necessary, and then press the Trust Device option.
@@ -319,10 +327,6 @@ Here are the steps you can follow to stop sharing your location on your iPhone d
 **Step 6.** To teleport your Phone to a specific place, type its address into the address bar. Next, choose an area from the drop-down menu that appears.
 
 ![one stop teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 7.** Make a selection and then touch "Move here."
 
@@ -353,10 +357,6 @@ Aside from giving you a temporary location, it also stimulates real-time movemen
 Another great feature this tool has is that you can even change the speed of your journey. May that be cycling, driving, or walking, you can choose the speed you want to simulate a real-life journey without having to do any steps yourself. They also have a beginner user-friendly interface that will not confuse first-time users
 
 On another note, we will share with you the limitation of the Foneazy MockGo software. Currently, this application is only available for iOS phone users, and Android users. Therefore, you are not able to use this software. Another limitation is that it does not support macOS versions that are older than 10.10. Reaching out to their customer support can also take a long time as they take time to respond to you. Lastly, the software will stop updating, and you will need to check yourself if the software needs to be updated.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to Fix Foneazy MockGo Not Working Issue
 
@@ -402,7 +402,7 @@ Our product, **“Dr. Fone - Virtual Location” (**[**https://drfone.wondershar
 ![virtual-location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **You can watch the video below to gfix Foneazy MockGo not working on your device**
@@ -427,19 +427,21 @@ There you have it, these are the tricks that you can do on your own to fix any i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-valorant-portraits-professional-thumbnails-made-in-a-flash/"><u>[New] In 2024, Valorant Portraits - Professional Thumbnails Made in a Flash</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-ion-air-pro-3-visionary-revolutionizing-action-video-for-2024/"><u>[New] ION Air Pro 3 Visionary - Revolutionizing Action Video for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-elevate-your-gaming-experience-with-these-5-techniques-on-windows-11/"><u>[Updated] 2024 Approved Elevate Your Gaming Experience with These 5 Techniques on Windows 11</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1-superior-charging-experience-why-magsafe-is-a-compelling-reason-to-upgrade-your-iphone/"><u>1. Superior Charging Experience: Why MagSafe Is a Compelling Reason to Upgrade Your iPhone</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-step-by-step-guide-to-ps5-game-deletion/"><u>A Step-by-Step Guide to PS5 Game Deletion</u></a></li>
-<li><a href="https://change-location.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Vivo Y200e 5G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Samsung Galaxy A05? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Samsung Galaxy A15 4G? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Nokia C22 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Google Pixel 8 Pro? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Realme 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/ignite-your-narratives-complimentary-fb-apps-for-everyday-users-for-2024/"><u>Ignite Your Narratives Complimentary FB Apps for Everyday Users for 2024</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/live-streaming-mastery-with-manycam-top-choice-in-virtual-webcams-and-pro-level-video-apps/"><u>Live Streaming Mastery with ManyCam: Top Choice in Virtual Webcams and Pro-Level Video Apps</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/mastering-mixes-with-pcdj-insights-from-a-renowned-pcdj-artist-and-software-enthusiast/"><u>Mastering Mixes with PCDJ: Insights From a Renowned PCDJ Artist & Software Enthusiast</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-clear-up-zoom-audio-troubleshoot-distortion-immediately/"><u>[New] Clear Up Zoom Audio Troubleshoot Distortion Immediately</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-crafting-allure-in-online-visuals-for-beauty/"><u>[Updated] Crafting Allure in Online Visuals for Beauty</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-pros-playbook-mastering-gameplay-logging-in-windows-10/"><u>[Updated] In 2024, Pro's Playbook Mastering Gameplay Logging in Windows 10</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-perfect-guide-uploading-subtitles-via-social-networks/"><u>[Updated] Perfect Guide Uploading Subtitles via Social Networks</u></a></li>
+<li><a href="https://article-helps.techidaily.com/best-meme-text-generators-to-use/"><u>Best Meme Text Generators to Use</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-xiaomi-redmi-12-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Xiaomi Redmi 12 Phone | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Samsung Galaxy S23? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-vivo-v29-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Vivo V29 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-why-is-ipogo-not-working-on-samsung-galaxy-m34-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Samsung Galaxy M34? Fixed | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/ipogo-will-be-the-new-ispoofer-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Vivo Y100i Power 5G? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/labor-day-special-save-big-and-grab-the-new-apple-pencil-for-only-95-the-perfect-time-to-upgrade-deals/"><u>Labor Day Special! Save Big and Grab the New Apple Pencil for Only $95 - The Perfect Time to Upgrade Deals</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-best-celebrity-voice-generator-tools-you-cannot-miss-for-2024/"><u>New Best Celebrity Voice Generator Tools You Cannot Miss for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-xiaomi-13t-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Xiaomi 13T Pro to Other Android Devices | Dr.fone</u></a></li>
 </ul></div>
 

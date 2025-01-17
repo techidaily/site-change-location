@@ -1,7 +1,7 @@
 ---
 title: In 2024, 3 Ways to Fake GPS Without Root On Vivo Y78 5G | Dr.fone
-date: 2024-12-13T21:40:14.688Z
-updated: 2024-12-17T21:40:00.164Z
+date: 2025-01-10T05:53:35.923Z
+updated: 2025-01-16T23:56:23.680Z
 tags: 
   - virtual location chang
   - location changer
@@ -69,10 +69,6 @@ Click the second icon present in the upper right to turn on the “teleport mode
 
 ![choose destination you want](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4: Chance the Location**
 
 Now, you will be able to trick all the location-based apps with your fake location. Click on “Move Here” when the popup box shows.
@@ -103,6 +99,10 @@ Other than Dr.Fone, you can use its alternative [Hola](https://m.apkpure.com/fak
 - Many times, the cursor doesn’t work correctly.
 - It can drain your device’s battery, unlike Dr.Fone – Virtual Method.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Fake GPS Go Location Spoofer**
 
 [Fake GPS Go Location Spoofer](https://play.google.com/store/apps/details?id=com.incorporateapps.fakegps.fre&hl=en_IN&gl=US) is a perfect solution for those looking for a reliable GPS spoofer. It is available as an app, eliminating the need to be rooted to use it. Additionally, it’s incredibly simple to use and can fool all Geo-location based applications on your device.
@@ -110,6 +110,10 @@ Other than Dr.Fone, you can use its alternative [Hola](https://m.apkpure.com/fak
 You'll have fun letting your friends think you're partying like a rock star or relaxing on some tropical island while they are stuck at the office or school doing work.
 
 ![fake gps go](https://images.wondershare.com/drfone/article/2022/05/fake-gps-go-location-spoofer-free.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Pros**
 
@@ -122,10 +126,6 @@ You'll have fun letting your friends think you're partying like a rock star or r
 
 - It Consumes too much battery.
 - It doesn’t work on all GPS-related apps.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **GPS Emulator**
 
@@ -145,13 +145,13 @@ You'll have fun letting your friends think you're partying like a rock star or r
 - No updates for so long.
 - May heat up the phone if used for long.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Conclusion
 
 If you plan to root your device to **fake GPS without mock location no root**, drop that idea. You are now aware of some of the best ways to fake GPS without rooting your device. It’s highly recommended to use [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) when you want to do more and change your GPS location.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixing Foneazy MockGo Not Working On Vivo Y78 5G
 
@@ -169,10 +169,6 @@ Another great feature this tool has is that you can even change the speed of you
 
 On another note, we will share with you the limitation of the Foneazy MockGo software. Currently, this application is only available for iOS phone users, and Android users. Therefore, you are not able to use this software. Another limitation is that it does not support macOS versions that are older than 10.10. Reaching out to their customer support can also take a long time as they take time to respond to you. Lastly, the software will stop updating, and you will need to check yourself if the software needs to be updated.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: How to Fix Foneazy MockGo Not Working Issue
 
 Being able to share a spoof location or use it in games is fun and a great way to fool any of your friends. However, while using the Foneazy MockGo software, you will encounter instances where it is not working properly. Therefore, we will share with you some quick fixes and checks that you can do on your own to fix the temporary issue within the software.
@@ -187,14 +183,10 @@ Being able to share a spoof location or use it in games is fun and a great way t
 
 Try all of these tricks that we have shared and get that temporary issue in Foneazy MockGo fixed in no time.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: Best Foneazy MockGo Alternative Progam You Can Use in 2022
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
@@ -218,6 +210,10 @@ Our product, **“Dr. Fone - Virtual Location” (**[**https://drfone.wondershar
 
 ![virtual-location](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **_Step 3:_** You will then be redirected to your current location on the new page.
 - **_Step 4:_** If you want to change your location, you will need to turn on the “Teleportation” mode by clicking on the first icon and typing the location that you want then click on the “Go” icon.
 - **_Step 5:_** Click on “Move Here” and your current location will show up as the location that you typed on Your Vivo Y78 5G.
@@ -225,7 +221,7 @@ Our product, **“Dr. Fone - Virtual Location” (**[**https://drfone.wondershar
 ![virtual-location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **You can watch the video below to gfix Foneazy MockGo not working on your device**
@@ -263,6 +259,10 @@ Disadvantages:
 - Users have reported that the app only works for a few minutes after the first time of installation. Afterward, the app function to fake GPS location dies and is then good for nothing.
 - You need to be tech-savvy to fake GPS location with a GPS joystick.
 - Fake GPS joystick for Pokemon Go cannot perform well for it as reported by the users. Also, it drives the same result for other popular location-based apps or games.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to set up GPS JoyStick
 
@@ -304,6 +304,10 @@ Likewise, disable “Google Play” and uninstall all its updates as well. To re
 
 ![Uninstall updates](https://images.wondershare.com/drfone/article/2019/09/fake-gps-joystick-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note:** If you’re unable to get this done, then you may need to disable the Android device manager in the first place. For this, get to “Settings” > “Security” > “Device Administrators” > disable “Android Device Manager first”.
 
 Now is the time when you should install the Google Play Services apk (downloaded in step 3 above). Reboot your device afterwards.
@@ -329,7 +333,7 @@ Lastly, launch the “GPS JoyStick app” to fake GPS location and navigate to �
 ![Indirect Mocking](https://images.wondershare.com/drfone/article/2019/09/fake-gps-joystick-9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2.3 For Android 4 or 5
@@ -386,10 +390,6 @@ After a successful download, install the app through the guiding wizard. Click t
 
 ![attach your iPhone with your PC](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2: Set a virtual location**
 
 On the first screen of Dr.Fone app, choose the ‘Virtual Location’ option.
@@ -402,15 +402,15 @@ Tap ‘Get Started’ option then add a new address in the ‘Teleport’ mode. 
 
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4: Changed Location in the app**
 
 Now the Dr.Fone app displays your desired address as your current location. You can verify it by spotting the location on the map view.
 
 ![verify new location](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5: Location on iPhone**
 
@@ -436,21 +436,17 @@ Now use the “one-stop route” or “multi-stop route” to simulate the real-
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-convert-and-save-webcam-images-in-vlc/"><u>[Updated] 2024 Approved Convert and Save Webcam Images in VLC</u></a></li>
-<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-oppo-reno-10-5g-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Oppo Reno 10 5G</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/engaging-article-leader/"><u>Engaging Article Leader</u></a></li>
-<li><a href="https://win-best.techidaily.com/exploring-the-root-causes-and-far-reaching-effects-of-the-historic-taiping-uprising-guided-analysis-with-yl-solutions/"><u>Exploring the Root Causes and Far-Reaching Effects of the Historic Taiping Uprising – Guided Analysis with YL Solutions</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Tecno Pova 5 Pro? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/identify-some-outdated-your-drivers-with-windows-device-manager-on-windows-10-and-7-by-drivereasy-guide/"><u>Identify some outdated your drivers with Windows Device Manager on Windows 10 & 7</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-oppo-k11x-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Oppo K11x | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Infinix Smart 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Realme Note 50 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-vivo-v29e-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Vivo V29e | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Asus ROG Phone 7 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Motorola Razr 40 | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-behind-the-scenes-of-youtube-income-generation/"><u>In 2024, Behind the Scenes of YouTube Income Generation</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Vivo Y27 5G | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/missing-zlibdll-errors-how-to-fix-them-and-prevent-future-issues/"><u>Missing 'Zlib.dll' Errors: How To Fix Them and Prevent Future Issues</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unraveling-the-mystery-of-t-mobiles-intra-network-roaming-strategy/"><u>Unraveling the Mystery of T-Mobile's Intra-Network Roaming Strategy</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-on-apple-iphone-12-pro-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled On Apple iPhone 12 Pro? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/dvdipad-5/"><u>DVD映像iPad移行の究極ガイド: 5シンプル工程を解説</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/google-translate-video-a-complete-guide-to-translate-video-with-google/"><u>Google Translate Video A Complete Guide To Translate Video With Google</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Vivo Y100i | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-honor-play-8t-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Honor Play 8T? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-vivo-t2-5g-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Vivo T2 5G Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-scraps-to-spectacle-a-collage-manual/"><u>In 2024, From Scraps to Spectacle A Collage Manual</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Vivo Y100A? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/navigate-through-2024s-most-advanced-asus-routers-for-seamless-connectivity/"><u>Navigate Through 2024'S Most Advanced ASUS Routers for Seamless Connectivity</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/rhythm-on-rings-creating-tamil-ringtone-playlists/"><u>Rhythm on Rings Creating Tamil Ringtone Playlists</u></a></li>
 </ul></div>
 
