@@ -1,7 +1,7 @@
 ---
 title: In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Apple iPhone 13 mini | Dr.fone
-date: 2025-01-14T04:57:12.313Z
-updated: 2025-01-17T07:18:18.350Z
+date: 2025-01-18T13:53:44.982Z
+updated: 2025-01-23T00:44:04.724Z
 tags: 
   - virtual location chang
   - location changer
@@ -102,6 +102,10 @@ Step 5: Next, you have to enable the ‘Mock Location’ option in the ‘Develo
 
 ![enable option](https://images.wondershare.com/drfone/article/2019/09/fake-gps-go-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Select mock location app](https://images.wondershare.com/drfone/article/2019/09/fake-gps-go-9.jpg)
 
 Step 6: inside the ‘Select mock location app’, you have to click the ‘FakeGPS Free’ to enable the mock location feature
@@ -118,17 +122,9 @@ Step 8: Finally, you have changed the default current location in your device us
 
 ![change current location](https://images.wondershare.com/drfone/article/2019/09/fake-gps-go-13.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 9: Close this app and open the Google Map to check your current location you will be surprised to view the placeholder stays on your favourite spot thereby mocking the original location.
 
 ![open the Google Map](https://images.wondershare.com/drfone/article/2019/09/fake-gps-go-14.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4: Any other better alternative to Fake GPS GO
 
@@ -138,13 +134,25 @@ Step 1: Check-in to play store and type ‘Fake GPS Location’ in the search ba
 
 ![Fake GPS Location](https://images.wondershare.com/drfone/article/2019/09/fake-gps-go-15.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Open the app after the download process
 
 ![download the app](https://images.wondershare.com/drfone/article/2019/09/fake-gps-go-16.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: Allow the app to access the Apple iPhone 13 mini device location and accept the ‘Cookies’ to work on this platform
 
 ![accept the Cookies](https://images.wondershare.com/drfone/article/2019/09/fake-gps-go-17.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 4: Now, you must enable the ‘Mock Location’ option through the settings. To do so click the ‘Settings’ then ‘Additional Settings’ finally hit the ‘Developer option’. Tap ‘Select Mock Location’ and choose ‘Fake GPS Pro’ from the displayed list. Now switch on to the app to proceed further.
 
@@ -172,10 +180,6 @@ There are many apps related to fake GPS on the internet space and spotting the r
 
 Make use of the ‘Fake GPS Go Location Spoofer’ app to protect your live location details. With the help of this app, you can surf through any social media and play online games without any fear. Conceal the location information and increase your privacy through innovative products at the Google play store.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 5: Fake GPS GO has no app for iPhone? What to do?
 
 Tricking the location by Fake GPS Go location spoofer can come in handy under many situations. However, when it comes to iOS devices, the users may get annoyed as the app has no iOS version. Therefore, you should be thankful to Dr.Fone – Virtual Location (iOS) that helps you serve the purpose without any Fake GPS Go apk. The tool is designed by Wondershare and never disappoints users for faking location. Let us know how you can pretend to be somewhere in an iOS device sans Fake GPS Go.
@@ -192,10 +196,6 @@ Step 2: Take your iOS device and establish connection between PC and device. Hit
 
 ![establish connection](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3: You will notice your current location on the map. If not, hit the “Center On” located at the lower right on the screen.
 
 ![current location](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
@@ -208,13 +208,13 @@ Step 5: Then entered place will be recognized by the program and you need to cli
 
 ![entered place recognized](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 6: The location will be changed successfully. You can now see on the map or in the location based app in iPhone, the spot will be seen as the same you selected.
 
 ![see changed location on the map](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Part 2: Movement Simulation Between two Places
 
@@ -228,10 +228,6 @@ Step 3: Next, key in a number that will define the number of times you want to t
 
 ![define the number](https://images.wondershare.com/drfone/guide/virtual-location-09.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 4: Now, the position will be seen moving as per the chosen speed on the map. And this is how you can fake the movement sans **_Fake GPS Go apk_**.
 
 ![moving as per the chosen speed](https://images.wondershare.com/drfone/guide/virtual-location-10.png)
@@ -244,16 +240,12 @@ Step 2: The pop-up will show the distance where you need to hit the “Move Here
 
 ![select the multiple places](https://images.wondershare.com/drfone/guide/virtual-location-11.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3: Enter a digit for how many times you want to take route and click “March”. This will begin the movement simulation.
 
 ![digit for how many times to move](https://images.wondershare.com/drfone/guide/virtual-location-12.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
@@ -273,6 +265,10 @@ Step 3: Enter a digit for how many times you want to take route and click “Mar
 With technological advancements, there have been noticeable upgrades in different types of software, including online games. For example, developers are incorporating Augmented Reality technology into their gaming systems, aiming to offer a dynamic user experience to gamers. This works in different manners, but one of the most common is the GPS-based movement syncing ability, as you may have seen in Pokémon Go.
 
 However, this has some limitations, like some people needing the opportunity to roam to different areas realistically to catch in-game rewards. Plus, accidents can also occur if one follows the game and reaches an unsafe location. In these cases, using a verified **fake GPS route APK** is useful, but there are important rules to take note of. Let's discuss this.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. Why Would You Simulate GPS Movement on AR games?
 
@@ -330,6 +326,10 @@ Below is the video showcasing all steps necessary to simulate GPS movement while
 **Step 2**: Use a USB cable to sync your iOS phone with the Apple iPhone 13 mini device where you downloaded this software. Tap on Get Started.
 
 ![tap on get started](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3**: You will see your real-time location on the map. Tap on the Teleport Mode icon at the top-right and type your fake location name.
 
@@ -420,6 +420,10 @@ Get multiple spoofing options here, like expert mode and various routes to set u
 **Step 3**: The app will automatically show the spoofed fly GPS after inserting the fake location.
 
 ![the app will automatically show](https://images.wondershare.com/drfone/article/2022/12/how-to-simulate-gps-movement-on-ar-games-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Method 2. [Mock Locations](https://play.google.com/store/apps/details?id=ru.gavrikov.mocklocations)**
 
@@ -521,10 +525,6 @@ Safari cross-site tracking can be prevented using the below steps on your Apple 
 - Step 2. Find the Safari option by scrolling down the menu.
 - Step 3. Move the slider to turn on “Prevent Cross-Site Tracking” under the PRIVACY & SECURITY option.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Deactivate Safari cross-website tracking for Mac
 
 Use the steps below to **turn off cross-site tracking on Safari** on your Mac systems.
@@ -547,10 +547,6 @@ Chrome is used widely on Windows systems and Android devices, and to prevent the
 - Step 4. Click on the “Do Not Track” option to turn on the feature.
 
 ![stop cross-site tracking on android](https://images.wondershare.com/drfone/article/2022/03/prevent-cst-android.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Enable “Do Not Track” on Google Chrome for Computer
 
@@ -608,6 +604,10 @@ Check the new location of your phone from the app.
 
 ![changing location completed](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Wrap it up
 
 Preventing Cross-site tracking can be done on different browsers and devices using the guides listed in the above parts of the article. Settings a fake location for your device using Dr. Fone-Virtual Location is another interesting way to prevent tracking your browsing history by spoofing the sites and cookies. Setting a fake place will not only avoid monitoring your browsing history but will also work with all location-based apps on your phone.
@@ -628,18 +628,20 @@ Preventing Cross-site tracking can be done on different browsers and devices usi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-best-rated-5-backdrop-change-utilities-for-iphones-x78/"><u>[New] Best-Rated 5 Backdrop Change Utilities for iPhones X/7/8</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-crafting-compelling-content-for-spotifys-ad-revenue-for-2024/"><u>[New] Crafting Compelling Content for Spotify's Ad Revenue for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/riting-for-impact-a-compreenas-guide-to-youtube-video-storytelling/"><u>[New] Writing for Impact A Compreenas Guide to YouTube Video Storytelling</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-enter-virtual-realms-top-10-immersive-videos-for-2024/"><u>[Updated] Enter Virtual Realms Top 10 Immersive Videos for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-no-fuss-guide-to-recording-virtual-classes-on-windowsmacos/"><u>2024 Approved No-Fuss Guide to Recording Virtual Classes on Windows/macOS</u></a></li>
-<li><a href="https://change-location.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Vivo S17 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/honor-v-purse-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor V Purse Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Vivo Y100 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Xiaomi Redmi A2+ | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/toms-tech-hub-the-ultimate-guide/"><u>Tom's Tech Hub: The Ultimate Guide</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-xiaomi-13t-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Xiaomi 13T Pro Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/why-is-ipogo-not-working-on-vivo-x100-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Vivo X100? Fixed | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/pause-button-interpreting-instagrams-advocacy-for-social-media-sabbaths/"><u>'Pause Button': Interpreting Instagram's Advocacy for Social Media Sabbaths</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-best-free-screen-recording-apps-reviewed-and-ranked/"><u>[New] In 2024, Best Free Screen Recording Apps Reviewed & Ranked</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-mastering-background-replacement-on-instagrams-platform-for-2024/"><u>[New] Mastering Background Replacement on Instagram's Platform for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nsubscribing-from-youtube-computer-and-mobile-techniques-for-2024/"><u>[New] Unsubscribing From Youtube Computer & Mobile Techniques for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-a-snapshot-into-effective-business-use-of-snapchat/"><u>[Updated] In 2024, A Snapshot Into Effective Business Use of Snapchat</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-image-merging-techniques/"><u>[Updated] Mastering Image Merging Techniques</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/diverse-dialects-shared-joy-on-resurrection-day/"><u>Diverse Dialects, Shared Joy on Resurrection Day</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Vivo X100 Pro | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-itel-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/nvidia-rtx-2070-driver-download-supports-windows-11-8-and-7/"><u>NVIDIA RTX #2070 Driver Download – Supports Windows 11, 8, and 7</u></a></li>
 </ul></div>
 

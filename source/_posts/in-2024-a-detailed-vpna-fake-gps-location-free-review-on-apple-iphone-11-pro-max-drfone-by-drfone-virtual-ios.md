@@ -1,7 +1,7 @@
 ---
 title: In 2024, A Detailed VPNa Fake GPS Location Free Review On Apple iPhone 11 Pro Max | Dr.fone
-date: 2025-01-15T21:11:04.922Z
-updated: 2025-01-17T07:47:26.054Z
+date: 2025-01-21T11:16:28.150Z
+updated: 2025-01-23T13:08:49.034Z
 tags: 
   - virtual location chang
   - location changer
@@ -76,7 +76,7 @@ Once it is done, go to its Settings > Developer Options and turn on the option t
 ![set a mock location](https://www.virtuallocation.com/images/vpna/vpna-fake-gps-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Step 2: Make VPNa Fake GPS as the default mock location app**
@@ -84,6 +84,10 @@ Once it is done, go to its Settings > Developer Options and turn on the option t
 Now, you can just go to the Play Store and download the VPNa Fake GPS Location app on your device. After the app is installed, you can just go to its Developer Options again and set it as a default mock location app.
 
 ![defaut mock location app](https://www.virtuallocation.com/images/vpna/vpna-fake-gps-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Step 3: Spoof your Android's location**
 
@@ -96,7 +100,11 @@ Later, you can move the pin around and drop it anywhere you like. Tap on the Sta
 ![choose anywhere you like](https://www.virtuallocation.com/images/vpna/vpna-fake-gps-6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: Bonus Tip: How to Spoof an iPhone Location without Jailbreak
@@ -105,6 +113,10 @@ While Android users can take the assistance of VPNa Fake GPS, iOS users often fi
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/FfhgWxnARqo" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 1: Connect your Apple iPhone 11 Pro Max and launch the tool
 
 At first, you can just connect your Apple iPhone 11 Pro Max to your computer and launch the Dr.Fone toolkit. Select the "Virtual Location" feature from its home and click on the "Get Started" button.
@@ -112,7 +124,7 @@ At first, you can just connect your Apple iPhone 11 Pro Max to your computer and
 ![vpna dr.fone-virtual location](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 2: Look for a location to spoof
@@ -120,6 +132,10 @@ At first, you can just connect your Apple iPhone 11 Pro Max to your computer and
 The application will automatically detect your device's location and would display it. To change it, click on the Teleport Mode icon from the top, and enter the address/coordinates of the place in the search bar.
 
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 3: Change your Apple iPhone 11 Pro Max's location
 
@@ -132,10 +148,6 @@ This brings us to the end of this detailed VPNa Fake GPS Location Free review. T
 ## Ultimate Guide to Free PPTP VPN For Beginners On Apple iPhone 11 Pro Max
 
 PPTP, which stands for Point to Point Tunneling Protocol is one of the oldest and most trusted ways of implementing a VPN. It was developed by Microsoft and uses a GRE tunnel with a TCP control channel to bypass various geo-based restrictions. Since free PPTP VPN has been around for years now and is pretty easy to setup, it is quite popular as well. Read on and learn the basics of PPTP VPN free with a free PPTP VPN list as well.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: What is PPTP VPN?
 
@@ -168,10 +180,6 @@ After getting to know about so many free PPTP VPN Singapore, USA, Canada, UK, an
 
 ![free pptp vpn connection](https://images.wondershare.com/drfone/2023/virtuallocation/pptp-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3\. This will launch a new wizard that can be used to setup a PPTP VPN free. Out of all the provided options, select the “Connect to a workplace” option.
 
 ![connect to a workplace](https://images.wondershare.com/drfone/2023/virtuallocation/pptp-3.jpg)
@@ -190,6 +198,10 @@ After getting to know about so many free PPTP VPN Singapore, USA, Canada, UK, an
 
 ![change nerwork settings](https://images.wondershare.com/drfone/2023/virtuallocation/pptp-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 9\. Go to the Security tab and make sure the type of VPN is listed as PPTP (Point to Point Tunneling Protocol). Also, the data encryption option should be “Optional Encryption (Connect even if no encryption)” and the option for “Challenge Handshake Authentication Protocol (CHAP)” should be selected for “Allow these protocols”.
 
 ![pptp vpn properties](https://images.wondershare.com/drfone/2023/virtuallocation/pptp-6.jpg)
@@ -201,10 +213,6 @@ After getting to know about so many free PPTP VPN Singapore, USA, Canada, UK, an
 ![connect to free pptp vpn](https://images.wondershare.com/drfone/2023/virtuallocation/pptp-7.png)
 
 That’s it! By following these steps, you would be able to create a free PPTP VPN Singapore, USA, UK, Canada, Germany, or any other location. Simply give this tutorial a try and pick the preferred option from our free PPTP VPN list. If you also have a suggestion for a free VPN PPTP that you want to add to your list, then let us know about it in the comments below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4: An Easier Alternative to Setup VPN
 
@@ -233,19 +241,11 @@ Some of its advantages are as follows:
 
 **3981454** people have downloaded it
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Does Life360 Notify When You Log Out On Apple iPhone 11 Pro Max?
 
 Life360 is an excellent family security service provider that notifies family members and loved ones about the user's temporary location with GPS tracking and action alerts. In addition, life360 uses texts and notifications to help circle members keep track of everyone's location, driving habits, and frequently visited places. Still, most people don't use the app because they think it restricts them with message tracking and other features that look familiar to some spying apps. For those who want to know does life360 notify when you log out, you will find out everything about that in this article.
 
 Life360 can track your device's location and texts, but it can't read your texts, and people outside your circle can't view your location, so your privacy is safe using this app. All circle members get a location paused notification when logging out or turning off the location. Read till the end to learn how various life360 features work and can you log into life360 on a computer. We also have solutions to turn off locations without others knowing on any family tracking app.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: How does the life360 location work?
 
@@ -254,7 +254,7 @@ Life360 gives a peace-of-mind to you and your family members by tracking your lo
 Its one-tap location features allow circle members to see everyone's location data on the map. The app gives a route to the other person's current location by tapping any member pointer. If someone is in danger or got an emergency, they can tap the panic button to send a mass text to the circle with their location. The app does not notify when circle members check someone's location history. Life360 notifies circle members when someone turns their location off, text while driving, drive carelessly, or stops the app.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: Does life360 notify when you leave?
@@ -285,6 +285,10 @@ Although life360 provides excellent family location services, it also affects yo
 
 ![access virtual location feature](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **STEP 2:** Click on "get started" to open the map and center on your actual location.
 
 ![tap on get started button](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
@@ -296,10 +300,6 @@ Although life360 provides excellent family location services, it also affects yo
 **STEP 4:** After finding the location, click on "move here" to change your location.
 
 ![choose destination you want](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -319,20 +319,22 @@ Let us conclude our article here, hoping that you got the answer to everything y
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-awesome-igtv-channels-that-deliver-quality-content-for-2024/"><u>[New] Awesome IGTV Channels That Deliver Quality Content for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-obs-studio-for-professional-gamers/"><u>[Updated] OBS Studio for Professional Gamers</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-innovative-strategies-to-enhance-video-craftsmanship-on-windows-10/"><u>2024 Approved Innovative Strategies to Enhance Video Craftsmanship on Windows 10</u></a></li>
-<li><a href="https://change-location.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Vivo Y200e 5G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/additional-tips-about-sinnoh-stone-for-vivo-s17e-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Vivo S17e | Dr.fone</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/altplusf10acer/"><u>Alt+F10を使用したAcerの再生プログラム起動に問題が発生しました</u></a></li>
-<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-nokia-c02-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Nokia C02 Phone | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Vivo V30 Pro | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-deciphering-numbers-an-introduction-to-facebook-insight/"><u>In 2024, Deciphering Numbers An Introduction to Facebook Insight</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Samsung Galaxy F14 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-tailored-dimensions-for-captivating-videos/"><u>In 2024, Tailored Dimensions for Captivating Videos</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/outdated-or-underestimated-unveiling-the-true-potential-of-netgear-c3000-for-modern-internet-needs/"><u>Outdated or Underestimated? Unveiling the True Potential of Netgear C3000 for Modern Internet Needs</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/top-rated-audio-transformation-tool-for-windows-10-users/"><u>Top-Rated Audio Transformation Tool for Windows 10 Users</u></a></li>
-<li><a href="https://change-location.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Vivo S18 Pro | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Samsung Galaxy A15 4G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-blueprint-for-buzzing-outro/"><u>[New] In 2024, Blueprint for Buzzing Outro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-crafting-soft-endings-dimming-down-music-tracks-in-premiere-pro/"><u>[Updated] Crafting Soft Endings Dimming Down Music Tracks in Premiere Pro</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-illuminate-your-content-creation/"><u>[Updated] Illuminate Your Content Creation</u></a></li>
+<li><a href="https://win-news.techidaily.com/diy-tech-fixes-mastering-the-art-of-troubleshooting-computer-hardware-with-yls-expertise/"><u>DIY Tech Fixes: Mastering the Art of Troubleshooting Computer Hardware with YL's Expertise</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-poco-x6-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, Does Life360 Notify When You Log Out On Apple iPhone 15? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mov-files-are-unwatchable-on-samsung-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV files are unwatchable on Samsung</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/movavis-free-image-converter-transform-arw-files-into-jpg-images-online-easily/"><u>Movavi's Free Image Converter: Transform ARW Files Into JPG Images Online Easily!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/seamless-conversion-of-m4v-files-to-wav-audio-on-the-web-discover-how-movavi-helps-you-save-time-and-costs/"><u>Seamless Conversion of M4V Files to WAV Audio on the Web: Discover How Movavi Helps You Save Time and Costs!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-todays-most-popular-platforms-a-deep-dive-into-facebook-twitter-instagram-and-youtube/"><u>Understanding Today's Most Popular Platforms: A Deep Dive Into Facebook, Twitter, Instagram & YouTube</u></a></li>
 </ul></div>
 
