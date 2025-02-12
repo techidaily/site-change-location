@@ -1,7 +1,7 @@
 ---
 title: How to Stop Google Chrome from Tracking Your Location On Vivo Y100? | Dr.fone
-date: 2024-09-12T16:27:25.349Z
-updated: 2024-09-19T16:50:31.304Z
+date: 2025-02-05T14:44:57.143Z
+updated: 2025-02-12T00:21:40.845Z
 tags: 
   - virtual location chang
   - location changer
@@ -41,6 +41,10 @@ If you are worried about Google Chrome detecting your physical location and shar
 **Step 2:** Navigate to "Permissions" and click on "Location." To hide the location on Google Chrome, select the "Don't allow sites to see your location" option.
 
 ![enable the dont allow option](https://images.wondershare.com/drfone/article/2022/12/how-to-hide-or-fake-your-location-in-google-chrome-browser-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: For iPhone or iPad
 
@@ -98,13 +102,6 @@ Once the Teleport Mode is activated, add your desired location and press "Go." Y
 
 ![hit the move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 2. Manually Change Your Location Using Google Chrome DevTools
 
 It is also possible to **fake browser location** on Chrome using the Google Chrome Developer Tools. It is a built-in feature of Chrome and can be used to manually change or turn off your browser's location. Follow these steps for changing location on Chrome with DevTools:
@@ -112,13 +109,6 @@ It is also possible to **fake browser location** on Chrome using the Google Chro
 **Step 1:** After opening Google Chrome, click the three-dots icon from the top right corner. It will open the Chrome menu where you need to select "Developer Tools" after clicking "More Tools."
 
 ![choose the developer tools](https://images.wondershare.com/drfone/article/2022/12/how-to-hide-or-fake-your-location-in-google-chrome-browser-11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 2:** A window will open on the right side with all the developing tools you can use in Chrome. Click on the three-dots icon located near "Console" in the bottom left corner of the window. Choose "Sensors" from the pop-up menu.
 
@@ -132,6 +122,10 @@ It is also possible to **fake browser location** on Chrome using the Google Chro
 
 - The interface of the Google Chrome DevTools can be very confusing and overwhelming for non-technical users.
 - Apart from pre-added locations, it can be hard to add a specific location as your fake location.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3. Fake Your Location Using Chrome Extension
 
@@ -207,19 +201,6 @@ This section will give you the definition of geo-blocking. It will also show how
 
 Geo-blocking is the practice of restricting online access to certain users depending on where in the world they happen to be physically located. Telecommunications firms, websites, and other content providers and intellectual property owners often use this method for copyright protection. To monitor and enforce geo-blocks, databases that map out IP addresses' geographical locations are often employed.
 
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Understanding the Main Symbols and Elements
 
 You sometimes can't access a site because it isn't available in your area. This is the main element carried by geo-blocking.
@@ -239,6 +220,10 @@ When a firm, rather than a government, is responsible for geoblocking, IP addres
 IP addresses are numerical identifiers that distinguish each machine on the internet. Your computer's IP address is sent to the server of the website you visit so that it may supply the required data.
 
 You'll be assigned an IP address when you sign up for an Internet Service Provider. It is possible to pinpoint the location of your device using its IP address, albeit the degree of precision may vary. Websites use the IP address to determine whether you can read their content. They will thus refuse your request if you are using an IP address that's not on their approved list.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3. Common Types of Geo-blocked Content
 
@@ -262,18 +247,19 @@ Big events may be aired exclusively by one company, which means you may be force
 
 ![fox sports geo blocked](https://images.wondershare.com/drfone/article/2023/01/fox-sport-geo-blocking-page.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Pandora
 
 Do you want to tune in to this online radio and music station? You can't access it anywhere in Europe because of a regional firewall.
 
 ![pandora geo blocked](https://images.wondershare.com/drfone/article/2023/01/pandora-geo-restriction-error.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Porn sites
 
@@ -287,9 +273,17 @@ Amazon Prime geo-blocks other services as well as its streaming content. Games, 
 
 ![amazon prime video vpn not working](https://images.wondershare.com/drfone/article/2023/01/amazon-prime-vpn-not-working.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4. Tips to Bypass Geo-Blocking
 
 While certain sites may be blocked in your country, there are still methods to access the full functionality of the web. What exactly are they, and how do you go about getting them? Here's more reading material.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1. Use Smart Domain Name System (DNS)
 
@@ -315,6 +309,10 @@ Tor employs a technique called "onion routing" to conceal its users' identities.
 
 ![tor for geo blocked sites](https://images.wondershare.com/drfone/article/2023/01/use-tor-browser-to-bypass-geo-blocking.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 4. A Good VPN Connection
 
 A virtual private network (VPN) may hide your online identity and protect your data by encrypting your connection. VPNs allow you to get around geographically restricted material by redirecting your connection via a server in another country. This will allow you to connect to VPN servers in other countries, such as the United States, the United Kingdom, or Australia.
@@ -326,13 +324,6 @@ With [effective VPN tools](https://drfone.wondershare.com/pokemon-go/spoof-pokem
 ## Part 5. FAQs About Geo-Blocking
 
 Here are the answers to four questions that you might ask about geo-blocking.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Is Geo-Blocking Legal?
 
@@ -372,6 +363,10 @@ Once you launch Wondershare Dr.Fone - Virtual Location and connect your smartpho
 
 ![activate one stop route mode](https://images.wondershare.com/drfone/guide/virtual-location-08.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2Define Simulation Parameters
 
 Enter a number to define how many times you want to go back and forth, and select whether you want a **Round trip** or a **Loop trip**. Drag the slider on the speed option to set how fast you want to walk. Proceed to click **Move Here** on the bottom to start the movement simulation.
@@ -383,6 +378,10 @@ Step 3Start Simulation Movement
 The respective simulation starts, and you can see your position is moving on the map with the speed you set. If you wish to hold the simulation, click **Pause** or tap **Clear** to revert to your original state.
 
 ![start one stop simulation](https://images.wondershare.com/drfone/guide/virtual-location-10.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Part 2: Simulate Movement Along a Route (Multi-Stop Route)
 
@@ -429,5 +428,21 @@ The joystick, like one-stop route or multi-stop route modes, aims to facilitate 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-comprehensive-breakdown-exploring-lgs-widescreen-uhd-display/"><u>[New] Comprehensive Breakdown Exploring LG's Widescreen UHD Display</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-hd-video-recording-for-windows-10-users-for-2024/"><u>[New] HD Video Recording for Windows 10 Users for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-the-top-tiers-of-treasured-valheim-trees/"><u>[Updated] In 2024, The Top Tiers of Treasured Valheim Trees</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-guide-to-downloading-and-installing-updated-drivers-for-creative-webcams-on-windows-pcs/"><u>Complete Guide to Downloading & Installing Updated Drivers for Creative Webcams on Windows PCs</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comprehensive-guide-blade-blh4100-120s-rtf-outdoor-rc-helicopter-in-depth-analysis-and-performance-insights/"><u>Comprehensive Guide: Blade BLH4100 120S RTF Outdoor RC Helicopter - In-Depth Analysis and Performance Insights</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Vivo Y100t? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/precision-fix-clear-video-playback/"><u>Precision Fix: Clear Video Playback</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-essentials-of-artificial-intelligence-desktops-are-they-worth-it/"><u>The Essentials of Artificial Intelligence Desktops: Are They Worth It?</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-edge-40-neo-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Edge 40 Neo</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Samsung Galaxy S23 FE? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Samsung Galaxy S23+? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-vivo-v30-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Vivo V30? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-writers-shouldnt-panic-the-5-limits-of-ai-in-publishing-field/"><u>Why Writers Shouldn't Panic: The 5 Limits of AI in Publishing Field</u></a></li>
+</ul></div>
 

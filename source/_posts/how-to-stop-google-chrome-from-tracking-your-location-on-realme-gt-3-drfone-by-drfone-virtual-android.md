@@ -1,7 +1,7 @@
 ---
 title: How to Stop Google Chrome from Tracking Your Location On Realme GT 3? | Dr.fone
-date: 2024-09-13T16:05:05.125Z
-updated: 2024-09-19T16:47:30.113Z
+date: 2025-02-11T10:11:21.481Z
+updated: 2025-02-11T20:36:52.891Z
 tags: 
   - virtual location chang
   - location changer
@@ -58,13 +58,6 @@ If you are worried about Google Chrome detecting your physical location and shar
 
 ![tap on settings](https://images.wondershare.com/drfone/article/2022/12/how-to-hide-or-fake-your-location-in-google-chrome-browser-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2:** In Chrome Settings, press "Site Settings." Now select "Location" and hide your location by toggling off the "Location" option.
 
 ![disable the location option](https://images.wondershare.com/drfone/article/2022/12/how-to-hide-or-fake-your-location-in-google-chrome-browser-7.jpg)
@@ -116,13 +109,6 @@ It is also possible to **fake browser location** on Chrome using the Google Chro
 **Step 2:** A window will open on the right side with all the developing tools you can use in Chrome. Click on the three-dots icon located near "Console" in the bottom left corner of the window. Choose "Sensors" from the pop-up menu.
 
 ![select the sensors option](https://images.wondershare.com/drfone/article/2022/12/how-to-hide-or-fake-your-location-in-google-chrome-browser-12.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 3:** Access the newly selected "Sensor" option, and here you can change the browser's location by either selecting a Google's pre-set location or adding your desired location manually. Once the location is selected or added, your browser's location will change.
 
@@ -222,6 +208,10 @@ Features of Fake GPS Go Location Spoofer
 
 ![Fake GPS Go app](https://images.wondershare.com/drfone/article/2019/09/fake-gps-go-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Fake GPS GO Location Spoofer: the For and Against voices
 
 ### The FOR Voices on Fake GPS GO Location Spoofer
@@ -290,6 +280,10 @@ Step 8: Finally, you have changed the default current location in your device us
 
 ![change current location](https://images.wondershare.com/drfone/article/2019/09/fake-gps-go-13.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 9: Close this app and open the Google Map to check your current location you will be surprised to view the placeholder stays on your favourite spot thereby mocking the original location.
 
 ![open the Google Map](https://images.wondershare.com/drfone/article/2019/09/fake-gps-go-14.jpg)
@@ -315,6 +309,10 @@ Step 4: Now, you must enable the ‘Mock Location’ option through the settings
 ![Fake GPS Pro](https://images.wondershare.com/drfone/article/2019/09/fake-gps-go-18.jpg)
 
 ![switch to the app](https://images.wondershare.com/drfone/article/2019/09/fake-gps-go-19.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 5: To implement the fake location you must select the desired place on the map and tap the ‘Play’ button. It will lead to another screen requesting for permission.
 
@@ -342,18 +340,15 @@ Tricking the location by Fake GPS Go location spoofer can come in handy under ma
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/FfhgWxnARqo" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Mode 1: Teleport Anywhere
 
 Step 1: To work with this **_Fake GPS Go’s_** alternative, install and launch it on PC. Click “Virtual Location” tab on the main screen.
 
 ![Click Virtual Location](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 2: Take your iOS device and establish connection between PC and device. Hit on “Get Started” button now.
 
@@ -362,13 +357,6 @@ Step 2: Take your iOS device and establish connection between PC and device. Hit
 Step 3: You will notice your current location on the map. If not, hit the “Center On” located at the lower right on the screen.
 
 ![current location](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 4: Choose the third icon on the upper right part of the screen from the three given icons. This is “teleport mode”. Enter the name of the location where you need to teleport and click “Go”.
 
@@ -397,6 +385,10 @@ Step 3: Next, key in a number that will define the number of times you want to t
 Step 4: Now, the position will be seen moving as per the chosen speed on the map. And this is how you can fake the movement sans **_Fake GPS Go apk_**.
 
 ![moving as per the chosen speed](https://images.wondershare.com/drfone/guide/virtual-location-10.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Part 3: Simulate Route Movement for Multiple Locations
 
@@ -453,9 +445,17 @@ Through your Realme GT 3s, you can change the location on both Google Play Store
 
 ![tap on settings](https://images.wondershare.com/drfone/article/2022/05/change-google-account-location-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Tap on the "General" section to locate the option of "Account and Device Preferences." Afterward, find the "Country and Profiles" option by scrolling down. From there, you can see your current country location.
 
 ![access account and device preferences](https://images.wondershare.com/drfone/article/2022/05/change-google-account-location-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** Now click on "Switch to the Country Play Store" to change the location. For verification, click on "Continue" when a pop-up message appears on your screen asking if you want to change the location.
 
@@ -473,9 +473,17 @@ To use this powerful VPN tool, we have jotted down some basic steps through whic
 
 ![install the vpn](https://images.wondershare.com/drfone/article/2022/05/change-google-account-location-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** After opening this app, tap on the country’s name list displayed above the picture of Earth. Tap on that list to view all the available countries.
 
 ![vpn locations displayed](https://images.wondershare.com/drfone/article/2022/05/change-google-account-location-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** Select any country from the displayed list by tapping on it. Meanwhile, make sure that your phone is connected to a strong internet connection. This tool will automatically change your Google location by tapping on the country’s name.
 
@@ -492,6 +500,10 @@ In this situation, we will help you change the country's location on your Google
 **Step 2:** After opening the settings menu, go to "Payments and Profile" and locate the option of "Country/Region." Proceed by tapping the edit icon next to it.
 
 ![access settings tab](https://images.wondershare.com/drfone/article/2022/05/change-google-account-location-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** To connect with the new country's location, tap on the option "Create a new profile." Afterward, you can see the on-screen instructions on your computer, so follow them to complete the process. Once done, Google Play will change the location after 48 hours, and you can search for the applications you want to install.
 
@@ -516,13 +528,6 @@ Moreover, the process is fast and fully secured to protect your computer from un
 We have mentioned methods to change Play Store country manually and through VPN, but they still have a few limitations. Once you change the country's location on Google Play manually, the Play Store requires 48 hours to accept this modification. Moreover, you can only change the country's server location once a year. With VPN, many country servers are unreachable, and some servers can be reached only through a paid version. This makes the process expensive and time taking.
 
 To avoid these hurdles and chaos, we recommend you to use Dr.Fone – Virtual Location to fake your location on both Android and iOS devices. This tool works in every situation and allows users to travel the globe through their phones free of cost. You can also travel with an exact GPS location just with a single click. Hence, this tool will work amazingly in faking your location without requiring you to change Google Play country's location.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
@@ -587,5 +592,20 @@ There are plenty of ways to execute **Google One change location across various 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-intuitive-method-for-adjusting-iphone-screen/"><u>[New] Intuitive Method for Adjusting iPhone Screen</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-immerse-projects-in-audible-experience-via-premiere-pro/"><u>[Updated] Immerse Projects in Audible Experience via Premiere Pro</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-ultimate-unboxing-the-logitech-4k-webcam-review/"><u>[Updated] In 2024, Ultimate Unboxing The Logitech 4K Webcam Review</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-nostalgic-compassion-preferred-android-emulators-for-3ds-for-2024/"><u>[Updated] Nostalgic Compassion Preferred Android Emulators for 3DS for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gpt-powered-crypto-insight-5-essential-tips/"><u>GPT-Powered Crypto Insight: 5 Essential Tips</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-motorola-moto-e13-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Motorola Moto E13 Phone | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-nokia-c300-is-unlocked-by-drfone-android/"><u>How To Check if Your Nokia C300 Is Unlocked</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-nubia-z50s-pro-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Nubia Z50S Pro Quickly? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-gionee-f3-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Motorola Edge 40? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Itel P55T? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-race-for-robo-deliveries-spotlight-on-ubers-advances-according-to-zdnet/"><u>The Race for Robo-Deliveries: Spotlight on Uber's Advances - According to ZDNet</u></a></li>
+</ul></div>
 

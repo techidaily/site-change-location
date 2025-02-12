@@ -1,7 +1,7 @@
 ---
 title: How to Stop Google Chrome from Tracking Your Location On Sony Xperia 10 V? | Dr.fone
-date: 2024-09-15T16:21:06.223Z
-updated: 2024-09-19T16:08:00.822Z
+date: 2025-02-05T06:46:36.570Z
+updated: 2025-02-11T22:13:12.034Z
 tags: 
   - virtual location chang
   - location changer
@@ -38,6 +38,10 @@ If you are worried about Google Chrome detecting your physical location and shar
 
 ![access the site settings option](https://images.wondershare.com/drfone/article/2022/12/how-to-hide-or-fake-your-location-in-google-chrome-browser-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Navigate to "Permissions" and click on "Location." To hide the location on Google Chrome, select the "Don't allow sites to see your location" option.
 
 ![enable the dont allow option](https://images.wondershare.com/drfone/article/2022/12/how-to-hide-or-fake-your-location-in-google-chrome-browser-3.jpg)
@@ -61,13 +65,6 @@ If you are worried about Google Chrome detecting your physical location and shar
 **Step 2:** In Chrome Settings, press "Site Settings." Now select "Location" and hide your location by toggling off the "Location" option.
 
 ![disable the location option](https://images.wondershare.com/drfone/article/2022/12/how-to-hide-or-fake-your-location-in-google-chrome-browser-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 One way to protect your privacy and stop websites from tracking your location is to turn off the location, but it has many disadvantages. If you have turned off your location, you can't use any location base service like food delivery, e-shopping, ride-sharing, etc. That's why it is better to use a fake location on your browser. Below we have explained four methods for **Chrome fake location**.
 
@@ -105,6 +102,10 @@ Once the Teleport Mode is activated, add your desired location and press "Go." Y
 
 ![hit the move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2. Manually Change Your Location Using Google Chrome DevTools
 
 It is also possible to **fake browser location** on Chrome using the Google Chrome Developer Tools. It is a built-in feature of Chrome and can be used to manually change or turn off your browser's location. Follow these steps for changing location on Chrome with DevTools:
@@ -117,13 +118,6 @@ It is also possible to **fake browser location** on Chrome using the Google Chro
 
 ![select the sensors option](https://images.wondershare.com/drfone/article/2022/12/how-to-hide-or-fake-your-location-in-google-chrome-browser-12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3:** Access the newly selected "Sensor" option, and here you can change the browser's location by either selecting a Google's pre-set location or adding your desired location manually. Once the location is selected or added, your browser's location will change.
 
 ![select your location](https://images.wondershare.com/drfone/article/2022/12/how-to-hide-or-fake-your-location-in-google-chrome-browser-13.jpg)
@@ -132,6 +126,10 @@ It is also possible to **fake browser location** on Chrome using the Google Chro
 
 - The interface of the Google Chrome DevTools can be very confusing and overwhelming for non-technical users.
 - Apart from pre-added locations, it can be hard to add a specific location as your fake location.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3. Fake Your Location Using Chrome Extension
 
@@ -243,6 +241,10 @@ When a Wi-Fi hotspot is nearby, your phone can connect to it without needing to 
 
 There are many ways to ensure your parents do not know where you are and what you are doing. Some of these methods are:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Switch to the Airplane Mode
 
 Turning on Airplane Mode on your smartphone is another fast approach to preventing Life360 from broadcasting your whereabouts without your parents being aware. Unfortunately, you'll be unable to use your phone's internet connection after setting off Airplane Mode, so you'll lose your GPS position.
@@ -273,25 +275,16 @@ Stopping location sharing on Life360 may also be accomplished by turning off the
 
 ![stop using the gps on android](https://images.wondershare.com/drfone/article/2022/06/what-are-location-permissions-life360-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### \* For iPhone Users
 
 - Navigate to the Settings menu on your iPhone.
 - To disable this feature, enter the "Location Services" menu by selecting the "Personal" tab and selecting the appropriate option.
 
 ![stop using the gps on iphone](https://images.wondershare.com/drfone/article/2022/06/what-are-location-permissions-life360-4.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Take use of a Burner Phone
 
@@ -306,6 +299,10 @@ Burner phones make it very easy to disable location tracking on Life360. In addi
 Smartphones have taken over the globe, and almost everyone has one. In addition, apps for smartphones, such as those for monitoring children, have been developed as a result of advances in technology. Using programs like Life360, parents can keep tabs on their children and teens. However, for some children and teenagers, Life360 disturbs their privacy, and they don't enjoy being tracked around the clock by the program.
 
 It may be difficult to trick the iPhone's GPS, and doing so needs dependable and secure solutions, such as [Dr.Fone - Virtual Location (iOS/Android)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). Users of iOS devices will appreciate this app's ability to quickly and safely fake their current location without compromising their personal information. The most excellent part is that it's simple to use and set up. Additionally, with Dr.Fone - Virtual Location (iOS/Android), you may relocate to any location and choose your own pace. Life360 and other location-based applications may be spoofed with a mouse click.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
@@ -353,6 +350,10 @@ Spotify is one of the best apps to access quality music and podcasts. Be it in y
 
 But this depends on the country you are staying in. And if you’ve recently shifted your base, it can be tricky to change spotify region. But if you opt for the manual methods, it is a breeze to update location spotify. We will teach you how that is done effectively using different resources available to you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Part 1: Reasons for changing Location on Spotify**
 
 But why to Change Location Spotify in the first place? Is it important to change your location if you are changing countries? Will that affect the music on the streaming app? Yes! It certainly will. Before we discuss the different ways to change country on spotify, let us understand why we should do it at all.
@@ -360,6 +361,10 @@ But why to Change Location Spotify in the first place? Is it important to change
 **Region specific Content**
 
 ![spotify region specific content](https://images.wondershare.com/drfone/2020/2020/region-specific-content-pic2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Everything is not available everywhere. If you are looking for a specific motivational podcast that is a hit in the US, it might not be available in your region. You like that new Arabic song, maybe it won’t stream in your Australian lanes. The content can be restricted to a specific region and if you don’t stay there, it is far away from your reach. You have to rely on Spotify Change Location to access that musical content.
 
@@ -380,13 +385,6 @@ The Spotify premium account provides more benefits than the normal free version 
 **Spotify Unavailable**
 
 ![spotify unavailable](https://images.wondershare.com/drfone/2020/2020/spotify-unavailable-pic5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Spotify did gain a lot of popularity in a very short period of time. People are making money, uploading their own content and even exploring newer genres of music. However, Spotify is not available world-wide. Currently, it is only accessible from 65 countries. If you hail from a region where Spotify hasn’t launched yet, you need to update spotify location to a place where it is fully functional.
 
@@ -412,13 +410,6 @@ If you are a Spotify Free user, then you will have to go by the above mentioned 
 
 ![premium-account-change-plan](https://images.wondershare.com/drfone/2020/2020/premium-account-change-plan-pic9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Part 3: How to Use Apps to Fake Spotify Location?**
 
 Now you know that by Spotify Change Country, you can get more benefits and you can enjoy podcasts, music and other audio content that is otherwise unavailable in your region. So, it is understandable that you’d want to deliberately fake spotify location. This is possible when you use some of the best Location Spoofer softwares available on the internet. Our best suggestion would be Wondershare’s Dr.Fone. It is easy to use and your location will be changed within a few minutes in minimal steps.
@@ -435,6 +426,10 @@ Now you know that by Spotify Change Country, you can get more benefits and you c
 
 ![dr.fone virtual location](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4:** A map will appear on the screen. You can change the pi to a new location or you can enter the new location into the search box displayed on top of the page. You can do this by going to the ‘Teleport Mode’ on the top right corner of the page.
 
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
@@ -444,6 +439,10 @@ Now you know that by Spotify Change Country, you can get more benefits and you c
 ![dr.fone virtual location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 The New Location will now display on your iPhone/Android Device’s GPS system too. And Spotify will reflect it too. So, when you decide to change location on spotify using this method, the new location will reflect in all your apps. So, it’s hard to figure out that you’ve deliberately changed the location.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Part 4: How to Use a VPN to change Spotify Location?**
 
@@ -485,5 +484,24 @@ If you know the right way to do it, changing Spotify Location After Moving to An
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-premier-imagery-unboxing-analysis/"><u>[New] 2024 Approved Premier Imagery Unboxing Analysis</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-sony-ps-players-voice-modification-techniques/"><u>[New] Sony PS Players' Voice Modification Techniques</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-enhancing-fb-video-content-with-streamlined-captioning-tactics/"><u>2024 Approved Enhancing FB Video Content with Streamlined Captioning Tactics</u></a></li>
+<li><a href="https://change-location.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/elevate-conference-quality-the-list-of-top-10-free-audio-capture-for-2024/"><u>Elevate Conference Quality The List of Top 10 Free Audio Capture for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-vivo-y27-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Vivo Y27 5G | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-install-logitech-g29-driving-force-on-your-computer-windows-10117-compatibility-guide/"><u>How to Install Logitech G29 Driving Force on Your Computer: Windows 10/11/7 Compatibility Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Xiaomi Redmi Note 12 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-does-itel-p40-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Itel P40 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-free-and-open-top-7-laptop-dvd-player-software-options/"><u>In 2024, Free & Open Top 7 Laptop DVD Player Software Options</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Vivo V30 Pro? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Vivo V29? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Vivo T2x 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-samsung-printer-drivers-available-for-free-compatible-with-all-windows-versions/"><u>Latest Samsung Printer Drivers Available for Free - Compatible With All Windows Versions!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-guide-to-using-retro-effects-on-edits-for-2024/"><u>Ultimate Guide to Using Retro Effects on Edits for 2024</u></a></li>
+</ul></div>
 
