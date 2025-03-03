@@ -1,7 +1,7 @@
 ---
 title: How to Fix It Infinix Smart 8 Pro Wont Turn On | Dr.fone
-date: 2024-09-17T16:14:34.812Z
-updated: 2024-09-19T16:27:56.016Z
+date: 2025-02-27T17:32:03.162Z
+updated: 2025-03-02T16:23:56.419Z
 tags: 
   - problems
 categories:
@@ -135,23 +135,9 @@ Step 1: You need to put your Infinix Smart 8 Pro in Download mode for resolving 
 
 ![fix Android Phone not turn on without home key](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 2: Hitting the ‘Next’ key will allow you to download firmware and proceed with the next step.
 
 ![download firmware to fix Android Phone not turn on](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 3: Dr.Fone - System Repair (Android) would verify your firmware download and then take a while to rectify and resolve Android Phone won't turn on issue.
 
@@ -292,13 +278,6 @@ Step 1: Get the Infinix Smart 8 Pro device in ‘Download’ mode to fix the **A
 
 ![fix android with home key](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 2: Tap the ‘Next’ button to download firmware.
 
 ![download firmware to fix android without home key](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
@@ -368,13 +347,6 @@ Use the Volume Down button to scroll downwards and reach the "Wipe data/Factory 
 Now use the power button to select it and wait for the Infinix Smart 8 Pro device to reboot automatically.
 
 You will notice that the Android device will turn back on without getting stuck at the **Android blue screen of death**. Now you can set up your device from scratch.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 9: What Should You Do if Android Still Stuck on Blue Screen?
 
@@ -509,13 +481,6 @@ If the above solution won’t work, then you would be required to walk the extra
 
 ![fill these fields](https://images.wondershare.com/drfone/article/2017/06/14981521159129.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Now, try to connect to the Wifi hotspot again. You would be able to overcome the authentication problem of Wifi.
 
 ### Change Network Security Type
@@ -568,5 +533,22 @@ After following these quick and easy suggestions, you would be able to fix the I
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-walking-deadlines-the-ultimate-selection-of-excellent-zombie-games/"><u>[New] 2024 Approved Walking Deadlines The Ultimate Selection of Excellent Zombie Games</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-spectacular-imagery-narrative-engine/"><u>[New] Spectacular Imagery Narrative Engine</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-stepwise-process-for-high-quality-screen-captures-from-dell-for-2024/"><u>[New] Stepwise Process for High-Quality Screen Captures From Dell for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-sonic-social-media-merging-melodies-and-memes-on-instagram/"><u>[Updated] In 2024, Sonic Social Media Merging Melodies and Memes on Instagram</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-xiaomi-redmi-note-13-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Xiaomi Redmi Note 13 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-samsung-galaxy-a05s-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Samsung Galaxy A05s Phone | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-honor-80-pro-straight-screen-edition-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Honor 80 Pro Straight Screen Edition Quickly? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-realme-gt-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-vivo-y27s-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Vivo Y27s | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/leveraging-luts-for-stunning-visual-results/"><u>Leveraging LUTs for Stunning Visual Results</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/mastering-counter-strike-2-optimization-strategies-for-eliminating-frame-rate-hiccups-on-pc/"><u>Mastering Counter-Strike 2 Optimization: Strategies for Eliminating Frame Rate Hiccups on PC</u></a></li>
+<li><a href="https://change-location.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-vivo-x100-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-free-video-transcoding-tools-the-ultimate-guide-for-windowsmac-users/"><u>Top Free Video Transcoding Tools : The Ultimate Guide for Windows/Mac Users</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-oneplus-sales-and-discounts-on-prime-day/"><u>Top OnePlus Sales and Discounts on Prime Day</u></a></li>
+</ul></div>
 

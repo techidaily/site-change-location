@@ -1,7 +1,7 @@
 ---
 title: In 2024, 4 Methods to Turn off Life 360 On Poco C50 without Anyone Knowing | Dr.fone
-date: 2025-02-11T13:43:38.440Z
-updated: 2025-02-11T20:46:34.005Z
+date: 2025-02-24T07:40:36.975Z
+updated: 2025-03-03T01:52:52.444Z
 tags: 
   - virtual location chang
   - location changer
@@ -103,10 +103,6 @@ Although Life360 can be helpful in emergencies or security issues, it can also p
 
 Fortunately, you have another effective option, and that is by faking your GPS location using a location spoofer. You can display the location you want while keeping your true location safe on Life360. Dr. Fone –Virtual location is an excellent tool for faking your location.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 1-Click Location Changer for both iOS and Android
@@ -155,17 +151,9 @@ Automatically, your location will change to the chosen place on the map and your
 
 Yes, there are some dangers associated with turning off location on Life360. No one knows where you are anymore, which could be dangerous in the case of an emergency.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. **Can Life360 track my location when I switch My Poco C50 off?**
 
 When your phone is off, your GPS location is automatically disabled. Therefore Life360 won’t be able to track your location; it will only display your last logged location.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. **Does Life360 tell my circle when I turn off the location?**
 
@@ -236,10 +224,6 @@ There exist disappointed users struggling to understand this app. The user’s f
 
 ![user voices toward Fake GPS GO](https://images.wondershare.com/drfone/article/2019/09/fake-gps-go-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: How to use Fake GPS GO Location Spoofer on your Android
 
 Step 1: Go to the Google Play Store and type ‘Fake GPS Go Location Spoofer’ on the search box in your Poco C50 to download this app.
@@ -257,10 +241,6 @@ Step 3: Allow the app to access the Poco C50 device’s location
 Step 4: Accept the Advertising terms to proceed
 
 ![Advertising terms](https://images.wondershare.com/drfone/article/2019/09/fake-gps-go-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 5: Next, you have to enable the ‘Mock Location’ option in the ‘Developer Option’ window. To do that you must go to ‘Settings-> Software info -> Built Number’. Tap the ‘Built Number’ few times based on the model of your Poco C50 to unlock into the ‘Developer option’. In the ‘Developer Option’, choose ‘Select mock location app’.
 
@@ -344,17 +324,9 @@ Step 2: Take your iOS device and establish connection between PC and device. Hit
 
 ![establish connection](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3: You will notice your current location on the map. If not, hit the “Center On” located at the lower right on the screen.
 
 ![current location](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 4: Choose the third icon on the upper right part of the screen from the three given icons. This is “teleport mode”. Enter the name of the location where you need to teleport and click “Go”.
 
@@ -379,10 +351,6 @@ Step 2: The slider located below the screen needs to be dragged to set the speed
 Step 3: Next, key in a number that will define the number of times you want to travel the route back and forth. Hit “March” option.
 
 ![define the number](https://images.wondershare.com/drfone/guide/virtual-location-09.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 4: Now, the position will be seen moving as per the chosen speed on the map. And this is how you can fake the movement sans **_Fake GPS Go apk_**.
 
@@ -434,10 +402,6 @@ Enter a number to define how many times you want to go back and forth, and selec
 
 ![set parameters to simulate](https://images.wondershare.com/drfone/guide/virtual-location-09.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3Start Simulation Movement
 
 The respective simulation starts, and you can see your position is moving on the map with the speed you set. If you wish to hold the simulation, click **Pause** or tap **Clear** to revert to your original state.
@@ -463,10 +427,6 @@ Step 2View Multi-Stop Route Movement
 As the simulation starts, click **Pause** at any instance where you want to stop the simulation. You can also **Clear** all settings if required.
 
 ![execute multi stop route simulation](https://images.wondershare.com/drfone/guide/virtual-location-12.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Part 3: Use Joystick for More Flexible GPS Control (Joystick Movement)
 
@@ -495,20 +455,19 @@ The joystick, like one-stop route or multi-stop route modes, aims to facilitate 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-superior-extra-memory-solution-for-sony-a7c/"><u>[New] In 2024, Superior Extra Memory Solution for Sony A7C</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-unlocking-the-secrets-of-expert-periscope-use/"><u>[Updated] In 2024, Unlocking the Secrets of Expert Periscope Use</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-premium-selection-of-mp4-devices/"><u>[Updated] Premium Selection of MP4 Devices</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-the-essence-of-ffmpeg-original-audio-capture/"><u>[Updated] The Essence of FFmpeg Original Audio Capture</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Honor X9b | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/all-you-need-to-know-about-mega-greninja-for-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Samsung Galaxy S23+ | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-modern-warfare-2s-frame-rate-drops-and-jitteriness-on-pc-windows/"><u>How To Fix Modern Warfare 2'S Frame Rate Drops and Jitteriness on PC (Windows)</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Samsung Galaxy S24+? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Samsung Galaxy F14 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-your-samsung-galaxy-a25-5g-lock-screen-password-by-drfone-android/"><u>How to Reset your Samsung Galaxy A25 5G Lock Screen Password</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Samsung Galaxy S24 | Dr.fone</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/mastering-website-redirects-for-optimal-seo-performance-and-enhanced-visibility-expert-tips-from-powersuite/"><u>Mastering Website Redirects for Optimal SEO Performance and Enhanced Visibility | Expert Tips From PowerSuite</u></a></li>
-<li><a href="https://change-location.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Vivo V30 Pro? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Vivo V29 | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/win-over-with-these-8-best-free-high-quality-3d-video-apps-for-2024/"><u>Win Over with These 8 Best Free, High-Quality 3D Video Apps for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-srgb-vs-rgb-decoding-color-standards-for-devices/"><u>[New] Srgb vs Rgb Decoding Color Standards for Devices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamlined-qanda-list-to-attract-podcast-audience/"><u>[New] Streamlined Q&A List to Attract Podcast Audience</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-the-updated-comprehensive-bd-review-s3700/"><u>[Updated] 2024 Approved The Updated Comprehensive BD Review S3700</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-elite-setup-pieces-for-uninterrupted-streaming-for-2024/"><u>[Updated] Elite Setup Pieces for Uninterrupted Streaming for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-protective-recording-strategies-to-mask-personal-information/"><u>[Updated] In 2024, Protective Recording Strategies to Mask Personal Information</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-swift-skim-windows-file-compilation/"><u>2024 Approved Swift Skim Windows File Compilation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1725289910784-dvd-shrink/"><u>DVD Shrinkオープニング失敗の原因とその対策詳しく見る【修正完了】</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Samsung Galaxy S21 FE 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-new-horizons-windows-11s-latest-advances/"><u>In 2024, New Horizons Windows 11'S Latest Advances</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Vivo T2x 5G? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Vivo V30 Pro? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Samsung Galaxy M14 5G | Dr.fone</u></a></li>
 </ul></div>
 
